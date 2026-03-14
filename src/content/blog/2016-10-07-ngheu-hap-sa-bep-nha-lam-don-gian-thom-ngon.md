@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-10-07
 categories:
   - "an-uong"
-image: "ngheu-hap-sa-cover-1.jpg"
+image: "/images/ngheu-hap-sa-cover-1.jpg"
 slug: "ngheu-hap-sa-bep-nha-lam-don-gian-thom-ngon"
 ---
 

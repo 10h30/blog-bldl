@@ -6,7 +6,7 @@ categories:
   - "khuyen-mai"
 tags:
   - "mytour-vn"
-image: "Ma-giam-gia-Mytour.jpg"
+image: "/images/Ma-giam-gia-Mytour.jpg"
 slug: "ma-giam-gia-dat-phong-mytour"
 ---
 

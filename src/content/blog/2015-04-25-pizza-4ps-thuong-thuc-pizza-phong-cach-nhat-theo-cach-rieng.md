@@ -6,7 +6,7 @@ categories:
   - "an-uong"
 tags:
   - "pizza"
-image: "4ps-bldl-06.jpg"
+image: "/images/4ps-bldl-06.jpg"
 slug: "pizza-4ps-thuong-thuc-pizza-phong-cach-nhat-theo-cach-rieng"
 ---
 

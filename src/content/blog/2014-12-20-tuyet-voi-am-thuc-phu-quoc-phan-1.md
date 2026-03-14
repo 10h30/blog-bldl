@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2014-12-20
 categories:
   - "an-uong"
-image: "ba-lo-dep-lao-dao-phu-quoc.jpg"
+image: "/images/ba-lo-dep-lao-dao-phu-quoc.jpg"
 slug: "tuyet-voi-am-thuc-phu-quoc-phan-1"
 destination:
   - "phu-quoc"

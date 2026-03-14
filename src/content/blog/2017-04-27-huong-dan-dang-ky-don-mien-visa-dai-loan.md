@@ -7,7 +7,7 @@ categories:
 tags:
   - "visa-du-lich"
   - "visa-dai-loan"
-image: "ma-so-visa.jpg"
+image: "/images/ma-so-visa.jpg"
 slug: "huong-dan-dang-ky-don-mien-visa-dai-loan"
 destination:
   - "dai-loan"

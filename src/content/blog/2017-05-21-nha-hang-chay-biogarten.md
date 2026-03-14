@@ -5,7 +5,7 @@ pubDate: 2017-05-21
 categories:
   - "an-uong"
   - "yoga"
-image: "bio-garden-bldl03.jpg"
+image: "/images/bio-garden-bldl03.jpg"
 slug: "nha-hang-chay-biogarten"
 ---
 

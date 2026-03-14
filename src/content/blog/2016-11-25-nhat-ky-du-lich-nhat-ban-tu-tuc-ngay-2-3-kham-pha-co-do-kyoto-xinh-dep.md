@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-11-25
 categories:
   - "du-lich"
-image: "kyoto-bldl06.jpg"
+image: "/images/kyoto-bldl06.jpg"
 slug: "nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-2-3-kham-pha-co-do-kyoto-xinh-dep"
 destination:
   - "kyoto"

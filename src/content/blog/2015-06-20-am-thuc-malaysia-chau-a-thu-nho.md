@@ -5,7 +5,7 @@ pubDate: 2015-06-20
 categories:
   - "an-uong"
   - "du-lich"
-image: "food-malay-bldl10.jpg"
+image: "/images/food-malay-bldl10.jpg"
 slug: "am-thuc-malaysia-chau-a-thu-nho"
 destination:
   - "malaysia"

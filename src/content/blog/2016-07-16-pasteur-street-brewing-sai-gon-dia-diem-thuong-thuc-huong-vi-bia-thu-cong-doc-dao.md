@@ -5,7 +5,7 @@ pubDate: 2016-07-16
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "pasteur-street-brewing-bldl05-1.jpg"
+image: "/images/pasteur-street-brewing-bldl05-1.jpg"
 slug: "pasteur-street-brewing-sai-gon-dia-diem-thuong-thuc-huong-vi-bia-thu-cong-doc-dao"
 ---
 

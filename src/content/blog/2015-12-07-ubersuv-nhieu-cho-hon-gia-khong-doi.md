@@ -4,7 +4,7 @@ author: "thuanbui"
 pubDate: 2015-12-07
 tags:
   - "uber"
-image: "ubersuv.png"
+image: "/images/ubersuv.png"
 slug: "ubersuv-nhieu-cho-hon-gia-khong-doi"
 ---
 

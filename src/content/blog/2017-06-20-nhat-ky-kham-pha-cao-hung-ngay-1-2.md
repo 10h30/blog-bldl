@@ -5,7 +5,7 @@ pubDate: 2017-06-20
 categories:
   - "an-uong"
   - "du-lich"
-image: "lotus-pond05.jpg"
+image: "/images/lotus-pond05.jpg"
 slug: "nhat-ky-kham-pha-cao-hung-ngay-1-2"
 destination:
   - "cao-hung"

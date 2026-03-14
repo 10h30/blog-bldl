@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-03-11
 categories:
   - "yoga"
-image: "ttc-bldl03.jpg"
+image: "/images/ttc-bldl03.jpg"
 slug: "nhat-ky-28-ngay-200-gio-tro-thanh-huan-luyen-vien-yoga"
 ---
 

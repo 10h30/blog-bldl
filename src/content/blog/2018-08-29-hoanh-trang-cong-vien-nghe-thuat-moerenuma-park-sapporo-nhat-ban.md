@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-08-29
 categories:
   - "du-lich"
-image: "dscf2930.jpg"
+image: "/images/dscf2930.jpg"
 slug: "hoanh-trang-cong-vien-nghe-thuat-moerenuma-park-sapporo-nhat-ban"
 destination:
   - "nhat-ban"

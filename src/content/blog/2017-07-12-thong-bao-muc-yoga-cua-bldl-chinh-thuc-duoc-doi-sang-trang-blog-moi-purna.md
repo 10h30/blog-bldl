@@ -2,7 +2,7 @@
 title: "[Thông báo] Mục Yoga của BLDL chính thức được dời sang trang Blog mới - Purna"
 author: "thaonguyen"
 pubDate: 2017-07-12
-image: "purna.png"
+image: "/images/purna.png"
 slug: "thong-bao-muc-yoga-cua-bldl-chinh-thuc-duoc-doi-sang-trang-blog-moi-purna"
 ---
 

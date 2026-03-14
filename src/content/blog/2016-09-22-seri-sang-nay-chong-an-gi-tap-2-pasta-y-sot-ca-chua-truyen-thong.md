@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-09-22
 categories:
   - "an-uong"
-image: "my-y-sot-ca-chua-bldl02.jpg"
+image: "/images/my-y-sot-ca-chua-bldl02.jpg"
 slug: "seri-sang-nay-chong-an-gi-tap-2-pasta-y-sot-ca-chua-truyen-thong"
 ---
 

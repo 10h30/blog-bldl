@@ -7,7 +7,7 @@ categories:
 tags:
   - "jcb"
   - "the-tin-dung"
-image: "khuyen-mai-jcb-2015.jpg"
+image: "/images/khuyen-mai-jcb-2015.jpg"
 slug: "cac-khuyen-mai-hap-dan-danh-cho-chu-the-jcb-nam-2015"
 ---
 

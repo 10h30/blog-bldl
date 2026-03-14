@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2019-12-28
 categories:
   - "an-uong"
-image: "img_6142.jpg"
+image: "/images/img_6142.jpg"
 slug: "dung-chan-oc-so-quan-nha-trang-an-hai-san-tuoi"
 destination:
   - "nha-trang"

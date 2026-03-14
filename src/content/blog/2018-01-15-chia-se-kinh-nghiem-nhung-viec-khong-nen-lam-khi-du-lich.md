@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-01-15
 categories:
   - "du-lich"
-image: "dscf1331.jpg"
+image: "/images/dscf1331.jpg"
 slug: "chia-se-kinh-nghiem-nhung-viec-khong-nen-lam-khi-du-lich"
 ---
 

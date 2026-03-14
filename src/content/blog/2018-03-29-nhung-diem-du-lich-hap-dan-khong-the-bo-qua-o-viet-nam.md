@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-03-29
 categories:
   - "du-lich"
-image: "hoi-an.jpg"
+image: "/images/hoi-an.jpg"
 slug: "nhung-diem-du-lich-hap-dan-khong-the-bo-qua-o-viet-nam"
 ---
 

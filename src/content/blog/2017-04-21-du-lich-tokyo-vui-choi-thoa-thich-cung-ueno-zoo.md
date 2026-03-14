@@ -7,7 +7,7 @@ categories:
 tags:
   - "vuon-thu"
   - "zoo"
-image: "ueno-zoo-bldl02.jpg"
+image: "/images/ueno-zoo-bldl02.jpg"
 slug: "du-lich-tokyo-vui-choi-thoa-thich-cung-ueno-zoo"
 destination:
   - "tokyo"

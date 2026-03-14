@@ -5,7 +5,7 @@ pubDate: 2019-06-24
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "img_2580.jpg"
+image: "/images/img_2580.jpg"
 slug: "thu-vi-lan-dau-tien-trai-nghiem-lau-hong-kong-hutong"
 ---
 

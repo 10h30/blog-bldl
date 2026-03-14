@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-12-15
 categories:
   - "an-uong"
-image: "hoi-an-food-bldl01.jpg"
+image: "/images/hoi-an-food-bldl01.jpg"
 slug: "5-dia-diem-an-ngon-khong-the-bo-qua-o-pho-co-hoi-an"
 destination:
   - "hoi-an"

@@ -5,7 +5,7 @@ pubDate: 2017-03-21
 categories:
   - "du-lich"
   - "me-con"
-image: "zoodoo-dalat-bldl07.jpg"
+image: "/images/zoodoo-dalat-bldl07.jpg"
 slug: "5-dia-diem-thich-hop-du-lich-cung-be-tai-nhat"
 ---
 

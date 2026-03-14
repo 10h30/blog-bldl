@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-05-25
 categories:
   - "du-lich"
-image: "beitou-bldl01.jpg"
+image: "/images/beitou-bldl01.jpg"
 slug: "kham-pha-suoi-nuoc-nong-xinbeitou"
 destination:
   - "dai-bac"

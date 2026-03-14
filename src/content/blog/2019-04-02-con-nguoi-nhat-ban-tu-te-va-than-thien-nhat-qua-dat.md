@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2019-04-02
 categories:
   - "du-lich"
-image: "japanese.jpg"
+image: "/images/japanese.jpg"
 slug: "con-nguoi-nhat-ban-tu-te-va-than-thien-nhat-qua-dat"
 ---
 

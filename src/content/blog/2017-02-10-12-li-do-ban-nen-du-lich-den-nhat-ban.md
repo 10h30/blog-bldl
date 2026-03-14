@@ -5,7 +5,7 @@ pubDate: 2017-02-10
 categories:
   - "an-uong"
   - "du-lich"
-image: "me-in-japan01.jpg"
+image: "/images/me-in-japan01.jpg"
 slug: "12-li-do-ban-nen-du-lich-den-nhat-ban"
 ---
 

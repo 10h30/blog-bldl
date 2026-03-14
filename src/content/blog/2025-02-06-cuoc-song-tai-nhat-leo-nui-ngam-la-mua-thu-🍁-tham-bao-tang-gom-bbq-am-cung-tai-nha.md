@@ -6,7 +6,7 @@ categories:
   - "gia-dinh"
 tags:
   - "cuoc-song-o-nhat"
-image: "leo-nui-ngam-la-mua-thu.jpg"
+image: "/images/leo-nui-ngam-la-mua-thu.jpg"
 slug: "cuoc-song-tai-nhat-leo-nui-ngam-la-mua-thu-🍁-tham-bao-tang-gom-bbq-am-cung-tai-nha"
 ---
 

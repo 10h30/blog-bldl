@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-06-01
 categories:
   - "du-lich"
-image: "village-rainbow-bldl04.jpg"
+image: "/images/village-rainbow-bldl04.jpg"
 slug: "du-lich-dai-trung-rainbow-village-lang-cau-vong"
 destination:
   - "dai-trung"

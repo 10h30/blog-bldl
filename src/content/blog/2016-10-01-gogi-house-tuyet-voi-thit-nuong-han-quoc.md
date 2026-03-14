@@ -5,7 +5,7 @@ pubDate: 2016-10-01
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "gogi-house-bldl04.jpg"
+image: "/images/gogi-house-bldl04.jpg"
 slug: "gogi-house-tuyet-voi-thit-nuong-han-quoc"
 ---
 

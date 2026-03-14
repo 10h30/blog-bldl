@@ -5,7 +5,7 @@ pubDate: 2015-01-03
 categories:
   - "an-uong"
   - "du-lich"
-image: "Banh-beo-so4-DL-BLDL02.jpg"
+image: "/images/Banh-beo-so4-DL-BLDL02.jpg"
 slug: "am-thuc-thanh-pho-hoa-da-lat"
 destination:
   - "da-lat"

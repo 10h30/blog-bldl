@@ -6,7 +6,7 @@ categories:
   - "meo-hay"
 tags:
   - "uber"
-image: "tan-son-nhat.jpg"
+image: "/images/tan-son-nhat.jpg"
 slug: "thoai-mai-voi-uber-khong-lo-danh-giut-taxi-o-san-bay-tan-son-nhat"
 ---
 

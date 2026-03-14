@@ -6,7 +6,7 @@ categories:
   - "meo-hay"
 tags:
   - "airbnb"
-image: "AirBnB.jpg"
+image: "/images/AirBnB.jpg"
 slug: "trai-nghiem-du-lich-doc-dao-voi-airbnb"
 ---
 

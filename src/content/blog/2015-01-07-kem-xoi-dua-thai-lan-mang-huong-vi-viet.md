@@ -5,7 +5,7 @@ pubDate: 2015-01-07
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "Kem-xoi-dua-BLDL01.jpg"
+image: "/images/Kem-xoi-dua-BLDL01.jpg"
 slug: "kem-xoi-dua-thai-lan-mang-huong-vi-viet"
 destination:
   - "viet-nam"

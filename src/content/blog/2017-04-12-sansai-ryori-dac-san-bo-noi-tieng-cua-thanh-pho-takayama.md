@@ -5,7 +5,7 @@ pubDate: 2017-04-12
 categories:
   - "an-uong"
   - "du-lich"
-image: "sansai-ryori-bldl03.jpg"
+image: "/images/sansai-ryori-bldl03.jpg"
 slug: "sansai-ryori-dac-san-bo-noi-tieng-cua-thanh-pho-takayama"
 destination:
   - "takayama"

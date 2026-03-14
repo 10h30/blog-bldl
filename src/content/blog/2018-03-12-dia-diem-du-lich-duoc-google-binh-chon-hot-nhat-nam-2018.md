@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-03-12
 categories:
   - "du-lich"
-image: "barcelona-spain.jpg"
+image: "/images/barcelona-spain.jpg"
 slug: "dia-diem-du-lich-duoc-google-binh-chon-hot-nhat-nam-2018"
 ---
 

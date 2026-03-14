@@ -5,7 +5,7 @@ pubDate: 2016-07-07
 categories:
   - "an-uong"
   - "du-lich"
-image: "nha-hang-ngoc-suong-phan-thiet-bldl02.jpg"
+image: "/images/nha-hang-ngoc-suong-phan-thiet-bldl02.jpg"
 slug: "danh-gia-nha-hang-ngoc-suong-mui-ne-phan-thiet"
 destination:
   - "mui-ne"

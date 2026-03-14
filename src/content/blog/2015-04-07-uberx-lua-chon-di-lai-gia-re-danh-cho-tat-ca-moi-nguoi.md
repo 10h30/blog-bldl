@@ -6,7 +6,7 @@ categories:
   - "meo-hay"
 tags:
   - "uber"
-image: "uberx-ho-chi-minh.jpg"
+image: "/images/uberx-ho-chi-minh.jpg"
 slug: "uberx-lua-chon-di-lai-gia-re-danh-cho-tat-ca-moi-nguoi"
 ---
 

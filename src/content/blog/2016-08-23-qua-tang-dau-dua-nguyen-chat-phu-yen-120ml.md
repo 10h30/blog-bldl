@@ -5,7 +5,7 @@ pubDate: 2016-08-23
 categories:
   - "lam-dep"
   - "qua-tang"
-image: "dau-dua-cover-bldl20.jpg"
+image: "/images/dau-dua-cover-bldl20.jpg"
 slug: "qua-tang-dau-dua-nguyen-chat-phu-yen-120ml"
 ---
 

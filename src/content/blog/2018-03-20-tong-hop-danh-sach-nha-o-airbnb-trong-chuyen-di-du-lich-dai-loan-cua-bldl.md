@@ -6,7 +6,7 @@ categories:
   - "du-lich"
 tags:
   - "airbnb"
-image: "airbnb.jpg"
+image: "/images/airbnb.jpg"
 slug: "tong-hop-danh-sach-nha-o-airbnb-trong-chuyen-di-du-lich-dai-loan-cua-bldl"
 ---
 

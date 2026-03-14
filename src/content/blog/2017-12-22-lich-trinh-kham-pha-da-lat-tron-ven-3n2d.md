@@ -5,7 +5,7 @@ pubDate: 2017-12-22
 categories:
   - "an-uong"
   - "du-lich"
-image: "dalat201724.jpg"
+image: "/images/dalat201724.jpg"
 slug: "lich-trinh-kham-pha-da-lat-tron-ven-3n2d"
 destination:
   - "da-lat"

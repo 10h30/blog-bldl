@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2019-09-22
 categories:
   - "meo-hay"
-image: "dscf7172.jpg"
+image: "/images/dscf7172.jpg"
 slug: "meo-hay-giup-ban-an-vat-lanh-manh"
 ---
 

@@ -5,7 +5,7 @@ pubDate: 2017-09-07
 categories:
   - "an-uong"
   - "du-lich"
-image: "nha-trang20.jpg"
+image: "/images/nha-trang20.jpg"
 slug: "chia-se-lich-trinh-vui-he-4-ngay-3-dem-tai-nha-trang"
 destination:
   - "nha-trang"

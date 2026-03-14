@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-07-28
 categories:
   - "yoga"
-image: "yoga-mat.jpg"
+image: "/images/yoga-mat.jpg"
 slug: "chia-se-kinh-nghiem-lua-chon-tham-tap-yoga-tot"
 ---
 

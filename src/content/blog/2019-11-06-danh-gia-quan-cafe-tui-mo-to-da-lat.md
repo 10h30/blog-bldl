@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2019-11-06
 categories:
   - "du-lich"
-image: "c9184189-ee3d-4aeb-a58e-8609d9e46056.jpg"
+image: "/images/c9184189-ee3d-4aeb-a58e-8609d9e46056.jpg"
 slug: "danh-gia-quan-cafe-tui-mo-to-da-lat"
 destination:
   - "da-lat"

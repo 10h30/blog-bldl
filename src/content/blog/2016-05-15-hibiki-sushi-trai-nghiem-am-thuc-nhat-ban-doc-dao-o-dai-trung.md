@@ -5,7 +5,7 @@ pubDate: 2016-05-15
 categories:
   - "an-uong"
   - "du-lich"
-image: "hibiki-sushi-05.jpg"
+image: "/images/hibiki-sushi-05.jpg"
 slug: "hibiki-sushi-trai-nghiem-am-thuc-nhat-ban-doc-dao-o-dai-trung"
 destination:
   - "dai-trung"

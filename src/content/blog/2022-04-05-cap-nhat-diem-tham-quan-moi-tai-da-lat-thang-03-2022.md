@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2022-04-05
 categories:
   - "du-lich"
-image: "img-5121.jpg"
+image: "/images/img-5121.jpg"
 slug: "cap-nhat-diem-tham-quan-moi-tai-da-lat-thang-03-2022"
 destination:
   - "da-lat"

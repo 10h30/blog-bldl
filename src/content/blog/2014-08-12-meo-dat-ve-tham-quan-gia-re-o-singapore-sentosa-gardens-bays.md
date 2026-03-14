@@ -6,7 +6,7 @@ categories:
   - "du-lich"
 tags:
   - "tiet-kiem"
-image: "mua-ve-tham-quan-gia-re.jpg"
+image: "/images/mua-ve-tham-quan-gia-re.jpg"
 slug: "meo-dat-ve-tham-quan-gia-re-o-singapore-sentosa-gardens-bays"
 destination:
   - "singapore"

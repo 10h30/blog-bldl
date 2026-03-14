@@ -6,7 +6,7 @@ categories:
   - "meo-hay"
 tags:
   - "uber"
-image: "Cach-dat-xe-UBER.jpg"
+image: "/images/Cach-dat-xe-UBER.jpg"
 slug: "huong-dan-su-dung-uber-phan-2-cach-dat-xe-uber-bang-dien-thoai"
 ---
 

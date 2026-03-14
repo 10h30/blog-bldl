@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2020-11-23
 categories:
   - "du-lich"
-image: "untitled-3.jpg"
+image: "/images/untitled-3.jpg"
 slug: "kombi-land-coffee-da-lat-chi-nen-biet-khong-nen-di"
 destination:
   - "da-lat"

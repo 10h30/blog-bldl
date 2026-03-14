@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2020-07-06
 categories:
   - "du-lich"
-image: "img_9776.jpg"
+image: "/images/img_9776.jpg"
 slug: "danh-gia-novotel-phu-quoc-resort"
 destination:
   - "phu-quoc"

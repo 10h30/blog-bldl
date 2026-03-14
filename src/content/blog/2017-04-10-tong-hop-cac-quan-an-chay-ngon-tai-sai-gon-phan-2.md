@@ -9,7 +9,7 @@ tags:
   - "an-chay"
   - "nha-hang-chay"
   - "vegetarian"
-image: "cay-bo-de-bldl01.jpg"
+image: "/images/cay-bo-de-bldl01.jpg"
 slug: "tong-hop-cac-quan-an-chay-ngon-tai-sai-gon-phan-2"
 ---
 

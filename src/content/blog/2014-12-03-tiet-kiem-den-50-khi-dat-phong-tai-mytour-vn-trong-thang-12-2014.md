@@ -7,7 +7,7 @@ categories:
   - "meo-hay"
 tags:
   - "mytour-vn"
-image: "image-1811198944.jpg"
+image: "/images/image-1811198944.jpg"
 slug: "tiet-kiem-den-50-khi-dat-phong-tai-mytour-vn-trong-thang-12-2014"
 ---
 

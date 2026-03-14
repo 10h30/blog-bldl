@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2014-12-13
 categories:
   - "an-uong"
-image: "Boracay-Seafood-03.jpg"
+image: "/images/Boracay-Seafood-03.jpg"
 slug: "trai-nghiem-hai-san-tuoi-song-tai-dtalipapa-boracay"
 destination:
   - "boracay"

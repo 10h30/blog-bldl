@@ -6,7 +6,7 @@ categories:
   - "meo-hay"
 tags:
   - "uber"
-image: "dich-vu-Uber-e1421118250534.jpg"
+image: "/images/dich-vu-Uber-e1421118250534.jpg"
 slug: "lan-dau-trai-nghiem-dich-vu-thue-xe-uber-don-gian-va-chuyen-nghiep"
 ---
 

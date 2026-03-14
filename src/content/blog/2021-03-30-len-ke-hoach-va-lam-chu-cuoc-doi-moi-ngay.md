@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2021-03-30
 categories:
   - "tam-su"
-image: "planning2.jpg"
+image: "/images/planning2.jpg"
 slug: "len-ke-hoach-va-lam-chu-cuoc-doi-moi-ngay"
 ---
 

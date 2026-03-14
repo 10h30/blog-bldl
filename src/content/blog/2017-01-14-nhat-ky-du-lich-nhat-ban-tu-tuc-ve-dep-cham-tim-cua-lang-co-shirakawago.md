@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-01-14
 categories:
   - "du-lich"
-image: "shirakawago-bldl08.jpg"
+image: "/images/shirakawago-bldl08.jpg"
 slug: "nhat-ky-du-lich-nhat-ban-tu-tuc-ve-dep-cham-tim-cua-lang-co-shirakawago"
 destination:
   - "nhat-ban"

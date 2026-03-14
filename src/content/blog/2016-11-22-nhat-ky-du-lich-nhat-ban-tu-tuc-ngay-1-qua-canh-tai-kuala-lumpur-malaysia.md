@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-11-22
 categories:
   - "du-lich"
-image: "kl-transit-bldl21.jpg"
+image: "/images/kl-transit-bldl21.jpg"
 slug: "nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-1-qua-canh-tai-kuala-lumpur-malaysia"
 destination:
   - "kuala-lumpur"

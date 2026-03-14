@@ -5,7 +5,7 @@ pubDate: 2018-10-25
 categories:
   - "an-uong"
   - "du-lich"
-image: "dscf3270.jpg"
+image: "/images/dscf3270.jpg"
 slug: "lich-trinh-2-ngay-1-dem-tinh-duong-tuyet-voi-tai-ho-toyako"
 destination:
   - "toyako"

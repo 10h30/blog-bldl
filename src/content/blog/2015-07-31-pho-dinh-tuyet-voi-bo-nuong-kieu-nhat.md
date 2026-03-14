@@ -5,7 +5,7 @@ pubDate: 2015-07-31
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "pho-dinh-10-bldl.jpg"
+image: "/images/pho-dinh-10-bldl.jpg"
 slug: "pho-dinh-tuyet-voi-bo-nuong-kieu-nhat"
 ---
 

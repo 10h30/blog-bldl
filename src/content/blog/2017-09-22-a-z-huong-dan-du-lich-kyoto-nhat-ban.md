@@ -5,7 +5,7 @@ pubDate: 2017-09-22
 categories:
   - "du-lich"
   - "meo-hay"
-image: "kyoto-2.jpg"
+image: "/images/kyoto-2.jpg"
 slug: "a-z-huong-dan-du-lich-kyoto-nhat-ban"
 destination:
   - "kyoto"

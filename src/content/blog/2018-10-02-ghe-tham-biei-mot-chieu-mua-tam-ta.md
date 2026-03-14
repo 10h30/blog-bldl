@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-10-02
 categories:
   - "du-lich"
-image: "dscf3001.jpg"
+image: "/images/dscf3001.jpg"
 slug: "ghe-tham-biei-mot-chieu-mua-tam-ta"
 destination:
   - "biei"

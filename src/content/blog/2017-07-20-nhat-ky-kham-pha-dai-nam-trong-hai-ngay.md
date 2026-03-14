@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-07-20
 categories:
   - "du-lich"
-image: "tainan01.jpg"
+image: "/images/tainan01.jpg"
 slug: "nhat-ky-kham-pha-dai-nam-trong-hai-ngay"
 destination:
   - "dai-nam"

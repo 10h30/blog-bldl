@@ -8,7 +8,7 @@ categories:
 tags:
   - "google-maps"
   - "ung-dung-du-lich"
-image: "google-maps.jpg"
+image: "/images/google-maps.jpg"
 slug: "chu-du-the-gioi-khong-lo-lac-duong-voi-google-maps"
 ---
 

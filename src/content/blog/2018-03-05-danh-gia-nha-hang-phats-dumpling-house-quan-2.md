@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-03-05
 categories:
   - "an-uong"
-image: "phats.jpg"
+image: "/images/phats.jpg"
 slug: "danh-gia-nha-hang-phats-dumpling-house-quan-2"
 ---
 

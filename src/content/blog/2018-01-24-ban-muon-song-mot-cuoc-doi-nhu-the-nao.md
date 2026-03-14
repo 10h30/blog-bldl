@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-01-24
 categories:
   - "du-lich"
-image: "win.jpeg"
+image: "/images/win.jpeg"
 slug: "ban-muon-song-mot-cuoc-doi-nhu-the-nao"
 ---
 

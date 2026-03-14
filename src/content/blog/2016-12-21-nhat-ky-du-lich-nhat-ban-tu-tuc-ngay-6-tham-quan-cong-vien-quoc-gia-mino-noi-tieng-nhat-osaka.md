@@ -5,7 +5,7 @@ pubDate: 2016-12-21
 categories:
   - "an-uong"
   - "du-lich"
-image: "mino-bldl04.jpg"
+image: "/images/mino-bldl04.jpg"
 slug: "nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-6-tham-quan-cong-vien-quoc-gia-mino-noi-tieng-nhat-osaka"
 destination:
   - "osaka"

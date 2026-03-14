@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-02-25
 categories:
   - "du-lich"
-image: "osaka-bldl21.jpg"
+image: "/images/osaka-bldl21.jpg"
 slug: "chia-se-meo-hay-du-lich-nhat-ban-cung-tre-nho"
 ---
 

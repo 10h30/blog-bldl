@@ -5,7 +5,7 @@ pubDate: 2018-06-18
 categories:
   - "du-lich"
   - "tam-su"
-image: "japan.jpg"
+image: "/images/japan.jpg"
 slug: "phai-chang-khi-cang-lon-khon-chung-ta-cang-thich-song-cham-hon"
 ---
 

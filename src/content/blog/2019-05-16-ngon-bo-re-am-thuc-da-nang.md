@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2019-05-16
 categories:
   - "an-uong"
-image: "da-nang-food-12.jpg"
+image: "/images/da-nang-food-12.jpg"
 slug: "ngon-bo-re-am-thuc-da-nang"
 destination:
   - "da-nang"

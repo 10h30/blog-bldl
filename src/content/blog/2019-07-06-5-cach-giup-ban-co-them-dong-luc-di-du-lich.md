@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2019-07-06
 categories:
   - "du-lich"
-image: "dscf2872.jpg"
+image: "/images/dscf2872.jpg"
 slug: "5-cach-giup-ban-co-them-dong-luc-di-du-lich"
 ---
 

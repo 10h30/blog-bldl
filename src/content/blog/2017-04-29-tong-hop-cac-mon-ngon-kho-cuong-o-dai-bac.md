@@ -5,7 +5,7 @@ pubDate: 2017-04-29
 categories:
   - "an-uong"
   - "du-lich"
-image: "taiwan-food-bldl33.jpg"
+image: "/images/taiwan-food-bldl33.jpg"
 slug: "tong-hop-cac-mon-ngon-kho-cuong-o-dai-bac"
 destination:
   - "dai-bac"

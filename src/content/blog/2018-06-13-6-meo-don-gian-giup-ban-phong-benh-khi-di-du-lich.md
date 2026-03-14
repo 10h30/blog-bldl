@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-06-13
 categories:
   - "du-lich"
-image: "sick.jpg"
+image: "/images/sick.jpg"
 slug: "6-meo-don-gian-giup-ban-phong-benh-khi-di-du-lich"
 ---
 

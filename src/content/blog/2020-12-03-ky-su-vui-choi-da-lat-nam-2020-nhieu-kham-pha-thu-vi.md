@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2020-12-03
 categories:
   - "du-lich"
-image: "img_3236.jpg"
+image: "/images/img_3236.jpg"
 slug: "ky-su-vui-choi-da-lat-nam-2020-nhieu-kham-pha-thu-vi"
 destination:
   - "da-lat"

@@ -5,7 +5,7 @@ pubDate: 2014-12-15
 categories:
   - "an-uong"
   - "du-lich"
-image: "Manila_Jeepney-and-taxi.jpg"
+image: "/images/Manila_Jeepney-and-taxi.jpg"
 slug: "manila-noi-hoi-tu-moi-doi-lap-phan-2"
 destination:
   - "manila"

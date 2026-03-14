@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2014-12-07
 categories:
   - "du-lich"
-image: "San-Jose-Church-instramurous.jpg"
+image: "/images/San-Jose-Church-instramurous.jpg"
 slug: "manila-noi-hoi-tu-moi-doi-lap"
 destination:
   - "manila"

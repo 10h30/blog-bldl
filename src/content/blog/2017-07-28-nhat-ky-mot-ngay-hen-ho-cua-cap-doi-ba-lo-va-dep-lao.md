@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-07-28
 categories:
   - "kham-pha-cuoi-tuan"
-image: "img_0929.jpg"
+image: "/images/img_0929.jpg"
 slug: "nhat-ky-mot-ngay-hen-ho-cua-cap-doi-ba-lo-va-dep-lao"
 ---
 

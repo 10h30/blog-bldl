@@ -7,7 +7,7 @@ categories:
 tags:
   - "japan-rail-pass"
   - "jr-pass"
-image: "japan-fuji-tomas-malik-orqbzc7dl3u-unsplash.jpg"
+image: "/images/japan-fuji-tomas-malik-orqbzc7dl3u-unsplash.jpg"
 slug: "du-lich-nhat-ban-tu-tuc-2023-phan-2-mua-ve-may-bay-len-ke-hoach-mua-jr-pass"
 destination:
   - "nhat-ban"

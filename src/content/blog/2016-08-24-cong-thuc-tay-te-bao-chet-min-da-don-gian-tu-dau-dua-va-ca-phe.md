@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-08-24
 categories:
   - "lam-dep"
-image: "cafe-cover.jpg"
+image: "/images/cafe-cover.jpg"
 slug: "cong-thuc-tay-te-bao-chet-min-da-don-gian-tu-dau-dua-va-ca-phe"
 ---
 

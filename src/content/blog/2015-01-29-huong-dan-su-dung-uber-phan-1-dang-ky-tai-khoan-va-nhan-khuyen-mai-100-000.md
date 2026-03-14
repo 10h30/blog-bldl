@@ -6,7 +6,7 @@ categories:
   - "meo-hay"
 tags:
   - "uber"
-image: "dich-vu-Uber-e1421118250534.jpg"
+image: "/images/dich-vu-Uber-e1421118250534.jpg"
 slug: "huong-dan-su-dung-uber-phan-1-dang-ky-tai-khoan-va-nhan-khuyen-mai-100-000"
 ---
 

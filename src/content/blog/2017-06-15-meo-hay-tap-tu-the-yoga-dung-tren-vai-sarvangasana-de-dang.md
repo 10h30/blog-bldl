@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-06-15
 categories:
   - "yoga"
-image: "shoulder-stand-cover01.jpg"
+image: "/images/shoulder-stand-cover01.jpg"
 slug: "meo-hay-tap-tu-the-yoga-dung-tren-vai-sarvangasana-de-dang"
 ---
 

@@ -9,7 +9,7 @@ tags:
   - "an-chay"
   - "nha-hang-chay"
   - "vegetarian"
-image: "pi-bistro-bldl05.jpg"
+image: "/images/pi-bistro-bldl05.jpg"
 slug: "tong-hop-cac-quan-an-chay-ngon-tai-sai-gon-phan-1"
 ---
 

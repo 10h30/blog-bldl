@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-02-16
 categories:
   - "yoga"
-image: "meditation-3.jpg"
+image: "/images/meditation-3.jpg"
 slug: "7-yeu-to-quan-trong-giup-ban-thien-dinh-dung-cach"
 ---
 

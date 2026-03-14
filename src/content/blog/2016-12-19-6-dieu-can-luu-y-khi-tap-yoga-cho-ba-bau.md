@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-12-19
 categories:
   - "yoga"
-image: "ux53sgprahu-freestocks-org.jpg"
+image: "/images/ux53sgprahu-freestocks-org.jpg"
 slug: "6-dieu-can-luu-y-khi-tap-yoga-cho-ba-bau"
 ---
 

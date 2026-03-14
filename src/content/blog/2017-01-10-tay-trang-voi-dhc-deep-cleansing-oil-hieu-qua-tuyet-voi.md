@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-01-10
 categories:
   - "lam-dep"
-image: "dhc-olive-oil-bldl03.jpg"
+image: "/images/dhc-olive-oil-bldl03.jpg"
 slug: "tay-trang-voi-dhc-deep-cleansing-oil-hieu-qua-tuyet-voi"
 ---
 

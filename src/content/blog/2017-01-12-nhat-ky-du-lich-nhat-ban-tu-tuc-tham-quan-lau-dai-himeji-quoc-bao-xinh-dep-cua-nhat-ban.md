@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-01-12
 categories:
   - "du-lich"
-image: "himeiji-castle-bldl03-1.jpg"
+image: "/images/himeiji-castle-bldl03-1.jpg"
 slug: "nhat-ky-du-lich-nhat-ban-tu-tuc-tham-quan-lau-dai-himeji-quoc-bao-xinh-dep-cua-nhat-ban"
 destination:
   - "himeiji"

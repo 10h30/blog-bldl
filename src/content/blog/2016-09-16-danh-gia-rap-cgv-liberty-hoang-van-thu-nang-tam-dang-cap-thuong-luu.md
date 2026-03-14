@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-09-16
 categories:
   - "kham-pha-cuoi-tuan"
-image: "cgv-hvt-bldl03.jpg"
+image: "/images/cgv-hvt-bldl03.jpg"
 slug: "danh-gia-rap-cgv-liberty-hoang-van-thu-nang-tam-dang-cap-thuong-luu"
 ---
 

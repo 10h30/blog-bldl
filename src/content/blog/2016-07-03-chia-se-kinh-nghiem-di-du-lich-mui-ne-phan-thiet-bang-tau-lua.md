@@ -5,7 +5,7 @@ pubDate: 2016-07-03
 categories:
   - "du-lich"
   - "meo-hay"
-image: "endless-railway.jpg"
+image: "/images/endless-railway.jpg"
 slug: "chia-se-kinh-nghiem-di-du-lich-mui-ne-phan-thiet-bang-tau-lua"
 destination:
   - "mui-ne"

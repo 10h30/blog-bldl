@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-11-06
 categories:
   - "tam-su"
-image: "do-sth-great.jpg"
+image: "/images/do-sth-great.jpg"
 slug: "bldl-lam-gi-khi-khong-di-du-lich"
 ---
 

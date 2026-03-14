@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-11-06
 categories:
   - "du-lich"
-image: "chiang-mai-advanced-yoga30.jpg"
+image: "/images/chiang-mai-advanced-yoga30.jpg"
 slug: "ngat-ngay-voi-le-hoi-tha-den-troi-loy-krathong-tai-chiang-mai"
 destination:
   - "chiang-mai"

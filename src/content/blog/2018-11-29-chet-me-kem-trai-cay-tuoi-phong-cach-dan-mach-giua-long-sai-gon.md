@@ -5,7 +5,7 @@ pubDate: 2018-11-29
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "icecream-2.jpg"
+image: "/images/icecream-2.jpg"
 slug: "chet-me-kem-trai-cay-tuoi-phong-cach-dan-mach-giua-long-sai-gon"
 ---
 

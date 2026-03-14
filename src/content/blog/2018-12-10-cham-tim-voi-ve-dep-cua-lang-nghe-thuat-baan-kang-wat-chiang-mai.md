@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-12-10
 categories:
   - "du-lich"
-image: "baan-kang-watchiang-mai02.jpg"
+image: "/images/baan-kang-watchiang-mai02.jpg"
 slug: "cham-tim-voi-ve-dep-cua-lang-nghe-thuat-baan-kang-wat-chiang-mai"
 destination:
   - "chiang-mai"

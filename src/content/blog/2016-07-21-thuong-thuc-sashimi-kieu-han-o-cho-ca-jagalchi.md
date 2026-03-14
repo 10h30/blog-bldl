@@ -5,7 +5,7 @@ pubDate: 2016-07-21
 categories:
   - "an-uong"
   - "du-lich"
-image: "cho-ca-jagalchi-sashimi-10.jpg"
+image: "/images/cho-ca-jagalchi-sashimi-10.jpg"
 slug: "thuong-thuc-sashimi-kieu-han-o-cho-ca-jagalchi"
 destination:
   - "busan"

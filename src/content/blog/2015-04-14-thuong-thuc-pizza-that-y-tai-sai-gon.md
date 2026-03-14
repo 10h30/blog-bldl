@@ -7,7 +7,7 @@ categories:
   - "kham-pha-cuoi-tuan"
 tags:
   - "pizza"
-image: "italian-pizza.jpeg"
+image: "/images/italian-pizza.jpeg"
 slug: "thuong-thuc-pizza-that-y-tai-sai-gon"
 destination:
   - "viet-nam"

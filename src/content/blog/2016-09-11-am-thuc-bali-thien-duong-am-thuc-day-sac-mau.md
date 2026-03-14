@@ -5,7 +5,7 @@ pubDate: 2016-09-11
 categories:
   - "an-uong"
   - "du-lich"
-image: "bali-cover.jpeg"
+image: "/images/bali-cover.jpeg"
 slug: "am-thuc-bali-thien-duong-am-thuc-day-sac-mau"
 destination:
   - "bali"

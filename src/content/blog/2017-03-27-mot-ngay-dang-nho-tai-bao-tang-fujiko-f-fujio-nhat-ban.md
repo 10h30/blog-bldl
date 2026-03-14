@@ -6,7 +6,7 @@ categories:
   - "du-lich"
 tags:
   - "bao-tang"
-image: "doreamon-museum-bldl01.jpg"
+image: "/images/doreamon-museum-bldl01.jpg"
 slug: "mot-ngay-dang-nho-tai-bao-tang-fujiko-f-fujio-nhat-ban"
 destination:
   - "kawasaki"

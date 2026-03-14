@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-12-28
 categories:
   - "du-lich"
-image: "osaka-aquarium-kaiyukan-02.jpg"
+image: "/images/osaka-aquarium-kaiyukan-02.jpg"
 slug: "nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-7-tham-quan-vien-hai-duong-kaiyukan-hoanh-trang-nhat-osaka"
 destination:
   - "osaka"

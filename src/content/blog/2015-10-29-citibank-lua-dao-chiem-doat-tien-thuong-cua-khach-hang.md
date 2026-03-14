@@ -5,7 +5,7 @@ pubDate: 2015-10-29
 tags:
   - "citibank"
   - "the-tin-dung"
-image: "citibank-logo.png"
+image: "/images/citibank-logo.png"
 slug: "citibank-lua-dao-chiem-doat-tien-thuong-cua-khach-hang"
 ---
 

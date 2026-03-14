@@ -4,7 +4,7 @@ author: "thuanbui"
 pubDate: 2015-01-16
 categories:
   - "du-lich"
-image: "The-hills-BLDL-01.jpg"
+image: "/images/The-hills-BLDL-01.jpg"
 slug: "du-lich-bui-bali-phan-2-kinh-nghiem-chon-khach-san"
 destination:
   - "bali"

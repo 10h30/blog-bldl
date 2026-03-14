@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-03-03
 categories:
   - "yoga"
-image: "16730616_606489736212267_7662884568968606635_n.jpg"
+image: "/images/16730616_606489736212267_7662884568968606635_n.jpg"
 slug: "nhat-ky-mot-ngay-cuoi-tuan-cua-huan-luyen-vien-yoga-tuong-lai"
 ---
 

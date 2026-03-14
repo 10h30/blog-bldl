@@ -5,7 +5,7 @@ pubDate: 2017-06-23
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "dau-homemade-cover03.jpg"
+image: "/images/dau-homemade-cover03.jpg"
 slug: "bun-dau-homemade-tron-ven-chat-ha-noi"
 ---
 

@@ -6,7 +6,7 @@ categories:
   - "an-uong"
 tags:
   - "pizza"
-image: "dscf5835.jpg"
+image: "/images/dscf5835.jpg"
 slug: "pizza-reale-chat-luong-y-gia-viet-nam"
 ---
 

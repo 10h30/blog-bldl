@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2019-08-22
 categories:
   - "an-uong"
-image: "dscf6748.jpg"
+image: "/images/dscf6748.jpg"
 slug: "khi-dan-phuot-an-chay"
 ---
 

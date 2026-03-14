@@ -4,7 +4,7 @@ author: "thuanbui"
 pubDate: 2015-01-15
 categories:
   - "du-lich"
-image: "Air-Asia.jpg"
+image: "/images/Air-Asia.jpg"
 slug: "du-lich-bali-phan-1-len-ke-hoach-va-mua-ve-may-bay"
 destination:
   - "bali"

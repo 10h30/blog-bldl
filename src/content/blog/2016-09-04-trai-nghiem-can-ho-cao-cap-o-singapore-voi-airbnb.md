@@ -6,7 +6,7 @@ categories:
   - "du-lich"
 tags:
   - "airbnb"
-image: "the-sail-marina-bldl07.jpg"
+image: "/images/the-sail-marina-bldl07.jpg"
 slug: "trai-nghiem-can-ho-cao-cap-o-singapore-voi-airbnb"
 destination:
   - "singapore"

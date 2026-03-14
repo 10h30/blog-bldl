@@ -6,7 +6,7 @@ categories:
   - "an-uong"
 tags:
   - "kem"
-image: "13091762_985135541578489_842071780_o.jpg"
+image: "/images/13091762_985135541578489_842071780_o.jpg"
 slug: "quan-kem-sai-gon"
 ---
 

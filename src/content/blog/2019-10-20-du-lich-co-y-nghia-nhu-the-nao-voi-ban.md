@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2019-10-20
 categories:
   - "du-lich"
-image: "great-canyon-chiang-mai04.jpg"
+image: "/images/great-canyon-chiang-mai04.jpg"
 slug: "du-lich-co-y-nghia-nhu-the-nao-voi-ban"
 ---
 

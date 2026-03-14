@@ -5,7 +5,7 @@ pubDate: 2018-06-09
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "nam-pla.jpg"
+image: "/images/nam-pla.jpg"
 slug: "danh-gia-nha-hang-thai-sang-chanh-nam-pla"
 destination:
   - "viet-nam"

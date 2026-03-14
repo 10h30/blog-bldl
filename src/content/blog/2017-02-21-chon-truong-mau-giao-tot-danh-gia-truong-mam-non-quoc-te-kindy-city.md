@@ -6,7 +6,7 @@ categories:
   - "me-con"
 tags:
   - "chon-truong-mau-giao"
-image: "kindy-city.jpg"
+image: "/images/kindy-city.jpg"
 slug: "chon-truong-mau-giao-tot-danh-gia-truong-mam-non-quoc-te-kindy-city"
 ---
 

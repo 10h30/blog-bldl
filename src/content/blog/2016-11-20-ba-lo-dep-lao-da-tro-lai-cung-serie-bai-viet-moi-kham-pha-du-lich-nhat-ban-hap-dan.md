@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-11-20
 categories:
   - "du-lich"
-image: "shirakawago-bldl12.jpg"
+image: "/images/shirakawago-bldl12.jpg"
 slug: "ba-lo-dep-lao-da-tro-lai-cung-serie-bai-viet-moi-kham-pha-du-lich-nhat-ban-hap-dan"
 ---
 

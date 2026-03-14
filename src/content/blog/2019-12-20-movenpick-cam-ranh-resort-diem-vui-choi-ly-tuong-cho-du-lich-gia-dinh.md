@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2019-12-20
 categories:
   - "du-lich"
-image: "img_5928.jpg"
+image: "/images/img_5928.jpg"
 slug: "movenpick-cam-ranh-resort-diem-vui-choi-ly-tuong-cho-du-lich-gia-dinh"
 destination:
   - "nha-trang"

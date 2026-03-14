@@ -5,7 +5,7 @@ pubDate: 2020-06-14
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "df.jpg"
+image: "/images/df.jpg"
 slug: "nha-hang-district-federal-nang-tam-dang-cap-am-thuc-mexico"
 ---
 

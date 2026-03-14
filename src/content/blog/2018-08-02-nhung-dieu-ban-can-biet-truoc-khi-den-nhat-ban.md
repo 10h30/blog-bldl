@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-08-02
 categories:
   - "du-lich"
-image: "japan-1.jpg"
+image: "/images/japan-1.jpg"
 slug: "nhung-dieu-ban-can-biet-truoc-khi-den-nhat-ban"
 destination:
   - "nhat-ban"

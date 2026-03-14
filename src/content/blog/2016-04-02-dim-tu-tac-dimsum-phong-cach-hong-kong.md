@@ -7,7 +7,7 @@ categories:
   - "kham-pha-cuoi-tuan"
 tags:
   - "dimsum"
-image: "dim-tu-tac-bldl10.jpg"
+image: "/images/dim-tu-tac-bldl10.jpg"
 slug: "dim-tu-tac-dimsum-phong-cach-hong-kong"
 ---
 

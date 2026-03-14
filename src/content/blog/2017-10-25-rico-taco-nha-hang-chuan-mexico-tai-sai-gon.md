@@ -5,7 +5,7 @@ pubDate: 2017-10-25
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "mexican-food04.jpg"
+image: "/images/mexican-food04.jpg"
 slug: "rico-taco-nha-hang-chuan-mexico-tai-sai-gon"
 ---
 

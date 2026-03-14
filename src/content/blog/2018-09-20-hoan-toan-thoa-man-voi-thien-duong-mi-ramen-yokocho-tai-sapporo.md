@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-09-20
 categories:
   - "an-uong"
-image: "dscf2703.jpg"
+image: "/images/dscf2703.jpg"
 slug: "hoan-toan-thoa-man-voi-thien-duong-mi-ramen-yokocho-tai-sapporo"
 destination:
   - "sapporo"

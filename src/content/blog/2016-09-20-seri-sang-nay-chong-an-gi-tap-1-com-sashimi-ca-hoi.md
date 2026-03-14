@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-09-20
 categories:
   - "an-uong"
-image: "com-sashimi-ca-hoi-bldl05.jpg"
+image: "/images/com-sashimi-ca-hoi-bldl05.jpg"
 slug: "seri-sang-nay-chong-an-gi-tap-1-com-sashimi-ca-hoi"
 ---
 

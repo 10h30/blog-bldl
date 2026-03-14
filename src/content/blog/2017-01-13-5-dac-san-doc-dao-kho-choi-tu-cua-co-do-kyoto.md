@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-01-13
 categories:
   - "an-uong"
-image: "kyoto-food05.jpg"
+image: "/images/kyoto-food05.jpg"
 slug: "5-dac-san-doc-dao-kho-choi-tu-cua-co-do-kyoto"
 destination:
   - "kyoto"

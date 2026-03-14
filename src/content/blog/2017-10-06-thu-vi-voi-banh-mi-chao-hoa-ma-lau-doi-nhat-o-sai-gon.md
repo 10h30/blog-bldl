@@ -5,7 +5,7 @@ pubDate: 2017-10-06
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "banh-mi-hoa-ma04.jpg"
+image: "/images/banh-mi-hoa-ma04.jpg"
 slug: "thu-vi-voi-banh-mi-chao-hoa-ma-lau-doi-nhat-o-sai-gon"
 ---
 

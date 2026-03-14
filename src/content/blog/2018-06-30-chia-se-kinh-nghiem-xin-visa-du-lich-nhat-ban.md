@@ -4,7 +4,7 @@ author: "thuanbui"
 pubDate: 2018-06-30
 categories:
   - "du-lich"
-image: "visa-nhat-ban.jpg"
+image: "/images/visa-nhat-ban.jpg"
 slug: "chia-se-kinh-nghiem-xin-visa-du-lich-nhat-ban"
 destination:
   - "nhat-ban"

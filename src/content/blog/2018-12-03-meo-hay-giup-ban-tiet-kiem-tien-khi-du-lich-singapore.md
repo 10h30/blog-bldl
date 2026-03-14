@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-12-03
 categories:
   - "du-lich"
-image: "singapore.jpg"
+image: "/images/singapore.jpg"
 slug: "meo-hay-giup-ban-tiet-kiem-tien-khi-du-lich-singapore"
 ---
 

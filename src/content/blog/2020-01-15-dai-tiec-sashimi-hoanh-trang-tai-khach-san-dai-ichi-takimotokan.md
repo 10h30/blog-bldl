@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2020-01-15
 categories:
   - "an-uong"
-image: "jesse-ballantyne-9r5khbw51fk-unsplash.jpg"
+image: "/images/jesse-ballantyne-9r5khbw51fk-unsplash.jpg"
 slug: "dai-tiec-sashimi-hoanh-trang-tai-khach-san-dai-ichi-takimotokan"
 destination:
   - "hokkaido"

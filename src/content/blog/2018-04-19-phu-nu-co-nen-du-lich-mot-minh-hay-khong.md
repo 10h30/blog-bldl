@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-04-19
 categories:
   - "du-lich"
-image: "great-canyon-chiang-mai02.jpg"
+image: "/images/great-canyon-chiang-mai02.jpg"
 slug: "phu-nu-co-nen-du-lich-mot-minh-hay-khong"
 ---
 

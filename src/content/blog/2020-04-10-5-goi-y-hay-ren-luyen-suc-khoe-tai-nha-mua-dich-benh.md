@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2020-04-10
 categories:
   - "meo-hay"
-image: "img_7474.jpg"
+image: "/images/img_7474.jpg"
 slug: "5-goi-y-hay-ren-luyen-suc-khoe-tai-nha-mua-dich-benh"
 ---
 

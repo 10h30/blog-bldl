@@ -5,7 +5,7 @@ pubDate: 2017-05-09
 categories:
   - "an-uong"
   - "du-lich"
-image: "momiji-tei-bldl04.jpg"
+image: "/images/momiji-tei-bldl04.jpg"
 slug: "am-thuc-hiroshima-banh-xeo-okonomiyaki-phong-cach-anime-noi-tieng-nhat-hiroshima"
 destination:
   - "hiroshima"

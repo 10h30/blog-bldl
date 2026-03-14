@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-05-01
 categories:
   - "an-uong"
-image: "lan-jia-gua-bao-bldl02.jpg"
+image: "/images/lan-jia-gua-bao-bldl02.jpg"
 slug: "am-thuc-dai-bac-doc-dao-banh-bao-kep-thit-heo-tai-dai-bac-lan-jia-gua-bao"
 destination:
   - "dai-bac"

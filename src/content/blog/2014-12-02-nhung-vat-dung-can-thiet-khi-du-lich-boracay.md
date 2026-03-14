@@ -5,7 +5,7 @@ pubDate: 2014-12-02
 categories:
   - "du-lich"
   - "meo-hay"
-image: "Dep-lao.jpg"
+image: "/images/Dep-lao.jpg"
 slug: "nhung-vat-dung-can-thiet-khi-du-lich-boracay"
 destination:
   - "boracay"

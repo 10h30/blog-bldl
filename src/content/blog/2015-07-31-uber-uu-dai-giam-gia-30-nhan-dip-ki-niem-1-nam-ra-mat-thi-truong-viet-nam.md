@@ -6,7 +6,7 @@ categories:
   - "khuyen-mai"
 tags:
   - "uber"
-image: "uber-khuyen-mai.jpg"
+image: "/images/uber-khuyen-mai.jpg"
 slug: "uber-uu-dai-giam-gia-30-nhan-dip-ki-niem-1-nam-ra-mat-thi-truong-viet-nam"
 ---
 

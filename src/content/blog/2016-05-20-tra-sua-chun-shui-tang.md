@@ -5,7 +5,7 @@ pubDate: 2016-05-20
 categories:
   - "an-uong"
   - "du-lich"
-image: "tra-sua-chun-shui-tang-10.jpg"
+image: "/images/tra-sua-chun-shui-tang-10.jpg"
 slug: "tra-sua-chun-shui-tang"
 destination:
   - "dai-trung"

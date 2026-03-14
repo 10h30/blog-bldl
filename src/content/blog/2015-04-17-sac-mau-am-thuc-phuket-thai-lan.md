@@ -5,7 +5,7 @@ pubDate: 2015-04-17
 categories:
   - "an-uong"
   - "du-lich"
-image: "boat-noodle.jpg"
+image: "/images/boat-noodle.jpg"
 slug: "sac-mau-am-thuc-phuket-thai-lan"
 destination:
   - "thailand"

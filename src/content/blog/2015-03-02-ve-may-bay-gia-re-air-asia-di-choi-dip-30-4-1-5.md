@@ -7,7 +7,7 @@ categories:
 tags:
   - "air-asia"
   - "ve-may-bay"
-image: "air-asia.jpg"
+image: "/images/air-asia.jpg"
 slug: "ve-may-bay-gia-re-air-asia-di-choi-dip-30-4-1-5"
 ---
 

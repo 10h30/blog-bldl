@@ -4,7 +4,7 @@ author: "thuanbui"
 pubDate: 2015-03-22
 categories:
   - "du-lich"
-image: "busan-2015-balodeplao-01.jpg"
+image: "/images/busan-2015-balodeplao-01.jpg"
 slug: "an-tuong-busan-xinh-dep-va-than-thien"
 destination:
   - "busan"

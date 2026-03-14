@@ -5,7 +5,7 @@ pubDate: 2016-08-31
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "azabu-sabo-bldl01.jpg"
+image: "/images/azabu-sabo-bldl01.jpg"
 slug: "azabu-sabo-thien-duong-kem-nhat-than-thanh-moi-cua-sai-gon"
 ---
 

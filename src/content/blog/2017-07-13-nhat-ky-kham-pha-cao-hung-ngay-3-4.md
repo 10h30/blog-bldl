@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-07-13
 categories:
   - "du-lich"
-image: "taroco20.jpg"
+image: "/images/taroco20.jpg"
 slug: "nhat-ky-kham-pha-cao-hung-ngay-3-4"
 destination:
   - "cao-hung"

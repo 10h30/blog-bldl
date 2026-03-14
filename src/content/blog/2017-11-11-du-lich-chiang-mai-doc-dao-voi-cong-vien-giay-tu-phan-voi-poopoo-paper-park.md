@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-11-11
 categories:
   - "du-lich"
-image: "poopoo-paper-park09.jpg"
+image: "/images/poopoo-paper-park09.jpg"
 slug: "du-lich-chiang-mai-doc-dao-voi-cong-vien-giay-tu-phan-voi-poopoo-paper-park"
 destination:
   - "chiang-mai"

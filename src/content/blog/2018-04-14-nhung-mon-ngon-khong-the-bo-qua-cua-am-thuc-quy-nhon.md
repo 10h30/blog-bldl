@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-04-14
 categories:
   - "an-uong"
-image: "dscf2167.jpg"
+image: "/images/dscf2167.jpg"
 slug: "nhung-mon-ngon-khong-the-bo-qua-cua-am-thuc-quy-nhon"
 destination:
   - "quy-nhon"

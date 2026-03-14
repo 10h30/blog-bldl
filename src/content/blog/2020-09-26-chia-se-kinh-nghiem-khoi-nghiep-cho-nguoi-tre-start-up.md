@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2020-09-26
 categories:
   - "meo-hay"
-image: "dscf0737.jpg"
+image: "/images/dscf0737.jpg"
 slug: "chia-se-kinh-nghiem-khoi-nghiep-cho-nguoi-tre-start-up"
 ---
 

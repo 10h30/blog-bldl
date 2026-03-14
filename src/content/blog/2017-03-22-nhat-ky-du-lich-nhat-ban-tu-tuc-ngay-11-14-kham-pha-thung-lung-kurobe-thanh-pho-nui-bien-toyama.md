@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-03-22
 categories:
   - "du-lich"
-image: "toyama-bldl04.jpg"
+image: "/images/toyama-bldl04.jpg"
 slug: "nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-11-14-kham-pha-thung-lung-kurobe-thanh-pho-nui-bien-toyama"
 destination:
   - "toyama"

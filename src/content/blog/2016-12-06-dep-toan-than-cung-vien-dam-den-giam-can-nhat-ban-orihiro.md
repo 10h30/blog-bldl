@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-12-06
 categories:
   - "lam-dep"
-image: "dacc82m-den-orihiro-bldl01.jpg"
+image: "/images/dacc82m-den-orihiro-bldl01.jpg"
 slug: "dep-toan-than-cung-vien-dam-den-giam-can-nhat-ban-orihiro"
 ---
 

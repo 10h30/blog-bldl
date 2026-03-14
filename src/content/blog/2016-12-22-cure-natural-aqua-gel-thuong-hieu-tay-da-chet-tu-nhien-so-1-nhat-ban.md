@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-12-22
 categories:
   - "lam-dep"
-image: "cure-natural-aqua-gel.jpg"
+image: "/images/cure-natural-aqua-gel.jpg"
 slug: "cure-natural-aqua-gel-thuong-hieu-tay-da-chet-tu-nhien-so-1-nhat-ban"
 ---
 

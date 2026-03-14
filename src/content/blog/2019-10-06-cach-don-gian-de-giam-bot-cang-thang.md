@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2019-10-06
 categories:
   - "meo-hay"
-image: "dscf2932.jpg"
+image: "/images/dscf2932.jpg"
 slug: "cach-don-gian-de-giam-bot-cang-thang"
 ---
 

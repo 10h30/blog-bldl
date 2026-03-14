@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2019-04-29
 categories:
   - "du-lich"
-image: "noboribetsu1.jpg"
+image: "/images/noboribetsu1.jpg"
 slug: "tan-huong-thien-duong-suoi-nuoc-nong-phong-phu-tai-noboribetsu-onsen"
 ---
 

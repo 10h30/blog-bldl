@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-11-26
 categories:
   - "du-lich"
-image: "baan-kang-watchiang-mai09.jpg"
+image: "/images/baan-kang-watchiang-mai09.jpg"
 slug: "du-lich-chiang-mai-lich-trinh-du-lich-mot-ngay-tron-ven-tai-chiang-mai"
 destination:
   - "chiang-mai"

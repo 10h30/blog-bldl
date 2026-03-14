@@ -7,7 +7,7 @@ categories:
 tags:
   - "visa-du-lich"
   - "visa-nhat-ban"
-image: "visa-nhat-ban.jpg"
+image: "/images/visa-nhat-ban.jpg"
 slug: "du-lich-nhat-ban-tu-tuc-2023-phan-1-kinh-nghiem-xin-visa"
 destination:
   - "nhat-ban"

@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-02-22
 categories:
   - "yoga"
-image: "marion-michele-191320.jpg"
+image: "/images/marion-michele-191320.jpg"
 slug: "tap-yoga-giup-ban-hanh-phuc-hon"
 ---
 

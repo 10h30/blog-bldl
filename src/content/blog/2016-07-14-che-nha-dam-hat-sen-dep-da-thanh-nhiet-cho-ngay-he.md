@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-07-14
 categories:
   - "an-uong"
-image: "nha-dam-hat-sen-bldl05.jpg"
+image: "/images/nha-dam-hat-sen-bldl05.jpg"
 slug: "che-nha-dam-hat-sen-dep-da-thanh-nhiet-cho-ngay-he"
 ---
 

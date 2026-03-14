@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-01-16
 categories:
   - "lam-dep"
-image: "honeyoatmeal_1.jpg"
+image: "/images/honeyoatmeal_1.jpg"
 slug: "mat-na-yen-mach-mat-ong-trang-min-da-khong-ti-vet"
 ---
 

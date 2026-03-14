@@ -5,7 +5,7 @@ pubDate: 2017-04-25
 categories:
   - "an-uong"
   - "du-lich"
-image: "kaohsiung-bldl01.jpg"
+image: "/images/kaohsiung-bldl01.jpg"
 slug: "tong-hop-cac-mon-an-vat-cho-dem-dai-loan"
 destination:
   - "cao-hung"

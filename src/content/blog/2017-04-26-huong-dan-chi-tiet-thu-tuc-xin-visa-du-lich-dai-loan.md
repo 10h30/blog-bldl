@@ -7,7 +7,7 @@ categories:
 tags:
   - "visa-du-lich"
   - "visa-dai-loan"
-image: "taipei-station-taiwan.jpg"
+image: "/images/taipei-station-taiwan.jpg"
 slug: "huong-dan-chi-tiet-thu-tuc-xin-visa-du-lich-dai-loan"
 destination:
   - "dai-loan"

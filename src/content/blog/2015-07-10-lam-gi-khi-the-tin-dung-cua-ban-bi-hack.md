@@ -6,7 +6,7 @@ categories:
   - "meo-hay"
 tags:
   - "the-tin-dung"
-image: "the-tin-dung-bi-hack.jpg"
+image: "/images/the-tin-dung-bi-hack.jpg"
 slug: "lam-gi-khi-the-tin-dung-cua-ban-bi-hack"
 ---
 

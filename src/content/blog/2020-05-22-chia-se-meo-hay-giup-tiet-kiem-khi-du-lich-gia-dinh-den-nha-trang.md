@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2020-05-22
 categories:
   - "du-lich"
-image: "137fd993-5eb4-4602-9f59-ee124d071cf4.jpg"
+image: "/images/137fd993-5eb4-4602-9f59-ee124d071cf4.jpg"
 slug: "chia-se-meo-hay-giup-tiet-kiem-khi-du-lich-gia-dinh-den-nha-trang"
 destination:
   - "nha-trang"

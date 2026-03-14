@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-03-28
 categories:
   - "meo-hay"
-image: "silk-on-flight2-bldl-e1486882770627.jpg"
+image: "/images/silk-on-flight2-bldl-e1486882770627.jpg"
 slug: "bi-quyet-nuoi-con-hoan-toan-bang-sua-me"
 ---
 

@@ -6,7 +6,7 @@ categories:
   - "du-lich"
 tags:
   - "airbnb"
-image: "the-3rd-street-penang-01.jpg"
+image: "/images/the-3rd-street-penang-01.jpg"
 slug: "am-cung-va-than-thien-voi-homestay-3rd-street-o-georgetown-penang"
 destination:
   - "penang"

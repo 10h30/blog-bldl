@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-06-13
 categories:
   - "du-lich"
-image: "cijing-farm17.jpg"
+image: "/images/cijing-farm17.jpg"
 slug: "kinh-nghiem-du-lich-cingjing-farm-thuy-sy-thu-nho-cua-dai-loan"
 destination:
   - "nam-dau"

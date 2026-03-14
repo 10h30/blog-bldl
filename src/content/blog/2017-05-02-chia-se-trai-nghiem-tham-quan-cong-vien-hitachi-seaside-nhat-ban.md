@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-05-02
 categories:
   - "du-lich"
-image: "hitachi-park-bldl08.jpg"
+image: "/images/hitachi-park-bldl08.jpg"
 slug: "chia-se-trai-nghiem-tham-quan-cong-vien-hitachi-seaside-nhat-ban"
 destination:
   - "nhat-ban"

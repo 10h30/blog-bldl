@@ -5,7 +5,7 @@ pubDate: 2015-01-20
 categories:
   - "an-uong"
   - "du-lich"
-image: "Nusa-Dua-BLDL-20.jpg"
+image: "/images/Nusa-Dua-BLDL-20.jpg"
 slug: "bali-hon-dao-cua-nhung-vi-than"
 destination:
   - "bali"

@@ -6,7 +6,7 @@ categories:
   - "gia-dinh"
 tags:
   - "cuoc-song-o-nhat"
-image: "don-tet-o-nhat.jpg"
+image: "/images/don-tet-o-nhat.jpg"
 slug: "don-tet-giua-tuyet-trang-❄️-nhat-ky-tet-dau-tien-tai-nhat-ban"
 ---
 

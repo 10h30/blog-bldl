@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2014-12-09
 categories:
   - "an-uong"
-image: "Maxs-Restaurant-01.jpg"
+image: "/images/Maxs-Restaurant-01.jpg"
 slug: "thien-duong-am-thuc-manila"
 destination:
   - "manila"

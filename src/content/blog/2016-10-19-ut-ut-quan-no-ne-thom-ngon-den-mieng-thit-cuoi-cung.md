@@ -5,7 +5,7 @@ pubDate: 2016-10-19
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "suon-nuong-ut-ut-1.jpg"
+image: "/images/suon-nuong-ut-ut-1.jpg"
 slug: "ut-ut-quan-no-ne-thom-ngon-den-mieng-thit-cuoi-cung"
 ---
 

@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2020-12-20
 categories:
   - "du-lich"
-image: "15014724-9dd0-4a51-9d21-93dbf93c2f5d.jpg"
+image: "/images/15014724-9dd0-4a51-9d21-93dbf93c2f5d.jpg"
 slug: "trai-nghiem-airbnb-da-lat-ting-house"
 destination:
   - "da-lat"

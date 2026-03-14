@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-02-28
 categories:
   - "tam-su"
-image: "cay-khe.jpg"
+image: "/images/cay-khe.jpg"
 slug: "chia-se-ve-ngoi-nha-mau-xanh-cua-gia-dinh-ba-lo-dep-lao"
 ---
 

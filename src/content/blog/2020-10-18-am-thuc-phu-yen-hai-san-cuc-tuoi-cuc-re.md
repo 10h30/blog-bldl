@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2020-10-18
 categories:
   - "an-uong"
-image: "phu-yen-food-5.jpg"
+image: "/images/phu-yen-food-5.jpg"
 slug: "am-thuc-phu-yen-hai-san-cuc-tuoi-cuc-re"
 destination:
   - "phu-yen"

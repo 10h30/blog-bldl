@@ -5,7 +5,7 @@ pubDate: 2017-12-02
 categories:
   - "an-uong"
   - "du-lich"
-image: "poopoo-paper-park01.jpg"
+image: "/images/poopoo-paper-park01.jpg"
 slug: "tu-a-den-zhuong-dan-kinh-nghiem-du-lich-chiang-mai-thai-lan"
 destination:
   - "chiang-mai"

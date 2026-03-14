@@ -6,7 +6,7 @@ categories:
   - "an-uong"
 tags:
   - "dimsum"
-image: "asiadimsum.jpg"
+image: "/images/asiadimsum.jpg"
 slug: "dimsum-dep-mat-ngon-mieng-cho-ngay-cuoi-tuan"
 destination:
   - "viet-nam"

@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2020-03-28
 categories:
   - "meo-hay"
-image: "cecb6f28-f4e5-49de-81a5-90648fb2f77f.jpg"
+image: "/images/cecb6f28-f4e5-49de-81a5-90648fb2f77f.jpg"
 slug: "chia-se-10-dieu-nen-lam-khi-o-nha-mua-cach-ly"
 ---
 

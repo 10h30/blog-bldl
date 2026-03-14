@@ -4,7 +4,7 @@ author: "thuanbui"
 pubDate: 2014-12-29
 categories:
   - "meo-hay"
-image: "Thue-xe-may-gia-re-Da-Lat-1.jpg"
+image: "/images/Thue-xe-may-gia-re-Da-Lat-1.jpg"
 slug: "dia-chi-thue-xe-may-gia-re-o-da-lat"
 destination:
   - "da-lat"

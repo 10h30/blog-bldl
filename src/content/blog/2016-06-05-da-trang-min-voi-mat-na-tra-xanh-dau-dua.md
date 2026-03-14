@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-06-05
 categories:
   - "lam-dep"
-image: "green-tea-cover-e1465108225762.jpeg"
+image: "/images/green-tea-cover-e1465108225762.jpeg"
 slug: "da-trang-min-voi-mat-na-tra-xanh-dau-dua"
 ---
 

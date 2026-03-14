@@ -6,7 +6,7 @@ categories:
   - "an-uong"
   - "du-lich"
   - "meo-hay"
-image: "yogi-vegan-4.jpg"
+image: "/images/yogi-vegan-4.jpg"
 slug: "lam-the-nao-de-co-the-an-chay-khi-di-du-lich"
 ---
 

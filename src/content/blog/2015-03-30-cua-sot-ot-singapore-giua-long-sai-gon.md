@@ -5,7 +5,7 @@ pubDate: 2015-03-30
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "img_8492.jpg"
+image: "/images/img_8492.jpg"
 slug: "cua-sot-ot-singapore-giua-long-sai-gon"
 destination:
   - "viet-nam"

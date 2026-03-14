@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-08-11
 categories:
   - "kham-pha-cuoi-tuan"
-image: "dating04.jpg"
+image: "/images/dating04.jpg"
 slug: "golden-lotus-spa-the-gioi-xong-hoi-phong-cach-han"
 ---
 

@@ -5,7 +5,7 @@ pubDate: 2017-05-06
 categories:
   - "an-uong"
   - "du-lich"
-image: "wang-ji-taipei-bldl02.jpg"
+image: "/images/wang-ji-taipei-bldl02.jpg"
 slug: "am-thuc-dai-bac-bun-gao-wangji-fucheng-zongzi-ngon-khong-tuong"
 destination:
   - "dai-bac"

@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2021-01-14
 categories:
   - "tam-su"
-image: "img-2400.jpg"
+image: "/images/img-2400.jpg"
 slug: "chia-se-trai-nghiem-mot-ngay-tron-con-hen-ho"
 destination:
   - "viet-nam"

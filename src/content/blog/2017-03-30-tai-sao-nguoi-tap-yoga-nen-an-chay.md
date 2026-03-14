@@ -6,7 +6,7 @@ categories:
   - "yoga"
 tags:
   - "an-chay"
-image: "yogi-vegan-4.jpg"
+image: "/images/yogi-vegan-4.jpg"
 slug: "tai-sao-nguoi-tap-yoga-nen-an-chay"
 ---
 

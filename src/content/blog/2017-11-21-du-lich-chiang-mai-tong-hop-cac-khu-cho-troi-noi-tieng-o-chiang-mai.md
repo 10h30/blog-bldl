@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-11-21
 categories:
   - "du-lich"
-image: "market-in-chiang-mai01.jpg"
+image: "/images/market-in-chiang-mai01.jpg"
 slug: "du-lich-chiang-mai-tong-hop-cac-khu-cho-troi-noi-tieng-o-chiang-mai"
 destination:
   - "chiang-mai"

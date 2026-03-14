@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-06-27
 categories:
   - "yoga"
-image: "purna-yoga.jpg"
+image: "/images/purna-yoga.jpg"
 slug: "tong-hop-nhung-sai-lam-pho-bien-khi-tap-yoga"
 ---
 

@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-09-12
 categories:
   - "kham-pha-cuoi-tuan"
-image: "silk-di-dam-sen-bldl02.jpg"
+image: "/images/silk-di-dam-sen-bldl02.jpg"
 slug: "nhat-ky-du-ngoan-cuoi-tuan-cong-vien-dam-sen-cung-silk"
 ---
 

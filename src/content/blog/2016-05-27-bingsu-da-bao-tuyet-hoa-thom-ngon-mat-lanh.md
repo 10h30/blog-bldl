@@ -5,7 +5,7 @@ pubDate: 2016-05-27
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "bingsu-tuyet-hoa-bldl03.jpg"
+image: "/images/bingsu-tuyet-hoa-bldl03.jpg"
 slug: "bingsu-da-bao-tuyet-hoa-thom-ngon-mat-lanh"
 ---
 

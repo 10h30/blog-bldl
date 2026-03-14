@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-08-09
 categories:
   - "du-lich"
-image: "taipei.jpg"
+image: "/images/taipei.jpg"
 slug: "nhat-ky-du-lich-dai-bac-trong-5-ngay-ngay-1-2"
 destination:
   - "dai-bac"

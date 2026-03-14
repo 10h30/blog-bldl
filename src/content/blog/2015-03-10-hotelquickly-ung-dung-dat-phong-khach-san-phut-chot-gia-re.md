@@ -6,7 +6,7 @@ categories:
   - "meo-hay"
 tags:
   - "hotelquickly"
-image: "hotelquickly.jpg"
+image: "/images/hotelquickly.jpg"
 slug: "hotelquickly-ung-dung-dat-phong-khach-san-phut-chot-gia-re"
 ---
 

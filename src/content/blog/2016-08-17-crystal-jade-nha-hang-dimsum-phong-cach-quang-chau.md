@@ -7,7 +7,7 @@ categories:
   - "kham-pha-cuoi-tuan"
 tags:
   - "dimsum"
-image: "crystal-jade-dimsum-bldl20-1.jpg"
+image: "/images/crystal-jade-dimsum-bldl20-1.jpg"
 slug: "crystal-jade-nha-hang-dimsum-phong-cach-quang-chau"
 ---
 

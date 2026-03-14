@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-08-07
 categories:
   - "lam-dep"
-image: "nghe-nguyen-chat.jpg"
+image: "/images/nghe-nguyen-chat.jpg"
 slug: "mat-na-tinh-bot-nghe-sua-tuoi-phuong-thuc-lam-sang-da-an-toan-hieu-qua"
 ---
 

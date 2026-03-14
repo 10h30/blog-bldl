@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-09-09
 categories:
   - "du-lich"
-image: "img_1712.jpg"
+image: "/images/img_1712.jpg"
 slug: "trai-nghiem-khu-bun-khoang-i-resort-dia-diem-tam-bun-ly-tuong-tai-nha-trang"
 destination:
   - "nha-trang"

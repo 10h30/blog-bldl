@@ -5,7 +5,7 @@ pubDate: 2017-10-22
 categories:
   - "an-uong"
   - "du-lich"
-image: "day-1-at-sing09.jpg"
+image: "/images/day-1-at-sing09.jpg"
 slug: "trekking-tai-singapore-ngay-1-kham-pha-the-green-corridor-va-ngon-mieng-voi-chao-ech-geylang"
 destination:
   - "singapore"

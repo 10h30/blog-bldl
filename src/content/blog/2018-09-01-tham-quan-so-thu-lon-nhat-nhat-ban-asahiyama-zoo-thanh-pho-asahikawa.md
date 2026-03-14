@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-09-01
 categories:
   - "du-lich"
-image: "dscf3071-1.jpg"
+image: "/images/dscf3071-1.jpg"
 slug: "tham-quan-so-thu-lon-nhat-nhat-ban-asahiyama-zoo-thanh-pho-asahikawa"
 ---
 

@@ -5,7 +5,7 @@ pubDate: 2018-11-20
 categories:
   - "an-uong"
   - "du-lich"
-image: "philippines-beach.jpg"
+image: "/images/philippines-beach.jpg"
 slug: "nhung-an-tuong-bat-ngo-cua-ba-lo-dep-lao-ve-philippines"
 destination:
   - "philippines"

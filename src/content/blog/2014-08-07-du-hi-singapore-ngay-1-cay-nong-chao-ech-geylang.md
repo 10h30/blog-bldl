@@ -4,7 +4,7 @@ author: "thuanbui"
 pubDate: 2014-08-07
 categories:
   - "du-lich"
-image: "Chao-ech-Geylang-02.jpg"
+image: "/images/Chao-ech-Geylang-02.jpg"
 slug: "du-hi-singapore-ngay-1-cay-nong-chao-ech-geylang"
 destination:
   - "singapore"

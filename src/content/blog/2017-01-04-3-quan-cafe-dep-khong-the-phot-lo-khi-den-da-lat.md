@@ -5,7 +5,7 @@ pubDate: 2017-01-04
 categories:
   - "an-uong"
   - "du-lich"
-image: "me-linh-cafe04.jpg"
+image: "/images/me-linh-cafe04.jpg"
 slug: "3-quan-cafe-dep-khong-the-phot-lo-khi-den-da-lat"
 destination:
   - "da-lat"

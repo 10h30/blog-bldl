@@ -2,7 +2,7 @@
 title: "Tổng hợp các kỹ năng mẹ cần luyện cho bé trước một tuổi"
 author: "thaonguyen"
 pubDate: 2016-09-24
-image: "silk-1y-bldl05-1.jpg"
+image: "/images/silk-1y-bldl05-1.jpg"
 slug: "tong-hop-cac-ky-nang-me-can-luyen-cho-be-truoc-mot-tuoi"
 ---
 

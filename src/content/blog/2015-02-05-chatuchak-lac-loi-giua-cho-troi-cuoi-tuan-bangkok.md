@@ -5,7 +5,7 @@ pubDate: 2015-02-05
 categories:
   - "an-uong"
   - "du-lich"
-image: "Quan-ao-Chatuchak.jpeg"
+image: "/images/Quan-ao-Chatuchak.jpeg"
 slug: "chatuchak-lac-loi-giua-cho-troi-cuoi-tuan-bangkok"
 destination:
   - "bangkok"

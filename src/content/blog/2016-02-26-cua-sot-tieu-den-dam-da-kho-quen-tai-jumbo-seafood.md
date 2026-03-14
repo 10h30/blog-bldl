@@ -5,7 +5,7 @@ pubDate: 2016-02-26
 categories:
   - "an-uong"
   - "du-lich"
-image: "jumbo-seafood-bldl05.jpg"
+image: "/images/jumbo-seafood-bldl05.jpg"
 slug: "cua-sot-tieu-den-dam-da-kho-quen-tai-jumbo-seafood"
 destination:
   - "singapore"

@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-01-01
 categories:
   - "tam-su"
-image: "2018.jpg"
+image: "/images/2018.jpg"
 slug: "tong-ket-nam-2017-mot-nam-day-yeu-thuong"
 ---
 

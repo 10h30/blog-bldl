@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-06-03
 categories:
   - "du-lich"
-image: "shibuya-bldl04.jpg"
+image: "/images/shibuya-bldl04.jpg"
 slug: "nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-15-18-du-lich-bui-tokyo"
 destination:
   - "nhat-ban"

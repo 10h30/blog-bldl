@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2014-12-25
 categories:
   - "du-lich"
-image: "Mui-Ganh-Dau-Phu-Quoc-BLDL2.jpg"
+image: "/images/Mui-Ganh-Dau-Phu-Quoc-BLDL2.jpg"
 slug: "tung-tang-kham-pha-phu-quoc"
 destination:
   - "phu-quoc"

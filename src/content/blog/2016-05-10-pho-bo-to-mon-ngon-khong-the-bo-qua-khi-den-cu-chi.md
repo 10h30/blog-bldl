@@ -5,7 +5,7 @@ pubDate: 2016-05-10
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "pho-bo-to-bldl03.jpg"
+image: "/images/pho-bo-to-bldl03.jpg"
 slug: "pho-bo-to-mon-ngon-khong-the-bo-qua-khi-den-cu-chi"
 ---
 

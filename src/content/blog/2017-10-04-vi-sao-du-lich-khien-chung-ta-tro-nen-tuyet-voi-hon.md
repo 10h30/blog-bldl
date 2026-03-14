@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-10-04
 categories:
   - "du-lich"
-image: "travel3.jpg"
+image: "/images/travel3.jpg"
 slug: "vi-sao-du-lich-khien-chung-ta-tro-nen-tuyet-voi-hon"
 ---
 

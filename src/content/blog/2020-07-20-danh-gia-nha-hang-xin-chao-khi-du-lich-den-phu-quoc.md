@@ -5,7 +5,7 @@ pubDate: 2020-07-20
 categories:
   - "an-uong"
   - "du-lich"
-image: "xin-chao.jpg"
+image: "/images/xin-chao.jpg"
 slug: "danh-gia-nha-hang-xin-chao-khi-du-lich-den-phu-quoc"
 destination:
   - "phu-quoc"

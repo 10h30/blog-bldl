@@ -2,7 +2,7 @@
 title: "Nên  làm gì khi bạn cảm thấy buồn chán"
 author: "thaonguyen"
 pubDate: 2016-09-06
-image: "sleeping.jpeg"
+image: "/images/sleeping.jpeg"
 slug: "nen-lam-gi-khi-ban-cam-thay-buon-chan"
 ---
 

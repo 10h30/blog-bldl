@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2015-03-06
 categories:
   - "du-lich"
-image: "p1020377-5.jpg"
+image: "/images/p1020377-5.jpg"
 slug: "pulau-ubin-hon-dao-thanh-binh-cua-singapore"
 destination:
   - "singapore"

@@ -5,7 +5,7 @@ pubDate: 2016-06-13
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "gokuraku-bldl12.jpg"
+image: "/images/gokuraku-bldl12.jpg"
 slug: "goku-raku-thien-duong-mi-ramen-tai-aeon-tan-phu"
 ---
 

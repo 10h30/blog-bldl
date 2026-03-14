@@ -5,7 +5,7 @@ pubDate: 2014-12-22
 categories:
   - "an-uong"
   - "du-lich"
-image: "Banh-canh-Phu-Quoc-01.jpg"
+image: "/images/Banh-canh-Phu-Quoc-01.jpg"
 slug: "dam-da-banh-canh-phu-quoc"
 destination:
   - "phu-quoc"

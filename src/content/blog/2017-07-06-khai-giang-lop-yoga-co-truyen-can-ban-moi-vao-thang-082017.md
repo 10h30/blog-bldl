@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-07-06
 categories:
   - "yoga"
-image: "lop-hoc-yoga-purna-1.jpg"
+image: "/images/lop-hoc-yoga-purna-1.jpg"
 slug: "khai-giang-lop-yoga-co-truyen-can-ban-moi-vao-thang-082017"
 ---
 

@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-08-13
 categories:
   - "yoga"
-image: "yoga-spirit.jpg"
+image: "/images/yoga-spirit.jpg"
 slug: "chia-se-kinh-nghiem-tu-tap-yoga-tai-nha-khi-ban-khong-the-tham-gia-cac-lop-hoc-yoga"
 ---
 

@@ -4,7 +4,7 @@ author: "thuanbui"
 pubDate: 2015-02-16
 categories:
   - "thu-cung"
-image: "ngon-ngu-cho-cung.jpg"
+image: "/images/ngon-ngu-cho-cung.jpg"
 slug: "infographic-giai-ma-ngon-ngu-cua-cho-cung"
 ---
 

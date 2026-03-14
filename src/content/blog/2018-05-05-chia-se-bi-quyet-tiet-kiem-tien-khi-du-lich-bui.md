@@ -5,7 +5,7 @@ pubDate: 2018-05-05
 categories:
   - "du-lich"
   - "meo-hay"
-image: "travel4.jpg"
+image: "/images/travel4.jpg"
 slug: "chia-se-bi-quyet-tiet-kiem-tien-khi-du-lich-bui"
 ---
 

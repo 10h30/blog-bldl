@@ -6,7 +6,7 @@ categories:
   - "du-lich"
 tags:
   - "topas-ecolodge"
-image: "1466008_10153562729450392_2143097375_o.jpg"
+image: "/images/1466008_10153562729450392_2143097375_o.jpg"
 slug: "kham-pha-sapa-khac-biet-qua-hanh-trinh-topas-ecolodge"
 destination:
   - "sa-pa"

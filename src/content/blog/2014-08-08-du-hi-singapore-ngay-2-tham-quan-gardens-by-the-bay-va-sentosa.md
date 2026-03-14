@@ -6,7 +6,7 @@ categories:
   - "du-lich"
 tags:
   - "airbnb"
-image: "Gardens-by-The-Bay-02.jpg"
+image: "/images/Gardens-by-The-Bay-02.jpg"
 slug: "du-hi-singapore-ngay-2-tham-quan-gardens-by-the-bay-va-sentosa"
 destination:
   - "singapore"

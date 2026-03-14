@@ -7,7 +7,7 @@ categories:
 tags:
   - "citibank"
   - "the-tin-dung"
-image: "CGV.jpg"
+image: "/images/CGV.jpg"
 slug: "tang-2-nuoc-va-1-bap-khi-mua-2-ve-xem-phim-cgv-bang-the-tin-dung-citibank"
 ---
 

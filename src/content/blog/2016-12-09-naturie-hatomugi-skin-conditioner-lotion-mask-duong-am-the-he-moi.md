@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-12-09
 categories:
   - "lam-dep"
-image: "naturie-hatomugi-skin-conditioner-bldl01-1.jpg"
+image: "/images/naturie-hatomugi-skin-conditioner-bldl01-1.jpg"
 slug: "naturie-hatomugi-skin-conditioner-lotion-mask-duong-am-the-he-moi"
 ---
 

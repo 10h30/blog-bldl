@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-12-10
 categories:
   - "du-lich"
-image: "hiroshima-bldl04-2.jpg"
+image: "/images/hiroshima-bldl04-2.jpg"
 slug: "nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-5-tham-quan-di-tich-lich-su-hiroshima"
 destination:
   - "hiroshima"

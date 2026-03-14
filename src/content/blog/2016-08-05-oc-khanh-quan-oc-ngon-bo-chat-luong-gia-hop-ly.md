@@ -5,7 +5,7 @@ pubDate: 2016-08-05
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "occ82c-khanh-bldl03.jpg"
+image: "/images/occ82c-khanh-bldl03.jpg"
 slug: "oc-khanh-quan-oc-ngon-bo-chat-luong-gia-hop-ly"
 ---
 

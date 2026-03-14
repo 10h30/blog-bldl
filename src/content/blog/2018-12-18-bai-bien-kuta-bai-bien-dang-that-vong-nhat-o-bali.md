@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-12-18
 categories:
   - "du-lich"
-image: "kuta-bali-1.jpg"
+image: "/images/kuta-bali-1.jpg"
 slug: "bai-bien-kuta-bai-bien-dang-that-vong-nhat-o-bali"
 destination:
   - "bali"

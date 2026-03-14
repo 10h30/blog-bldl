@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-05-28
 categories:
   - "yoga"
-image: "purna-headstand-bldl01.jpg"
+image: "/images/purna-headstand-bldl01.jpg"
 slug: "dieu-gi-khien-ban-tro-thanh-nguoi-giao-vien-yoga-gioi"
 ---
 

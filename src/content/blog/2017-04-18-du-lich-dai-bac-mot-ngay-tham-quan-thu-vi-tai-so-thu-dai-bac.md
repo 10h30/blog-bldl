@@ -7,7 +7,7 @@ categories:
 tags:
   - "vuon-thu"
   - "zoo"
-image: "taipei-zoo-bldl03.jpg"
+image: "/images/taipei-zoo-bldl03.jpg"
 slug: "du-lich-dai-bac-mot-ngay-tham-quan-thu-vi-tai-so-thu-dai-bac"
 destination:
   - "dai-bac"

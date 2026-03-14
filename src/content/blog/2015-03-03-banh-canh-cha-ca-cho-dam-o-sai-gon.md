@@ -5,7 +5,7 @@ pubDate: 2015-03-03
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "banh-canh-cha-ca-bldl-01.jpg"
+image: "/images/banh-canh-cha-ca-bldl-01.jpg"
 slug: "banh-canh-cha-ca-cho-dam-o-sai-gon"
 destination:
   - "viet-nam"

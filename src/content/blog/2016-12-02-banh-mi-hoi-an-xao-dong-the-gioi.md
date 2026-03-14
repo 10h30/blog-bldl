@@ -5,7 +5,7 @@ pubDate: 2016-12-02
 categories:
   - "an-uong"
   - "du-lich"
-image: "hoi-an-food-bldl03-1.jpg"
+image: "/images/hoi-an-food-bldl03-1.jpg"
 slug: "banh-mi-hoi-an-xao-dong-the-gioi"
 ---
 

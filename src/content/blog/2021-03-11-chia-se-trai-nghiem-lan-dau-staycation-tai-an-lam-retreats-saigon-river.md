@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2021-03-11
 categories:
   - "du-lich"
-image: "img-5167.jpg"
+image: "/images/img-5167.jpg"
 slug: "chia-se-trai-nghiem-lan-dau-staycation-tai-an-lam-retreats-saigon-river"
 ---
 

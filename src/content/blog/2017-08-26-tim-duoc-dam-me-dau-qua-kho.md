@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-08-26
 categories:
   - "tam-su"
-image: "dream.jpg"
+image: "/images/dream.jpg"
 slug: "tim-duoc-dam-me-dau-qua-kho"
 ---
 

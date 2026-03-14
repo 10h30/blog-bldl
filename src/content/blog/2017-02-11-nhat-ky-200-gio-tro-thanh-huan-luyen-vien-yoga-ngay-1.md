@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-02-11
 categories:
   - "yoga"
-image: "sivananda-yoga-vedanta-bldl01.jpg"
+image: "/images/sivananda-yoga-vedanta-bldl01.jpg"
 slug: "nhat-ky-200-gio-tro-thanh-huan-luyen-vien-yoga-ngay-1"
 ---
 

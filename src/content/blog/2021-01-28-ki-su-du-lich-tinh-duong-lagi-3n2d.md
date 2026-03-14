@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2021-01-28
 categories:
   - "du-lich"
-image: "img-3949.jpg"
+image: "/images/img-3949.jpg"
 slug: "ki-su-du-lich-tinh-duong-lagi-3n2d"
 destination:
   - "lagi"

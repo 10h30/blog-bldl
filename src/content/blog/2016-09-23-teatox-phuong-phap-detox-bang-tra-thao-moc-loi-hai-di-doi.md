@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-09-23
 categories:
   - "lam-dep"
-image: "leptin-teatox.jpg"
+image: "/images/leptin-teatox.jpg"
 slug: "teatox-phuong-phap-detox-bang-tra-thao-moc-loi-hai-di-doi"
 ---
 

@@ -5,7 +5,7 @@ pubDate: 2015-08-16
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "congatrong-bldl05.jpg"
+image: "/images/congatrong-bldl05.jpg"
 slug: "con-ga-trong-dam-da-am-thuc-khmer"
 destination:
   - "viet-nam"

@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2019-11-21
 categories:
   - "meo-hay"
-image: "thought-catalog-fnztlib52gu-unsplash.jpg"
+image: "/images/thought-catalog-fnztlib52gu-unsplash.jpg"
 slug: "nhung-sai-lam-thuong-gap-khi-giam-can"
 ---
 

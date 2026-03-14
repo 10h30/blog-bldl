@@ -5,7 +5,7 @@ pubDate: 2019-08-06
 categories:
   - "an-uong"
   - "lam-dep"
-image: "dscf6274.jpg"
+image: "/images/dscf6274.jpg"
 slug: "chia-se-cong-thuc-sinh-to-detox-thom-ngon-de-lam"
 ---
 

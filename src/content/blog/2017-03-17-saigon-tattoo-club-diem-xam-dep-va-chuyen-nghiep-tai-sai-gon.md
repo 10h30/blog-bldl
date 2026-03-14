@@ -6,7 +6,7 @@ categories:
   - "lam-dep"
 tags:
   - "tattoo"
-image: "tattoo-bldl07.jpg"
+image: "/images/tattoo-bldl07.jpg"
 slug: "saigon-tattoo-club-diem-xam-dep-va-chuyen-nghiep-tai-sai-gon"
 ---
 

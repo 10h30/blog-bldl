@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-06-09
 categories:
   - "yoga"
-image: "downward-facing-dog06.jpg"
+image: "/images/downward-facing-dog06.jpg"
 slug: "tu-the-cho-up-mat-downward-facing-dog"
 ---
 

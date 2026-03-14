@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2020-02-16
 categories:
   - "tam-su"
-image: "img_6877.jpg"
+image: "/images/img_6877.jpg"
 slug: "goc-tam-su-valentine-mua-cum-corona-cua-bldl"
 ---
 

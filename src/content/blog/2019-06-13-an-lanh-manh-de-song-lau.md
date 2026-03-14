@@ -5,7 +5,7 @@ pubDate: 2019-06-13
 categories:
   - "an-uong"
   - "tam-su"
-image: "salad.jpg"
+image: "/images/salad.jpg"
 slug: "an-lanh-manh-de-song-lau"
 ---
 

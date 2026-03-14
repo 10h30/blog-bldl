@@ -5,7 +5,7 @@ pubDate: 2017-09-17
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "belgo01.jpg"
+image: "/images/belgo01.jpg"
 slug: "thuong-thuc-huong-vi-bia-bi-thom-ngon-tai-belgo"
 ---
 

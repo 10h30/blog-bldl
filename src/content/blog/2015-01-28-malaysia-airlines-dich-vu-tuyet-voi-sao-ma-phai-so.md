@@ -6,7 +6,7 @@ categories:
   - "du-lich"
 tags:
   - "airlines"
-image: "Bay-voi-Malaysia-Airlines-02.jpg"
+image: "/images/Bay-voi-Malaysia-Airlines-02.jpg"
 slug: "malaysia-airlines-dich-vu-tuyet-voi-sao-ma-phai-so"
 ---
 

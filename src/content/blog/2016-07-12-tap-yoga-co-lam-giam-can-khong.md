@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-07-12
 categories:
   - "yoga"
-image: "yoga-2.jpeg"
+image: "/images/yoga-2.jpeg"
 slug: "tap-yoga-co-lam-giam-can-khong"
 ---
 

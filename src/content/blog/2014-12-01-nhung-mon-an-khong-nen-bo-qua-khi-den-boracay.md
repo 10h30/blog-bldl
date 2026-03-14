@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2014-12-01
 categories:
   - "an-uong"
-image: "Boracay-food-14-05.jpg"
+image: "/images/Boracay-food-14-05.jpg"
 slug: "nhung-mon-an-khong-nen-bo-qua-khi-den-boracay"
 destination:
   - "boracay"

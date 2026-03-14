@@ -6,7 +6,7 @@ categories:
   - "khuyen-mai"
 tags:
   - "uber"
-image: "uber-mua.jpg"
+image: "/images/uber-mua.jpg"
 slug: "uber-khong-ngai-troi-mua"
 ---
 

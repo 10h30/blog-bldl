@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-04-04
 categories:
   - "du-lich"
-image: "dscf2235.jpg"
+image: "/images/dscf2235.jpg"
 slug: "chia-se-kinh-nghiem-du-lich-quy-nhon-binh-dinh"
 ---
 

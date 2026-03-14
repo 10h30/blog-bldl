@@ -7,7 +7,7 @@ categories:
 tags:
   - "tra"
   - "xe-dien"
-image: "taiwan-tra-booking-10.jpg"
+image: "/images/taiwan-tra-booking-10.jpg"
 slug: "huong-dan-dat-ve-xe-dien-tra-dai-loan"
 destination:
   - "dai-loan"

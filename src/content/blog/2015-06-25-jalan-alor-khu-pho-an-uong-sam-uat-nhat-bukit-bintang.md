@@ -5,7 +5,7 @@ pubDate: 2015-06-25
 categories:
   - "an-uong"
   - "du-lich"
-image: "food-jalan-alor-bldl03.jpg"
+image: "/images/food-jalan-alor-bldl03.jpg"
 slug: "jalan-alor-khu-pho-an-uong-sam-uat-nhat-bukit-bintang"
 destination:
   - "kuala-lumpur"

@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-04-14
 categories:
   - "du-lich"
-image: "pier-2-art-bldl11.jpg"
+image: "/images/pier-2-art-bldl11.jpg"
 slug: "kinh-nghiem-du-lich-cao-hung-tham-quan-trung-tam-nghe-thuat-pier-2-art-center"
 destination:
   - "cao-hung"

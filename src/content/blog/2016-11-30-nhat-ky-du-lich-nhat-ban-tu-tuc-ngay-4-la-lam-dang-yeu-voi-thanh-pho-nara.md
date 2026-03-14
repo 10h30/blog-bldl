@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-11-30
 categories:
   - "du-lich"
-image: "nara-bldl18.jpg"
+image: "/images/nara-bldl18.jpg"
 slug: "nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-4-la-lam-dang-yeu-voi-thanh-pho-nara"
 destination:
   - "nara"

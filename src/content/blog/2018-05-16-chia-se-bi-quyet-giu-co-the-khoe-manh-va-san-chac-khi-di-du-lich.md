@@ -5,7 +5,7 @@ pubDate: 2018-05-16
 categories:
   - "du-lich"
   - "meo-hay"
-image: "running.jpg"
+image: "/images/running.jpg"
 slug: "chia-se-bi-quyet-giu-co-the-khoe-manh-va-san-chac-khi-di-du-lich"
 ---
 

@@ -5,7 +5,7 @@ pubDate: 2016-10-24
 categories:
   - "lam-dep"
   - "yoga"
-image: "chaybo-bldl01.jpg"
+image: "/images/chaybo-bldl01.jpg"
 slug: "loi-ich-vang-den-tu-viec-ket-hop-yoga-voi-chay-bo"
 ---
 

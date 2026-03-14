@@ -5,7 +5,7 @@ pubDate: 2015-03-24
 categories:
   - "an-uong"
   - "du-lich"
-image: "chili-crab-bldl.jpg"
+image: "/images/chili-crab-bldl.jpg"
 slug: "chili-crab-dac-san-khong-the-phot-lo-cua-singapore"
 destination:
   - "singapore"

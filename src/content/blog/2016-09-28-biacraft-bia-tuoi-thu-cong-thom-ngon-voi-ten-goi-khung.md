@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-09-28
 categories:
   - "kham-pha-cuoi-tuan"
-image: "biacraft-bldl10.jpg"
+image: "/images/biacraft-bldl10.jpg"
 slug: "biacraft-bia-tuoi-thu-cong-thom-ngon-voi-ten-goi-khung"
 ---
 

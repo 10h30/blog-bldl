@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-06-10
 categories:
   - "lam-dep"
-image: "photo-1457803097035-3ace37af34a7-e1465526418315.jpeg"
+image: "/images/photo-1457803097035-3ace37af34a7-e1465526418315.jpeg"
 slug: "tri-mun-dot-mo-thua-bang-nuoc-detox-tao"
 ---
 

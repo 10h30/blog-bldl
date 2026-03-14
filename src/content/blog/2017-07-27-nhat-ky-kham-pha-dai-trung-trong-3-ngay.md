@@ -5,7 +5,7 @@ pubDate: 2017-07-27
 categories:
   - "an-uong"
   - "du-lich"
-image: "cijing-farm15.jpg"
+image: "/images/cijing-farm15.jpg"
 slug: "nhat-ky-kham-pha-dai-trung-trong-3-ngay"
 destination:
   - "dai-trung"

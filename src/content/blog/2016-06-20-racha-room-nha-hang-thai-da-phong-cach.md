@@ -5,7 +5,7 @@ pubDate: 2016-06-20
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "racha-bldl06.jpg"
+image: "/images/racha-bldl06.jpg"
 slug: "racha-room-nha-hang-thai-da-phong-cach"
 ---
 

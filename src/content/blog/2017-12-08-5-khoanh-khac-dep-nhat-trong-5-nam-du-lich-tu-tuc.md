@@ -5,7 +5,7 @@ pubDate: 2017-12-08
 categories:
   - "an-uong"
   - "du-lich"
-image: "5yrs-travelling.jpg"
+image: "/images/5yrs-travelling.jpg"
 slug: "5-khoanh-khac-dep-nhat-trong-5-nam-du-lich-tu-tuc"
 destination:
   - "bali"

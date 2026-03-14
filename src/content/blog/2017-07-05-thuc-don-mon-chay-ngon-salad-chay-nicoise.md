@@ -5,7 +5,7 @@ pubDate: 2017-07-05
 categories:
   - "an-uong"
   - "yoga"
-image: "nicoise-salad21.jpg"
+image: "/images/nicoise-salad21.jpg"
 slug: "thuc-don-mon-chay-ngon-salad-chay-nicoise"
 ---
 

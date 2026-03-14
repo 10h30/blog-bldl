@@ -5,7 +5,7 @@ pubDate: 2014-12-27
 categories:
   - "an-uong"
   - "du-lich"
-image: "Borcay-Heaven-BLDL-10.jpg"
+image: "/images/Borcay-Heaven-BLDL-10.jpg"
 slug: "boracay-dep-tung-centimet"
 destination:
   - "boracay"

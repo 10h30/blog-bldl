@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2020-02-23
 categories:
   - "tam-su"
-image: "51282d8d-b8a5-4662-8a29-6b092bf9600d.jpg"
+image: "/images/51282d8d-b8a5-4662-8a29-6b092bf9600d.jpg"
 slug: "khi-suy-nghi-tich-cuc-cuoc-song-tot-dep-hon"
 ---
 

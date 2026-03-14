@@ -5,7 +5,7 @@ pubDate: 2019-11-14
 categories:
   - "an-uong"
   - "du-lich"
-image: "woodstock-2.jpg"
+image: "/images/woodstock-2.jpg"
 slug: "danh-gia-quan-cafe-wood-stock-da-lat"
 destination:
   - "da-lat"

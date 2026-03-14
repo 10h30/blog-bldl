@@ -5,7 +5,7 @@ pubDate: 2015-02-24
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "ngo-ri-nha-hang-thai-bldl-02.jpg"
+image: "/images/ngo-ri-nha-hang-thai-bldl-02.jpg"
 slug: "ngo-ri-huong-vi-thai-giua-sai-gon"
 destination:
   - "viet-nam"

@@ -5,7 +5,7 @@ pubDate: 2015-03-28
 categories:
   - "du-lich"
   - "meo-hay"
-image: "trekking.jpg"
+image: "/images/trekking.jpg"
 slug: "chuan-bi-gi-cho-chuyen-di-sapa-them-hoan-hao"
 destination:
   - "sa-pa"

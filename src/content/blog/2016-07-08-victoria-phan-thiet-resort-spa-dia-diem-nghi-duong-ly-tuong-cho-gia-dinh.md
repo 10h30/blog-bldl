@@ -6,7 +6,7 @@ categories:
   - "du-lich"
 tags:
   - "khach-san"
-image: "victoria-phan-thiet-bldl05.jpg"
+image: "/images/victoria-phan-thiet-bldl05.jpg"
 slug: "victoria-phan-thiet-resort-spa-dia-diem-nghi-duong-ly-tuong-cho-gia-dinh"
 destination:
   - "mui-ne"

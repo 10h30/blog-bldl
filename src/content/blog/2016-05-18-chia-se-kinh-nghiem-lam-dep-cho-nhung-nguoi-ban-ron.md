@@ -5,7 +5,7 @@ pubDate: 2016-05-18
 categories:
   - "lam-dep"
   - "meo-hay"
-image: "beauty.jpeg"
+image: "/images/beauty.jpeg"
 slug: "chia-se-kinh-nghiem-lam-dep-cho-nhung-nguoi-ban-ron"
 ---
 

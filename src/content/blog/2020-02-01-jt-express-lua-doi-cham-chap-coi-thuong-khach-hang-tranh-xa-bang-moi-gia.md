@@ -4,7 +4,7 @@ author: "thuanbui"
 pubDate: 2020-02-01
 tags:
   - "trai-nghiem-toi-te"
-image: "jt-express.jpg"
+image: "/images/jt-express.jpg"
 slug: "jt-express-lua-doi-cham-chap-coi-thuong-khach-hang-tranh-xa-bang-moi-gia"
 ---
 

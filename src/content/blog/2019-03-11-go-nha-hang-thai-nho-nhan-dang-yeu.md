@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2019-03-11
 categories:
   - "an-uong"
-image: "img_0701.jpg"
+image: "/images/img_0701.jpg"
 slug: "go-nha-hang-thai-nho-nhan-dang-yeu"
 ---
 

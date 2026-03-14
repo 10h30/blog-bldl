@@ -7,7 +7,7 @@ categories:
 tags:
   - "ghtk-lua-dao"
   - "ghtk-quyt-tien"
-image: "ghtk-lua-dao.png"
+image: "/images/ghtk-lua-dao.png"
 slug: "giao-hang-tiet-kiem-ghtk-lua-dao-lam-mat-hang-gio-tro-lua-loc-quyt-tien-cua-shop"
 ---
 

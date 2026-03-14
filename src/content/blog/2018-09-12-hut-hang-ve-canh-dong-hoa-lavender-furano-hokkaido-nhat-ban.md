@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-09-12
 categories:
   - "du-lich"
-image: "dscf2980.jpg"
+image: "/images/dscf2980.jpg"
 slug: "hut-hang-ve-canh-dong-hoa-lavender-furano-hokkaido-nhat-ban"
 destination:
   - "furano"

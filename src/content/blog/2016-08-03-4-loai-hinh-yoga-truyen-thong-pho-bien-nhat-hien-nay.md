@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-08-03
 categories:
   - "yoga"
-image: "yoga-cover-4.jpeg"
+image: "/images/yoga-cover-4.jpeg"
 slug: "4-loai-hinh-yoga-truyen-thong-pho-bien-nhat-hien-nay"
 ---
 

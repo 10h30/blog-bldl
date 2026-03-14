@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2021-05-09
 categories:
   - "du-lich"
-image: "28d872c6-a16a-4fc9-8736-969ca79cfdc0.jpg"
+image: "/images/28d872c6-a16a-4fc9-8736-969ca79cfdc0.jpg"
 slug: "chia-se-chuyen-di-nghi-duong-sinh-thai-tai-chi-bu-riverside-dong-nai"
 destination:
   - "dong-nai"

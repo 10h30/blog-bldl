@@ -5,7 +5,7 @@ pubDate: 2015-04-18
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "noir.jpg"
+image: "/images/noir.jpg"
 slug: "noir-trai-nghiem-am-thuc-doc-dao-trong-bong-toi"
 destination:
   - "viet-nam"

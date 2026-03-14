@@ -4,7 +4,7 @@ author: "thuanbui"
 pubDate: 2014-08-02
 categories:
   - "an-uong"
-image: "1FE72808-C94D-4701-839C-9EDC2CA4C394.png"
+image: "/images/1FE72808-C94D-4701-839C-9EDC2CA4C394.png"
 slug: "kham-pha-pho-nhat-cuoi-tuan-cung-vo"
 ---
 
@@ -28,8 +28,6 @@ Vợ chồng mình thích ăn món Nhật, nhất là sushi và shasimi. Mấy q
 
 Tối nay muốn kiếm một quán nào khác để thưởng thức sushi trong cơn thèm và Chuồn Chuồn Đỏ là sự lựa chọn của mình sau khi được giới thiệu từ một người bạn. Chuồn Chuồn Đỏ nằm ngay trên mặt tiền đường Le Thánh Tôn nên chỉ cần đi bộ vài bước chân là thấy quán ngay.
 
- 
-
 Không gian quán nhỏ và ấm cúng, ánh sáng dịu nhẹ tạo cảm giác đi ăn ở nhà người thân, chứ không phải đi ăn ở nhà hàng. Rất phù hợp cho các cặp đôi thích sự lãng mạn. Quán này có nhiều món lạ như thịt ngựa sống, trứng cá sống,...mà bình thường ít thấy ở các quán sushi mình đã từng ăn.
 
 ![Dĩa shasimi cho một người ăn](/images/1FE72808-C94D-4701-839C-9EDC2CA4C394.png)
@@ -42,18 +40,12 @@ Tuy nhiên, giá của quán này không dễ thương tí nào, vài món kể 
 
 Sau khi lót dạ với sushi, hai vợ chồng đi kiếm tráng miệng ở quán Vannila&Butter. Quán này nằm khuất sâu bên trong khu cư xá Thái Văn Lung, khá khó tìm. Đi dạo kiếm quán này mới phát hiện ra phố Nhật trước đây mình biết chỉ là bề nổi. Có đi sâu vào trong các con hẻm dọc theo đường Lê Thánh Tôn mới phát hiện ra nguyên một khu phố khuất sâu bên trong chuyên kinh doanh phục vụ khách Nhật. Vô số các hotel, nhà hàng, spa, massage, bar, lounge nhỏ nhắn san sát nhau trong một khu vực khá chật hẹp. Tuy hàng quán đông đúc nhưng không hề có hiện tượng chèo kéo khách, khu phố rất yên tĩnh, cảm giác thanh bình khi đi dạo qua lại.
 
- 
-
 ![Quầy bán hàng của Vanilla & Butter](/images/E8C2C90C-1DCE-4069-9238-886B2E07EC1A.png)
 
 Sau vài vòng đảo hết góc này góc khác, cuối cùng hai vợ chồng cũng mò ra Vannila & Butter. Quán nhỏ nhưng rất dễ thương, tươi trẻ. Quán này chuyên phục vụ các loại bánh ngọt kiểu Nhật. Mình chẳng nhớ là bánh gì, chỉ nhớ là các loại bánh nhìn rất cuốn hút, bảo đảm nhìn là muốn ăn ngay. Mỗi phần bánh giá 50.000, bạn có thể kêu thêm nước nếu thích hoặc có thể uống nước lạnh miễn phí.
 
- 
-
 Hai vợ chồng mình gọi một phần Panna Cotta và một phần bánh Sakura. Bánh rất ngon và vừa miệng. Ngồi nhâm nhi tán dóc khoảng hơn nửa tiếng thì hai vợ chồng đi về.
 
 ![Tự sướng một tấm trước khi về](/images/1E1AC38E-1637-4E8C-A272-4FB24DA121FE.png)
-
- 
 
 Kết thúc một buổi hẹn hò cuối tuần lãng mạn, tìm ra được hai quán ăn ngon. Hai vợ chồng sẽ quay trở lại một ngày không xa để thưởng thức các quán ăn dễ thương khác.

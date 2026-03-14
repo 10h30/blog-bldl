@@ -6,7 +6,7 @@ categories:
   - "an-uong"
   - "du-lich"
   - "meo-hay"
-image: "sapa-vietnam-bldl.jpg"
+image: "/images/sapa-vietnam-bldl.jpg"
 slug: "hanh-trinh-trekking-kham-pha-sapa-trai-nghiem-kho-quen"
 destination:
   - "sa-pa"

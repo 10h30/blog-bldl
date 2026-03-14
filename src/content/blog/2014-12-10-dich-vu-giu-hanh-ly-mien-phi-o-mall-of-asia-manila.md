@@ -4,7 +4,7 @@ author: "thuanbui"
 pubDate: 2014-12-10
 categories:
   - "meo-hay"
-image: "Mall_of_Asia.jpg"
+image: "/images/Mall_of_Asia.jpg"
 slug: "dich-vu-giu-hanh-ly-mien-phi-o-mall-of-asia-manila"
 destination:
   - "manila"

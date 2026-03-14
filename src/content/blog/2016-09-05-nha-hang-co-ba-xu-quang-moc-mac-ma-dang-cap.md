@@ -5,7 +5,7 @@ pubDate: 2016-09-05
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "co-ba-xu-quang-bldl05.jpg"
+image: "/images/co-ba-xu-quang-bldl05.jpg"
 slug: "nha-hang-co-ba-xu-quang-moc-mac-ma-dang-cap"
 ---
 

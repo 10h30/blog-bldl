@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-08-15
 categories:
   - "kham-pha-cuoi-tuan"
-image: "aeon-binh-tan-bldl06.jpg"
+image: "/images/aeon-binh-tan-bldl06.jpg"
 slug: "aeon-mall-binh-tan-sieu-thi-nhat-khien-khach-hang-kho-nhat-cung-phai-hai-long"
 ---
 

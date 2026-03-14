@@ -5,7 +5,7 @@ pubDate: 2015-01-31
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "Bun-mam-nem-01.jpg"
+image: "/images/Bun-mam-nem-01.jpg"
 slug: "bun-mam-nem-da-nang-tai-sai-gon"
 destination:
   - "viet-nam"

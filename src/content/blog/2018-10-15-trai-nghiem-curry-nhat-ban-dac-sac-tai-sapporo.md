@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-10-15
 categories:
   - "an-uong"
-image: "img_20180811_201439.jpg"
+image: "/images/img_20180811_201439.jpg"
 slug: "trai-nghiem-curry-nhat-ban-dac-sac-tai-sapporo"
 destination:
   - "sapporo"

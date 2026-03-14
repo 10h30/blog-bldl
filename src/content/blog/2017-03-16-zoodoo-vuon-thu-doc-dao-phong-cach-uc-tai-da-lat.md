@@ -8,7 +8,7 @@ categories:
 tags:
   - "vuon-thu"
   - "zoo"
-image: "zoodoo-dalat-bldl14.jpg"
+image: "/images/zoodoo-dalat-bldl14.jpg"
 slug: "zoodoo-vuon-thu-doc-dao-phong-cach-uc-tai-da-lat"
 destination:
   - "da-lat"

@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2015-02-11
 categories:
   - "kham-pha-cuoi-tuan"
-image: "img_2884.jpg"
+image: "/images/img_2884.jpg"
 slug: "da-dang-cam-xuc-cung-a-o-show"
 destination:
   - "viet-nam"

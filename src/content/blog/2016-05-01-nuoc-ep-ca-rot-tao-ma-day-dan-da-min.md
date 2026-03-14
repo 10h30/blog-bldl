@@ -5,7 +5,7 @@ pubDate: 2016-05-01
 categories:
   - "an-uong"
   - "meo-hay"
-image: "img_3825.jpg"
+image: "/images/img_3825.jpg"
 slug: "nuoc-ep-ca-rot-tao-ma-day-dan-da-min"
 ---
 

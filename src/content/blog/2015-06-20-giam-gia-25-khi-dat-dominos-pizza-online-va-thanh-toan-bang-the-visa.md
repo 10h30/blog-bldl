@@ -8,7 +8,7 @@ categories:
   - "khuyen-mai"
 tags:
   - "pizza"
-image: "dominos-pizza.jpg"
+image: "/images/dominos-pizza.jpg"
 slug: "giam-gia-25-khi-dat-dominos-pizza-online-va-thanh-toan-bang-the-visa"
 ---
 

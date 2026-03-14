@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-07-09
 categories:
   - "yoga"
-image: "yoga-1.jpeg"
+image: "/images/yoga-1.jpeg"
 slug: "5-loi-ich-than-ki-khong-ngo-den-tu-yoga"
 ---
 

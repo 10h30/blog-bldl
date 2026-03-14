@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-02-14
 categories:
   - "meo-hay"
-image: "52-copy.jpg"
+image: "/images/52-copy.jpg"
 slug: "qua-valentine-2017-chia-se-bi-quyet-chon-nguoi-chong-tot"
 ---
 

@@ -5,7 +5,7 @@ pubDate: 2018-09-25
 categories:
   - "an-uong"
   - "du-lich"
-image: "dscf3223.jpg"
+image: "/images/dscf3223.jpg"
 slug: "mot-ngay-dao-choi-thoa-thich-tai-thanh-pho-cang-xinh-dep-otaru"
 destination:
   - "hokkaido"

@@ -5,7 +5,7 @@ pubDate: 2017-05-18
 categories:
   - "an-uong"
   - "du-lich"
-image: "karuisawa-bldl05.jpg"
+image: "/images/karuisawa-bldl05.jpg"
 slug: "phat-cuong-voi-lau-karuisawa"
 destination:
   - "dai-loan"

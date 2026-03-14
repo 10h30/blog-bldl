@@ -4,7 +4,7 @@ author: "thuanbui"
 pubDate: 2015-06-12
 categories:
   - "kham-pha-cuoi-tuan"
-image: "jurassic-world.jpg"
+image: "/images/jurassic-world.jpg"
 slug: "tim-lai-tuoi-tho-voi-phim-the-gioi-khung-long-o-rap-bhd-pham-hung"
 ---
 

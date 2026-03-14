@@ -5,7 +5,7 @@ pubDate: 2018-01-05
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "sushi-nhi05.jpg"
+image: "/images/sushi-nhi05.jpg"
 slug: "sushi-nhi-khong-nhung-ngon-ma-con-re"
 destination:
   - "viet-nam"

@@ -5,7 +5,7 @@ pubDate: 2016-08-08
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-image: "maison-marou-bldl11.jpg"
+image: "/images/maison-marou-bldl11.jpg"
 slug: "maison-marou-bua-tiec-chocolate-thuong-hang-giua-long-sai-gon"
 ---
 

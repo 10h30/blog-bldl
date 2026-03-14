@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-09-06
 categories:
   - "du-lich"
-image: "dscf3100.jpg"
+image: "/images/dscf3100.jpg"
 slug: "nham-mat-thay-mua-he-trong-thien-duong-hoa-huong-duong-hokuryu"
 destination:
   - "hokuryu"

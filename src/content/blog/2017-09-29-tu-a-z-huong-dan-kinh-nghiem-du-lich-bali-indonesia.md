@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-09-29
 categories:
   - "du-lich"
-image: "bali-my-love.jpg"
+image: "/images/bali-my-love.jpg"
 slug: "tu-a-z-huong-dan-kinh-nghiem-du-lich-bali-indonesia"
 destination:
   - "bali"
