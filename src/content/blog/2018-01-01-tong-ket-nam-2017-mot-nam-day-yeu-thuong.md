@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-01-01
 categories:
   - "tam-su"
-coverImage: "2018.jpg"
+image: "2018.jpg"
 slug: "tong-ket-nam-2017-mot-nam-day-yeu-thuong"
 ---
 
@@ -22,4 +22,4 @@ Trước thềm năm mới, BLDL xin chúc các bạn một năm mới an khang 
 
 HAPPY NEW YEAR!!!
 
-![](images/gia-dinh-bldl02.jpg)
+![](/images/gia-dinh-bldl02.jpg)

@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2020-03-17
 categories:
   - "tam-su"
-coverImage: "img_4991.jpg"
+image: "img_4991.jpg"
 slug: "nhat-ky-mot-ngay-song-lanh-manh-mua-dich-corona"
 ---
 

@@ -6,7 +6,7 @@ categories:
   - "du-lich"
 tags:
   - "airbnb"
-coverImage: "the-3rd-street-penang-01.jpg"
+image: "the-3rd-street-penang-01.jpg"
 slug: "am-cung-va-than-thien-voi-homestay-3rd-street-o-georgetown-penang"
 destination:
   - "penang"
@@ -14,9 +14,9 @@ destination:
 
 Kết hôn đã hai năm nhưng chưa bao giờ chồng mình thất bại trong việc tạo ra những bất ngờ nho nhỏ đáng yêu. Với tính cách hài hước, sáng tạo, anh luôn biết cách khiến mọi chuyến du lịch trở nên đặc biệt và thú vị hơn. Chuyến khám phá Malaysia mới đây tất nhiên không phải là ngoại lệ. Thay vì đặt khách sạn bình thường, Ba lô đã chọn một căn nhà cổ nhỏ xinh **[The 3rd Street](https://www.airbnb.com/rooms/4197334)** theo phong cách vintage, nhiều màu sắc đáng yêu ngay giữa trung tâm George Town làm điểm dừng chân cho hai vợ chồng trong 2 đêm đầu tiên ở Malaysia.
 
-![Penang - thành phố cổ kính với nhiều ngôi nhà cổ san sát nhau](images/penang-malay-01.jpg)
+![Penang - thành phố cổ kính với nhiều ngôi nhà cổ san sát nhau](/images/penang-malay-01.jpg)
 
-![The 3rd Street cũng như bao ngôi nhà cổ khác được xây dựng theo lối kiến trúc Trung Hoa](images/the-3rd-street-12-penang-bldl.jpg)
+![The 3rd Street cũng như bao ngôi nhà cổ khác được xây dựng theo lối kiến trúc Trung Hoa](/images/the-3rd-street-12-penang-bldl.jpg)
 
 Nhìn từ bên ngoài, ngôi nhà như một chiếc hộp socola cũ với gam màu nâu trầm ấm, mái ngói đỏ, hoà mình nhẹ nhàng vào dãy phố cổ yên bình. Mình đến Penang khoảng ba giờ chiều trong tiết trời mưa nhẹ. Chủ nhà là một "anh chàng" (có lẽ vậy) rất dễ thương, giọng nói ấm áp, thái độ hiếu khách, hoà nhã giới thiệu những điểm tham quan đẹp tại Penang, cũng như thẳng thẳn nhận xét các điểm nên bỏ qua (mặc dù mình nghe hơi buồn và mất hứng).
 
@@ -26,29 +26,29 @@ Nội thất bên trong ngôi nhà được chính tay Sem (chủ nhà) lựa ch
 
 **The 3rd Street** đem lại cho khách phương xa một cảm giác ấm cúng, gần gũi như đang ở chính nhà mình vậy. Mình khá hài lòng và vui sướng trước bất ngờ đáng yêu này của ông xã.
 
-![Phòng ngủ đáng yêu và sạch sẽ lắm](images/airbb-malay-bldl-01.jpg)
+![Phòng ngủ đáng yêu và sạch sẽ lắm](/images/airbb-malay-bldl-01.jpg)
 
-![Phòng khách và nhà bếp được trang trí tươi sáng, với nhiều màu sắc và vật dụng đáng yêu](images/airbb-malay-bldl-02.jpg)
+![Phòng khách và nhà bếp được trang trí tươi sáng, với nhiều màu sắc và vật dụng đáng yêu](/images/airbb-malay-bldl-02.jpg)
 
-![Nơi mọi người tụ tập trò chuyện hoặc đọc sách](images/the-3rd-street-penang-07.jpg)
+![Nơi mọi người tụ tập trò chuyện hoặc đọc sách](/images/the-3rd-street-penang-07.jpg)
 
-![Note khắp nhà ;)](images/the-3rd-street-penang-06.jpg)
+![Note khắp nhà ;)](/images/the-3rd-street-penang-06.jpg)
 
-![The 3rd street - Penang -05](images/the-3rd-street-penang-05.jpg)
+![The 3rd street - Penang -05](/images/the-3rd-street-penang-05.jpg)
 
-![Vật dụng nho nhỏ đáng yêu](images/the-3rd-street-penang-04.jpg)
+![Vật dụng nho nhỏ đáng yêu](/images/the-3rd-street-penang-04.jpg)
 
-![Khu vực sinh hoạt chung](images/the-3rd-street-penang-03.jpg)
+![Khu vực sinh hoạt chung](/images/the-3rd-street-penang-03.jpg)
 
 Chỉ có đúng ba phòng ngủ trong nhà thôi nên khách đặt phòng rất hạn chế. Chắc bởi vậy mà mọi người có cảm giác gần gũi ấm cúng như một gia đình. Thêm vào đó ai cũng tôn trọng những quy định chung trong nhà nên nghỉ ngơi tại đây rất thoải mái.
 
 The 3rd Street chỉ cách khu trung tâm mua sắm **1st Avenue Mall** và trạm xe bus Komstar 3 phút đi bộ, rất tiện lợi cho nhu cầu mua sắm, di chuyển. Từ đây chỉ cần đi thêm vài phút nữa là bạn sẽ đến trung tâm khu phổ cổ George Town, một trong những di sản văn hóa thế giới được Unesco công nhận.
 
-![Street Art trên đường phố George Town, Penang](images/george-town-penang-bldl12.jpg)
+![Street Art trên đường phố George Town, Penang](/images/george-town-penang-bldl12.jpg)
 
 Ngoài ra, chỉ cách The 3rd Street vài bước chân là cả một góc ẩm thực sầm uất về đêm. Tuyệt nhất là món Hokkien Mee, đậm đà khó quên. Nhớ đừng bỏ lỡ món này khi ghé Penang nhé!
 
-![Hokkien Mee](images/food-penang-bldl04.jpg)
+![Hokkien Mee](/images/food-penang-bldl04.jpg)
 
 ### Đặt phòng The 3rd Street
 

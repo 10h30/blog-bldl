@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-12-09
 categories:
   - "lam-dep"
-coverImage: "naturie-hatomugi-skin-conditioner-bldl01-1.jpg"
+image: "naturie-hatomugi-skin-conditioner-bldl01-1.jpg"
 slug: "naturie-hatomugi-skin-conditioner-lotion-mask-duong-am-the-he-moi"
 ---
 
@@ -14,9 +14,9 @@ _**Naturie Hatomugi Skin Conditioner được bầu chọn là lotion mask bán 
 
 Các bạn có thể xem những nhận xét của người tiêu dùng sau khi sử dụng qua Naturie Hatomugi Skin Conditioner:
 
-![](images/screen-shot-2016-12-12-at-9-35-00-am.png)
+![](/images/screen-shot-2016-12-12-at-9-35-00-am.png)
 
-![](images/screen-shot-2016-12-12-at-9-43-18-am.png)
+![](/images/screen-shot-2016-12-12-at-9-43-18-am.png)
 
 ## Đôi nét về Naturie Hatomugi Skin Conditioner
 
@@ -24,7 +24,7 @@ Trước hết, em Naturie Hatomugi Skin Conditioner là một dạng _**lotion 
 
 Nghe là thấy đủ hấp dẫn rồi ha! Đó cũng là ví do vì sao BLDL đã lập tức sử dụng và cho ngay một bài review sáng giá về cho Naturie Hatomugi Skin Conditioner.
 
-![](images/naturie-hatomugi-skin-conditioner-bldl01-1.jpg)
+![](/images/naturie-hatomugi-skin-conditioner-bldl01-1.jpg)
 
 ## A. Ưu điểm
 
@@ -38,7 +38,7 @@ Bởi yếu tố này mà mình cực kỳ an tâm và hoàn toàn tin tưởng 
 
 Mình xin nhấn mạnh lần nữa Hatomugi không phải dạng lotion cream đặc thông thường mà dưới dạng lỏng như toner có màu trắng sữa. Do đó, Hatomugi có khả năng thấm sâu ngay lập tức vào bề mặt da, không hề đem lại cảm giác nhờn rít hay đọng kem dư trên mặt.
 
-![](images/naturie-hatomugi-skin-conditioner-bldl02-1.jpg)
+![](/images/naturie-hatomugi-skin-conditioner-bldl02-1.jpg)
 
 Bên cạnh đó, Hatomugi còn được biết đến như bản dupe hoàn hảo của Albion Essential Skin Conditioner. Bản thân mình thì chưa dung sản phẩm Albion Essential Skin Conditioner. Tuy nhiên, mình đọc được rất nhiều review của những người đã dùng cả Albion lẫn Hatomugi đều cho rằng hiệu quả của cả hai là giống nhau, điểm khác là Hatomugi ít dính và lỏng hơn so với Albion còn Albion thì có hương thơm hơn.
 
@@ -75,7 +75,7 @@ Do là dòng mỹ phẩm bình dân nên bao bì của Hatomugi không được
 
 Lý do mình viết bài đánh giá về Naturie Hatomugi Skin Conditioner bởi quá "yêu em". Mỗi lần dùng xong mình đều có cảm giác da mình mọng nước, mềm và sáng ra. Ngoài ra, mình là người có da hỗn hơp, khu vực chữ T và vùng da xung quanh khô nên dễ bị kích mụn. Tuy vậy, sau khoảng thời gian dùng Hatomugi, da của mình không hề bị kích ứng và lỗ chân lông được thu nhỏ hẳn, da ngăn tiết dầu nên tình trạng mụn của mình cũng giảm đáng kể.
 
-![Sau một tuần kiên trì sử dụng Hatomugi, da mình trông trắng sáng hơn một tông luôn, lúc nào cũng căng bóng như diễn viên trên phim á](images/14732361_10157641972545363_8037559307372300889_n.jpg)
+![Sau một tuần kiên trì sử dụng Hatomugi, da mình trông trắng sáng hơn một tông luôn, lúc nào cũng căng bóng như diễn viên trên phim á](/images/14732361_10157641972545363_8037559307372300889_n.jpg)
 
 Thậm chí nhiều hôm khi ra khỏi nhà, da mình bị bắt nắng, sạm đi và có phần hơi đỏ. Tuy nhiên khi khi thoa Hatomugi lên mặt, massage vài phút là bớt đỏ ngay. Do đó mà mình không còn lo ngại khi phơi mặt ra ngoài trong những ngày nắng nóng nữa.
 
@@ -89,4 +89,4 @@ Do đó mà BLDL đã tự bay thẳng sang Nhật tìm hiểu, dùng thử và 
 
 Chúc các bạn có một làn da sáng đẹp không tì vết cùng Naturie Hatomugi Skin Conditioner.
 
-![](images/shirakawago-bldl09.jpg)
+![](/images/shirakawago-bldl09.jpg)

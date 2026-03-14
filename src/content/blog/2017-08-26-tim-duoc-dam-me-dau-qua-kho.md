@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-08-26
 categories:
   - "tam-su"
-coverImage: "dream.jpg"
+image: "dream.jpg"
 slug: "tim-duoc-dam-me-dau-qua-kho"
 ---
 
@@ -38,7 +38,7 @@ Tiếp theo, bạn hãy hỏi những người thân xung quanh, những ngườ
 
 Ví dụ điển hình là mình. Sau 4 năm đi làm, mình nhìn lại tất cả mọi biến cố từ thay đổi công việc, chức vụ, quan hệ...Mình xác định được yoga là thứ mình luôn coi trọng, dành thời gian tập luyện mỗi ngày dù có bận xù đầu đến đâu chăng nữa. Và may mắn là mình và bạn bè đều nhận ra mình tập và cảm yoga khá tốt. Vậy yoga chính là niềm đam mê và sự yêu thích của mình.
 
-![](images/purna-headstand-bldl01.jpg)
+![](/images/purna-headstand-bldl01.jpg)
 
 Đây là những cách rất đơn giản giúp bạn thu thập thông tin giúp bạn nhìn thấy rõ định hướng hay mục tiêu trong cuộc sống của bạn là gì.
 
@@ -60,7 +60,7 @@ Như chồng mình - "Ba Lô" môĩ lần đăng ký tham gia một giải chay,
 
 Thật lòng, mình sẽ không thể có đủ động lực trở thành cô giáo dạy yoga của ngày hôm nay nếu không có sự ủng hộ tinh thần rất lớn từ chồng. Mình cảm thấy may mắn và tự hào khi đã chọn đúng ngừoi bạn đời tuyệt vời như vậy. Anh luôn là người động viên, chia sẻ, thấu hiểu mình như người bạn thân vậy.
 
-![](images/love.jpg)
+![](/images/love.jpg)
 
 Bạn cũng cần một chỗ dựa tinh thần vững chắc như vậy trên con đường theo đuổi đam mê. Bởi đây sẽ là những nhân vật ủng hộ bạn khi bạn xuống tinh thần, quan sát bạn, nhắc nhở bạn và buộc bạn phải chịu trách nhiệm về mục tiêu của mình.
 

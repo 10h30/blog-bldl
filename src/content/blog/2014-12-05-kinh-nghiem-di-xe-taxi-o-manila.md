@@ -4,7 +4,7 @@ author: "thuanbui"
 pubDate: 2014-12-05
 categories:
   - "meo-hay"
-coverImage: "manila_1417779483.jpg"
+image: "manila_1417779483.jpg"
 slug: "kinh-nghiem-di-xe-taxi-o-manila"
 destination:
   - "manila"

@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-07-12
 categories:
   - "an-uong"
-coverImage: "sushiko.jpg"
+image: "sushiko.jpg"
 slug: "danh-gia-nha-hang-sushi-ko-3-le-thanh-ton-chat-luong-nhat-gia-viet"
 ---
 

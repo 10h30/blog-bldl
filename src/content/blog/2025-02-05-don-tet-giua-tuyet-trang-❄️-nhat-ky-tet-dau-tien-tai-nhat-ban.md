@@ -6,7 +6,7 @@ categories:
   - "gia-dinh"
 tags:
   - "cuoc-song-o-nhat"
-coverImage: "don-tet-o-nhat.jpg"
+image: "don-tet-o-nhat.jpg"
 slug: "don-tet-giua-tuyet-trang-❄️-nhat-ky-tet-dau-tien-tai-nhat-ban"
 ---
 
@@ -22,7 +22,7 @@ Dù không được trực tiếp hào hứng cùng gia đình ở Việt Nam, m
 
 Toyama mùa đông đặc biệt lạnh và tuyết phủ khắp nơi. Đó là lần đầu tiên gia đình mình được đón Tết giữa không gian trắng xóa của tuyết. Từng bước chân lên tuyết, những ký ức về một cái Tết đầm ắm bên gia đình hiện về rõ mà đây cũng là khoảnh khắc để nhớ trong cuộc hành trình mới này.
 
-![](images/don-tet-o-nhat.jpg)
+![](/images/don-tet-o-nhat.jpg)
 
 ## Hành trình đặc biệt trong ngày Tết
 

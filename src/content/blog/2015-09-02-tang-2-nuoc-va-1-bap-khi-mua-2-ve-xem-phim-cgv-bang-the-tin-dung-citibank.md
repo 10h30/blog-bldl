@@ -7,15 +7,15 @@ categories:
 tags:
   - "citibank"
   - "the-tin-dung"
-coverImage: "CGV.jpg"
+image: "CGV.jpg"
 slug: "tang-2-nuoc-va-1-bap-khi-mua-2-ve-xem-phim-cgv-bang-the-tin-dung-citibank"
 ---
 
-![citibank-cgv](images/citibank-cgv.jpg)
+![citibank-cgv](/images/citibank-cgv.jpg)
 
 Các tín đồ điện ảnh nào đang sở hữu thẻ tín dụng Citibank đừng bỏ qua chương trình khuyến mãi hấp dẫn tại rạp CGV nhé:
 
-**![popcorn.png](images/popcorn.png)Nhận ngay 1 combo miễn phí gồm 2 phần nước và 1 bắp khi mua 2 vé CGV với thẻ Tín Dụng Citibank. Áp dụng vào mỗi thứ bảy hàng tuần từ nay đến ngày 15/08/2016.**
+**![popcorn.png](/images/popcorn.png)Nhận ngay 1 combo miễn phí gồm 2 phần nước và 1 bắp khi mua 2 vé CGV với thẻ Tín Dụng Citibank. Áp dụng vào mỗi thứ bảy hàng tuần từ nay đến ngày 15/08/2016.**
 
 Với chương trình này, các chủ sở hữu thẻ tín dụng Citibank sẽ có cả năm ăn bắp uống nước miễn phí tại rạp CGV vào mỗi thứ bảy cuối tuần. Quá tuyệt vời phải không các bạn!
 

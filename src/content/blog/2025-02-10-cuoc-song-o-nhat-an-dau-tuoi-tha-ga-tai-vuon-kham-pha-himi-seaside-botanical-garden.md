@@ -6,7 +6,7 @@ categories:
   - "gia-dinh"
 tags:
   - "cuoc-song-o-nhat"
-coverImage: "hai-dau-tateyama-toyama.jpg"
+image: "hai-dau-tateyama-toyama.jpg"
 slug: "cuoc-song-o-nhat-an-dau-tuoi-tha-ga-tai-vuon-kham-pha-himi-seaside-botanical-garden"
 ---
 

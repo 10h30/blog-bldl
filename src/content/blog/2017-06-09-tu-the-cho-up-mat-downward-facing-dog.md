@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-06-09
 categories:
   - "yoga"
-coverImage: "downward-facing-dog06.jpg"
+image: "downward-facing-dog06.jpg"
 slug: "tu-the-cho-up-mat-downward-facing-dog"
 ---
 
@@ -34,19 +34,19 @@ Sau đây là 3 bước kỹ thuật thực hiện tư thế chó úp mặt:
 
 Bước 1: Bạn vào tư thế Cái Bàn
 
-![](images/downward-facing-dog02.jpg)
+![](/images/downward-facing-dog02.jpg)
 
 - Chống hai bàn tay và hai đầu gối xuống thảm.
 - Hai bàn tay được đặt rộng bằng vai, hai đầu gối cách nhau rộng bằng hông. Tức vai không vượt quá cổ tay và đầu gối nằm ngay dưới hông.
 - Nhấn chặt lòng bàn tay, xoè rộng đồng thời ấn 5 ngón tay xuống sàn nhằm tăng điểm tiếp xúc bàn tay. Bàn tay có hơi hướng xoay nhẹ ra ngoài nhưng hai mắt của khuỷa tay có xu hướng hướng vào trong. Vị trí tay giúp vai bạn được mở rộng, tạo nhiều không gian cho cổ. Nếu bạn xoay bàn tay vào bên trong, vai sẽ bị khoá chứ không được mở rộng.
 
-![](images/downward-facing-dog04.jpg)
+![](/images/downward-facing-dog04.jpg)
 
 - Hóp nhẹ cơ bụng trong, làm mềm phần thắt lưng. Khi bạn cảm nhận được phần thắt lưng mềm mại, không bị gồng cứng là được. Cách này giúp bạn kéo dài tối đa chiều dài cột sống, chuẩn bị vào tư thế Chó Úp Mặt.
 
 Bước hai: Chuẩn bị thế Chó Úp Mặt
 
-![](images/downward-facing-dog01.jpg)
+![](/images/downward-facing-dog01.jpg)
 
 - Hít sâu, thở chậm, nâng đầu gối nhẹ tách ra khỏi sàn.
 - Giữ gối co, kéo dài cánh tay tối đa để làm thẳng cột sống nhưng không rút vai, làm mềm vai để vai và ngực được mở rộng. Không nên nhấn vai quá nhiều, để vai mở rộng trung tính.
@@ -56,7 +56,7 @@ Bước hai: Chuẩn bị thế Chó Úp Mặt
 
 Bước ba: Vào thế Chó Úp Mặt
 
-![](images/downward-facing-dog03.jpg)
+![](/images/downward-facing-dog03.jpg)
 
 - Để vào sâu tư thế, bạn nhẹ nhàng thẳng gối và bước về phía trước một chút.
 - Hai xương ngồi được đẩy cao và nằm giữa khoảng cách của cổ tay và cổ chân.

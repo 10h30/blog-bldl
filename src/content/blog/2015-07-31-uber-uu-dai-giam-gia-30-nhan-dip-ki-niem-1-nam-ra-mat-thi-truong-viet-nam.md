@@ -6,13 +6,13 @@ categories:
   - "khuyen-mai"
 tags:
   - "uber"
-coverImage: "uber-khuyen-mai.jpg"
+image: "uber-khuyen-mai.jpg"
 slug: "uber-uu-dai-giam-gia-30-nhan-dip-ki-niem-1-nam-ra-mat-thi-truong-viet-nam"
 ---
 
 Nhân dịp kỉ niệm 1 năm ra mắt ở thị trường Việt Nam, UBER mới đây đã tung ra chương trình ưu đãi mới dành cho tất cả các khách hàng.
 
-![UBERvesary](images/ubervesary.png)
+![UBERvesary](/images/ubervesary.png)
 
 \[su_note note_color="#e4e6e3" radius="2"\]
 

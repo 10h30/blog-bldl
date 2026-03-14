@@ -5,7 +5,7 @@ pubDate: 2017-04-12
 categories:
   - "an-uong"
   - "du-lich"
-coverImage: "sansai-ryori-bldl03.jpg"
+image: "sansai-ryori-bldl03.jpg"
 slug: "sansai-ryori-dac-san-bo-noi-tieng-cua-thanh-pho-takayama"
 destination:
   - "takayama"
@@ -17,13 +17,13 @@ Không chỉ nổi tiếng với [làng cổ di sản thế giới Shirakawa-go]
 
 ### Đặc sản Sansai-ryori
 
-![](images/sansai-ryori-bldl03.jpg)
+![](/images/sansai-ryori-bldl03.jpg)
 
 Món sansai-ryori là một món ăn có cách chế biến rất cầu kỳ và tinh tế. Sansai-ryori được chế biến từ rau quả địa phương, dương xỉ và rau rừng. Sansai-ryori thường được ăn kèm với hoba miso (thịt bò, rau củ trộn với sốt miso được đặt trên một chiếc lá mộc lan khô và nướng trên một lò than nhỏ). Đây cũng là lúc bạn có cơ hội thưởng thức **Hida-gyu -** thịt bò địa phương nổi tiếng nhất Takayama. Sansai-ryori đẹp như một tác phẩm nghệ thuật vậy! Tinh tế, kiểu cách, đậm đà văn hoá đặc sắc của vùng đất Takayama cổ kính.
 
 Cái thú khi ăn sansai-ryori là bạn sẽ từ từ ngửi thấy được hương thơm lan toả từ hỗn hợp thịt bò và rau củ được nướng chín trên chiếc lá mộc lan. Nhất định bạn phải uống rượu sake khi ăn sansai-ryori nhé. Ngon tê dại luôn đấy. Thịt bò mềm hương vị đậm đà, rau củ ngọt lịm kết hợp vị cay nồng của rượu sake, tạo ra sự bùng nổ hương vị ngay trên đầu lưỡi :))
 
-![](images/sansai-ryori-bldl05.jpg)
+![](/images/sansai-ryori-bldl05.jpg)
 
 ### Nhà hàng Hidatakayama Kyoya
 
@@ -31,7 +31,7 @@ Vợ chồng mình lùng sục nghiên cứu và đã tìm ra nhà hàng chuyên
 
 _Địa chỉ: 1-77 Oshinmachi, Takayama 506-0851, Gifu Prefecture_
 
-![](images/sansai-ryori-bldl01.jpg)
+![](/images/sansai-ryori-bldl01.jpg)
 
 Khác với vẻ ngoài cổ kính trầm mặc, khi bước vào bên trong, Hidatakayama Kyoya tưng bừng tiếng cười, tiếng trò chuyện vui vẻ của các thực khách tại đây. Hơn 50% thực khách tại đây là người nước ngoài. Nhiêu đó cũng đủ thấy danh tiếng của Kyoya thu hút khách du lịch quốc tế mạnh đến mức nào. BLDL cũng là bằng chứng đây haha.
 
@@ -39,9 +39,9 @@ Khác với vẻ ngoài cổ kính trầm mặc, khi bước vào bên trong, Hi
 
  Hai đứa mạnh dạn kêu ngay phần sansai-ryori đặc biệt cho hai người ăn. Lần lượt hai phần "dĩa lá" được bày ra với bò và rau củ ngập trong sốt miso nâu, kèm theo hai dĩa đậu hủ và rau củ địa phương hấp. Trời ơi, ngon lắm lắm, thơm dã man! Chỉ tiếc bò hơi ít, đúng 4 lát mỏng mà thôi nên hai đứa gậm nhắm nhâm nhi từng chút từng chút một.
 
-![](images/sansai-ryori-bldl02.jpg)
+![](/images/sansai-ryori-bldl02.jpg)
 
-![](images/sansai-ryori-bldl04.jpg)
+![](/images/sansai-ryori-bldl04.jpg)
 
 Trung bình một set sansai-ryori như thế này là **khoảng 3000 Yên**. Nếu so với chất lượng phục vụ và thức ăn thì mức giá này không quá tầm với đâu.
 

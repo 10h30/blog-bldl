@@ -5,7 +5,7 @@ pubDate: 2015-04-18
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-coverImage: "noir.jpg"
+image: "noir.jpg"
 slug: "noir-trai-nghiem-am-thuc-doc-dao-trong-bong-toi"
 destination:
   - "viet-nam"
@@ -15,7 +15,7 @@ destination:
 
 Nếu chưa, hãy đến nhà hàng Noir để được trải nghiệm ẩm thực độc đáo có một không hai này. Bạn sẽ phải vận dụng hết các giác quan của mình (khướu giác, vị giác, xúc giác), để thưởng thức bữa tối trong không gian tối đen. Thiếu đi thị giác, bạn sẽ có một cảm nhận ẩm thực hoàn toàn khác biệt.
 
-![NOIR](images/noir-dining-in-the-dark-02.jpg)
+![NOIR](/images/noir-dining-in-the-dark-02.jpg)
 
 > Bò hay Heo? Cá hay Tôm? Món này là món gì?
 
@@ -27,11 +27,11 @@ Mình vừa mới có dịp ghé quán Noir chiều tối hôm qua cùng một n
 
 Ẩn mình trong một con hẻm nhỏ yên tĩnh trên đường Hai Bà Trưng, nhà hàng **Noir** giới thiệu không gian ẩm thực cực kỳ cá tính, tách biệt khỏi sự ồn ào đông đúc chỉ cách đó vài bước chân. Bên trong quán là phong cách kiến trúc đương đại pha trộn giữa phương Tây và phương Đông. Đó cũng là nguồn cảm hứng cho thực đơn của quán: Easten (món Á), Western (món Âu) và Vegetable (món Chay).
 
-![Một góc nhỏ trong NOIR](images/noir-dining-in-the-dark-04.jpg)
+![Một góc nhỏ trong NOIR](/images/noir-dining-in-the-dark-04.jpg)
 
 **NOIR** chỉ mới mở được 6 tháng nhưng đã tạo được tiếng vang với thực khách trong lẫn ngoài nước. Noir cũng được đánh giá 5 sao trên trang Tripadvior nổi tiếng chuyên giới thiệu nhà hàng, khách sạn trên toàn thế giới.
 
-![Noir - Dining in the dark 03](images/noir-dining-in-the-dark-03.jpg)Chủ quán là một anh Tây rất hiếu khách. Anh chia sẻ nguồn cảm hứng mở Noir nhằm giới thiệu trải nghiệm ẩm thực mới lạ đến mọi người đồng thời giúp nâng tầm nhận thức của xã hội về cộng đồng người khiếm thị. Các nhân viên phục vụ trong phòng ăn là các bạn trẻ khiếm thị, rất dễ thương và nhiệt tình.
+![Noir - Dining in the dark 03](/images/noir-dining-in-the-dark-03.jpg)Chủ quán là một anh Tây rất hiếu khách. Anh chia sẻ nguồn cảm hứng mở Noir nhằm giới thiệu trải nghiệm ẩm thực mới lạ đến mọi người đồng thời giúp nâng tầm nhận thức của xã hội về cộng đồng người khiếm thị. Các nhân viên phục vụ trong phòng ăn là các bạn trẻ khiếm thị, rất dễ thương và nhiệt tình.
 
 Thực đơn của quán rất đơn giản, được chia làm 3 phong cách khác nhau: Easten (món Á), Western (món Âu) và Vegetable (món Chay). Mỗi set bữa ăn cho mỗi người sẽ có ba phần: khai vị, món chính và tráng miệng. Nhà hàng sẽ hỏi bạn có dị ứng với món gì không để họ thay thế nếu cần thiết. Bạn sẽ không hề biết trước mình sẽ được ăn gì cho đến khi bước chân vào ...bóng tối.
 
@@ -41,7 +41,7 @@ Hãy bắt đầu chuyến phiêu lưu thú vị với **NOIR** bên dưới nha
 
 Trước khi thưởng thức bữa ăn, để giúp thực khách làm quen với bóng tối, nhà hàng sẽ cho mọi người thử sức với một trò chơi nho nhỏ. Nhiệm vụ của bạn là phải đeo khăn kín mắt, và phải sắp xếp các khối nhựa nhiều hình dạng vào đúng vị trí của nó trên khuôn.
 
-![Trò chơi dành cho tất cả thực khách bắt đầu chuyến phiêu lưu với NOIR](images/noir-dining-in-the-dark-01.jpg)
+![Trò chơi dành cho tất cả thực khách bắt đầu chuyến phiêu lưu với NOIR](/images/noir-dining-in-the-dark-01.jpg)
 
 Nhìn đơn giản vậy chứ lúc đeo bịt mắt vào là thấy nó khó khủng khiếp. Mình ngồi loay hoay ráp đến gần hai phút mới xong. Quả là một màn khởi động ấn tượng.
 
@@ -49,7 +49,7 @@ Nhìn đơn giản vậy chứ lúc đeo bịt mắt vào là thấy nó khó kh
 
 Phòng ăn của quán được xử lý triệt tiêu mọi ánh sáng, tạo nên một không gian tối đen như mực. Trước khi vào phòng, tất cả mọi người phải gửi điện thoại và đồng hồ ở khu giữ đồ nhằm bảo đảm không có ai mang ánh sáng vào phòng, làm ảnh hưởng đến trải nghiệm của mọi người.
 
-![NOIR - Dining in the dark](images/noir.jpg)
+![NOIR - Dining in the dark](/images/noir.jpg)
 
 Phụ trách dẫn khách lên lầu là các bạn nhân viên khiếm thị. Các bạn này sẽ hướng dẫn mọi người vào ghế ngồi, đồng thời là nhân viên phục vụ trong suốt buổi ăn.
 
@@ -73,7 +73,7 @@ Cuối bữa ăn, mọi người sẽ quay lại khu vực Lounge để được
 
 > Wow! - It's amazing!
 
-![Thăn Bò Đút Lò](images/noir-beef-e1429367760476.jpg)
+![Thăn Bò Đút Lò](/images/noir-beef-e1429367760476.jpg)
 
 Tất cả đều được chế biến công phu, tỉ mỉ. Phần trưng bày món ăn trên hình rất đẹp, giống như trên MasterChef vậy đó. Chỉ có điều không biết lúc dọn ra trong phòng tối có được vậy không thì chỉ có đầu bếp mới biết ^^
 

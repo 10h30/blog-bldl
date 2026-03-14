@@ -6,7 +6,7 @@ categories:
   - "meo-hay"
 tags:
   - "uber"
-coverImage: "tan-son-nhat.jpg"
+image: "tan-son-nhat.jpg"
 slug: "thoai-mai-voi-uber-khong-lo-danh-giut-taxi-o-san-bay-tan-son-nhat"
 ---
 
@@ -22,10 +22,10 @@ Từ ngày xuất hiện [UBER](https://balodeplao.com/go/uber/), vấn đề tr
 
 Luôn có sẵn rất nhiều xe UBER trực xung quanh khu vực sân bay Tân Sơn Nhất sẵn sàng đón khách. Chỉ sau 2,3 phút yêu cầu, xe UBER sẽ có mặt ngay địa điểm đã hẹn để đón bạn về nhà. Cảm giác cứ như giám đốc có xe riêng đưa đón.
 
-![Luôn có sẵn rất nhiều xe UBER ở khu vực sân bay Tân Sơn Nhất](images/uber-san-bay-2.png)
+![Luôn có sẵn rất nhiều xe UBER ở khu vực sân bay Tân Sơn Nhất](/images/uber-san-bay-2.png)
 
 Đi UBER từ sân bay còn có ưu điểm là không lo kì kèo đường xa đường ngắn. Bạn chỉ việc lên xe, yêu cầu địa điểm cần đến và thư giãn ngồi đợi. Còn mấy ông taxi bình thường chỉ thích chở khách đi Q.1, Q. Bình Thạnh hay các khu vực xa xa thôi. Còn đi quận Tân Bình hay chỗ nào gần gần thì sẽ tỏ thái độ khó chịu ra mặt, đôi khi còn vòi vĩnh thêm tiền.
 
-![Chỉ cần đợi 2,3 phút là sẽ có xe đón bạn về nhà](images/uber-san-bay-1.png)
+![Chỉ cần đợi 2,3 phút là sẽ có xe đón bạn về nhà](/images/uber-san-bay-1.png)
 
 Các bạn nào chưa dùng thử UBER có thể tham khảo thêm bài viết hướng dẫn sử dụng UBER bên dưới nhé. Dùng một lần là thích ngay! \[su_posts template="templates/list-loop.php" id="878,968" posts_per_page="-1" tax_operator="0" order="desc" orderby="none"\]

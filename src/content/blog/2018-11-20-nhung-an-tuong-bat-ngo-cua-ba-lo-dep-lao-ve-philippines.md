@@ -5,7 +5,7 @@ pubDate: 2018-11-20
 categories:
   - "an-uong"
   - "du-lich"
-coverImage: "philippines-beach.jpg"
+image: "philippines-beach.jpg"
 slug: "nhung-an-tuong-bat-ngo-cua-ba-lo-dep-lao-ve-philippines"
 destination:
   - "philippines"
@@ -25,7 +25,7 @@ Trà, cafe, bánh trái, thức ăn đường phố... tại Philippines đều 
 
 Chả trách **[Halo Halo](https://balodeplao.com/thien-duong-am-thuc-manila/)** được mệnh danh là món tráng miệng được yêu thích nhất của xứ ngàn đảo. Halo (có nghĩa trộn) bao gồm phía trên là viên kem khoai tím Ube dai dai béo ngậy, phía dưới là lớp đá bào rưới sữa đặc, chuối, xoài, mít, hỗn hợp các loại mứt đậu thơm lừng và vô số những hạt trân châu sắc màu. Đúng với cái tên “chè trộn trộn” nên khi ăn các bạn phải trộn đều mọi thành phần với nhau thì mới cảm nhận hết được vị béo ngậy của kem, giòn tan của mứt, vị bùi của đậu, ngọt lịm của trái cây và sự mát rượi lan toả cả người.
 
-![Ly Buko Pandan béo ngậy bên cạnh Halo Halo khổng lồ](images/Buko-Pandan-01.jpg)
+![Ly Buko Pandan béo ngậy bên cạnh Halo Halo khổng lồ](/images/Buko-Pandan-01.jpg)
 
 Ngoài ra, **Buko Pandan** cũng là món tráng miệng được rất nhiều người Philippines yêu thích..và bao gồm cả mình. Mặc dù ở Manila có 2 đêm thôi nhưng mỗi ngày mình đều ăn Buko ngọt lịm này ???? Buko được làm từ dừa non, lá dứa, thạch và sữa...Bạn sẽ bị ấn tượng ngay muỗng đầu tiên bởi vị ngọt dịu, thanh mát của thạch, béo ngậy của dừa non và mùi thơm đậm đà của lá dứa. Cẩn thận kẻo bị tăng cân như mình! Tráng miệng ở Philippines quá ôi hấp dẫn.
 
@@ -39,7 +39,7 @@ Nếu các bạn đã từng đặt chân đến thủ đô Manila của Philipp
 
 Khác với [thiên đường xinh đẹp Boracay](https://balodeplao.com/boracay-dep-tung-centimet/), ấn tượng đầu tiên của mình về Manila là người vô gia cư quá nhiều. Họ ngủ lay lắt, co ro trong đêm trước các vỉa hè của những toà cao ốc sang trọng. Cảnh tượng đối lập đến đau lòng. Việt Nam chúng ta dù không phải là một quốc gia giàu có nhưng số lượng người vô gia cư không nhiều. Thậm chí Đà Nẵng còn có không có người ăn xin. Họ đều được đưa về các trung tâm xã hội để hướng nghiệp và tạo cơ hội việc làm. Ở Philippines, bạn sẽ dễ dàng nhận ra khoảng cách giàu nghèo được phân biệt một cách rõ rệt.
 
-![](images/poor-philippines-jgp.jpg)
+![](/images/poor-philippines-jgp.jpg)
 
 ## Rau xanh khan hiếm
 
@@ -47,7 +47,7 @@ Theo mình, người Philippines rất ít ăn rau và không thích ăn rau tư
 
 ## Cơm muôn năm
 
-![](images/eating-philippines.jpg)
+![](/images/eating-philippines.jpg)
 
 Người Philippines cần cơm như cần không khí. Họ ăn cơm sáng, cơm trưa, cơm chiều, cơm tối. Đến các cửa hàng ăn nhanh như McDonald, KFC, Jollibee… lúc nào cũng có cơm, thậm chí có những suất “unlimited rice” (ăn cơm bao nhiêu tùy thích, hết cơm người bán lại tiếp cho). Mỗi suất là cơm được nén lại trong chén to, gần giống cơm cúng bên Việt Nam.
 
@@ -63,7 +63,7 @@ Nếu so với thế giới nước chấm muôn màu muôn vẻ của Việt Na
 
 Không chỉ nghiện các trung tâm mua sắm hoành tráng, người Philippines còn nghiện nặng việc nhắn tin. Mạng lưới di động phủ dày kín tất cả các hòn đảo của Philippines. Bạn sẽ khá bất ngờ khi cả khách sạn hay nhà trọ cũng yêu cầu khách hàng nhắn tin đặt chỗ khi không thể gọi điện cho họ.
 
-![](images/philippines-mobile.jpg)
+![](/images/philippines-mobile.jpg)
 
 Trên đường phố, trong quán ăn hay trên xe bus hay bất cứ nơi đâu, cảnh tượng mọi người tập trung nhắn tin hoặc nói chuyện điện thoại liên tục là vô cùng bình thường ở Philippines. Chả trách đất nước này từng được mệnh danh là "thủ đô nhắn tin của thế giới" từ giữa thập niên 90 đến đầu những năm 2000.
 

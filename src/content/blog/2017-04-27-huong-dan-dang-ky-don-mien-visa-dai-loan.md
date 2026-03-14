@@ -7,7 +7,7 @@ categories:
 tags:
   - "visa-du-lich"
   - "visa-dai-loan"
-coverImage: "ma-so-visa.jpg"
+image: "ma-so-visa.jpg"
 slug: "huong-dan-dang-ky-don-mien-visa-dai-loan"
 destination:
   - "dai-loan"
@@ -40,15 +40,15 @@ Như đã chia sẻ ở trên, cách này chỉ áp dụng cho các bạn đã c
 
 [Đăng ký thị thực Đài Loan](https://niaspeedy.immigration.gov.tw/nia_southeast)
 
-![Chọn Việt Nam, sau đó bấm Next](images/taiwan-entry-permit-1.png)
+![Chọn Việt Nam, sau đó bấm Next](/images/taiwan-entry-permit-1.png)
 
-![Trang này giải thích quy trình xử lý đơn xin nhập cảnh, bấm Next, sau đó Next cái nữa](images/taiwan-entry-permit-2.png)
+![Trang này giải thích quy trình xử lý đơn xin nhập cảnh, bấm Next, sau đó Next cái nữa](/images/taiwan-entry-permit-2.png)
 
-![Điền đầy đủ thông tin yêu cầu](images/taiwan-entry-permit-3.png)
+![Điền đầy đủ thông tin yêu cầu](/images/taiwan-entry-permit-3.png)
 
 Tất cả các dòng đều có sẵn tiếng Việt, nên không có gì khó khăn nhé. Ở phần điều kiện đặc biệt, nếu bạn đã có visa của các nước đươc chấp nhận, chọn **người có giấy phép nhập cảnh**, tiếp theo chọn nước và điền số thẻ visa đã được cấp trước đó.
 
-![Số thẻ visa thường nằm ở góc trái phía trên](images/ma-so-visa.jpg)
+![Số thẻ visa thường nằm ở góc trái phía trên](/images/ma-so-visa.jpg)
 
 Bạn bấm next sau khi đã điền đầy đủ thông tin. Hệ thống sẽ xử lý trong vài phút và thông báo đăng ký thành cộng. Bạn phải in tờ khai nhập cảnh miễn thị thực này để đem theo khi đến Đài Loan.
 

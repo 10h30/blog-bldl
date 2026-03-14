@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-04-30
 categories:
   - "tam-su"
-coverImage: "happy.jpg"
+image: "happy.jpg"
 slug: "song-tron-ven-cho-hien-tai-khong-hoi-tiec"
 ---
 

@@ -5,7 +5,7 @@ pubDate: 2017-05-09
 categories:
   - "an-uong"
   - "du-lich"
-coverImage: "momiji-tei-bldl04.jpg"
+image: "momiji-tei-bldl04.jpg"
 slug: "am-thuc-hiroshima-banh-xeo-okonomiyaki-phong-cach-anime-noi-tieng-nhat-hiroshima"
 destination:
   - "hiroshima"
@@ -29,7 +29,7 @@ Trong hai ngày khám phá [di tích lịch sử Hiroshima](https://balodeplao.c
 
 Okonomiyaki của vùng Hiroshima thường được kẹp nhiều lớp bắp cải và mì vào trong nhân. Phần nhân thường bao gồm: mì, bắp cải, thịt heo ba chỉ, trứng gà ...tất cả được bọc bởi hai lớp bột mì nướng ươm vàng hấp dẫn. Vì vậy việc nướng chín bánh rất khó, cần kĩ thuật chuyên môn của người đầu bếp.
 
-![](images/okonomiyaki-hiroshima.jpg)
+![](/images/okonomiyaki-hiroshima.jpg)
 
 ### Ăn Bánh xèo Okonomiyaki - Hiroshima ở đâu?
 
@@ -44,19 +44,19 @@ Nhà hàng Momiji-tei hơi bị khó tìm bởi nằm trên lầu chứ không p
 
 Gia đình nào đẩy xe nôi thì chịu khó xếp xe, ẵm bé lên lầu như nhà Silk nhé. Ấn tượng đầu tiên về Momiji-tei là quán khá nhỏ và ngập tràn poster các nhân vật truyện tranh Nhật Bản. Ông chủ là người đam mê chuyên tranh nên có cả một tủ kính trưng bày các nhân vật nổi tiếng như Doreamon, Thuỷ thủ mặt trăng, Toroto...Không gian lạ lẫm này đem đến cho thực khách một cảm giác khá thú vị.
 
-![](images/momiji-tei-bldl02.jpg)
+![](/images/momiji-tei-bldl02.jpg)
 
-![](images/momiji-tei-bldl01.jpg)
+![](/images/momiji-tei-bldl01.jpg)
 
 Sau 30 phút ngồi quan sát đầu bếp tay thoăn thoắt nướng bánh, hai dĩa bánh xèo Okonomiyaki khổng lồ đã được bày ra trước mặt: một phần không cay và một phần cay đặc biệt. Mùi thơm bay nứt mũi. Lớp mặt bánh trên cùng giòn rụm, ươm vàng, được trang trí bởi sốt mayonnaise và hành lá tươi/ hoặc sốt ớt cay.
 
 https://www.instagram.com/p/BNqZJ9xDqOt/?taken-by=balodeplao
 
-![](images/momiji-tei-bldl04.jpg)
+![](/images/momiji-tei-bldl04.jpg)
 
-Phần giữa thân bánh ngập bắp cải xào, mì sợi và thịt ba chỉ. Tất cả đều được nêm nếm gia vị rất đậm đà. Vì vậy các bạn không cần dùng bánh chung với bất cứ nước chấm nào thêm nữa. Trong lúc ăn Okonomiyaki, vợ chồng mình cũng nhâm nhi nhấp vài ngụm rượu sake nóng. Sự kết hợp tuyệt vời đấy!![](images/momiji-tei-bldl05.jpg)
+Phần giữa thân bánh ngập bắp cải xào, mì sợi và thịt ba chỉ. Tất cả đều được nêm nếm gia vị rất đậm đà. Vì vậy các bạn không cần dùng bánh chung với bất cứ nước chấm nào thêm nữa. Trong lúc ăn Okonomiyaki, vợ chồng mình cũng nhâm nhi nhấp vài ngụm rượu sake nóng. Sự kết hợp tuyệt vời đấy!![](/images/momiji-tei-bldl05.jpg)
 
-![](images/momiji-tei-bldl03.jpg)
+![](/images/momiji-tei-bldl03.jpg)
 
 Nhân viên và ông chủ ở đây rất dễ thương và nhiệt tình. Mọi người thi đua nhau lấy đồ chơi cho Silk chơi, trò chuyện, chọc cười khi cô ấy nhõng nhẽo. Đây là điểm ăn uống yêu thích của BLDL khi đến Hiroshima.
 

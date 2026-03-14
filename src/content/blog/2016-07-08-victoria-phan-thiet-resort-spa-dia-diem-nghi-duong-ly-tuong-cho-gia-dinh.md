@@ -6,7 +6,7 @@ categories:
   - "du-lich"
 tags:
   - "khach-san"
-coverImage: "victoria-phan-thiet-bldl05.jpg"
+image: "victoria-phan-thiet-bldl05.jpg"
 slug: "victoria-phan-thiet-resort-spa-dia-diem-nghi-duong-ly-tuong-cho-gia-dinh"
 destination:
   - "mui-ne"
@@ -26,7 +26,7 @@ Vì vậy, qua bài viết này mình muốn chia sẻ một số kinh nghiệm 
 
 Khuôn viên Victoria rất rộng, bao phủ một màu xanh mát với vô vàn cây xanh và hoa. Ngoài ra, resort còn cung cấp nhiều dịch vụ và tiện ích miễn phí như jacuzzi, phòng tập thể dục, bể bơi, chèo thuyền kayak... tạo sự tiện nghi và thoải mái cho khách hàng.
 
-![Bungalow nhà mình đây !](images/victoria-phan-thiet-bldl05.jpg)
+![Bungalow nhà mình đây !](/images/victoria-phan-thiet-bldl05.jpg)
 
 Mặc dù đi chơi cùng nhau nhưng hai vợ chồng phải thay phiên nhau hưởng thụ. Sáng mình tập gym thì chiều chồng đi tắm hơi hoặc đi bơi. Mình rất ưng ý phòng tập thể dục của Victoria. Tuy không to nhưng thiết bị tập được trang bị đầy đủ và... rất vắng người ! Chắc do phần lớn không ai đi du lịch mà siêng tập như mình.
 
@@ -34,7 +34,7 @@ Mặc dù đi chơi cùng nhau nhưng hai vợ chồng phải thay phiên nhau h
 
 Mình rất tâm đắc với hồ bơi tại đây, rộng lớn và hướng nhìn ra biển rất đẹp. Nước hồ bơi cố tình được làm ấm nên bơi không sợ lạnh nhe. Victoria có hai hồ bơi lớn, các bạn tha hồ lựa chọn "đổi gió".
 
-![Hồ bơi rất đẹp trong Victoria Phan Thiet Resort. Ảnh: Hotels.com](images/ho-boi-victoria-phan-thiet-resort.jpg)
+![Hồ bơi rất đẹp trong Victoria Phan Thiet Resort. Ảnh: Hotels.com](/images/ho-boi-victoria-phan-thiet-resort.jpg)
 
 Ngoài ra, hồ bơi có vách ngăn ra một phần nhỏ cho các bé chơi đùa hoặc tập bơi. Vì vậy mà suốt ba ngày liền, đây là sân chơi chính của Silk nhà mình.
 
@@ -42,21 +42,21 @@ Ngoài ra, hồ bơi có vách ngăn ra một phần nhỏ cho các bé chơi đ
 
 Mỗi Bungalow được xây dưới dạng nhà biệt lập có mái tranh và hàng hiên thoáng mát, nhìn tư xa như một ngôi làng nhỏ mộc mạc gợi nhớ đến [Topas Ecolodge](https://balodeplao.com/kham-pha-sapa-khac-biet-qua-hanh-trinh-topas-ecolodge/) trong chuyến đi Sapa của mình. Nội thất hoàn toàn bằng gỗ, trang trí nhẹ nhàng gần gũi với thiên nhiên.
 
-![](images/victoria-phan-thiet-bldl01.jpg)
+![](/images/victoria-phan-thiet-bldl01.jpg)
 
 Điểm đáng nói ở đây là nhà vệ sinh siêu rộng với thiết kế theo kiểu không gian mở. Bên hông phòng tắm là khuôn viên nhỏ ngoài trời để bạn đong đưa võng ngắm cảnh nghỉ ngơi hoặc "tắm tiên" !
 
-![Silk đang thích thú "kiểm duyệt" qua bồn tắm](images/victoria-phan-thiet-bldl03.jpg)
+![Silk đang thích thú "kiểm duyệt" qua bồn tắm](/images/victoria-phan-thiet-bldl03.jpg)
 
-![Bạn có thể nằm thư giãn đọc sách ngay khu vườn nho nhỏ bên trong Bungalow của mình](images/victoria-phan-thiet-bldl02.jpg)
+![Bạn có thể nằm thư giãn đọc sách ngay khu vườn nho nhỏ bên trong Bungalow của mình](/images/victoria-phan-thiet-bldl02.jpg)
 
 Nếu bạn có con nhỏ theo cùng, bạn có thể yêu cầu resort cung cấp nôi riêng cho bé ngủ. Vừa thoải mái cho bé vừa có không gian riêng cho ba mẹ!
 
-![Silk đang quậy banh chành trong cũi](images/victoria-phan-thiet-bldl04.jpg)
+![Silk đang quậy banh chành trong cũi](/images/victoria-phan-thiet-bldl04.jpg)
 
 Bungalow của gia đình mình hướng ra biển. Vừa mở cửa phòng ra, hiện ngay trước mắt là biển ! Thật đã! Silk cứ thế mà điên cuồng bò từ phòng thẳng ra biển chơi.
 
-![Beach Front Bungalow](images/victoria-phan-thiet-bldl07.jpg)
+![Beach Front Bungalow](/images/victoria-phan-thiet-bldl07.jpg)
 
 ### 4\. Món ăn ngon
 
@@ -76,7 +76,7 @@ Mình chỉ không vừa lòng một điểm duy nhất là do resort sát biể
 
 Theo cảm nhận của mình, Victoria Resort là một địa điểm nghỉ dưỡng lý tưởng khi bạn du lich Phan Thiết. Hi vọng với chút chia sẻ nho nhỏ, các bạn có thể tham khảo và lựa chọn nơi ở thích hợp cho mình. Chúc các bạn có chuyến đi vui vẻ!
 
-![Silk chúc các cô các bác đi chơi biển vui như con :))](images/silk-pt-bldl01.jpg)
+![Silk chúc các cô các bác đi chơi biển vui như con :))](/images/silk-pt-bldl01.jpg)
 
 ### Đặt phòng Victoria Phan Thiet Beach Resort & Spa
 

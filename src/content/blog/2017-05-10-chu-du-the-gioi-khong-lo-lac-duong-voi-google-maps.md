@@ -8,7 +8,7 @@ categories:
 tags:
   - "google-maps"
   - "ung-dung-du-lich"
-coverImage: "google-maps.jpg"
+image: "google-maps.jpg"
 slug: "chu-du-the-gioi-khong-lo-lac-duong-voi-google-maps"
 ---
 
@@ -38,17 +38,17 @@ Một trong những tính năng hữu dụng nhất của Google Maps là tiện
 
 Dưới đây là ví dụ mình hướng dẫn tìm đường đi từ [vườn thú Ueno Zoo](https://balodeplao.com/du-lich-tokyo-vui-choi-thoa-thich-cung-ueno-zoo/) đến [công viên Hitachi Seaside Park](https://balodeplao.com/chia-se-trai-nghiem-tham-quan-cong-vien-hitachi-seaside-nhat-ban/) (Tokyo, Nhật Bản). Đầu tiên các bạn nhớ mở ứng dụng Google Maps trên điện thoại. Chắc chắn rằng bạn đang truy cập Wifi hoặc đang có kết nối mạng 3G/4G để ứng dụng có thể truy cập Internet.
 
-![Địa điểm bắt đầu: Ueno Zoo, Tokyo. Bấm vào biểu tượng mũi tên ở góc dưới màn hình để bắt đầu tìm đường đi](images/huong-dan-google-maps-2.png)
+![Địa điểm bắt đầu: Ueno Zoo, Tokyo. Bấm vào biểu tượng mũi tên ở góc dưới màn hình để bắt đầu tìm đường đi](/images/huong-dan-google-maps-2.png)
 
-![Nhập địa điểm cần đến](images/huong-dan-google-maps-3.png)
+![Nhập địa điểm cần đến](/images/huong-dan-google-maps-3.png)
 
-![Chọn Hitachi Seaside Park](images/huong-dan-google-maps-4.png)
+![Chọn Hitachi Seaside Park](/images/huong-dan-google-maps-4.png)
 
-![Nhiều lựa chọn cho bạn để đi từ Ueno Zoo đến Hitachi Seaside Park](images/huong-dan-google-maps-5.png)
+![Nhiều lựa chọn cho bạn để đi từ Ueno Zoo đến Hitachi Seaside Park](/images/huong-dan-google-maps-5.png)
 
 Ngay sau khi bạn chọn địa điểm đầu và cuối, Google sẽ tìm kiếm và đưa ra các lựa chọn di chuyển cho bạn. Trong hình trên là các lựa chọn di chuyển bằng xe bus/xe điện kèm theo chi phí giá vé. Bạn có thể bấm vào biểu tượng xe hơi để xem đường đi bằng taxi hoặc bấm vào biểu tượng hình người để xem đường đi bộ. Để xem chi tiết đường đi, các bạn bấm vào lựa chọn mình muốn. Ví dụ mình bấm vào dòng đầu tiên trong ô đỏ.
 
-![Chi tiết đường đi](images/huong-dan-google-maps-6.png)
+![Chi tiết đường đi](/images/huong-dan-google-maps-6.png)
 
 Chi tiết đường đi từ Ueno Zoo đến Hitachi Seaside Park như sau:
 
@@ -59,7 +59,7 @@ Chi tiết đường đi từ Ueno Zoo đến Hitachi Seaside Park như sau:
 
 Bạn có thể bấm vào MAP để xe chi tiết hướng dẫn đi bộ để tránh bị lạc.
 
-![Chi tiết đường đi bộ từ Ueno Zoo đến Ueno Station](images/huong-dan-google-maps-1.png)
+![Chi tiết đường đi bộ từ Ueno Zoo đến Ueno Station](/images/huong-dan-google-maps-1.png)
 
 Trên đường đi, các bạn nhớ chú ý theo dõi địa điểm hiện tại của mình (my location) để xem có đi lạc ra khỏi lộ trình không nhé. Đặc biệt khi đi xe điện, nhớ chú ý đi đúng hướng. Cần chú ý để nếu phát hiện đi sai, có thể quay đầu lại ngay, đỡ mất thời gian.
 

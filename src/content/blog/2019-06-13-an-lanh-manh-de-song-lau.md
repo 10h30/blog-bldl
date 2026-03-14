@@ -5,7 +5,7 @@ pubDate: 2019-06-13
 categories:
   - "an-uong"
   - "tam-su"
-coverImage: "salad.jpg"
+image: "salad.jpg"
 slug: "an-lanh-manh-de-song-lau"
 ---
 
@@ -29,7 +29,7 @@ Thời sơ khai, con người chúng ta ăn toàn những thực phẩm thuần 
 
 **Việc ăn nhiều đồ ăn chế biến làm chúng ta cảm thấy thừa cân, mệt mỏi, hay bị dị ứng và phụ thuộc vào thuốc thang.**
 
-![](images/ham.jpg)
+![](/images/ham.jpg)
 
 Nói dễ hiểu hơn, thay vì ăn salad tươi chúng ta ăn khoai tây chiên; thay vì ăn bánh mì nguyên cám chúng ta ăn bánh mì trắng. Thay vì ăn cơm gạo lứt chúng ta ăn cơm nấu từ gạo trắng đã tẩy. Nhưng các bạn có công nhận một điều là những thứ "độc hại" đó thường đem đến cảm giác ngon miệng - thoả mãn hơn rất nhiều so với những thứ "lành mạnh" không haha.
 

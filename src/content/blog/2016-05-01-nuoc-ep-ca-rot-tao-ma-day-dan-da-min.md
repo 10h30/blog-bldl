@@ -5,7 +5,7 @@ pubDate: 2016-05-01
 categories:
   - "an-uong"
   - "meo-hay"
-coverImage: "img_3825.jpg"
+image: "img_3825.jpg"
 slug: "nuoc-ep-ca-rot-tao-ma-day-dan-da-min"
 ---
 
@@ -28,20 +28,20 @@ Vì mình có gương mặt dài hơi xương nên mình lựa chọn hỗn hợ
 
 - Bạn ngâm rửa cà rốt và táo kĩ lưỡng, sau đó gọt sạch vỏ, cắt lát/ khúc nhỏ như hình.
 
-![](images/nuoc-ep-carot-bldl01.jpg)
+![](/images/nuoc-ep-carot-bldl01.jpg)
 
-![](images/nuoc-ep-carot-bldl02.jpg)
+![](/images/nuoc-ep-carot-bldl02.jpg)
 
 - Nếu nhà bạn có máy ép thì quá tiện dụng chỉ cần cho lần lượt từng lát rồi ép lấy nước thôi. Phần bã cà rốt bạn đừng vội bỏ đi mà để lại một ít làm mặt nạ đắp rất tốt.
 
-![Bỏ tất cả vào máy ép thế là xong !](images/nuoc-ep-carot-bldl03.jpg)
+![Bỏ tất cả vào máy ép thế là xong !](/images/nuoc-ep-carot-bldl03.jpg)
 
-![](images/nuoc-ep-carot-bldl05.jpg)
+![](/images/nuoc-ep-carot-bldl05.jpg)
 
 - Còn không bạn có thể dùng máy xay sinh tố thì thành phẩm ra sẽ hơi lợn cợn tí không sao hết ha.
 - Cho một ít nước chanh vào nếu bạn nào thích ăn chua chua như mình
 
-![Thành phẩm tèn ten ten! Màu thật đẹp, lại thơm ngon](images/nuoc-ep-carot-bldl07.jpg)
+![Thành phẩm tèn ten ten! Màu thật đẹp, lại thơm ngon](/images/nuoc-ep-carot-bldl07.jpg)
 
 ### II. Tận dụng phần bã cà rốt làm mặt nạ dưỡng da
 

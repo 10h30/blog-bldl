@@ -5,7 +5,7 @@ pubDate: 2017-10-22
 categories:
   - "an-uong"
   - "du-lich"
-coverImage: "day-1-at-sing09.jpg"
+image: "day-1-at-sing09.jpg"
 slug: "trekking-tai-singapore-ngay-1-kham-pha-the-green-corridor-va-ngon-mieng-voi-chao-ech-geylang"
 destination:
   - "singapore"
@@ -43,57 +43,53 @@ https://www.instagram.com/p/BaI9o-JlfUl/?taken-by=balodeplao
 
 Rất thuận tiện cho các bạn muốn mua sắm gì đó về làm quà cho người thân hoặc tiêu dùng của bản thân. Bởi Changi City Point có rất nhiều outlet của các thương hiệu lớn như Nike, Adidas, Asics, Under Armour, Timberland, Levis...Và đa phần hàng hoá đều được giảm giá mạnh do nhiều mẫu mã đã qua mùa hoặc chỉ còn vài size nhỏ lẻ. Đây là địa điểm mua sắm yêu thích của mình do hàng hiệu vừa đẹp vừa phải chăng lại có nhiều cửa hàng ăn uống rất ngon.
 
-![Mình đến Changi City Point là tậu ngay một đôi giày chạy địa hình Nike mới toanh với giá giảm đến 30%](images/day-1-at-sing07.jpg)
+![Mình đến Changi City Point là tậu ngay một đôi giày chạy địa hình Nike mới toanh với giá giảm đến 30%](/images/day-1-at-sing07.jpg)
 
 ## Khám phá con đường mòn màu xanh The Green Corridor
 
 Sau khi mua sắm đã đời nào giày nào quần áo thể thao, hai đứa mình bắt tàu điện về nơi ở. Mình đặt phòng [**AirBnB**](http://www.airbnb.com/c/tbui44) gần ngay cạnh **Bukit Timah.**
 
-![Maple Wood là khu dân cư mình thuê phòng Air BnB. Không gian yên tĩnh, rộng rãi và thoáng đãng. Mình sẽ cho các bạn một bài viết review chi tiết riêng sau nhé.](images/day-1-at-sing06.jpg)
+![Maple Wood là khu dân cư mình thuê phòng Air BnB. Không gian yên tĩnh, rộng rãi và thoáng đãng. Mình sẽ cho các bạn một bài viết review chi tiết riêng sau nhé.](/images/day-1-at-sing06.jpg)
 
-![](images/day-1-at-sing03.jpg)
+![](/images/day-1-at-sing03.jpg)
 
 Khi qua đến nơi mới được bác chủ nhà chỉ thêm đường chạy [**The Green Corridor**](http://www.thegreencorridor.org/), vốn là đường sắt nối liền Malaysia và Singapore trước năm 2011. Sau khi bị gỡ bỏ đường ray, tuyến đường được cải tạo thành đường mòn dành cho người dân đến chạy bộ và đạp xe. Thật tuyệt khi giữa lòng Singapore hiện đại lại hiện hữu một đường chạy xanh mướt thế này!
 
-![](images/day-1-at-sing09.jpg)
+![](/images/day-1-at-sing09.jpg)
 
 Sau khi ngủ trưa, tụi mình quyết định đi bộ tham quan The Green Corridor. Lối vào là một con đường mòn nhỏ, hoang vắng, đầy cây xanh hai bên.
 
-![](images/day-1-at-sing11.jpg)
+![](/images/day-1-at-sing11.jpg)
 
 Có vẻ chỉ có dân mê thể thao như chạy bộ hay xe đạp hoặc nhiếp ảnh gia mới lui tới nơi đây. Khác biệt sự đông đúc náo nhiệt ở Marina Bay hay Orchard Road, nơi đây chỉ có không gian yên tĩnh, không khí trong lành và thiên nhiên xinh đẹp mà thôi. Đi một đoạn mình đã thấy đoạn đường sắt nổi tiếng nối liền Malaysia và Singapore.
 
- 
-
-![](images/day-1-at-sing08.jpg)
+![](/images/day-1-at-sing08.jpg)
 
 Chính phủ Singapore cố ý giữ lại đoạn đường sắt cũ kĩ này để mọi người đến tham quan, chụp hình cũng như chạy bộ và đạp xe.
 
-![](images/day-1-at-sing13.jpg)
+![](/images/day-1-at-sing13.jpg)
 
 Quá xá đã phải không nào? BLDL cũng có vài shot hình sống ảo tại đây.
 
-![](images/day-1-at-sing10.jpg)
+![](/images/day-1-at-sing10.jpg)
 
 ## Cay nồng với Cháo ếch Eminent - Geylang
 
 7g tối hai đứa bắt MRT đến Geylang (khu phố đèn đỏ của Singapore) để ăn ...[.**cháo ếch**](https://balodeplao.com/du-hi-singapore-ngay-1-cay-nong-chao-ech-geylang/) chứ không phải để ngắm gái đâu. Nhưng ở đây thiệt sự cũng là địa bàng của các bạn gái Việt Nam. Hỏi sao không ít nhà hàng treo biển tiếng Việt và nói chuyện tiếng Việt với khách luôn. Có cảm giác không khác gì ở phố Bùi Viện quê nhà.
 
-![](images/day-1-at-sing18-1.jpg) Thú thật lần đầu tiên Ba lô rủ đi ăn cháo ếch mình không hề hứng thú bởi mình vừa không thích ăn cháo cũng chả thích ăn ếch. Thế mà giờ mình trở thành fan cuồng của **Cháo ếch Singapore**. Hai đứa lần nào cũng kêu hai thố cháo trắng và một thố ếch tiêu trắng.
+![](/images/day-1-at-sing18-1.jpg) Thú thật lần đầu tiên Ba lô rủ đi ăn cháo ếch mình không hề hứng thú bởi mình vừa không thích ăn cháo cũng chả thích ăn ếch. Thế mà giờ mình trở thành fan cuồng của **Cháo ếch Singapore**. Hai đứa lần nào cũng kêu hai thố cháo trắng và một thố ếch tiêu trắng.
 
-![](images/day-1-at-sing24.jpg)
+![](/images/day-1-at-sing24.jpg)
 
 Cách đây 4 năm, BLDL đã thử **[quán cháo ếch nổi tiếng nhất của Geylang đầu đường Lorong 9](https://balodeplao.com/du-hi-singapore-ngay-1-cay-nong-chao-ech-geylang/)**, giao với Geylang Road. Giờ thì tụi mình khám phá thêm một lựa chon mới là quán cháo ếch **Eminent Frog Porridge**. Rất nhiều người dân Singapore cũng đến đây để ăn. Món nổi tiếng nhất ở đây là **Special Frog with Garlic and White Pepper and Homemade Chilli Frog** (Ếch xào tỏi với tiêu trắng và ếch xào ớt cay).
 
-![Quán lúc nào cũng tấp nập người ngồi ăn](images/day-1-at-sing22.jpg)
+![Quán lúc nào cũng tấp nập người ngồi ăn](/images/day-1-at-sing22.jpg)
 
-![](images/day-1-at-sing20.jpg) ![](images/day-1-at-sing21.jpg)
-
- 
+![](/images/day-1-at-sing20.jpg) ![](/images/day-1-at-sing21.jpg)
 
 Giá của mỗi phần cháo là 4 SGN và phần ếch 4 con là 22 SGN. Bạn đặt càng nhiều ếch thì giá sẽ phải chăng hơn. Theo kinh nghiệm của mình, nếu bạn đi hai người thì nên kêu hai phần cháo và một phần ếch 4 con là ăn sướng luôn. Phần ếch khá nhiều trong khi một phần cháo rất ít. Nếu bạn gọi thêm cháo sau đó thì phải đợi khá lâu đấy vì quán rất đông khách.
 
-![](images/day-1-at-sing23.jpg)
+![](/images/day-1-at-sing23.jpg)
 
 _Địa chỉ Eminent Frog Porridge: 323 Geylang Road, Lorong 19, Singapore 389359| Thứ hai - Chủ nhật, 17:00 – 04:00 |_
 

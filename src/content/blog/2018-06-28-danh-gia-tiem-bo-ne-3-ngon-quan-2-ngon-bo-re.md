@@ -5,7 +5,7 @@ pubDate: 2018-06-28
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-coverImage: "bo-ne.jpg"
+image: "bo-ne.jpg"
 slug: "danh-gia-tiem-bo-ne-3-ngon-quan-2-ngon-bo-re"
 ---
 

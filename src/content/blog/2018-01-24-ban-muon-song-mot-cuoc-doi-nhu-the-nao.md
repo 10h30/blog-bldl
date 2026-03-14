@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-01-24
 categories:
   - "du-lich"
-coverImage: "win.jpeg"
+image: "win.jpeg"
 slug: "ban-muon-song-mot-cuoc-doi-nhu-the-nao"
 ---
 
@@ -26,7 +26,7 @@ Tụi mình không trốn chay mà chỉ muốn trải nghiệm cuộc sống th
 
 Và không phải tụi mình có rất nhiều tiền và quá dư tiền để làm được điều đó đâu! Thay vì tiền dành dụm cho việc mua đất, xây nhà lầu, mua xe hơi, mình chọn sự trải nghiệm. Điều này không có nghĩa mình lên án việc dành dụm cho tài sản, xây dựng một cuộc sống ổn định là sai. Chỉ đơn giản đó không phải là cách sống mà vợ chồng mình lựa chọn. Mình muốn nhìn cuộc sống qua nhiều lăng kính khác nhau với những trải nghiệm muôn màu.
 
-![](images/dalat201718.jpg)
+![](/images/dalat201718.jpg)
 
 Cuộc sống rất ngắn ngủi. Và mình không muốn khi quay đầu nhìn lại, mình phải hối tiếc hay ước ao vì bỏ lỡ những điều mình đam mê và yêu thích. Và [du lịch chính là điều khiến mình cảm thấy hạnh phúc và tuyệt vời hơn](https://balodeplao.com/vi-sao-du-lich-khien-chung-ta-tro-nen-tuyet-voi-hon/). Du lịch không nghĩa là trốn chạy khỏi cuộc đời. Hoàn toàn ngược lại, du lịch giúp chúng ta tiếp cận đến con người thực và lối sống thực của mình hơn.
 

@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-09-29
 categories:
   - "du-lich"
-coverImage: "bali-my-love.jpg"
+image: "bali-my-love.jpg"
 slug: "tu-a-z-huong-dan-kinh-nghiem-du-lich-bali-indonesia"
 destination:
   - "bali"
@@ -56,8 +56,6 @@ Mình xin lưu ý tour 1 ngày ở Bali khoảng $40/người nhưng các bạn 
 
 Trong bài viết này mình xin nêu ra một số địa điểm tham quan thú vị cũng như những nét nổi bật mà chỉ riêng Bali mới có.
 
- 
-
 https://balodeplao.com/bali-hon-dao-cua-nhung-vi-than/
 
 ## Top những việc phải làm
@@ -88,4 +86,4 @@ Ubud là vùng đất đậm đà văn hoá Bali, là địa danh được nhắ
 
 Hi vọng với ít chia sẻ chân thành, các bạn sẽ những kỉ niệm thật đẹp thật đáng nhớ ở Bali như mình đã từng. Bởi Bali luôn là vùng đất giữ một phần mảnh ghép tâm hồn mỗi người.
 
-![](images/bali-meditation.jpg)
+![](/images/bali-meditation.jpg)

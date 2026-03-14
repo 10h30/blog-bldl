@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-01-08
 categories:
   - "tam-su"
-coverImage: "sadness.jpg"
+image: "sadness.jpg"
 slug: "ban-khong-can-cam-xuc-tich-cuc-de-hanh-phuc"
 ---
 

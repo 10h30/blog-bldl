@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-06-13
 categories:
   - "du-lich"
-coverImage: "sick.jpg"
+image: "sick.jpg"
 slug: "6-meo-don-gian-giup-ban-phong-benh-khi-di-du-lich"
 ---
 
@@ -20,7 +20,7 @@ Việc này nghe có vẻ quá đơn giản nhưng lại phương thuốc phòng
 
 Các bạn có thể lên mạng và search những bước rửa tay cần và đủ để bảo đảm vệ sinh tay sạch sẽ. Các em bé nhỏ khi mới học mẫu giáo đã được dạy rất kỹ về quy trình rửa tay đúng. Chỉ có người lớn chúng ta là thường không để ý và rửa tay qua loa thôi.
 
-![](images/mino-bldl08.jpg)
+![](/images/mino-bldl08.jpg)
 
 Cách tốt nhất khi đi du lịch là bạn nên tự chuẩn bị một lọ nước rửa tay tiệt trùng trong trường hợp không có xà bông và nước. Khi có thể, hãy cố gắng rửa tay trực tiếp dưới nước ấm it nhất 30 giây sau khi đi vệ sinh, trước và sau khi ăn bạn nhé.
 
@@ -36,7 +36,7 @@ Tuy nhiên, cách tốt nhất để hạn chế mắc bệnh là mua nước su
 
 Căn bệnh mà dân du lịch thường mắc phải nhiều nhất là bị tiêu chảy hay rối loạn tiêu hóa. Bạn cần thận trọng lựa chọn thực phẩm sạch và bảo đảm vệ sinh an toàn thực phẩm. Thật ra điều này hơi khó khi đi phượt, đặc biệt ai cũng thích thức ăn đường phố haha.
 
-![](images/dscf2167.jpg)
+![](/images/dscf2167.jpg)
 
 Chỉ cần một chút quan sát như người bán có đeo găng tay và khẩu trang khi chế biến thức ăn, thức ăn có được làm sạch sẽ trước mắt bạn, khi thối hay nhận tiền người bán có tháo găng tay thực phẩm ra không, thức ăn có trông tươi ngon không, quán đông người ăn thường thực phẩm sẽ được bảo đảm tươi mới hơn.
 
@@ -54,13 +54,13 @@ https://balodeplao.com/chia-se-bi-quyet-giu-co-the-khoe-manh-va-san-chac-khi-di-
 
 Khi du lịch đến các nước nhiệt đới như Thái Lan, Indonesia, Malaysia...bạn cần chuẩn bị kem chống nắng SPF30 trở lên. Đây là cách bảo vệ bạn khỏi bị cháy nắng quá mức dưới ánh sáng mặt trời. Ngoài ra, nón, áo khoác mỏng chống tia UV, dù ...cũng là những vật dụng cần thiết nên mang theo khi đi du lịch.
 
-![](images/quy-nhon-eo-gio02.jpg)
+![](/images/quy-nhon-eo-gio02.jpg)
 
 Việc "say nắng" quá mức sẽ khiến cơ thể mau mất nước, choáng váng, sốc nhiệt, mệt mỏi, chóng mặt...Vì vậy đừng để cơ thể hấp thụ sức nóng mặt trời quá mức bạn nhé.
 
 ## 6\. Tránh muỗi đốt
 
-![](images/day-1-at-sing08.jpg)
+![](/images/day-1-at-sing08.jpg)
 
 Kem chống muỗi luôn luôn có sẵn trong ba lô của mình mỗi khi đi rừng hoặc biển. Bạn có thể hình dung kinh khủng thế nào với việc ngứa ngáy, sưng tấy, nhiễm trùng ở các vết muỗi đốt. Đặc biệt khi bạn du lịch cùng trẻ nhỏ, càng hết sức cẩn thận phòng tránh sốt xuất huyết cho bé.
 

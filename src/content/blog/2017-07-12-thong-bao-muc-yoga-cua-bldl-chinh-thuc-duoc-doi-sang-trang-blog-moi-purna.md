@@ -2,7 +2,7 @@
 title: "[Thông báo] Mục Yoga của BLDL chính thức được dời sang trang Blog mới - Purna"
 author: "thaonguyen"
 pubDate: 2017-07-12
-coverImage: "purna.png"
+image: "purna.png"
 slug: "thong-bao-muc-yoga-cua-bldl-chinh-thuc-duoc-doi-sang-trang-blog-moi-purna"
 ---
 
@@ -10,7 +10,7 @@ Chào các bạn độc giả yêu quý của Ba Lô Dép Lào,
 
 Mình xin thông báo cho các bạn yêu thích bộ môn yoga một tin nóng hổi: một blog cá nhân chuyên cho yoga vừa được ra đời hehe. Đó là [**Purna.vn**](https://purna.vn)
 
-![](images/purna.png)
+![](/images/purna.png)
 
 Đây sẽ là sân chơi mới của các tín đồ yoga, một góc chia sẻ riêng những kinh nghiệm tập luyện mà Purna muốn trao đổi cùng mọi người. Do đó Ba Lô Dép Lào bây giờ sẽ trở thành một blog cá nhân thuần về du lịch, ẩm thực và làm đẹp tự nhiên.
 

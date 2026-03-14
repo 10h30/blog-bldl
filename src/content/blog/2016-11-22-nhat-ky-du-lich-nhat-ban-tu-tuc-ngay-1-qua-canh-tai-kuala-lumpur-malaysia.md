@@ -4,14 +4,14 @@ author: "thaonguyen"
 pubDate: 2016-11-22
 categories:
   - "du-lich"
-coverImage: "kl-transit-bldl21.jpg"
+image: "kl-transit-bldl21.jpg"
 slug: "nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-1-qua-canh-tai-kuala-lumpur-malaysia"
 destination:
   - "kuala-lumpur"
   - "nhat-ban"
 ---
 
-Chào các bạn độc giả yêu quý của Ba Lô & Dép Lào ![](images/263A.png). Chắc hẳn không ít các bạn đang hồi hộp chờ đón serie bài viết **chia sẻ hành trình du lịch Nhật Bản tự túc** **20 ngày** qua của chúng mình. Đầu tiên, cho mình phát biểu cảm nghĩ cá nhân tí nhé.
+Chào các bạn độc giả yêu quý của Ba Lô & Dép Lào ![](/images/263A.png). Chắc hẳn không ít các bạn đang hồi hộp chờ đón serie bài viết **chia sẻ hành trình du lịch Nhật Bản tự túc** **20 ngày** qua của chúng mình. Đầu tiên, cho mình phát biểu cảm nghĩ cá nhân tí nhé.
 
 Được đặt chân một lần lên nước Nhật luôn là ước mơ từ thời tấm bé của mình. Không ngờ cuối cùng mình cũng được thoả mãn giấc mộng vàng này, vui hơn nữa không phải đi một mình mà với cả một gia đình nhỏ có Silk và “Ba Lô”. Hai mươi ngày tại xứ sở hoa anh đào là thời gian phải nói...cực kỳ TUYỆT VỜI với BLDL.
 
@@ -23,9 +23,9 @@ Chém thế đủ rồi nhé vì quá đỗi yêu Nhật Bản mà <img src="im
 
 Do đặt **vé máy bay giá rẻ của hãng Air Asia** nên mình không bay trực tiếp cái vèo sang Nhật mà lại quá cảnh tại Kualar Lumpur ("KL") - Malaysia, rồi bắt tiếp chuyến bay sang Nhật đáp tại sân bay Kansai, Osaka.
 
-Tụi mình khởi hành lúc 9g30 sáng, kéo dài đến 12g hạ cánh ngay tại KL. Vừa đáp xuống KLIA2 là hai đứa ăn trưa tại nhà hàng **[Old Town White Coffee yêu thích ngay trong sân bay KLIA2](https://balodeplao.com/am-thuc-malaysia-chau-a-thu-nho/).** 
+Tụi mình khởi hành lúc 9g30 sáng, kéo dài đến 12g hạ cánh ngay tại KL. Vừa đáp xuống KLIA2 là hai đứa ăn trưa tại nhà hàng **[Old Town White Coffee yêu thích ngay trong sân bay KLIA2](https://balodeplao.com/am-thuc-malaysia-chau-a-thu-nho/).**
 
-![](images/kl-transit-bldl13.jpg)
+![](/images/kl-transit-bldl13.jpg)
 
 ### II. Trú chân tại TUNE Hotels
 
@@ -33,11 +33,11 @@ Sau khi ăn xong, hai đứa chỉ cần kéo ngay hành lý check in tại [**k
 
 \[gallery link="file" columns="2" size="medium" ids="3406,3407,3408,3409"\]
 
-Do đi cùng với “công chúa” và một đống hành lý to tướng cho 20 ngày, hai đứa cố gắng hạn chế hết mức việc di chuyển đi lại. Chuỗi khách sạn TUNE của hãng hàng không Air Asia nổi tiếng với giá phòng cực rẻ, thiết kế nhỏ gọn, đơn giản, thích hợp làm nơi dừng chân nghỉ ngơi cho các phượt thủ. Gia đình có con nhỏ ở ngắn ngày thì thích hợp hơn bạn nhé. 
+Do đi cùng với “công chúa” và một đống hành lý to tướng cho 20 ngày, hai đứa cố gắng hạn chế hết mức việc di chuyển đi lại. Chuỗi khách sạn TUNE của hãng hàng không Air Asia nổi tiếng với giá phòng cực rẻ, thiết kế nhỏ gọn, đơn giản, thích hợp làm nơi dừng chân nghỉ ngơi cho các phượt thủ. Gia đình có con nhỏ ở ngắn ngày thì thích hợp hơn bạn nhé.
 
-![](images/kl-transit-bldl18.jpg)
+![](/images/kl-transit-bldl18.jpg)
 
-![](images/kl-transit-bldl10.jpg)
+![](/images/kl-transit-bldl10.jpg)
 
 ### III. Chơi bời ăn uống ở **Mitsui Outlet Park**
 
@@ -47,23 +47,23 @@ Các bạn có thể kiểm tra lịch đi xe bus tại link: [Bus Schedule](ht
 
 Xem thêm thông tin các dịch vụ cửa MOP: [MOP Services](https://www.mitsuioutletparkklia.com.my/service.php)
 
-![](images/kl-transit-bldl04.jpg)
+![](/images/kl-transit-bldl04.jpg)
 
-![](images/kl-transit-bldl05.jpg)
+![](/images/kl-transit-bldl05.jpg)
 
-Thế là cả nhà mình đã có một ngày vui chơi, mua sắm, ăn uống ngon lành tại MOP mà không phải tốn xu nào tiền đi lại, mua sắm hàng hiệu với giá cực rẻ. Mọi thương hiệu lớn như Nike, Addidas, Uniclo, Bonia… đều có mặt tại MOP với giá khuyến mãi cực khủng từ 50-70%. Dĩ nhiên, đa phần sản phẩm bày bán tại đây đã qua giai đoạn HOT. Nhưng không sao phải không các bạn?! Hàng hiệu, đẹp, rẻ, hơi qua mùa chút cũng chả sao. 
+Thế là cả nhà mình đã có một ngày vui chơi, mua sắm, ăn uống ngon lành tại MOP mà không phải tốn xu nào tiền đi lại, mua sắm hàng hiệu với giá cực rẻ. Mọi thương hiệu lớn như Nike, Addidas, Uniclo, Bonia… đều có mặt tại MOP với giá khuyến mãi cực khủng từ 50-70%. Dĩ nhiên, đa phần sản phẩm bày bán tại đây đã qua giai đoạn HOT. Nhưng không sao phải không các bạn?! Hàng hiệu, đẹp, rẻ, hơi qua mùa chút cũng chả sao.
 
-![Ba sắm giày](images/kl-transit-bldl11.jpg)
+![Ba sắm giày](/images/kl-transit-bldl11.jpg)
 
-![Con tậu đồ chơi :))](images/kl-transit-bldl09.jpg)
+![Con tậu đồ chơi :))](/images/kl-transit-bldl09.jpg)
 
 Ngoài khu food court giá rẻ, MOP cũng có đủ các nhà hàng đa dạng từ Thái, Nhật, Hàn, Hồng Kong phục vụ mọi nhu cầu ẩm thực của khách du lịch. Không “điên” gì mà hai đứa sắp đi Nhật lại kiếm ăn món Nhật tại Malay. Vì vậy, gia đình mình dùng bữa tối tại nhà hàng Para Thái. Giá tầm 11-12 USD/món. Giá khá ổn, thức ăn ngon, tuy nhiên phục vụ ra món hơi lâu.
 
-![](images/kl-transit-bldl06.jpg)
+![](/images/kl-transit-bldl06.jpg)
 
-![](images/kl-transit-bldl08.jpg)
+![](/images/kl-transit-bldl08.jpg)
 
-![](images/kl-transit-bldl07.jpg)
+![](/images/kl-transit-bldl07.jpg)
 
 Ăn xong, vợ chồng mình đẩy xe nôi của Silk ra trạm đón bus đi về TUNE nghỉ ngơi.
 

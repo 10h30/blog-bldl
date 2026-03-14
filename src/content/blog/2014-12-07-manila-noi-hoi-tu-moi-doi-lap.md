@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2014-12-07
 categories:
   - "du-lich"
-coverImage: "San-Jose-Church-instramurous.jpg"
+image: "San-Jose-Church-instramurous.jpg"
 slug: "manila-noi-hoi-tu-moi-doi-lap"
 destination:
   - "manila"
@@ -18,15 +18,15 @@ Tiếp nối cho 5 ngày nghỉ dưỡng tại thiên đường Boracay là chuy
 
 Mình bắt đầu ngày đầu tiên ở Manila bằng bữa sáng nhẹ ngon lành tại Mc Donald để lấy sức tham quan **Intramorus**. Du khách kháo nhau là chưa đến Manila nếu không đến thăm Intramorus, nên hai vợ chồng mình cũng tò mò đến xem cho biết.
 
-![Intramuros manila cathedral](images/Intramuros-manila-cathedral.jpg)Intramorus là khu phố cổ do người Tây Ban Nha xây dựng để phục vụ cho ách thống trị của mình tại quốc đảo. Bên trong khu thành cổ là một thành phố thu nhỏ với nhà cửa, trường học, nhà hàng mang đậm lối kiến trúc Tây Ban Nha. Intramorus tạo cho mình cảm giác thân thuộc như cố đô Huế ở Việt Nam. Các bạn có thể tham quan một số di tích lịch sử được bảo tồn đến ngày nay. Ngoài ra khách du lịch còn có thể thuê xe ngựa để đi vòng quanh thị trấn, tận hưởng một chút cảm giác hoài cổ. Nhưng theo mình, bạn không nên thuê xe vì chủ xe không nhất quán về mức vé, hay đòi thêm phụ phí linh tinh đối với khách du lịch.
+![Intramuros manila cathedral](/images/Intramuros-manila-cathedral.jpg)Intramorus là khu phố cổ do người Tây Ban Nha xây dựng để phục vụ cho ách thống trị của mình tại quốc đảo. Bên trong khu thành cổ là một thành phố thu nhỏ với nhà cửa, trường học, nhà hàng mang đậm lối kiến trúc Tây Ban Nha. Intramorus tạo cho mình cảm giác thân thuộc như cố đô Huế ở Việt Nam. Các bạn có thể tham quan một số di tích lịch sử được bảo tồn đến ngày nay. Ngoài ra khách du lịch còn có thể thuê xe ngựa để đi vòng quanh thị trấn, tận hưởng một chút cảm giác hoài cổ. Nhưng theo mình, bạn không nên thuê xe vì chủ xe không nhất quán về mức vé, hay đòi thêm phụ phí linh tinh đối với khách du lịch.
 
-![Xe ngựa ở Intramurous rất nhiều nhưng không nên đi nha các bạn](images/Intramurous-Manila.jpg)
+![Xe ngựa ở Intramurous rất nhiều nhưng không nên đi nha các bạn](/images/Intramurous-Manila.jpg)
 
-![Nhà thờ San Jose rất đẹp nằm trong Intramurous](images/MNL_Las_Pinas_San_Jose_Church_b.jpg)
+![Nhà thờ San Jose rất đẹp nằm trong Intramurous](/images/MNL_Las_Pinas_San_Jose_Church_b.jpg)
 
-![Dep Lao in Instramurous](images/Dep-Lao-in-Instramurous.jpg)
+![Dep Lao in Instramurous](/images/Dep-Lao-in-Instramurous.jpg)
 
-![Intramurous Balodeplao](images/Intramurous-Balodeplao.jpg)
+![Intramurous Balodeplao](/images/Intramurous-Balodeplao.jpg)
 
 ### Dạo phố Manila
 
@@ -36,7 +36,7 @@ Ra khỏi khu thành cổ, hai vợ chồng mình đi dạo dọc Vịnh Manila 
 
 Như mình đã nói ngay từ đầu, Manila là nơi hội tụ những đối lập. Điểm mà mình thích nhất ở Manila là món ăn ngon hấp dẫn và shopping mall cực kì hoành tráng. Các bạn có thể thưởng thức một số món ngon đặc trưng như chicaron- thịt rán Philippines, isaw-gà nướng, taho- đậu phụ sốt. Theo mình, người Philippines rất ít ăn rau và chế biến các món ăn rất đậm gia vị  như cà ri, nghệ và dầu điều. Nhưng nhìn chung, thức ăn rất đa dạng, giá cả hợp lý. Cẩn thận lại quá sức với tráng miệng ở đây như mình nhe :(
 
-![](images/robinsons-place-shopping-mall-manila-ermita-malate-philippines.jpg)
+![](/images/robinsons-place-shopping-mall-manila-ermita-malate-philippines.jpg)
 
 Mình chọn tham quan **Robinson Place** đầu tiên vì khách sạn mình gần đó. Mall khá lớn với nhiều gian hàng bày bán la liệt hàng hoá từ sang trọng đến bình dân. Đồ ăn tại food court cũng vừa ăn và giá cả hợp lý. Nhưng mình khuyên các bạn nên tham quan và mua sắm tại Mall of Asia gần vịnh Manila (mà mình sẽ đề cập trong phần 2). Đúng với tên khu vực mua sắm lớn nhất Đông Nam Á, sẽ là thiên đường cho các tín đồ shopping đó!
 

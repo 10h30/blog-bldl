@@ -5,7 +5,7 @@ pubDate: 2017-04-29
 categories:
   - "an-uong"
   - "du-lich"
-coverImage: "taiwan-food-bldl33.jpg"
+image: "taiwan-food-bldl33.jpg"
 slug: "tong-hop-cac-mon-ngon-kho-cuong-o-dai-bac"
 destination:
   - "dai-bac"
@@ -28,7 +28,7 @@ https://www.instagram.com/p/BSsSpZFlLDe/?taken-by=balodeplao
 
 Chuỗi cửa hàng Chun Shui Tang trải dài khắp cả nước Đài Loan từ Nam ra Bắc. Ngoài trà sữa, Chun Shui Tang còn có các món ăn kèm ngon không tưởng. Mình thích nhất là món bánh bao chấm sữa ở đây.
 
-![Bánh bao chiên chấm sữa](images/tra-sua-chun-shui-tang-05.jpg)
+![Bánh bao chiên chấm sữa](/images/tra-sua-chun-shui-tang-05.jpg)
 
 Giá trung bình cho ly nước khổng lồ trên là 120NT, tương đương khoảng 80.000đ, cũng không quá mắc đúng không. Còn thức ăn tầm 85NT-160NT tuỳ mỗi món, tương đương khoảng 60.000đ - 120.000đ.
 
@@ -52,7 +52,7 @@ Chỉ cần gõ từ khoá "Pork Belly Bun in Taipei", các bạn sẽ thấy ng
 
 Điểm mình yêu thích nhất khi ăn mì ở Đài Loan là sợi mì được làm tại gia, kéo tay gia truyền. Nếu để ý bạn sẽ thấy quán bán mì nào cũng có một xưởng làm mì gia truyền nhỏ ngay bên cạnh.  Mỗi tiệm mì đều có rất nhiều loại mì khác nhau, từ loại sợi bé tới sợi to, từ loại mềm đến dai. Nhưng nước soup mới chính là bí mật thần thánh của mỗi tiệm mì. **Tiệm mì bò ngon nhất mà mình từng ăn là ở Khu Ximen**. Mình sẽ có một bài viết riêng về các quán bán mì ngon thần thánh này. Các bạn cứ yên tâm.
 
-![Mì bò tại Đài Loan thường ăn kem với gỏi bắp cải trộn dầu dắm và chân gà rút xương. Một set mì bò thế này khoảng 240NT (~150.000đ)](images/taiwan-food-bldl07.jpg)
+![Mì bò tại Đài Loan thường ăn kem với gỏi bắp cải trộn dầu dắm và chân gà rút xương. Một set mì bò thế này khoảng 240NT (~150.000đ)](/images/taiwan-food-bldl07.jpg)
 
 Còn đây là tô mì hải sản ngon nhất mình từng được ăn. Quán mì nằm đối diện **Lan Jia Gua Bao - tiệm bán bánh bao kẹp thịt nổi tiếng nhất Đài Bắc.**
 
@@ -62,14 +62,14 @@ https://www.instagram.com/p/BTG30wmlsNM/?taken-by=balodeplao
 
 **Tiệm Bún gạo Ay-Chung** (Ay-Chung Flour-Rice Noodle) tuy nhỏ nhưng nổi tiếng nhất **khu Ximen - Đài Bắc**. Nhìn thì khá là đơn giản. Một tô bún gạo đựng trong hộp giấy, với một chút dạ trường, chút rau, chút ớt, chút tỏi, chút dấm… trộn mọi thứ lên khi còn nóng hổi. Không bàn, không ghế, đứng ngồi ngoài đường ăn trong tô giấy. Vậy mà lúc nào cũng có một hàng người đứng xếp hàng dài chờ mua. Phần nhỏ 50NT (~35.000đ). Phần lớn 65NT (~45.000đ)
 
-![Bún gạo Ay-Chung  
-[Nguồn: Chuyện kể về những chuyến đi]](images/ay-chung-flour-rice-noodle.jpg)
+![Bún gạo Ay-Chung
+[Nguồn: Chuyện kể về những chuyến đi]](/images/ay-chung-flour-rice-noodle.jpg)
 
 ### Cơm thịt kho tàu
 
 Đây là món ăn truyền thống, phổ biến trong mọi bữa cơm gia đình ở Đài Loan. Cơm trắng ăn chung với thịt ba rọi nhuyễn kho mặn cùng trứng vịt kho. Nghe đơn giản mà ngon nhức nhói luôn. Tiệm cơm thịt kho tàu nổi tiếng nhất Đài Bắc phải nhắc đến **Jin Feng (金峰魯肉飯) Restaurant.** Cơm thịt kho từ 30-50 NT, trứng kho 15NT, các món canh 55 NT, món xào từ 20-40NT. Cả bữa ăn hoành tráng no nê của tụi mình chỉ gần 200NT (~140.000đ) mà thôi.
 
-![](images/img_7681.jpg)
+![](/images/img_7681.jpg)
 
 **Địa chỉ**: No. 10, Section 1, Roosevelt Rd, 中正區台北市 Taiwan 100 (gần trạm MRT Chiang Kai Shek, line Green) **Giờ mở cửa**: 8AM – 1AM mỗi ngày **Giá cả**: Giá rất phải chăng, một chén cơm có giá 30-40-50 NT (theo size nhỏ - vừa - lớn). Tổng cộng cả bữa ăn cho hai vợ chồng mình chưa đến 200 NT.
 
@@ -81,13 +81,13 @@ Một trong những món mình phát cuồng nhất trong 7 ngày ở Đài Bắ
 
 Gà được chiên giòn rụm, nóng hổi và được nêm nếm gia vị đậm đà. Phần size vừa có giá 75NT, phần lớn 100NT. Bật mí là các bạn nên chọn loại hơi cay cay một chút, ăn sẽ bắt hơn đây.
 
-![](images/taiwan-food-bldl30.jpg)
+![](/images/taiwan-food-bldl30.jpg)
 
-![](images/taiwan-food-bldl31.jpg)
+![](/images/taiwan-food-bldl31.jpg)
 
-![](images/taiwan-food-bldl32.jpg)
+![](/images/taiwan-food-bldl32.jpg)
 
-![](images/taiwan-food-bldl33.jpg)
+![](/images/taiwan-food-bldl33.jpg)
 
 Tổng kết mẹo hay khi đi ăn tại Đài Loan là cứ hễ ở đâu có người đứng chờ xếp hàng nhiều thì bạn cứ bay vô xếp hàng và mua thử :)) Xác suất ngon thường 7/10 đó! Ăn luôn là chủ đề bất tận. Vì vậy các bạn đừng quên theo dõi các bài viết tiếp theo về ẩm thực hấp dẫn Đài Loan trên BLDL nhé.
 

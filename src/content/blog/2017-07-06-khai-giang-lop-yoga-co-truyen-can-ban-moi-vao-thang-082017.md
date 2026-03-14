@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-07-06
 categories:
   - "yoga"
-coverImage: "lop-hoc-yoga-purna-1.jpg"
+image: "lop-hoc-yoga-purna-1.jpg"
 slug: "khai-giang-lop-yoga-co-truyen-can-ban-moi-vao-thang-082017"
 ---
 
@@ -12,7 +12,7 @@ Chào các tín đồ Yoga,
 
 Đầu tiên Purna xin chân thành cảm ơn sự ủng hộ nhiệt tình của các bạn trong hai tháng kể từ ngày khai giảng lớp yoga cơ bản đầu tiên vào tháng 05. Hai tháng không phải khoảng thời gian quá dài cũng không quá ngắn. Tuy nhiên, mình rất yêu các bạn học viên dễ thương của mình. Tinh thần học tập rất tích cực, ham học hỏi, chú tâm lắng nghe và...đặc biệt nghị lực phi thường bởi chịu khó thức dậy lúc 6g15 sáng đến lớp.
 
-![](images/lop-hoc-yoga-purna-2.jpg)
+![](/images/lop-hoc-yoga-purna-2.jpg)
 
 Tổng kết kết quả học tập của các bạn học viên sau hai tháng tham gia [khoá học Sivananda Yoga cổ điển:](https://balodeplao.com/thong-tin-khoa-hoc-sivananda-yoga-chinh-thuc-khai-giang-vao-thang-052017/)
 

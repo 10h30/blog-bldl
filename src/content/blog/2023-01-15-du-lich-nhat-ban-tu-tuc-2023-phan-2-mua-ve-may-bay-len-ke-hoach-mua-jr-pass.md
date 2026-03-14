@@ -7,7 +7,7 @@ categories:
 tags:
   - "japan-rail-pass"
   - "jr-pass"
-coverImage: "japan-fuji-tomas-malik-orqbzc7dl3u-unsplash.jpg"
+image: "japan-fuji-tomas-malik-orqbzc7dl3u-unsplash.jpg"
 slug: "du-lich-nhat-ban-tu-tuc-2023-phan-2-mua-ve-may-bay-len-ke-hoach-mua-jr-pass"
 destination:
   - "nhat-ban"
@@ -21,7 +21,7 @@ Trong 2 chuyến đi Nhật Bản trước đây vào năm 2016 và 2018, mình 
 
 Để tìm lịch bay giá rẻ, mình khuyến khích bạn sử dụng website [KAYAK](https://kayak.com). Nó sẽ liệt kê tất cả các lựa chọn cho lịch trình bay bạn đang tìm, kèm theo sắp xếp theo giá tiền, theo lựa chọn bay thẳng hay phải quá cảnh.
 
-![](images/kayak.jpg)
+![](/images/kayak.jpg)
 
 Như trong hình trên, lịch bay khứ hồi từ TP.HCM đến Tokyo với Vietjet Air là tiện lợi nhất, cả hai chặng đều bay thẳng, giá 9.576.000 / người. Hoặc nếu muốn giá rẻ thì chọn đi với Vietjet Air, về với Air Asia, giá 8.702.000.
 
@@ -35,7 +35,7 @@ Bạn có thể bấm vào từng khu vực, thành phố ở Nhật Bản để
 
 <figure>
 
-![](images/japan-guide-kyoto-destination.jpg)
+![](/images/japan-guide-kyoto-destination.jpg)
 
 <figcaption>
 
@@ -85,7 +85,7 @@ Green Car là các toa tàu cao cấp, kiểu như Business Class khi đi máy b
 
 Dưới đây là bản đồ tuyến xe điện và Shinkansen (tàu siêu tốc) dành cho JR Pass.
 
-![](images/japan-jr-pass-route.png)
+![](/images/japan-jr-pass-route.png)
 
 Ngoài ra, còn có rất nhiều các tuyến xe điện, xe bus, phà khác bạn có thể sử dụng khi mua JR Pass. Xem chi tiết ở đây: [Japan Rail Pass](https://www.japan-guide.com/e/e2361.html).
 
@@ -105,7 +105,7 @@ JR Pass nhậnđược từ đại ly bán chỉ là một tờ giấy A4 xác n
 
 <figure>
 
-![](images/japan-rail-pass.jpg)
+![](/images/japan-rail-pass.jpg)
 
 <figcaption>
 

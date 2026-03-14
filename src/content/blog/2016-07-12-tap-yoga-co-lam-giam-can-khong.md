@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-07-12
 categories:
   - "yoga"
-coverImage: "yoga-2.jpeg"
+image: "yoga-2.jpeg"
 slug: "tap-yoga-co-lam-giam-can-khong"
 ---
 
@@ -16,7 +16,7 @@ Bản thân mình là môt tín đồ đam mê Yoga và luyện tập hơn hai n
 
 Việc giảm cân xày ra khi lượng calorie bạn nạp vào phải **_ít hơn_** lượng calorie bạn tiêu hao. Để giảm cân, bạn phải kiểm soát cả năng lượng nạp vào cơ thể và lượng bạn tiêu hao trong ngày. Dĩ nhiên, bạn nên ăn những thực phẩm lành mạnh tốt cho sức khoẻ như rau xanh, ngũ cốc, thực phẩm ít béo, giàu chất xơ và uống đủ ít nhất 2l nước mỗi ngày.
 
-![](images/eating.jpeg)
+![](/images/eating.jpeg)
 
 > " Vì vậy, để giảm cân, ngoài việc chăm chỉ tập luyện thể hình, bạn phải có chế độ ăn uống khoa học và hợp lý "
 

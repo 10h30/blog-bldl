@@ -4,11 +4,11 @@ author: "thuanbui"
 pubDate: 2015-02-16
 categories:
   - "thu-cung"
-coverImage: "ngon-ngu-cho-cung.jpg"
+image: "ngon-ngu-cho-cung.jpg"
 slug: "infographic-giai-ma-ngon-ngu-cua-cho-cung"
 ---
 
-**Bạn có hiểu hết các hành động của chú chó cưng của mình ở nhà không?** 
+**Bạn có hiểu hết các hành động của chú chó cưng của mình ở nhà không?**
 
 Nhà mình có nuôi hai chú chó Nhật đã gần 10 năm. Tuy nhiên đôi lúc mình không thể hiểu nổi chúng nó muốn gì.Có lẽ nhiều bạn cũng gặp tình trạng tương tự khi chú chó cưng tự nhiên có những hành động kỳ lạ, khó hiểu???
 
@@ -20,6 +20,6 @@ Chắc chắn sau khi xem xong, bạn sẽ ngỡ ra nhiều điều mà trước
 
 Mình đã dịch Infographic này sang tiếng Việt với tên gọi **Giải mã ngôn ngữ thú cưng**. Tham khảo bên dưới nha các bạn
 
-![[Infographic] Giải mã ngôn ngữ chó cưng. Nguồn: [Flickr](http://www.flickr.com/photos/lilita/5652847156/sizes/l/ "Doggie Language")](images/ngon-ngu-cho-cung.jpg)
+![[Infographic] Giải mã ngôn ngữ chó cưng. Nguồn: [Flickr](http://www.flickr.com/photos/lilita/5652847156/sizes/l/ "Doggie Language")](/images/ngon-ngu-cho-cung.jpg)
 
 **Đừng quên chia sẻ với bạn bè Infographic hữu ích này nhé mọi người!**

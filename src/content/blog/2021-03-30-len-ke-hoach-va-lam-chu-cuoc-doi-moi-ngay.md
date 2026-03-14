@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2021-03-30
 categories:
   - "tam-su"
-coverImage: "planning2.jpg"
+image: "planning2.jpg"
 slug: "len-ke-hoach-va-lam-chu-cuoc-doi-moi-ngay"
 ---
 
@@ -14,7 +14,7 @@ Chào các bạn,
 
 Mình là một đứa rất thích lên kế hoạch cho mọi thứ từ những việc to cho đến chuyện nhỏ. Một cuốn sổ tay nhỏ nhắn luôn là người bạn đồng hành không thiếu bên mình. Sáng sớm thức dậy, sau khi uống một ly nước lọc đầy, mình bắt đầu ngày mới bằng việc ngồi xuống ghi ra những việc phải hoàn thành hôm đó. Nếu vô tình đọc được chắc các bạn sẽ mắc cười lắm khi thấy "To do list" trong ngày của mình toàn là những việc vô cùng nhỏ nhặt như: ngồi thiền, đọc 5 trang sách, sáng tạo một món ăn mới, chơi cùng con, tập luyện...
 
-![](images/planning-1.jpg)
+![](/images/planning-1.jpg)
 
 Tuy tưởng chừng nhỏ nhặt và không cần thiết nhưng nếu không liệt kê ra chi tiết, bạn sẽ dễ dàng bỏ sót khi guồng quay tất bật của một ngày bắt đầu. Và bạn sẽ vô cùng sung sướng với cảm giác được lấy bút gạch đi gần hết tần việc đó sau một ngày lao động thật hiệu quả. Có lẽ nhờ vậy mà mỗi ngày trôi qua của mình đều ý nghĩa và trọn vẹn hơn.
 

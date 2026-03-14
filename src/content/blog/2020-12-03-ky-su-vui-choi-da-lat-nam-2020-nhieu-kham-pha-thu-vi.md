@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2020-12-03
 categories:
   - "du-lich"
-coverImage: "img_3236.jpg"
+image: "img_3236.jpg"
 slug: "ky-su-vui-choi-da-lat-nam-2020-nhieu-kham-pha-thu-vi"
 destination:
   - "da-lat"
@@ -34,13 +34,13 @@ https://balodeplao.com/trai-nghiem-du-lich-doc-dao-voi-airbnb/embed/#?secret=B12
 
 Lần này tụi mình quyết định không ở trung tâm thành phố nữa mà chuyển ra ở 1 căn villa trên đường Xô Viết Nghệ Tĩnh, cách chợ hơn 3km, tên gọi [Tinghouse Hideaway](https://www.airbnb.com/rooms/45105089) ([https://www.airbnb.com/rooms/45105089](https://www.airbnb.com/rooms/45105089)). Giá thuê là khoảng $60/đêm cho nguyên căn villa rộng mênh mông, đủ chỗ ở cho 8 người lớn. Gia đình mình chỉ có 4 người nên cảm thấy cực kỳ thoải mái trong 2 ngày đầu ở đây.
 
-![](images/DEB93658-FC51-4C49-8914-0CA55079442F-900x675.jpg)
+![](/images/DEB93658-FC51-4C49-8914-0CA55079442F-900x675.jpg)
 
 Căn nhà có hai khu vực phòng ngủ lớn, bếp, phòng khách và sân vườn…thật sự rất tiện lợi mà giá cả cũng hợp lý so với thuê khách sạn/resort không thoải mái riêng tư bằng. Các con tha hồ chạy nhảy, chơi đùa thoả thích trong không gian lớn. Còn mình thì thư thả ra vườn ngắm hoa, ngồi thiền trong không gian xanh rì mỗi sáng. Nơi đây khá xa trung tâm nên cực kỳ yên tĩnh, biệt lập thích hợp cho các bạn muốn “hide away” tịnh dưỡng.
 
 <figure>
 
-![](images/15014724-9DD0-4A51-9D21-93DBF93C2F5D-900x675.jpg)
+![](/images/15014724-9DD0-4A51-9D21-93DBF93C2F5D-900x675.jpg)
 
 <figcaption>
 
@@ -52,7 +52,7 @@ Nhà có một trệt, một gác lửng và vườn cây xung quanh
 
 <figure>
 
-![](images/IMG_3015-900x675.jpg)
+![](/images/IMG_3015-900x675.jpg)
 
 <figcaption>
 
@@ -64,7 +64,7 @@ Phòng khách cũng là khu vực cả nhà quây quần ngồi ăn uống
 
 <figure>
 
-![](images/IMG_3017-900x675.jpg)
+![](/images/IMG_3017-900x675.jpg)
 
 <figcaption>
 
@@ -76,7 +76,7 @@ Một trong hai khu vực phòng ngủ. Một dưới trệt, một trên gác l
 
 <figure>
 
-![](images/IMG_3021-900x675.jpg)
+![](/images/IMG_3021-900x675.jpg)
 
 <figcaption>
 
@@ -88,7 +88,7 @@ Khu vực nhà bếp
 
 <figure>
 
-![](images/IMG_3050-675x900.jpg)
+![](/images/IMG_3050-675x900.jpg)
 
 <figcaption>
 
@@ -100,7 +100,7 @@ Vườn nhỏ quanh nhà trồng đầy hoa hồng
 
 <figure>
 
-![](images/IMG_3018-900x675.jpg)
+![](/images/IMG_3018-900x675.jpg)
 
 <figcaption>
 
@@ -120,7 +120,7 @@ Là người ăn thuần chay, khi đi du lịch, mình thường mang theo mộ
 
 <figure>
 
-![](images/IMG_3141-900x675.jpg)
+![](/images/IMG_3141-900x675.jpg)
 
 <figcaption>
 
@@ -148,7 +148,7 @@ Các bạn có thể tham khảo bài viết về “Ẩm thực thành phố Ho
 
 <figure>
 
-![](images/IMG_3184-900x675.jpg)
+![](/images/IMG_3184-900x675.jpg)
 
 <figcaption>
 
@@ -169,7 +169,7 @@ Dẫn bé nhà mình đi Rừng Thông Mơ Farm & Bistro
 
 <figure>
 
-![](images/IMG_3088-900x675.jpg)
+![](/images/IMG_3088-900x675.jpg)
 
 <figcaption>
 
@@ -195,7 +195,7 @@ Dù ở đâu, làm gì thì lịch tập luyện của mình hầu như không 
 
 <figure>
 
-![](images/IMG_3108-900x675.jpg)
+![](/images/IMG_3108-900x675.jpg)
 
 <figcaption>
 

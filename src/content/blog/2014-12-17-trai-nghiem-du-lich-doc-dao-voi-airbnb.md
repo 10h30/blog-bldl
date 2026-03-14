@@ -6,7 +6,7 @@ categories:
   - "meo-hay"
 tags:
   - "airbnb"
-coverImage: "AirBnB.jpg"
+image: "AirBnB.jpg"
 slug: "trai-nghiem-du-lich-doc-dao-voi-airbnb"
 ---
 
@@ -24,7 +24,7 @@ Khi đi du lịch hay công tác, đa số mọi người sẽ lựa chọn res
 
 <figure>
 
-![AirBnB ra mắt năm 2008](images/airbnb_logo.png)
+![AirBnB ra mắt năm 2008](/images/airbnb_logo.png)
 
 <figcaption>
 
@@ -58,7 +58,7 @@ Lần đầu tiên mình sử dụng AirBnB là trong chuyến du lịch [Singap
 
 <figure>
 
-![Đầy đủ tiện nghi cần thiết](images/Singapore-AirBnB-03.jpg)
+![Đầy đủ tiện nghi cần thiết](/images/Singapore-AirBnB-03.jpg)
 
 <figcaption>
 

@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-08-09
 categories:
   - "du-lich"
-coverImage: "taipei.jpg"
+image: "taipei.jpg"
 slug: "nhat-ky-du-lich-dai-bac-trong-5-ngay-ngay-1-2"
 destination:
   - "dai-bac"
@@ -28,13 +28,13 @@ Một trong những món mình phát cuồng nhất ở Đài Bắc đó chính 
 
 Gà được chiên giòn rụm, nóng hổi và được nêm nếm gia vị đậm đà. Phần size vừa có giá 75NT, phần lớn 100NT. Bật mí là các bạn nên chọn loại hơi cay cay một chút, ăn sẽ bắt hơn đây.
 
-![](images/taiwan-food-bldl33.jpg) ![](images/taiwan-food-bldl30.jpg)
+![](/images/taiwan-food-bldl33.jpg) ![](/images/taiwan-food-bldl30.jpg)
 
 Chưa no bụng, ba người còn dạo một vòng khu ăn uống rồi xử thêm phần kem đá bào 100 tệ, cà chua ngào đường 35 tệ và một phần mì bò 240 tệ. No bể bụng luôn.
 
-![Tô kem đá bào khổng lồ hai người ăn mới hết nè](images/taiwan-food-bldl20.jpg)
+![Tô kem đá bào khổng lồ hai người ăn mới hết nè](/images/taiwan-food-bldl20.jpg)
 
-![Mì bò gồm nạm và gân bò, ăn kèm với bắp cải trộn dầu dấm và chân gà rút xương](images/taiwan-food-bldl07.jpg)
+![Mì bò gồm nạm và gân bò, ăn kèm với bắp cải trộn dầu dấm và chân gà rút xương](/images/taiwan-food-bldl07.jpg)
 
 Sau khi đã nạp đủ năng lượng, mình shopping đã đời ở Uniqlo Ximen. Thế là kết thúc ngày đầu tiên căng da bụng, chùng da mắt tại khu Ximen - Đài Bắc. Để biết thêm các món ăn hấp dẫn ở Đài Bắc, các bạn có thể tham khảo thêm bài viết bên dưới:
 
@@ -50,7 +50,7 @@ https://balodeplao.com/du-lich-dai-bac-mot-ngay-tham-quan-thu-vi-tai-so-thu-dai-
 
 ### 2\. Quảng trường Tưởng Giới Thạch
 
-![Nguồn: Vinh Gấu](images/quang-truong-tuong-gioi-thach.jpg)
+![Nguồn: Vinh Gấu](/images/quang-truong-tuong-gioi-thach.jpg)
 
 Điểm dừng chân không thể bỏ qua khi đến Đài Bắc đó chính là **Quảng trường Tưởng Giới Thạch**. Đây là một tổ hợp quần thể bao gồm: các khu vườn Trung Hoa cổ truyền, nhà văn hóa quốc gia, Nhà tưởng niệm Tưởng Giới Thạch, quảng trường… Đặc biệt trong khu nhà tưởng niệm có hẳn một bảo tàng trưng bày những tư liệu, hình ảnh, tư liệu liên quan đến Tưởng Giới Thạch, cựu tổng thống của Trung Quốc và Đài Loan.
 

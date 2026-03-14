@@ -5,7 +5,7 @@ pubDate: 2016-07-07
 categories:
   - "an-uong"
   - "du-lich"
-coverImage: "nha-hang-ngoc-suong-phan-thiet-bldl02.jpg"
+image: "nha-hang-ngoc-suong-phan-thiet-bldl02.jpg"
 slug: "danh-gia-nha-hang-ngoc-suong-mui-ne-phan-thiet"
 destination:
   - "mui-ne"
@@ -41,9 +41,9 @@ Cây Bàng là nơi tập trung chính của khách đoàn nên khá xô bồ đ
 
 Nhà hàng Ngọc Sương nằm ngay trên Nguyễn Đình Chiểu - con đường du lịch chính của thành phố Phan Thiết; nơi tập trung nhiều khách sạn, resort, nhà hàng, quán bar. Nhà hàng nằm ngay sát biển, quang cảnh đẹp, thoáng mát. Bạn có thể ngồi ăn mà nghe sóng biển vỗ rì rào rất thú vị. Khuôn viên khá rộng rãi, sát bên cạnh có bãi đỗ xe ôtô rất tiện lợi.
 
-![Hai đứa vừa thưởng thức hải sản vừa ngắm biển từ nhà hàng Ngọc Sương](images/nha-hang-ngoc-suong-phan-thiet-bldl02.jpg)
+![Hai đứa vừa thưởng thức hải sản vừa ngắm biển từ nhà hàng Ngọc Sương](/images/nha-hang-ngoc-suong-phan-thiet-bldl02.jpg)
 
-![](images/nha-hang-ngoc-suong-phan-thiet-bldl01.jpg)
+![](/images/nha-hang-ngoc-suong-phan-thiet-bldl01.jpg)
 
 Tuy nhiên, nếu so với Cây Bàng hoặc Hoa Viên, Ngọc Sương khá xa so với khu vực resort/ khách sạn. Vợ chồng mình mỗi lần đi ăn mất gần 200k tiền taxi cho cả đi và về nên các bạn không thích ăn xa nên cân nhắc.
 
@@ -53,19 +53,19 @@ So với những nhà hàng khác, giá tại Ngọc Sương có phần hơi cao
 
 Vợ chồng mình gọi đặc sản gỏi cá mai, miến xào cua và hải sản đút lò. Hải sản rất tươi được chế biến rất vừa miệng và thơm ngon. Cá mai tươi rói dùng kèm với rau sống chấm với nước sốt đặc biệt cực kì đậm đà.
 
-![](images/nha-hang-ngoc-suong-phan-thiet-bldl05.jpg)
+![](/images/nha-hang-ngoc-suong-phan-thiet-bldl05.jpg)
 
-![](images/nha-hang-ngoc-suong-phan-thiet-bldl05.jpg)
+![](/images/nha-hang-ngoc-suong-phan-thiet-bldl05.jpg)
 
 Ngoài ra, mình rất tâm đắc với miến xào cua của nhà hàng. Miến vừa ăn xào cùng thịt cua chắc nịch!
 
-![](images/nha-hang-ngoc-suong-phan-thiet-bldl06.jpg)
+![](/images/nha-hang-ngoc-suong-phan-thiet-bldl06.jpg)
 
 Hải sản đút lò có phần hơi ngán, có thể do mình không thích ăn phô mai béo.
 
-![](images/nha-hang-ngoc-suong-phan-thiet-bldl07.jpg)
+![](/images/nha-hang-ngoc-suong-phan-thiet-bldl07.jpg)
 
-![](images/nha-hang-ngoc-suong-phan-thiet-bldl07.jpg)
+![](/images/nha-hang-ngoc-suong-phan-thiet-bldl07.jpg)
 
 #### c. Dịch vụ
 

@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-05-31
 categories:
   - "du-lich"
-coverImage: "hitachi-park-bldl03.jpg"
+image: "hitachi-park-bldl03.jpg"
 slug: "7-ly-do-chinh-khien-moi-nguoi-thuong-lo-so-khi-du-lich-cung-be"
 ---
 

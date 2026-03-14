@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-10-09
 categories:
   - "tam-su"
-coverImage: "dscf2748.jpg"
+image: "dscf2748.jpg"
 slug: "khe-cham-ngo-29-tuoi-happy-birthday-to-me"
 ---
 

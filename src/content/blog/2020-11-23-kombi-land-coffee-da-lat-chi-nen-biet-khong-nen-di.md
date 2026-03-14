@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2020-11-23
 categories:
   - "du-lich"
-coverImage: "untitled-3.jpg"
+image: "untitled-3.jpg"
 slug: "kombi-land-coffee-da-lat-chi-nen-biet-khong-nen-di"
 destination:
   - "da-lat"
@@ -24,23 +24,23 @@ Kombi Land còn được gọi là vùng đất xương rồng nằm cách trung
 
 Đúng với tên Vương quốc xương rồng, Kombi Land nóng đổ lửa. Khi đi áo len khăn choàng, đến nơi, bọn mình mồ hôi nhễ nhại lột bớt đồ ra khỏi người.
 
-![](images/untitled-3.jpg)
+![](/images/untitled-3.jpg)
 
 ### Bối cảnh sa mạc
 
 Kombi Land lấy cảm hứng từ bối cảnh sa mạc phủ đầy cát với những vườn xương rồng khổng lồ cộng thêm xe hơi cũ kĩ. Bạn sẽ thấy quang cảnh quanh đây như những bộ phim hành động cao bồi miền viễn Tây nước Mỹ.
 
-![](images/untitled-4.jpg)
+![](/images/untitled-4.jpg)
 
 Nếu ai thật sự thích xương rồng và style cao bồi Mỹ thì Kombi Land thoả mãn hoàn toàn sở thích của bạn. Còn với mình, bối cảnh nơi đây hơi nhân tạo hoá, không mấy thú vị.
 
 ### Người đông chen chúc
 
-![](images/untitled-5.jpg)
+![](/images/untitled-5.jpg)
 
 Do được quảng cáo ầm ĩ là "xứ sở xương rồng" check in hot nhất Đà Lạt nên lượng khách tham quan đổ về đây không ít. Người người chen chúc xếp hàng tạo dáng cố gắng chụp những bô ảnh thật ấn tượng.
 
-![](images/untitled-1.jpg)
+![](/images/untitled-1.jpg)
 
 Vì thời tiết quá nóng bức cộng hưởng không gian chật chội nên bọn mình chọn cách ngồi yên một góc mát và quan sát mọi người "làm nghệ thuật".
 

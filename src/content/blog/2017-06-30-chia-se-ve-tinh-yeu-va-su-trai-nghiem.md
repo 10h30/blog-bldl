@@ -5,7 +5,7 @@ pubDate: 2017-06-30
 categories:
   - "cong-viec"
   - "meo-hay"
-coverImage: "love.jpg"
+image: "love.jpg"
 slug: "chia-se-ve-tinh-yeu-va-su-trai-nghiem"
 ---
 

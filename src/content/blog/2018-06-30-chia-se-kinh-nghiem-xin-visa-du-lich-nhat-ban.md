@@ -4,7 +4,7 @@ author: "thuanbui"
 pubDate: 2018-06-30
 categories:
   - "du-lich"
-coverImage: "visa-nhat-ban.jpg"
+image: "visa-nhat-ban.jpg"
 slug: "chia-se-kinh-nghiem-xin-visa-du-lich-nhat-ban"
 destination:
   - "nhat-ban"
@@ -16,7 +16,7 @@ https://balodeplao.com/tong-hop-hanh-trinh-18-ngay-kham-pha-mua-thu-nhat-ban-tha
 
 Cách đây 2 năm mình đã định chia sẻ kinh nghiệm xin visa du lịch Nhật Bản nhưng sau đó bận rộn nhiều việc nên bỏ quên mất. Lần này nhân lúc đang chuẩn bị visa quay lại Nhật vào tháng 8 tới đây, mình sẽ tổng hợp lại các bước cần thiết để xin visa du lịch Nhật Bản. Mục đích vừa để lưu lại kinh nghiệm cho những chuyến đi chơi sau, vừa giúp các bạn nào đang có ý định khám phá đất nước mặt trời mọc có sự chuẩn bị tốt hơn.
 
-![Chia sẻ kinh nghiệm xin visa du lịch Nhật Bản](images/visa-nhat-ban.jpg)
+![Chia sẻ kinh nghiệm xin visa du lịch Nhật Bản](/images/visa-nhat-ban.jpg)
 
 \[extoc\]
 

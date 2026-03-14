@@ -8,7 +8,7 @@ tags:
   - "hsr"
   - "tra"
   - "xe-dien"
-coverImage: "train-railway.jpg"
+image: "train-railway.jpg"
 slug: "tim-hieu-2-he-thong-xe-lua-tra-va-hsr-o-dai-loan"
 destination:
   - "dai-loan"

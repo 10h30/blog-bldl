@@ -5,7 +5,7 @@ pubDate: 2018-10-25
 categories:
   - "an-uong"
   - "du-lich"
-coverImage: "dscf3270.jpg"
+image: "dscf3270.jpg"
 slug: "lich-trinh-2-ngay-1-dem-tinh-duong-tuyet-voi-tai-ho-toyako"
 destination:
   - "toyako"
@@ -41,19 +41,19 @@ https://www.instagram.com/p/BmqTSEknGMP/?taken-by=balodeplao
 
 ##
 
-![](images/img_20180819_205238.jpg)
+![](/images/img_20180819_205238.jpg)
 
 ## Tìm hiểu Toyako Volcano Science Museum
 
 Từ khách sạn Takimotokan, tụi mình đi bộ khoảng 15 phút là đến **Toyako Volcano Science Museum.** Bảo tàng khá đẹp và thú vị với những hiện vật, quy trình phân tích, lý giải cho khách du lịch hiểu thêm về hiện tượng núi lửa phun trào cũng như những hệ luỵ kèm theo. Bên cạnh những khu vực tham quan miễn phí, bảo tàng còn thu phí một số khu vực trưng bày đặc biệt. Bạn sẽ mở mang tầm mắt và học hỏi khá nhiều kiến thức bổ ích tại đây đấy.
 
-![](images/dscf3315.jpg)
+![](/images/dscf3315.jpg)
 
 ## Lặng người trước Toya - Usu Eruption Memorial Park
 
 Toya - Usu Eruption Memorial Park là một di tích lịch sử nổi tiếng tại Toyako ghi dấu lại sự tàn phá khốc liệt của hiện tượng núi lửa phun trào. Những ngôi nhà bị nham thạch phá huỷ hoàn toàn vẫn còn được bảo tồn đến ngày hôm nay tại công viên tưởng niệm này.
 
-![](images/img_20180819_170039.jpg)
+![](/images/img_20180819_170039.jpg)
 
 Tường nhà cháy xém, cửa sổ hoá tro, thanh sắt chảy bẻ cong...cũng đủ thấy sức tàn phá khủng khiếp của nham thạch. Khác với khung cảnh hãi hùng này, bao quanh khu vực tưởng niệm là những cánh đồng hoa đủ màu được vun trồng tươi tốt bởi con người. Qua đó, chúng mình càng ngưỡng mộ hơn ý chí, quyết tâm cũng như sự kiên nhẫn đáng quý của con người Nhật Bản.
 

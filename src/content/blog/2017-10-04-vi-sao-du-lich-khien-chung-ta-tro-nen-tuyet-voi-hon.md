@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-10-04
 categories:
   - "du-lich"
-coverImage: "travel3.jpg"
+image: "travel3.jpg"
 slug: "vi-sao-du-lich-khien-chung-ta-tro-nen-tuyet-voi-hon"
 ---
 
@@ -22,7 +22,7 @@ Vì vậy mà khi đã đủ cứng cáp để tự xách ba lô lên và đi, m
 
 ## Cởi mở hơn
 
-![](images/travel3.jpg)
+![](/images/travel3.jpg)
 
 Thời gian đi du lịch chính là lúc bạn có cơ hội làm quen được rất nhiều bạn mới. Bạn sẽ thoải mái kết giao và trò chuyện với rất nhiều người lạ. Nếu may mắn gặp gỡ được người phù hợp, bạn sẽ có thêm những người bạn thân lý tưởng. Đâu ai biết ngày mai ra sao, sao không mở lòng mình ra đón nhận điều mới.
 
@@ -32,13 +32,13 @@ Trước đây mình rất sợ độ cao. Nhưng khi đi leo núi ở Bali, mì
 
 ## Thích nghi hơn
 
-![](images/travel2.jpg)
+![](/images/travel2.jpg)
 
 Chắc không ít bạn đã vài lần bị trễ hoặc hoãn chuyến bay, đợi xe bus đến muộn, lạc đường, đau bụng sau khi ăn...và vô số vấn đề to nhỏ nảy sinh trong lúc du lịch nơi xa. Nhưng rồi tất cả mọi thứ đều sẽ ổn bởi cơ thể bạn sẽ học được cách tự thích nghi với hoàn cảnh mới. Bạn không tức giận, không nổi điên mà chỉ mở lòng trải nghiệm điều mới đến với bạn dù là tích cực hay tiêu cực.
 
 ## Mạo hiểm hơn
 
-![](images/travel4.jpg)
+![](/images/travel4.jpg)
 
 Thú thật mình chỉ tập yoga và chạy bộ là giỏi. Với môn bơi lội mình rất dở vì khả năng thở đều dưới nước của mình không được tốt. Nhưng điều này không cản mình tham gia chèo thử thuyền kayak. Ngẫm nghĩ lại đây là kỉ niệm đáng nhớ nhất của mình trong suốt chuyến đi [Bali](https://balodeplao.com/tu-a-z-huong-dan-kinh-nghiem-du-lich-bali-indonesia/).
 
@@ -54,4 +54,4 @@ Du lịch đơn giản dạy bạn thế nào là hạnh phúc. Đây là thứ 
 
 Vì vậy, sao không thử một lần bước ra khỏi vỏ bọc bảo vệ mình, thử làm những điều mới, đi đến một miền đất xa lạ, ăn thử một món ăn mới, gặp gỡ và kết bạn với những người xung quanh. Khi ấy, bạn sẽ thấy bạn trở thành một người tuyệt vời như thế nào. Thay vì ngồi ở nhà, ước ao được đi du lịch đâu đó thì hãy làm ngay bây giờ đi! Lên kế hoạch, xách ba lô lên và đi để trở thành một con người tuyệt vời hơn bạn nhé.
 
-![](images/travel1.jpg)
+![](/images/travel1.jpg)

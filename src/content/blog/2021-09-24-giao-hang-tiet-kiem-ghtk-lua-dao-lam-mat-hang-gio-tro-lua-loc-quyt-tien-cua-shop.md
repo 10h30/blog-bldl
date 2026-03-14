@@ -7,7 +7,7 @@ categories:
 tags:
   - "ghtk-lua-dao"
   - "ghtk-quyt-tien"
-coverImage: "ghtk-lua-dao.png"
+image: "ghtk-lua-dao.png"
 slug: "giao-hang-tiet-kiem-ghtk-lua-dao-lam-mat-hang-gio-tro-lua-loc-quyt-tien-cua-shop"
 ---
 
@@ -19,29 +19,29 @@ Chi tiết diễn biến sự việc mình chia sẻ đầy đủ dưới đây.
 
 - Ngày 06/08/2021: Mình tạo 1 đơn hàng đồng hồ Coros Apex Pro giao cho khách ở Đồng Nai. Đơn hàng trị giá 12.799.000, khách đã chuyển khoản trước 10.000.000, chỉ thu hộ COD 2.799.000. Mình đã khai giá đúng giá trị và đóng tiền bảo hiểm đầy đủ cho đơn hàng.
 
-![](images/ghtk-lua-dao-4.png)
+![](/images/ghtk-lua-dao-4.png)
 
 - Ngày 08/08/2021: Đơn hàng đến kho Tân Phú, Đồng Nai. Sau đó bị kẹt lại tại đây không giao được liền do ảnh hưởng dịch bệnh COVID-19
 
-![](images/ghtk-lua-dao-1.png)
+![](/images/ghtk-lua-dao-1.png)
 
 - Ngày 14/08/2021: Mình yêu cầu giao hàng lần 1. Không ai trả lời
 
 - Ngày 18/08/2021: Mình yêu cầu giao hàng lần 2. Vẫn không có phản hồi
 
-![](images/ghtk-lua-dao-2.png)
+![](/images/ghtk-lua-dao-2.png)
 
 - Ngày 20/08/2021: Nhân viên GHTK gọi điện thoại thông báo hàng đã bị thất lạc.
 
 - Ngày 22/08/2021: Mình yêu cầu GHTK xác nhận tình trạng hàng hoá để bồi thường
 
-![](images/ghtk-lua-dao-3.png)
+![](/images/ghtk-lua-dao-3.png)
 
 Như hình mình chia sẻ ở trên, mình yêu cầu từ ngày 22/08/2021. Và đến thời điểm này - ngày 24/09/2021, sau hơn 1 tháng, yêu cầu trên ở trạng CHỜ XÁC NHẬN. Không ai quan tâm.
 
 Mình liên hệ với CSKH trên App GHTK để yêu cầu hỗ trợ. Do dịch bệnh nhân viên không đi làm nên mình phải bao giờ đi làm trở lại thì mới cập nhật trạng thái đơn hàng được.
 
-![](images/ghtk-lua-dao-5.jpg)
+![](/images/ghtk-lua-dao-5.jpg)
 
 OK. Đợi thì đợi!
 
@@ -57,49 +57,49 @@ Mình liên lạc hỏi khách thì người ta nói: "**Không có ai giao hàn
 
 Kiểm tra hệ thông thì thấy đơn hàng không hề có lưu thông tin cuộc gọi và hình ảnh chứng minh đã giao hàng nào cả.
 
-![](images/ghtk-lua-dao-22.jpg)
+![](/images/ghtk-lua-dao-22.jpg)
 
 Rõ ràng là bên phía GHTK đang cố tình trốn tránh trách nhiệm để không phải bồi thường đơn hàng thất lạc của mình. Mình phải liên hệ tiếp CSKH để yêu cầu xử lý gấp
 
-![](images/ghtk-lua-dao-9.jpg)
+![](/images/ghtk-lua-dao-9.jpg)
 
-![](images/ghtk-lua-dao-10.jpg)
+![](/images/ghtk-lua-dao-10.jpg)
 
-![](images/ghtk-lua-dao-11.jpg)
+![](/images/ghtk-lua-dao-11.jpg)
 
-![](images/ghtk-lua-dao-12.jpg)
+![](/images/ghtk-lua-dao-12.jpg)
 
-![](images/ghtk-lua-dao-13.jpg)
+![](/images/ghtk-lua-dao-13.jpg)
 
-![](images/ghtk-lua-dao-14.jpg)
+![](/images/ghtk-lua-dao-14.jpg)
 
-![](images/ghtk-lua-dao-16.jpg)
+![](/images/ghtk-lua-dao-16.jpg)
 
-![](images/ghtk-lua-dao-18.jpg)
+![](/images/ghtk-lua-dao-18.jpg)
 
-![](images/ghtk-lua-dao-17.jpg)
+![](/images/ghtk-lua-dao-17.jpg)
 
 Mình xác minh thêm với khách thì phát hiện ra nhân viên của GHTK cố tình giở trò gài khách để lừa đảo. Nó không biết người nó đang chat chỉ là biết nhận hàng dùm, không biết giá trị thực của đơn hàng nên mới đồng ý cho qua chuyện.
 
-![](images/ghtk-lua-dao-21.jpg)
+![](/images/ghtk-lua-dao-21.jpg)
 
-![](images/ghtk-lua-dao-19.jpg)
+![](/images/ghtk-lua-dao-19.jpg)
 
 Mình phải quay lại tiếp tục công việc tố tụng với bên CSKH.
 
-![](images/ghtk-lua-dao-20.jpg)
+![](/images/ghtk-lua-dao-20.jpg)
 
-![](images/ghtk-lua-dao-22-1.jpg)
+![](/images/ghtk-lua-dao-22-1.jpg)
 
-![](images/ghtk-lua-dao-23.jpg)
+![](/images/ghtk-lua-dao-23.jpg)
 
 Ngoài ra mình còn gửi thêm 1 tâm thư đến cskh@ghtk.vn với hi vọng sẽ được xử lý thoả đáng hơn.
 
-![](images/ghtk-lua-dao-27.png)
+![](/images/ghtk-lua-dao-27.png)
 
 Sau nhiều vòng xác minh, GHTK đã xác nhận Đơn hàng đã bị thất lạc, và hứa sẽ bồi hoàn cho mình thêm 10 triệu còn thiếu.
 
-![](images/ghtk-lua-dao-24.jpg)
+![](/images/ghtk-lua-dao-24.jpg)
 
 Cứ tưởng mọi việc đã êm xuôi. Mình sẽ nhận được tiền trong khoảng 3-5 ngày. Nhưng mình lại lầm thêm 1 lần nữa. Tất cả chỉ là dối trá!
 
@@ -107,23 +107,23 @@ Cứ tưởng mọi việc đã êm xuôi. Mình sẽ nhận được tiền tro
 
 Đây là email xác nhận từ bộ phận CSKH của GHTK gửi cho mình vào ngày 09/09 trong đó xác nhận thôgn tin chứng minh giá trị đơn hàng của mình là hợp lệ. Mình sẽ nhận được tiền trong phiên đối soát gần nhất kể từ khi kế toán xác nhận bồi hoàn (kế toán xác nhận sau 3-5 ngày kể từ khi đơn hàng chuyển trạng thái bồi hoàn).
 
-![](images/ghtk-lua-dao-28.png)
+![](/images/ghtk-lua-dao-28.png)
 
 Rõ ràng là dối trá lừa đảo. Sau 2 tuần, đơn hàng của mình trên hệ thống GHTK vẫn đang ghi là **Đã đối soát**. Không hề thay đổi trạng thái.
 
-![](images/ghtk-lua-dao-4.png)
+![](/images/ghtk-lua-dao-4.png)
 
 Trong khi đó, vào ngày 14/10, khi mình gửi email hỏi thăm tình hình thì CSKH lại nói láo là đơn hàng đã chuyển trạng thái và tiếp tục kêu mình đợi. ĐỢI !!!!
 
-![](images/ghtk-lua-dao-29.png)
+![](/images/ghtk-lua-dao-29.png)
 
 Ngày 17/07, mình tiếp tục liên hệ qua email thì vẫn chỉ nhận được những câu nói chung chung hứa sẽ hoàn tiền, đang đợi kế toán xác nhận. Làm ăn kiểu gì mà 1 tuần vẫn chưa xác nhận đền tiền cho khách.
 
-![](images/ghtk-lua-dao-30.jpg)
+![](/images/ghtk-lua-dao-30.jpg)
 
 Mình đợi thêm 1 tuần nữa. Đến hôm nay hỏi lại CSKH trên app thì tình trạng vẫn như cũ: Đang đợi cấp trên duyệt!
 
-![](images/ghtk-lua-dao-26.jpg)
+![](/images/ghtk-lua-dao-26.jpg)
 
 ĐM! Thằng GHTK này làm mất hàng của mình, rồi tìm cách giờ trò lừa đảo quỵt tiền, bị mình vạch mặt quay ra xin lỗi hứa đền tiền. Tưởng tốt đẹp, hoá ra vẫn là trò lừa đảo.
 
@@ -131,11 +131,11 @@ Mình đợi thêm 1 tuần nữa. Đến hôm nay hỏi lại CSKH trên app th
 
 CSKH báo chốt bồi hoàn cho mình vào ngày 25/09. Nhưng đến hôm nay 01/10, sau 6 ngày đợi vẫn không thấy bất kỳ email thông báo bồi hoàn nào cả.
 
-![](images/ghtk-lua-dao-0110.jpg)
+![](/images/ghtk-lua-dao-0110.jpg)
 
 Trong khi đó ngày 27/07, GHTK lại gửi 1 cái email quảng cáo thông báo sẽ bồi hoàn ngay tức thì chỉ sau 1 ngày.
 
-![](images/ghtk-lua-dao-email.jpg)
+![](/images/ghtk-lua-dao-email.jpg)
 
 Rõ ràng bên này chỉ giỏi nói dóc, hoàn toàn không có hành động bồi thường nào khi làm mất hàng của khách.
 
@@ -155,7 +155,7 @@ Shop YCB của mình trước giờ chỉ gửi hàng qua GHTK. Số lượng đ
 
 <figure>
 
-![](images/ghtk.png)
+![](/images/ghtk.png)
 
 <figcaption>
 

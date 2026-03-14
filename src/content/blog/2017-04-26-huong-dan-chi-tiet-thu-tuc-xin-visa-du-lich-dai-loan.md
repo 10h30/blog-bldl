@@ -7,7 +7,7 @@ categories:
 tags:
   - "visa-du-lich"
   - "visa-dai-loan"
-coverImage: "taipei-station-taiwan.jpg"
+image: "taipei-station-taiwan.jpg"
 slug: "huong-dan-chi-tiet-thu-tuc-xin-visa-du-lich-dai-loan"
 destination:
   - "dai-loan"
@@ -39,25 +39,25 @@ Nhìn phức tạp vậy thôi chứ thật ra đơn giản lắm. Chỉ cần l
 
 Đầu tiên, các bạn cần truy cập vào website [https://visawebapp.boca.gov.tw](https://visawebapp.boca.gov.tw), chọn Genera Visa
 
-![Chọn Genera Visa](images/taiwan-visa-form.jpg)
+![Chọn Genera Visa](/images/taiwan-visa-form.jpg)
 
 Tiếp theo, bạn điền thông tin theo mẫu dưới đây. Mình đã dịch tất cả sang tiếng Việt cho trực quan và dễ hiểu
 
-![Tờ khai visa Đài Loan, trang 1](images/taiwan-visa-form-page-1.jpg)
+![Tờ khai visa Đài Loan, trang 1](/images/taiwan-visa-form-page-1.jpg)
 
 Phần địa chỉ ở Đài Loan, các bạn điền vào địa chỉ và số điện thoại của khách sạn là được.
 
-![Tờ khai visa Đài Loan, trang 2](images/taiwan-visa-form-page-2.jpg)
+![Tờ khai visa Đài Loan, trang 2](/images/taiwan-visa-form-page-2.jpg)
 
-![Tờ khai visa Đài Loan, trang 3. Bấm No hết, nếu bạn có bất kỳ câu trả lời Yes nào thì khỏi làm nữa. Đài Loan không cho bạn nhập cảnh đâu!](images/taiwan-visa-form-page-3.jpg)
+![Tờ khai visa Đài Loan, trang 3. Bấm No hết, nếu bạn có bất kỳ câu trả lời Yes nào thì khỏi làm nữa. Đài Loan không cho bạn nhập cảnh đâu!](/images/taiwan-visa-form-page-3.jpg)
 
-![Tờ khai Visa Đài Loan, trang 4](images/taiwan-visa-form-page-4.jpg)
+![Tờ khai Visa Đài Loan, trang 4](/images/taiwan-visa-form-page-4.jpg)
 
 Sau khi điền đầy đủ thông tin 4 trang, bấm Submit để gửi hồ sơ
 
-![Bấm vào I Agree để xác nhận](images/taiwan-visa-form-page-5.jpg)
+![Bấm vào I Agree để xác nhận](/images/taiwan-visa-form-page-5.jpg)
 
-![Nộp hồ sơ thành công](images/taiwan-visa-form-page-6.jpg)
+![Nộp hồ sơ thành công](/images/taiwan-visa-form-page-6.jpg)
 
 Nhớ bấm vào nút **Print Application Form** để in thư xác nhận này. Bạn cần phải nộp thư xác nhận này cùng với các hồ sơ mình liệt kê ở trên. Lưu ý: bạn phải nộp trước hạn chót ghi trên thư (trong ví dụ là ngày 26/05/2017, 1 tháng kể từ làm hồ sơ).
 

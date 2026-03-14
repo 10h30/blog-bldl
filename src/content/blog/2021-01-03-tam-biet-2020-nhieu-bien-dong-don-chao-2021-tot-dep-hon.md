@@ -5,7 +5,7 @@ pubDate: 2021-01-03
 categories:
   - "du-lich"
   - "tam-su"
-coverImage: "img-3161.jpg"
+image: "img-3161.jpg"
 slug: "tam-biet-2020-nhieu-bien-dong-don-chao-2021-tot-dep-hon"
 ---
 

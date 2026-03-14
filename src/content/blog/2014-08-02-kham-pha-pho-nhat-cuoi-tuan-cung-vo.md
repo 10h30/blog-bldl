@@ -4,7 +4,7 @@ author: "thuanbui"
 pubDate: 2014-08-02
 categories:
   - "an-uong"
-coverImage: "1FE72808-C94D-4701-839C-9EDC2CA4C394.png"
+image: "1FE72808-C94D-4701-839C-9EDC2CA4C394.png"
 slug: "kham-pha-pho-nhat-cuoi-tuan-cung-vo"
 ---
 
@@ -22,7 +22,7 @@ Gửi xe ở toà nhà gì đó quên tên rồi (ngay chỗ Domino Pizza), hai 
 
 ### Sushi Chuồn Chuồn Đỏ
 
-![Logo của quán Chuồn Chuồn Đỏ](images/2ABF3201-7F5B-49F3-B359-02240B030A2B.png)
+![Logo của quán Chuồn Chuồn Đỏ](/images/2ABF3201-7F5B-49F3-B359-02240B030A2B.png)
 
 Vợ chồng mình thích ăn món Nhật, nhất là sushi và shasimi. Mấy quán phổ biến như Sushi Bar, Tokyo Deli đã ăn chán rồi. Sushi AOI Dining ở Bà Huyện Thanh Quan cũng có ăn một lần, rất ngon nhưng quá mắc. Sushi King ở AEON Mall mới mở mình cũng thử qua rồi, thấy cũng bình thường. Cái này hồi xưa lúc học ở Malaysia ăn hoài, giống như đi ăn Fast food ở KFC.
 
@@ -32,7 +32,7 @@ Tối nay muốn kiếm một quán nào khác để thưởng thức sushi tron
 
 Không gian quán nhỏ và ấm cúng, ánh sáng dịu nhẹ tạo cảm giác đi ăn ở nhà người thân, chứ không phải đi ăn ở nhà hàng. Rất phù hợp cho các cặp đôi thích sự lãng mạn. Quán này có nhiều món lạ như thịt ngựa sống, trứng cá sống,...mà bình thường ít thấy ở các quán sushi mình đã từng ăn.
 
-![Dĩa shasimi cho một người ăn](images/1FE72808-C94D-4701-839C-9EDC2CA4C394.png)
+![Dĩa shasimi cho một người ăn](/images/1FE72808-C94D-4701-839C-9EDC2CA4C394.png)
 
 Vợ chồng mình gọi 2 món quen thuộc là shasimi và dragon roll, cộng thêm 3 món lạ là bạch tuột sống trộn wasabi, mì xào giòn hải sản và salad cá ngừ. Nhìn chung các món rất ngon và tươi, ngon hơn hẳn Tokyo Deli. Đặc biệt thích nhất là món mì xào giòn hải sản. Món này chế biến theo kiểu Nhật, dùng chung với dấm và wasabi vàng tạo nên hương vị rất lạ. Nghĩ lại vẫn thấy thèm.
 
@@ -44,7 +44,7 @@ Sau khi lót dạ với sushi, hai vợ chồng đi kiếm tráng miệng ở qu
 
  
 
-![Quầy bán hàng của Vanilla & Butter](images/E8C2C90C-1DCE-4069-9238-886B2E07EC1A.png)
+![Quầy bán hàng của Vanilla & Butter](/images/E8C2C90C-1DCE-4069-9238-886B2E07EC1A.png)
 
 Sau vài vòng đảo hết góc này góc khác, cuối cùng hai vợ chồng cũng mò ra Vannila & Butter. Quán nhỏ nhưng rất dễ thương, tươi trẻ. Quán này chuyên phục vụ các loại bánh ngọt kiểu Nhật. Mình chẳng nhớ là bánh gì, chỉ nhớ là các loại bánh nhìn rất cuốn hút, bảo đảm nhìn là muốn ăn ngay. Mỗi phần bánh giá 50.000, bạn có thể kêu thêm nước nếu thích hoặc có thể uống nước lạnh miễn phí.
 
@@ -52,7 +52,7 @@ Sau vài vòng đảo hết góc này góc khác, cuối cùng hai vợ chồng 
 
 Hai vợ chồng mình gọi một phần Panna Cotta và một phần bánh Sakura. Bánh rất ngon và vừa miệng. Ngồi nhâm nhi tán dóc khoảng hơn nửa tiếng thì hai vợ chồng đi về.
 
-![Tự sướng một tấm trước khi về](images/1E1AC38E-1637-4E8C-A272-4FB24DA121FE.png)
+![Tự sướng một tấm trước khi về](/images/1E1AC38E-1637-4E8C-A272-4FB24DA121FE.png)
 
  
 

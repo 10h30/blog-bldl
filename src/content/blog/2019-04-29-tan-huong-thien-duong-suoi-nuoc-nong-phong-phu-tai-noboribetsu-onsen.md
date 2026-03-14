@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2019-04-29
 categories:
   - "du-lich"
-coverImage: "noboribetsu1.jpg"
+image: "noboribetsu1.jpg"
 slug: "tan-huong-thien-duong-suoi-nuoc-nong-phong-phu-tai-noboribetsu-onsen"
 ---
 
@@ -28,7 +28,7 @@ Khách sạn chúng mình chọn cho đêm nghỉ dưỡng cuối cùng tại Nh
 
 <figure>
 
-![](images/takimotokan.jpg)
+![](/images/takimotokan.jpg)
 
 <figcaption>
 
@@ -54,7 +54,7 @@ Sau khi tắm onsen Silk được mặc yukata trẻ em thật đáng yêu
 
 Phòng ốc tại Takimotokan đều được thiết kế theo lối kiến trúc truyền thống Nhật Bản với chiếu tatami, cửa giấy lùa, đồ nội thất giản đơn mộc mạc ...đem lại cho khách trọ một cảm giác thư giãn, ấm cúng như được sống trong chính ngôi nhà của người Nhật xa xưa chứ không phải khách sạn.
 
-![](images/daiichi-takimotokan-03.jpg)
+![](/images/daiichi-takimotokan-03.jpg)
 
 Ngoài ra, Takimotokan còn ghi điểm cộng lớn bởi thức ăn ngon, chất lượng đi kèm phong cách phục vụ tốt. Bữa ăn tối tại Takimotokan là bữa tối thịnh soạn, đáng nhớ và ngon nhất mà gia đình mình từng được trải nghiệm. Các món ăn từ Nhật, Ta, Tây phong phú cho thực khách tha hồ lựa chọn. Sashimi tươi ngon khủng khiếp, nhắc đến còn thèm thuồng hix.
 

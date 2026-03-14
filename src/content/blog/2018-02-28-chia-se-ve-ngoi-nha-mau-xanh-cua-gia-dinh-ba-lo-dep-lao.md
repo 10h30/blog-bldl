@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-02-28
 categories:
   - "tam-su"
-coverImage: "cay-khe.jpg"
+image: "cay-khe.jpg"
 slug: "chia-se-ve-ngoi-nha-mau-xanh-cua-gia-dinh-ba-lo-dep-lao"
 ---
 
@@ -34,11 +34,7 @@ Trăm người ngàn ý. Quan trọng là sau một tháng về ở trong ngôi 
 
 https://www.instagram.com/p/BfPZsnsgPg2/?taken-by=balodeplao
 
- 
-
 https://www.instagram.com/p/BfV3zsvAP\_u/?taken-by=balodeplao
-
- 
 
 https://www.instagram.com/p/BfurGs5gIWh/?taken-by=balodeplao
 

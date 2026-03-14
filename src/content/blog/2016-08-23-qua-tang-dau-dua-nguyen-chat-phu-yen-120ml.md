@@ -5,13 +5,13 @@ pubDate: 2016-08-23
 categories:
   - "lam-dep"
   - "qua-tang"
-coverImage: "dau-dua-cover-bldl20.jpg"
+image: "dau-dua-cover-bldl20.jpg"
 slug: "qua-tang-dau-dua-nguyen-chat-phu-yen-120ml"
 ---
 
 Nhân dịp sinh nhật đầu tiên Silk tròn một tuổi, mình muốn gửi đến các đọc giả của Ba lô & Dép lào một phần quà nho nhỏ: **[Tinh dầu dừa nguyên chất từ Sông Cầu - Phú Yên](https://balodeplao.com/shop/dau-dua-nguyen-chat-phu-yen/).**
 
-![Dầu dừa nguyên chất Phú Yên](images/dau-dua-cover-bldl20.jpg)
+![Dầu dừa nguyên chất Phú Yên](/images/dau-dua-cover-bldl20.jpg)
 
 Không ai có thể phủ nhận những tác dụng thần kì của dầu dừa đối với sức khoẻ con người và công cuộc làm đẹp của phụ nữ. Dầu dừa hoàn toàn lành tính, chiết xuất tự nhiên nên rất an toàn sử dụng mà đem lại hiệu quả cao.
 

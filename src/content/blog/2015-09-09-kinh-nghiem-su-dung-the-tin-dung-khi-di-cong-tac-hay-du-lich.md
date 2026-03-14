@@ -6,7 +6,7 @@ categories:
   - "meo-hay"
 tags:
   - "the-tin-dung"
-coverImage: "the-tin-dung.jpg"
+image: "the-tin-dung.jpg"
 slug: "kinh-nghiem-su-dung-the-tin-dung-khi-di-cong-tac-hay-du-lich"
 ---
 

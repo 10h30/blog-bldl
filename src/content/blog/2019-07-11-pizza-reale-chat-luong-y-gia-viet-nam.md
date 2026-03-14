@@ -6,7 +6,7 @@ categories:
   - "an-uong"
 tags:
   - "pizza"
-coverImage: "dscf5835.jpg"
+image: "dscf5835.jpg"
 slug: "pizza-reale-chat-luong-y-gia-viet-nam"
 ---
 
@@ -22,19 +22,19 @@ Nghe nhiêu đó thôi là đủ thôi thúc BLDL mua ngay và luôn hai chiếc
 
 Nhìn vào [thực đơn pizza](https://www.vietnammm.com/en/pizza-reale), BLDL không thể không hoa mắt trước vô vàn các thể loại pizza Ý phong phú với tên gọi nghe thật lạ tai, có cả pizza cho người ăn chay như mình nữa đấy. Bạn nhất định nên thử qua những pizza được đánh dấu là "chef's signature" chắc chắn sẽ không thất vọng đâu.
 
-![](images/dscf5838.jpg)
+![](/images/dscf5838.jpg)
 
 ### Pizza ngon xuất sắc
 
 Không hổ danh là vô địch pizza Đông Nam Á, cốt bánh thơm lừng, viền bánh giòn, nhân bánh ngon xuất sắc. Pizza ở Reale được nướng bằng củi nên giữ được cái hồn truyền thống của pizza Ý.
 
-![](images/dscf5840.jpg)
+![](/images/dscf5840.jpg)
 
 Mình gọi một bánh pizza mimosa (pizza mặn) và một vegan pizza. Cả hai bánh đều ngon. Mình cực ưng phần nước sốt cà truyền thống ở Reale. Vị thanh tao, nhẹ nhàng, vừa ăn.
 
 <figure>
 
-![](images/dscf5832.jpg)
+![](/images/dscf5832.jpg)
 
 <figcaption>
 
@@ -46,7 +46,7 @@ Pizza Reale
 
 <figure>
 
-![](images/dscf5837.jpg)
+![](/images/dscf5837.jpg)
 
 <figcaption>
 
@@ -60,7 +60,7 @@ pizza mimosa (phải) và vegan pizza (trái)
 
 Tuy chất lượng cao nhưng giá cả tại Pizza Reale lại rất hợp lý. Pizza Reale chỉ có hai size bánh duy nhất: cho người lớn và trẻ em với giá trung bình tầm 110-280k. Mình nghĩ giá "hạt dẻ" thế này cho một chiếc pizza thần thánh vì Pizza Reale chủ yếu cung cấp dịch vụ giao hàng (delivery) chứ không phải dùng món tại quán.
 
-![](images/dscf5848.jpg)
+![](/images/dscf5848.jpg)
 
 **Địa chỉ duy nhất của Pizza Reale: 27-29 Nguyễn Đăng Giai, P. Thảo Điền, Q2.**
 

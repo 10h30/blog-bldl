@@ -5,7 +5,7 @@ pubDate: 2019-08-06
 categories:
   - "an-uong"
   - "lam-dep"
-coverImage: "dscf6274.jpg"
+image: "dscf6274.jpg"
 slug: "chia-se-cong-thuc-sinh-to-detox-thom-ngon-de-lam"
 ---
 
@@ -23,7 +23,7 @@ Mỗi ngày, mình đều dành ít nhất một tiếng cho chạy bộ sớm v
 
 <figure>
 
-![](images/dscf4485.jpg)
+![](/images/dscf4485.jpg)
 
 <figcaption>
 
@@ -47,7 +47,7 @@ Nào cùng bắt tay vào làm thức uống xanh thanh lọc cơ thể bạn nh
 - 1 ít gừng tươi
 - 240ml nước lọc/ nước dừa tươi
 
-![](images/dscf6261.jpg)
+![](/images/dscf6261.jpg)
 
 ### Chế biến
 
@@ -55,10 +55,10 @@ Do tất cả các nguyên liệu này đều sẽ được xay sống và uốn
 
 Táo bạn gọt vỏ. Cải xoăn bạn tuốt lấy phần lá. Kiwi bạn cắt lát. Dưa leo bạn gọt vỏ sạch và cắt khúc. Nếu bạn không thích uống ngọt thì thay nước dừa tươi bằng nước lọc như mình nhé. Sau đó các bạn cho tất cả nguyên liệu trên vào máy xay sinh tố cho mịn. Thế là xong.
 
-![](images/dscf6265-4.jpg)
+![](/images/dscf6265-4.jpg)
 
 Khi uống, bạn sẽ cảm thấy vị nhẫn nhẹ của cải xoăn, chua nhẹ của táo, ngọt vừa phải của kiwi, vị nồng ấm của gừng. Vừa dễ uống lại thơm ngon và tốt cho sức khoẻ. Sau khi uống một ly to, ngày hôm sau khi thức dậy, mình "đi" khá tốt ;)). Cơ thể nhẹ nhàng và khoẻ khoắn hẳn.
 
-![](images/dscf6274.jpg)
+![](/images/dscf6274.jpg)
 
 Còn chờ gì nữa mà không bắt tay vào làm cho bản thân một thức uống thanh lọc cơ thể ngay tại nhà. Chúc mọi người sống vui sống khoẻ và đừng lạm dụng detox quá mức nhé ;).

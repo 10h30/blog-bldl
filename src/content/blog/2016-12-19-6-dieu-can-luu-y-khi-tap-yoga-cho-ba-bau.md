@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-12-19
 categories:
   - "yoga"
-coverImage: "ux53sgprahu-freestocks-org.jpg"
+image: "ux53sgprahu-freestocks-org.jpg"
 slug: "6-dieu-can-luu-y-khi-tap-yoga-cho-ba-bau"
 ---
 
@@ -29,23 +29,23 @@ Nghe đến đó thôi là thấy quá tuyệt vời phải không các bầu, c
 
 Việc vặn xoắn cơ thể là một trong những động tác quen thuộc khi tập Yoga. Tuy nhiên, các mẹ bầu nên tránh thực hiện các động tác vặn xoắn cơ thể quá mức, đặc biệt phần eo và lưng. Điều này có thể gây ảnh hưởng không tốt với sự phát triển của thai nhi.
 
-![](images/a-beginners-guide-to-yoga-asanas.jpg)
+![](/images/a-beginners-guide-to-yoga-asanas.jpg)
 
 ### Không cuộn tròn cơ thể
 
 Dù bạn có muốn hay không thì nhất định phải hạn chế các động tác co chân cuộn tròn cơ thể/ lăn lộn trên sàn hay gập bụng vì bạn làm vậy như đang thách thức em bé trong bụng vậy.
 
-![](images/apanasana6.jpg)
+![](/images/apanasana6.jpg)
 
 Thay vào đó, bạn có thể nằm co chân ngả người sang hai bên hoặc nằm trên thảm xếp hai lòng bàn chân lại như hình thoi để mở rộng xương chậu.
 
-![](images/c27a8d0e6ff8cf2b57e6448dba3ca0f7.jpg)
+![](/images/c27a8d0e6ff8cf2b57e6448dba3ca0f7.jpg)
 
 ### Không đưa đầu gối cao hơn xương chậu
 
 Mình là đứa rất thích các động tác tập giữ thăng bằng trong Yoga và làm rất tốt như động tác chim bay, động tác co cao một chân và đưa đầu gối lên gần sát bụng...Tuy nhiên, khi mang thai mình không hề dám thực hiện quá đà các động tác cân bằng bởi những tư thế đưa đầu gối cao hơn xương chậu sẽ làm ảnh hưởng không tốt đến vị trí của thai nhi.
 
-![](images/fd0b89723afcb652e6a9fd1f6d5d7f49.jpg)
+![](/images/fd0b89723afcb652e6a9fd1f6d5d7f49.jpg)
 
 ### Không nhảy
 
@@ -55,13 +55,13 @@ Mình là đứa rất thích các động tác tập giữ thăng bằng trong 
 
 Trong thời gian mang thai, bạn cần xác định mục tiêu tập thể dục là để giữ sức khỏe chứ không phải để giảm cân. Vì vậy, mẹ bầu không nên tập luyện quá lâu gây mất sức và mệt mỏi nhất là ba tháng đầu của thai kỳ. Thời gian tối ưu tập luyện chỉ nên trong vòng từ 30-45 phút. Sau khi tập xong các mẹ nên nằm hít thở thả lỏng cơ thể tránh ăn uống ngay sau khi vừa tập xong nhé.
 
-![](images/yoga3.jpg)
+![](/images/yoga3.jpg)
 
 ### Không qúa quan trọng tư thế
 
 Việc chú trọng quá mức vào việc thực hiện tư thế sao cho đúng chỉ khiến các mẹ bầu tăng thêm căng thẳng cho cơ thể và tâm trí. Thay vào đó, bạn hãy chú trọng đến việc hít thở, thiền định, di chuyển cơ thể nhẹ nhàng và đơn giản hoá các động tác càng nhiều càng tốt. Chỉ có như vậy, các bầu mới cảm thấy tinh thần thư thản, vui vẻ sau mỗi giờ tập yoga.
 
-![](images/bai-tap-yoga-cho-me-bau.jpg)
+![](/images/bai-tap-yoga-cho-me-bau.jpg)
 
 ### Một số lưu ý khác
 

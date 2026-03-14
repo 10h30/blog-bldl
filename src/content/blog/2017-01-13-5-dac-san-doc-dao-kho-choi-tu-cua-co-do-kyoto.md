@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-01-13
 categories:
   - "an-uong"
-coverImage: "kyoto-food05.jpg"
+image: "kyoto-food05.jpg"
 slug: "5-dac-san-doc-dao-kho-choi-tu-cua-co-do-kyoto"
 destination:
   - "kyoto"
@@ -18,17 +18,17 @@ Bài viết kỳ này sẽ dẫn dắt các bạn một vòng thưởng ngoạn 
 
 Món ăn đầu tiên mình thưởng thức khi vừa đặt chân đến Kyoto là **Mì Soba**. Có thể nói sau chuyến bay dài từ khi [quá cảnh tại KL - Malay](https://balodeplao.com/nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-1-qua-canh-tai-kuala-lumpur-malaysia/), đây tưởng chừng là bữa ăn ngon nhất đời mình. Sau này khi có thời gian nghiên cứu mình mới biết *Mì Soba là loại mì được làm từ bột kiều mạch, độ dày của nó có thể nói là ngang ngửa mì spaghetti của Ý và có rất nhiều kiểu ăn nóng hoặc lạnh khác nhau*.
 
-![](images/kyoto-food03.jpg)
+![](/images/kyoto-food03.jpg)
 
 Do lần đầu biết đến Soba, mình khá choáng ngợp trước thực đơn với vô số thể loại mì Soba khác nhau. Mình gọi đại một phần mì Soba nóng với Tempura hỗn hợp cho bản thân và một phần mì Soba lạnh thịt bò cực thịnh soạn cho Ba Lô.
 
-![Set mì Soba lạnh thịt bò dùng chung với nước chấm](images/kyoto-food02.jpg)
+![Set mì Soba lạnh thịt bò dùng chung với nước chấm](/images/kyoto-food02.jpg)
 
-![Mì Soba nóng ăn kèm với Tempura](images/kyoto-food01.jpg)
+![Mì Soba nóng ăn kèm với Tempura](/images/kyoto-food01.jpg)
 
 Vui nhất là hai đứa không biết nên ăn mì Soba thế nào cho đúng, lại không biết chút chéo nào tiếng Nhật. Người Nhật rất dễ thương, hiểu được cái khó của khách du lich nên họ cứ cố gắng tay chân chỉ trỏ "body language" thôi.
 
-![](images/kyoto-food04.jpg)
+![](/images/kyoto-food04.jpg)
 
 #### Ăn mì Soba như thế nào?
 
@@ -54,7 +54,7 @@ _Các món Soba đơn giản thông thường có giá khoảng 500 - 1000 yên 
 
 Kyoto nổi tiếng nhất với đặc sản đậu hũ được làm thủ công từ nguồn nước rất sạch. \_Có rất nhiều món ăn được chế biến từ đậu hũ ngon có tiếng ở Kyoto như đậu hũ vừng đen, đậu hũ nướng sốt miso, đậu hũ luộc, đậu hũ hầm Yudofu…\_Vì vậy, đặc điểm nổi bật trong tất cả những bữa cơm tại Kyoto là đều có một chén súp nhỏ gồm đậu hũ luộc nóng hổi kèm một miếng rong biển phủ lên trên.
 
-![](images/shoraian-kyoto-yudofu.jpg)
+![](/images/shoraian-kyoto-yudofu.jpg)
 
 Là fan cuồng của đậu hũ, với mình Kyoto chính là thiên đường thế giới đậu hũ đầy hấp dẫn. Đậu hũ ở Kyoto rất mềm, mịn, béo nhẹ, đậm chất đậu nành khi ăn chứ không nhiều bột thạch cao pha trộn như ở Việt Nam.
 
@@ -68,23 +68,19 @@ _Địa chỉ Nhà Hàng Okutan: 86-30 Nanzenjifukuchicho Sakyo-ku, Kyoto_
 
 Trung bình một combo gồm cơm/mì với soup tàu hủ từ 1500 Yên trở lên.
 
-![](images/tofu-kyoto-bldl01.jpg)
-
- 
+![](/images/tofu-kyoto-bldl01.jpg)
 
 ### III. Yatsuhashi
 
 Khi đến Kyoto, mình để ý đâu đâu cũng bày bán một loại bánh truyền thống có hình tam giác kèm nhân bên trong. Hoá ra đó là **bánh Yatsuhashi - đặc sản nổi tiếng tại Cố đô Kyoto**. Bánh có hình tam giác tượng trưng cho koto - loại đàn hạc truyền thống ở Nhật Bản, được làm bằng bột gạo cán mỏng, sau đó bọc đậu đỏ bên trong và nướng lên. Bánh có hương vị quế, vừng đen hay trà xanh.
 
-![](images/yatsuhashi-1.jpeg)
-
- 
+![](/images/yatsuhashi-1.jpeg)
 
 #### Mua **bánh Yatsuhashi ở đâu?**
 
 Bạn rất dễ tìm mua Yatsuhashi ở bất cứ tiệm bánh nào tại Kyoto từ sang trọng cho đến bình dân. Tuy nhiên, **hiệu bánh Izutsu Yatsuhashi Honkan ở Phố cổ Gion được rất nhiều người yêu thích.**
 
-![](images/yatsuhashi-bldl.jpg)
+![](/images/yatsuhashi-bldl.jpg)
 
 Mình công nhận tất cả các món bánh trái ở Nhật đều rất ngon. Ngoài hương vị thanh nhẹ, các món bánh đều được đầu tư công phu, trang trí tỉ mỉ và trưng bày rất rất đẹp mắt, khiến thực khách không khỏi xiêu lòng. Mình cứ bước chân ra đường là không thể không ngó ngược dòm xuôi, ăn cho bằng hết các loại bánh trái hấp dẫn nơi đây. Huhu hỏi sao đi Nhật 20 ngày về mà không mập!!!
 
@@ -96,15 +92,15 @@ _Thành phần chính của bánh được làm từ bột mì, trứng gà và 
 
 Bưng chiếc bánh trên tay mình có cảm giác như đang chiêm ngưỡng cả một tác phẩm nghệ thuật khéo léo của con người Nhật Bản. Mình rất ưng bánh bông lan Matcha! Bánh mềm mịn, tan ngay trong miệng, kem béo ngọt vừa phải, đậm đà vị trà xanh. Ôi chết mất!
 
-![](images/kyoto-food08.jpg)
+![](/images/kyoto-food08.jpg)
 
 #### Mua bánh bông lan ngàn lớp ở đâu?
 
 Cũng như bánh Yatsuhashi, bạn có thể dễ dàng bắt gặp bánh bông lan ngàn lớp ở khắp mọi ngõ ngách của Kyoto đặc biệt là khu phố cổ Gion. Mình cam đoan bạn sẽ cực kỳ hài lòng khi thấy bánh bông lan được gói ghém rất đẹp trong 2 -3 lớp hộp giấy như một món đồ trang sức quý giá vậy.
 
-![Tiệm bánh thôi mà đã đẹp thế này rồi](images/kyoto-food06.jpg)
+![Tiệm bánh thôi mà đã đẹp thế này rồi](/images/kyoto-food06.jpg)
 
-![](images/kyoto-food07.jpg)
+![](/images/kyoto-food07.jpg)
 
 #### Giá cả
 
@@ -114,11 +110,9 @@ Giá trung bình một bánh bông lan ngàn lớp khoảng 1000-1200 Yên.
 
 Nhật có 3 vùng trồng trà lớn, được xưng tụng là "Nhật Bản tam đại trà", đó là trà của vùng Shizuoka, trà vùng Sayama và trà của Uji. Uji là vùng đất nằm ở phía nam Kyoto, bắt đầu trồng trà từ thời Kamakura, được biết đến là kinh đô trà xanh nổi tiếng của Nhật Bản.
 
- 
-
 Quả thực matcha mang thương hiệu Uji có giá trị rất cao, thường được sử dụng nhiều trong các buổi trà đạo. _Bột trà xanh Uji đặc trưng với màu xanh lá tự nhiên, vị thanh nhẹ nhàng, mùi thơm nồng nàn và dễ dàng hoà tan khi pha vào nước ấm…_
 
-![Trà xanh Uji siêu thơm, thanh nhẹ của Shop BL&DL nè](images/tra-xanh-01.jpg)
+![Trà xanh Uji siêu thơm, thanh nhẹ của Shop BL&DL nè](/images/tra-xanh-01.jpg)
 
 Mình không những uống mà còn dùng bột trà xanh Uji để đắp mặt nạ. Ngoài việc đem lại tinh thần thư thái, gia giảm mỡ, bột trà xanh còn giúp chống lão hoá, làm trẻ hoá làn da và ngăn ngừa các chứng bệnh nguy hiểm khác.
 
@@ -128,7 +122,7 @@ https://balodeplao.com/da-trang-min-voi-mat-na-tra-xanh-dau-dua/
 
 Không chỉ ở Kyoto mà toàn nước Nhật, các bạn sẽ được uống trà xanh mọi lúc mọi nơi…khi dùng cơm, khi ăn bánh, khi đàm đạo…Việc cùng nhau ngồi lại thưởng thức trà đã trở thành một nét văn hoá đặc trưng của con người Nhật Bản.
 
-![](images/tra-dao-bldl.jpg)
+![](/images/tra-dao-bldl.jpg)
 
 Nếu bạn nào muốn "săn lùng" bột trà xanh nguyên chất của Uji ở Việt Nam có thể đặt mua ngay tại BLDL Shop. Đây là hàng thật 100% do chính gia đình mình ở Nhật đem về. Hi vọng được độc giả BLDL ủng hộ hihi
 

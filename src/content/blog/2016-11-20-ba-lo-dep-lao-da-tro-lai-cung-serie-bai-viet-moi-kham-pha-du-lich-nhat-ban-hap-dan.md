@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-11-20
 categories:
   - "du-lich"
-coverImage: "shirakawago-bldl12.jpg"
+image: "shirakawago-bldl12.jpg"
 slug: "ba-lo-dep-lao-da-tro-lai-cung-serie-bai-viet-moi-kham-pha-du-lich-nhat-ban-hap-dan"
 ---
 
@@ -14,4 +14,4 @@ Ngoài việc chia sẻ lịch trình 20 ngày khám phá Nhật Bản, bài vi�
 
 Chúc các bạn cuối tuần vui vẻ!
 
-![](images/kyoto-bldl28.jpg)
+![](/images/kyoto-bldl28.jpg)

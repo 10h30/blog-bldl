@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-06-27
 categories:
   - "yoga"
-coverImage: "purna-yoga.jpg"
+image: "purna-yoga.jpg"
 slug: "tong-hop-nhung-sai-lam-pho-bien-khi-tap-yoga"
 ---
 
@@ -34,7 +34,7 @@ Việc hít thở đúng đóng vai trò cực kỳ quan trong trong lúc tập 
 
 > "Hít thở đều và sâu sẽ giúp cơ thể mềm mại và thực hiện động tác đúng và dễ dàng hơn."
 
-![Mỗi ngày mình luôn dành thời gian thiền - hít thở sâu ít nhất 30 phút](images/purna-yoga.jpg)
+![Mỗi ngày mình luôn dành thời gian thiền - hít thở sâu ít nhất 30 phút](/images/purna-yoga.jpg)
 
 Cùng một động tác, hai người tập khác nhau với hai cách hít thở khác nhau. Người hít thở đúng sẽ làm mềm cơ thể, vào động tác dễ dàng hơn và...cảm nhận yoga rõ ràng hơn, hạn chế chấn thương. Khi bạn hít thở đúng, bạn sẽ vào tư thế đúng, bạn sẽ sử dụng đúng phần cơ mong muốn, hạn chế làm đau những phần cơ khác.
 
@@ -42,7 +42,7 @@ Ví dụ, trong tư thế đưa tay qua khỏi đầu để ngã lưng về sau 
 
 Trong bất cứ động tác ngã lưng về sau nào, các bạn phải luôn ghi nhớ một nguyên tắc không đổi: **Để bẻ cong được nhiều, trước hết phải kéo dài cột sống ra**.
 
-![](images/backbend.jpg)
+![](/images/backbend.jpg)
 
 Tại sao vậy? Thử tưởng tượng một chiếc lò xo khi bạn kéo các mắc xích lò xo càng xa, làm dài ra lò xo hết cỡ thì khi ấy các bạn bẻ cong chiếc lò xo dễ dàng nhất. Cột sống lưng của chúng ta cũng hoạt động theo nguyên tắc như vậy. Mình sẽ bàn chi tiết về việc này trong một bài viết chuyên đề khác.
 
@@ -60,7 +60,7 @@ Mình nhấn mạnh lại" **Tư thế dễ không phải là dễ dàng thực 
 
 Ví dụ như ai cũng khao khát thực hiện thành công "Đứng bằng đầu" - Headstand - được mệnh danh là vua của các tư thế. Mọi người đua nhau lên tư thế rồi rớt ào ào, gây chấn thương tay, cổ và lưng. Bởi cơ bụng, cơ tay và cơ lưng chưa được làm mạnh. Thay vì nóng vội chay đua bằng bạn bằng bè, mình luôn khuyên học viên hãy chăm chỉ tập thế Cá heo (Dolphin Pose) một ngày ít nhất 20 lần thì một lúc nào đó sẽ lên Headstand dễ dàng mà thôi.
 
-![](images/purna-headstand-bldl01.jpg)
+![](/images/purna-headstand-bldl01.jpg)
 
 Hãy tập chậm, hãy hít thở sâu để cảm nhận cơ thể, để làm mạnh những vùng chưa khoẻ, để tăng cường những nơi đã khoẻ. Mỗi ngày các bạn sẽ thấy mình khoẻ và tiến bộ hơn từng chút một. Đừng so sánh hay chạy đua với ai cả bởi bạn là chính bạn mà thôi.
 

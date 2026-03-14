@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-12-06
 categories:
   - "lam-dep"
-coverImage: "dacc82m-den-orihiro-bldl01.jpg"
+image: "dacc82m-den-orihiro-bldl01.jpg"
 slug: "dep-toan-than-cung-vien-dam-den-giam-can-nhat-ban-orihiro"
 ---
 
@@ -45,7 +45,7 @@ Trước khi tiến hành chiến dịch giảm cân bằng dấm đen Orihiro, 
 
 Mình chỉ uống đúng liều một ngày 4 viên dấm, sau bữa ăn trưa và tối, đều đặn trong hai tuần. Hiện tại mình giảm xuống được 1.4kg. Theo mình cảm nhận, **_cân nặng giảm không vù vù ào ào như lời đồn. Tuy nhiên, da và tóc có sự thay đổi thần kì_**. Da mình đẹp lên hẳn, căng mịn, độ ẩm cao. Tóc mượt hơn, bóng hơn, có ảo giác dày hơn. Thích vô cùng!!!!!
 
-![Mẹ Silk da trắng hồng mịn màng hẳn sau vài ngày sử dụng](images/14732361_10157641972545363_8037559307372300889_n.jpg)
+![Mẹ Silk da trắng hồng mịn màng hẳn sau vài ngày sử dụng](/images/14732361_10157641972545363_8037559307372300889_n.jpg)
 
 Điểm mình cực thích khi sử dụng Orihiro là **_không hề gây đau dạ dày, mệt mỏi, hoa mắt_** hay bất cứ phản ứng phụ nào như [Trà giảm cân Leptin Teatox](https://balodeplao.com/teatox-phuong-phap-detox-bang-tra-thao-moc-loi-hai-di-doi/) mình từng thử nghiệm. Tuy cân nặng không giảm nhiều nhưng mình cảm nhận được đùi và mông thon gọn lại, bụng phẳng hơn hẳn. Bây giờ mẹ Silk hoàn toàn tự tin mặc bikini hai mảnh lại rồi.
 

@@ -5,7 +5,7 @@ pubDate: 2016-10-24
 categories:
   - "lam-dep"
   - "yoga"
-coverImage: "chaybo-bldl01.jpg"
+image: "chaybo-bldl01.jpg"
 slug: "loi-ich-vang-den-tu-viec-ket-hop-yoga-voi-chay-bo"
 ---
 
@@ -49,12 +49,12 @@ Sau đó, thay vì suy nghĩ lung tung, mình chỉ tập trung vào hơi thở-
 
 Nhờ kết hợp chạy bộ và yoga, sức khoẻ mình được cải thiện thấy rõ, [cơ thể săn chắc thon gọn](https://balodeplao.com/tap-yoga-co-lam-giam-can-khong/), da đẹp hẳn lên. Không những thế [Silk nhà mình còn có thể tham gia tập luyện Yoga chung cùng mẹ](https://balodeplao.com/4-tu-the-yoga-don-gian-de-ban-tap-luyen-cung-be/). Hai mẹ con cùng khoẻ cùng đẹp.
 
-![Buổi sáng là thời điểm tốt nhất trong ngày để các bạn chạy bộ và tâp yoga  
-Trong hình là mình đó! Vợ của Admin Yeuchaybo ;)](images/13707638_801634329971467_1142179655379677167_n.jpg)
+![Buổi sáng là thời điểm tốt nhất trong ngày để các bạn chạy bộ và tâp yoga
+Trong hình là mình đó! Vợ của Admin Yeuchaybo ;)](/images/13707638_801634329971467_1142179655379677167_n.jpg)
 
 Mình xin chia sẻ cho các bạn mới bắt đầu tìm hiểu bộ môn chạy bộ giáo án 5km. Với những ai mới bắt đầu, 5km là cột mốc thử thách rất lớn. Khi bạn đã đạt được mục tiêu 5km rồi thì 10km, 21km hay 42km chỉ là chuyện sớm muộn thôi dựa vào sức bền và khả năng duy trì nhịp thở của bạn.
 
-*Link bài viết của Yeuchaybo các bạn nhé.* 
+_Link bài viết của Yeuchaybo các bạn nhé._
 
 https://yeuchaybo.com/giao-an-chay-bo-5k-danh-cho-cac-ban-moi/
 

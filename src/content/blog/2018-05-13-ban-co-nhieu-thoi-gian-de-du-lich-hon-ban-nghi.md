@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-05-13
 categories:
   - "du-lich"
-coverImage: "timing.jpg"
+image: "timing.jpg"
 slug: "ban-co-nhieu-thoi-gian-de-du-lich-hon-ban-nghi"
 ---
 

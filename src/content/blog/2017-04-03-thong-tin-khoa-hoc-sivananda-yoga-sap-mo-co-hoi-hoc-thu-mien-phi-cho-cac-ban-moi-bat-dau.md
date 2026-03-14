@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-04-03
 categories:
   - "yoga"
-coverImage: "lop-hoc-yoga.jpg"
+image: "lop-hoc-yoga.jpg"
 slug: "thong-tin-khoa-hoc-sivananda-yoga-sap-mo-co-hoi-hoc-thu-mien-phi-cho-cac-ban-moi-bat-dau"
 ---
 

@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-11-06
 categories:
   - "du-lich"
-coverImage: "chiang-mai-advanced-yoga30.jpg"
+image: "chiang-mai-advanced-yoga30.jpg"
 slug: "ngat-ngay-voi-le-hoi-tha-den-troi-loy-krathong-tai-chiang-mai"
 destination:
   - "chiang-mai"
@@ -31,7 +31,7 @@ Nếu bạn đi taxi thì sẽ mắc hơn nhiều đấy. Do vậy tốt nhất 
 
 **Ratchadamnoen Road** là một trong những con đường trung tâm tại Chiang Mai, nơi có bức tường thành cổ**Tha Phae Gate**. Đây cũng là nơi mọi người tập trung thả đèn trời và mua sắm chợ đêm ngày chủ nhật. Bạn có thể đến đây vào chủ nhật hằng tuần và tha hồ chìm ngập trong vô vàn hàng hoá giá rẻ, cực bắt mắt.
 
-![](images/chiang-mai-advanced-yoga23.jpg)
+![](/images/chiang-mai-advanced-yoga23.jpg)
 
 Chợ đêm nổi tiếng **Night Bazaar trên đường Chang Klan Road** thì chủ yếu là sản phẩm nhái của các thương hiệu lớn. Còn chợ đêm chủ nhật toàn trưng bày các hàng thủ công mỹ nghệ của người dân miền bắc Thái Lan. Mình sẽ chia sẻ một bài viết riêng về chợ đêm chủ nhật này cho các bạn sau nhé.
 
@@ -41,7 +41,7 @@ Tuy nhiên, điểm thả đèn đông và choáng ngợp nhất trong khu phố
 
 Cảm xúc lần đầu tiên khi tham gia lễ hội là đông quá đông, vui quá vui. Người người chen chúc hối hả nào là chụp hình, mua sắm, thả đèn lồng, cười nói, ăn uống và mua sắm. Có cảm giác không khác gì Tết cổ truyền Việt Nam mình.
 
-![](images/chiang-mai-advanced-yoga22.jpg) ![](images/chiang-mai-advanced-yoga24.jpg)
+![](/images/chiang-mai-advanced-yoga22.jpg) ![](/images/chiang-mai-advanced-yoga24.jpg)
 
 Đây đó còn cả tiếng pháo hoa nổ lộp độp. Ngước nhìn lên bầu trời là cả một khung cảnh tráng lệ. Những chiếc lồng đèn giấy trắng muốt rực sáng lơ lửng trên trời đêm đem theo cả ước nguyện của mọi người.
 
@@ -49,7 +49,7 @@ Cảm xúc lần đầu tiên khi tham gia lễ hội là đông quá đông, vu
 
 Mình đến nơi lúc 6g tối nên cùng mọi người vào một nhà hàng ăn tối. Từ tầng hai của nhà hàng, mình có thể phóng tầm mắt quan sát tất cả diễn cảnh náo nhiệt đang diễn ra tại đây. Ăn xong, tụi mình rảo bước dọc con đường chính để tìm về đến nơi trung tâm thả đèn.
 
-![](images/chiang-mai-advanced-yoga25.jpg)
+![](/images/chiang-mai-advanced-yoga25.jpg)
 
 Thật ra bạn không nhất thiết phải đến sông Ping để mới thấy được đèn trời bay đâu. Dọc hai bên đường ở những ngôi chùa vàng cũng nghịt ngời cầu nguyện và thả đèn. Khung cảnh ảo diệu lung linh chất ngất luôn.
 
@@ -61,4 +61,4 @@ https://www.instagram.com/p/BbDtRiPFIMS/?taken-by=balodeplao
 
 Cuối cùng thì mình cũng kiếm được một địa điểm lý tưởng để thả chiếc đèn may mắn của mình lên trời. Đây là một trong trải nghiệm thú vị và đẹp nhất mà mình từng có ở Thái Lan. Nếu đã một lần ghé thăm Chiang Mai thì nhất định đừng bỏ qua lễ hội đèn trời Loy Krathong. Mình tin rằng bạn sẽ có khoảnh khắc tâm linh đáng nhớ đấy.
 
-![](images/purna-chiang-mai-advanced-yoga05.jpg)
+![](/images/purna-chiang-mai-advanced-yoga05.jpg)

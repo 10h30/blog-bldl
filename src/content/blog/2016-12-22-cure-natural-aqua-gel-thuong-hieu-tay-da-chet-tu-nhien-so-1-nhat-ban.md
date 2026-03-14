@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-12-22
 categories:
   - "lam-dep"
-coverImage: "cure-natural-aqua-gel.jpg"
+image: "cure-natural-aqua-gel.jpg"
 slug: "cure-natural-aqua-gel-thuong-hieu-tay-da-chet-tu-nhien-so-1-nhat-ban"
 ---
 
@@ -36,13 +36,13 @@ Cũng như [Naturie Hatomuri Skin Conditioner](https://balodeplao.com/naturie-h
 
 Cure Natural Aqua Gel còn cung cấp các dưỡng chất cần thiết, kích thích quá trình thay mới của da và đảm bảo độ ẩm cho da. Do vậy sau một khoảng thời gian sử dụng, mình cảm nhận da khỏe hơn, mịn màng hơn và có dấu hiệu trắng sáng hơn.
 
-![](images/cure-natural-aqua-gel-1.jpg)
+![](/images/cure-natural-aqua-gel-1.jpg)
 
 #### Dung tích sử dụng được lâu
 
 **Cure được đựng trong chai nhựa trong cứng với dung tích khủng 250ml.** Thoạt nghe thì có vẻ không nhiều nhưng mình chỉ cần ấn vòi một lần là đã đủ dùng cho cả mặt mỗi lần nên dùng cũng được khá lâu.
 
-![](images/cure-natural-aqua-gel-3.jpg)
+![](/images/cure-natural-aqua-gel-3.jpg)
 
 Các bạn lưu ý lúc mới mua ở phần nút bump sẽ có một cái khóa ngay dưới vòi. Các bạn nên giữ lại khoá này trong trường hợp đem theo du lịch mà không phải lo ngại sản phẩm đổ. Vì là hàng nội địa Nhật nên chỉ có mỗi tên sản phẩm bằng tiếng Anh in to đùng trên mặt trước vỏ chai, còn lại tất cả mọi thông tin đều bằng tiếng Nhật.
 
@@ -52,7 +52,7 @@ Các bạn lưu ý lúc mới mua ở phần nút bump sẽ có một cái khóa
 
 Về phần mùi hương, lần đầu khi mình sử dụng em này, mình cảm thấy mùi hương không được dễ chịu cho lắm, kiểu như mùi cồn hơi nặng nên khi mới dùng mình cũng khá quan ngại về thành phần sản phẩm chứa nhiều chất hóa học.
 
-Nhưng sau khi đọc kỹ và tìm hiểu thành phần của Cure Natural Aqua Gel mình cảm thấy cực kỳ yên tâm, vì thành phần rất sạch. Tuy vậy, **mùi hương không thơm và có hơi cồn do mùi của nước được ion hóa gây ra.** 
+Nhưng sau khi đọc kỹ và tìm hiểu thành phần của Cure Natural Aqua Gel mình cảm thấy cực kỳ yên tâm, vì thành phần rất sạch. Tuy vậy, **mùi hương không thơm và có hơi cồn do mùi của nước được ion hóa gây ra.**
 
 #### Bao bì chưa bắt mắt
 
@@ -64,7 +64,7 @@ So với vẻ ngoài lung linh lộng lẫy của các hãng mỹ phẩm khác, 
 
 Tuy nhiên, như mình đã nói ở trên, mỗi lần tẩy tế bào chết, bạn chỉ cần nhấn vòi một lần là đủ dùng cho cả mặt nên dung tích 250ml bạn dùng được rất lâu. Sau một tháng tẩy da chết đều đặn mỗi tuần mà mình mới dùng có 1/4 chai à. Tính ra giá cả cũng có thể chấp nhận được hehe.
 
-![](images/cure-natural-aqua-gel4.jpg)
+![](/images/cure-natural-aqua-gel4.jpg)
 
 ### HƯỚNG DẪN SỬ DỤNG:
 

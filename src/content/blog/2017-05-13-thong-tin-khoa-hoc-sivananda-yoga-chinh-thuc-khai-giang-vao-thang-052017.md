@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-05-13
 categories:
   - "yoga"
-coverImage: "open-class-bldl01.jpg"
+image: "open-class-bldl01.jpg"
 slug: "thong-tin-khoa-hoc-sivananda-yoga-chinh-thuc-khai-giang-vao-thang-052017"
 ---
 

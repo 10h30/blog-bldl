@@ -5,7 +5,7 @@ pubDate: 2016-10-01
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-coverImage: "gogi-house-bldl04.jpg"
+image: "gogi-house-bldl04.jpg"
 slug: "gogi-house-tuyet-voi-thit-nuong-han-quoc"
 ---
 
@@ -23,26 +23,26 @@ Gia đình BLDL thường dùng bữa tại Gogi House - AEON Tân Phú bởi AE
 
 Nếu các bạn đã từng ăn qua món nướng Hàn Quốc, chắc hẳn sẽ thấy trên bàn ăn thường bày ra chi chít các chén nho nhỏ đựng nào kim chi, rong biển, dưa muối, đậu, dưa leo cà chua... để ăn kèm với thịt nướng. Dĩ nhiên, tất cả các món rau kèm theo này đều FREE miễn phí.
 
-![](images/gogi-house-bldl02.jpg)
+![](/images/gogi-house-bldl02.jpg)
 
-![](images/gogi-house-bldl03.jpg)
+![](/images/gogi-house-bldl03.jpg)
 
-Điểm mình cực thích ở Gogi House là các bạn nhân viên nhiệt tình "châm" thêm các món ăn kèm liên tục đến khi bạn ngán thì thôi ![](images/1F602.png). Món khoái khẩu của mình là rong biển mè trắng tại đây, tươi ngon, dễ ăn mà còn miễn phí. Do vậy, khi thấy vừa hết "mấy món ăn chơi" các bạn đừng ngần ngại gọi thêm nhé. Nhờ mấy món ăn kèm này mà bạn sẽ thấy bữa tiệc thịt nướng của mình bớt dầu mỡ hơn, thêm rau xanh thêm ngon miệng bạn ha.
+Điểm mình cực thích ở Gogi House là các bạn nhân viên nhiệt tình "châm" thêm các món ăn kèm liên tục đến khi bạn ngán thì thôi ![](/images/1F602.png). Món khoái khẩu của mình là rong biển mè trắng tại đây, tươi ngon, dễ ăn mà còn miễn phí. Do vậy, khi thấy vừa hết "mấy món ăn chơi" các bạn đừng ngần ngại gọi thêm nhé. Nhờ mấy món ăn kèm này mà bạn sẽ thấy bữa tiệc thịt nướng của mình bớt dầu mỡ hơn, thêm rau xanh thêm ngon miệng bạn ha.
 
 ### Thịt nướng thơm ngon
 
 Phải nói các thể loại sườn nướng, bò nướng tại Gogi House ngon không tưởng. Thịt tươi sống, được ướp rất vừa miệng, nướng lên thơm lừng, mọng nước. Tuy nhiên, theo cảm nhận của mình, thật lòng mà nói thịt nướng Gogi House vẫn không thể sánh bằng [thịt nướng Nhật Bản Phổ Đình](https://balodeplao.com/pho-dinh-tuyet-voi-bo-nuong-kieu-nhat/) tuyệt đỉnh. Nhưng cũng khó nói phải không các bạn, có thể thịt nướng Hàn Quốc và Nhật Bản mỗi nơi mỗi vị bạn ha.
 
-![](images/gogi-house-bldl06.jpg)
+![](/images/gogi-house-bldl06.jpg)
 
-![](images/gogi-house-bldl05.jpg)
+![](/images/gogi-house-bldl05.jpg)
 
 ### Giá cả dễ chấp nhận
 
 Nếu so với Phổ Đình, giá cả tại Gogi House khá ổn, rẻ hơn một chút, trung bình từ 150k - 400k tuỳ theo giá thịt hoặc món bạn chọn. Một phần ăn ở Gogi House hai người ăn đủ no bạn nhé. Trung bình vợ chồng mình ăn một bữa no nê tại Gogi House bao gồm một phần thịt bò, một phần thịt heo, một salad, một mì thì "tổn thất" khoảng 500k-600k <img src="images/1F601.png" width="18"> Rau tươi thì la liệt miễn phí khỏi bàn ha.
 
-![](images/gogi-house-bldl07.jpg)
+![](/images/gogi-house-bldl07.jpg)
 
-![](images/gogi-house-bldl04.jpg)
+![](/images/gogi-house-bldl04.jpg)
 
 Nếu bạn là tín đồ của các món nướng Hàn Quốc thì đừng bỏ qua Gogi House nhé. Chúc các bạn cuối tuần vui vẻ.

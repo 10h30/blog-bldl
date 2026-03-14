@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2019-09-22
 categories:
   - "meo-hay"
-coverImage: "dscf7172.jpg"
+image: "dscf7172.jpg"
 slug: "meo-hay-giup-ban-an-vat-lanh-manh"
 ---
 
@@ -18,7 +18,7 @@ Câu hỏi khó đặt ra là làm thế nào để có thể vừa thoả mãn 
 
 Khi đói bụng, ta thường vào bếp lục tìm thức ăn và sẽ chộp ăn ngay những gì được thường xuyên nhìn thấy. Các bạn có công nhận điều này đúng không?! Những món ăn vặt được cất ở kệ cao hay sâu trong hóc tủ thường hay bị lãng quên đến khi hết hạn phải không? Do đó nếu bạn muốn ăn vặt lành mạnh, hãy để những loại thức ăn có lợi cho sức khoẻ ngay tầm nhìn của bạn như ở bàn làm việc, trên mặt bếp, tủ cạnh giường...để có thể nạp tức thì ngay khi thèm ăn vặt .
 
-![](images/dscf7017.jpg)
+![](/images/dscf7017.jpg)
 
 Bạn có thể chơi trò đánh lừa thị giác bằng cách dời vị trí những món lành mạnh ra phía trước những món ăn kém lành mạnh hơn haha. Như vậy cơ hội ăn vặt "tử tế" sẽ nhiều hơn bạn nhỉ.
 
@@ -26,13 +26,13 @@ Bạn có thể chơi trò đánh lừa thị giác bằng cách dời vị trí
 
 Những món ăn vặt tươi có lợi cho sức khoẻ mà mình muốn nhắc đến ở đây chính là trái cây và rau củ tươi. Tuy nhiên, thực phẩm tươi thường rất khó bảo quản trong thời gian dài dù đã để trong ngăn mát tủ lạnh. Mẹp hay ở đây là các bạn hãy bọc rau củ trái cây bằng giấy và cho vào một túi zip/bịch kín hơi, sẽ keó dài thời gian tươi mới lâu hơn đấy.
 
-![](images/dscf7162.jpg)
+![](/images/dscf7162.jpg)
 
 Mẹo thứ hai đặc biệt đối với những bạn ăn chay như mình, mỗi khi mình muốn ăn rau củ phết sốt (sốt đậu gà/nước chấm sốt đậu phộng / mayonaise thuần chay), mình thường cắt cà rốt, dưa leo, cần tây thành những thanh dài vừa ăn và ngâm vào một hũ thuỷ tinh có chứa nước lọc. Việc này giúp rau củ tươi lâu và tránh đánh mất các vitamin cũng như khoáng chất khi bạn mang đi ra ngoài. Thế là mình có thể vô tư nhâm nhi rau củ tươi ngay cả trong văn phòng, khi đi dạy, đi công tác mà vẫn đảm bảo sự lành mạnh và tươi ngon.
 
 ### 3\. Yêu các thể loại hạt
 
-![](images/dscf6217.jpg)
+![](/images/dscf6217.jpg)
 
 Hạt/ngũ cốc là một trong những nguồn cung cấp chất dinh dưỡng dồi dào và là món ăn vặt đầy lý tưởng giúp bạn đẹp da thon dáng. Là người ăn thuần chay, mình yêu hạt. Hạt nguyên chất luôn là người bạn đồng hành không thể thiếu trong mỗi bữa ăn của mình. **[Bếp Lành](https://lanhkitchen.com/)** của mình cũng bắt đầu từ tình yêu hạt mà ra đời. Các loại sữa, bánh, bơ thuần chay của Lành đều có thành phần chính từ các loại hạt nguyên chất giàu dinh dưỡng.
 
@@ -40,7 +40,7 @@ Bạn có thể chế biến vô số món ăn vặt ngon lành từ hạt như 
 
 ### 4\. Sáng tạo ra thức ăn vặt lành mạnh
 
-![](images/dscf7172.jpg)
+![](/images/dscf7172.jpg)
 
 Cách tốt nhất để duy trì sức khoẻ, hạn chế tăng cân, ăn uống lành mạnh là chịu khó vào bếp bắt tay chế biến mà thôi. Có vô số công thức các món ăn vặt cực kỳ dễ làm và tốt cho sức khoẻ mà chỉ mất của bạn chừng 10-15 phút thậm chí vài phút ngắn ngủi.
 

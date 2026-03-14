@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-11-06
 categories:
   - "tam-su"
-coverImage: "do-sth-great.jpg"
+image: "do-sth-great.jpg"
 slug: "bldl-lam-gi-khi-khong-di-du-lich"
 ---
 
@@ -35,8 +35,6 @@ https://www.instagram.com/p/BbZd0a1l\_Vx/?taken-by=balodeplao
 https://www.instagram.com/p/Bnscl4dnztC/?taken-by=balodeplao
 
 https://www.instagram.com/p/BogUCN2nVZX/?taken-by=balodeplao
-
- 
 
 Nhưng điểm chung lớn nhất của tụi mình là đều yêu sự vận động, mê lòng nhiệt huyết, ghét những suy nghĩ lối mòn và định kiến bảo thủ. Do đó, cả hai đều dốc sức lao động hết mình cho những thứ thật sự yêu thích, làm hết tâm, yêu công việc và hưởng thụ cuộc sống ý nghĩa tối đa mỗi ngày.
 

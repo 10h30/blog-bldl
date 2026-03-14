@@ -6,7 +6,7 @@ categories:
   - "du-lich"
 tags:
   - "airbnb"
-coverImage: "the-sail-marina-bldl07.jpg"
+image: "the-sail-marina-bldl07.jpg"
 slug: "trai-nghiem-can-ho-cao-cap-o-singapore-voi-airbnb"
 destination:
   - "singapore"
@@ -14,7 +14,7 @@ destination:
 
 **[AirBnB](https://balodeplao.com/tag/airbnb/)** luôn là sự lựa chọn đầu tiên của Ba Lô  & Dép Lào mỗi khi có dịp [du lịch Singapore](https://balodeplao.com/destination/singapore/). Khách sạn ở Sing quá đắt đỏ, phòng ốc bé tí chẳng thoải mái tí nào. Trong khi đó, AirBnB cung cấp nhiều lựa chọn căn hộ tiện nghi với mức giá hợp lý hơn nhiều.
 
-\[caption id="" align="aligncenter" width="900"\][![Căn hộ AirBnB ở khu Orchard](images/Singapore-AirBnB-01.jpg)](https://balodeplao.com/du-hi-singapore-ngay-2-tham-quan-gardens-by-the-bay-va-sentosa/) Căn hộ AirBnB ở khu Orchard mà BLDL thuê cách đây 3 năm\[/caption\]
+\[caption id="" align="aligncenter" width="900"\][![Căn hộ AirBnB ở khu Orchard](/images/Singapore-AirBnB-01.jpg)](https://balodeplao.com/du-hi-singapore-ngay-2-tham-quan-gardens-by-the-bay-va-sentosa/) Căn hộ AirBnB ở khu Orchard mà BLDL thuê cách đây 3 năm\[/caption\]
 
 Chuyến đi chơi Singapore đầu năm nay với Silk, BLDL tiếp tục sử dụng AirBnB và đã có được những trải nghiệm không thể tuyệt vời hơn. Dưới đây là chia sẻ kinh nghiệm dành cho các bạn nào đang dự định đặt phòng ở AirBnB trong chuyến du lịch Singapore kế tiếp
 
@@ -28,7 +28,7 @@ Do lần này hai vợ chồng đi du lịch cùng Silk nên tụi mình đắn 
 
 Ban đầu mình đặt phòng [TQL Premium](https://www.airbnb.com/rooms/2084494) ở khu vực Bugis với giá **$150/đêm**. Nhưng sau đó chủ nhà Hannah đã nâng cấp miễn phí cho gia đình mình  nâng cấp lên phòng cao cấp hơn: [Marina Bay One Bedroom Apt 41](https://www.airbnb.com/rooms/2490170/).
 
-![Hannah Airbnb](images/hannah-airbnb.png)
+![Hannah Airbnb](/images/hannah-airbnb.png)
 
 Mình nhận được email nâng cấp phòng của Hannah ngay trong buổi sáng khi đang làm thủ tục ở sân bay Tân Sơn Nhất chuẩn bị bay qua Singapore. Mình chỉ biết căn hộ nằm ở địa chỉ 2 Marina Boulevard. Ngoài ra chẳng thể tưởng tượng chính xác nó nằm ở đâu.
 
@@ -42,7 +42,7 @@ Chỉ đến lúc bước lên taxi, mình mới yên tâm rằng mình được
 
 The Sail @ Marina Bay là một trong những khu căn hộ cao cấp nhất ở Singapore với giá thuê cực khủng. Nhưng ít ai biết rằng ngay bên trong toà nhà hào nhoáng này tồn tại dịch vụ thuê nhà ở Air B&B với giá... không hề khủng như bề ngoài của nó.
 
-![View từ The Sail nhìn ra ngay vịnh Marina. Xa xa là toà nhà Marina Bay Sand](images/the-sail-marina-bay.jpg)
+![View từ The Sail nhìn ra ngay vịnh Marina. Xa xa là toà nhà Marina Bay Sand](/images/the-sail-marina-bay.jpg)
 
 Giá thuê hiện tại trên AirBnB là **$180/đêm** (chưa bao gồm thuế và phí dịch vụ). Hai vợ chồng mình được nâng cấp miễn phí nên lúc đó chỉ trả $150/đêm.
 
@@ -56,21 +56,21 @@ Căn hộ mình thuê giá $180/đêm là cả căn nhà đầy đủ tiện ngh
 
 Mình cực kỳ ấn tượng với căn hộ đã mình chọn. Cả căn hộ được lót sàn gỗ ấm cúng, nổi bật với đồ đạc toàn màu trắng tinh, đầy đủ tiện nghi như ở nhà. Hơi tiếc là phòng mình nằm ở mặt sau nên không nhìn ra được vịnh Marina.
 
-![Phòng khách đầy đủ tiện nghi giải trí](images/the-sail-marina-bldl04.jpg)
+![Phòng khách đầy đủ tiện nghi giải trí](/images/the-sail-marina-bldl04.jpg)
 
-![Phòng ngủ ấm cúng](images/the-sail-marina-bldl07.jpg)
+![Phòng ngủ ấm cúng](/images/the-sail-marina-bldl07.jpg)
 
-![View phòng mình nhìn từ trên xuống](images/the-sail-marina-bldl10-1.jpg)
+![View phòng mình nhìn từ trên xuống](/images/the-sail-marina-bldl10-1.jpg)
 
 Nội thất trang trí theo phong cách đơn giản nhưng hiện đại và sang trọng. Khu bếp đẹp mê li, sạch sẽ một màu trắng, mọi đồ dùng nhà bếp đều được trang bị đầy đủ. Ngoài ra, căn hộ còn được trang bị sẵn máy giặt, bàn ủi, tủ lạnh, lò vi ba...
 
-![](images/the-sail-marina-bldl06.jpg)
+![](/images/the-sail-marina-bldl06.jpg)
 
-![](images/the-sail-marina-bldl05.jpg)
+![](/images/the-sail-marina-bldl05.jpg)
 
 Chủ nhà dễ thương quá sức trang bị cả nôi cho Silk khi nghe vợ chồng mình dẫn theo bé nhỏ. Bất cứ yêu cầu nào dù là nhỏ nhất cũng được chủ nhà hướng dẫn và đáp ứng tận tình. Còn dịch vụ nhà ở nào có thể tuyệt vời hơn thế này nữa phải không các bạn.
 
-![](images/the-sail-marina-bldl08.jpg)
+![](/images/the-sail-marina-bldl08.jpg)
 
 ### Đặt phòng AirBNB
 

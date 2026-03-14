@@ -4,7 +4,7 @@ author: "thuanbui"
 pubDate: 2014-12-10
 categories:
   - "meo-hay"
-coverImage: "Mall_of_Asia.jpg"
+image: "Mall_of_Asia.jpg"
 slug: "dich-vu-giu-hanh-ly-mien-phi-o-mall-of-asia-manila"
 destination:
   - "manila"
@@ -22,7 +22,7 @@ Thông tin về dịch vụ giữ hành lý có thể được tìm thấy ở w
 
 Dưới đây là bản đồ của trung tâm mà mình đã đánh dấu thêm điểm gửi hành lý (màu đỏ) để giúp các bạn dễ tìm nếu có dịp cần đến dịch vụ giữ hành lý miễn phí của Mall of Asia. Chỉ cần đưa cho tài xế taxi và chỉ vào điểm màu đỏ là các ông đó sẽ biết liền.
 
-![Bản đồ Mall of Asia](images/gui-hanh-ly-mall-of-asia-manila.jpg)
+![Bản đồ Mall of Asia](/images/gui-hanh-ly-mall-of-asia-manila.jpg)
 
 Khi đến đây, các bạn sẽ thấy một quầy giữ đồ nằm khiêm tốn ở một góc khuất. Nhân viên sẽ ra đưa cho bạn tờ giấy để ghi thông tin, sau đó kẹp vào hành lý một nửa, một nửa còn lại đưa bạn giữ để đối chiếu khi lấy đồ. Chú ý không nên để tiền bạc, laptop, máy chụp hình trong hành lý ký gửi nhé. Mall of Asia không chịu trách nhiệm cho mọi sự mất mác. Tốt nhất các bạn nên cho hết vô một cái Ba Lô nhỏ nhỏ rồi vác theo bên mình cho yên tâm.
 

@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-01-15
 categories:
   - "du-lich"
-coverImage: "dscf1331.jpg"
+image: "dscf1331.jpg"
 slug: "chia-se-kinh-nghiem-nhung-viec-khong-nen-lam-khi-du-lich"
 ---
 
@@ -16,7 +16,7 @@ Dưới đây là những việc cần tránh khi đi du lịch:
 
 ## Không nên ăn uống tại những địa điểm quá đông khách du lịch
 
-![](images/eating.jpeg)
+![](/images/eating.jpeg)
 
 Những quán ăn/ nhà hàng gần tụ điểm đông khách du lịch thường giá rất mắc nhưng chưa chắc ngon. Các công ty tổ chức tour du lịch thường liên kết với một số địa điểm ăn uống và khu vui chơi để dẫn khách đoàn tới.  Với số lượng khách quá đông đúc, thường họ chả cần quan tâm đến chất lượng thức ăn cũng như thái độ phục vụ.
 
@@ -30,7 +30,7 @@ Và một phần đôi khi bạn "quá lười" trong việc lục lọi, tìm h
 
 Nếu đang trong mùa cao điểm của vé máy bay giá rẻ thì bạn nên tận dụng cơ hội book vé sớm khi thời cơ đến. Còn không, bạn cứ nhẫn nại đợi đến khoảng 3-4 tháng trước ngày dự định đi thì hãy mua vé máy bay. Khi ấy, bạn sẽ kiểm tra tình hình giá vé của các hãng và chọn ra mức giá phù hợp.
 
-![](images/hotel.jpg)
+![](/images/hotel.jpg)
 
 Chỗ ở nên là thứ cần được đặt chỗ sau cùng bởi khi đó, bạn đã quyết định chắc chắn ngủ mấy đêm, chuyến đi kéo dài bao nhiêu ngày. Không ít lần mình đã "tiền mất, lòng đau" về vụ đặt phòng khách sạn sớm khi thay đổi lịch trình ngoài dự kiến.
 
@@ -40,7 +40,7 @@ Mẹo nhỏ tiết kiệm đặt phòng khách sạn của BLDL là trong nhữn
 
 ## Không nên đổi tiền ở sân bay
 
-![](images/money-exchange.jpg)
+![](/images/money-exchange.jpg)
 
 Bởi tỉ giá ngoại tệ ở sân bay thường không tốt bằng các điểm trao đổi tiền tệ ở trung tâm. Trong trường hợp bất khả kháng, bạn không còn sự lựa chọn nào khác và cần tiền mặt gấp thì đành chịu. Sẽ tốt hơn nếu bạn đổi tiền khi vào trung tâm thành phố bởi tí giá lợi hơn và phí thấp hơn.
 
@@ -56,7 +56,7 @@ Bất cứ thông tin nào đăng tải trên mạng cũng sẽ không được 
 
 ## Không nên bỏ qua trạm thông tin du lịch
 
-![](images/baan-kang-watchiang-mai01.jpg)
+![](/images/baan-kang-watchiang-mai01.jpg)
 
 Khá nhiều khách du lịch bỏ qua các thông tin bổ ích ở các trạm thông tin du lịch địa phương. Đây luôn luôn là nơi BLDL dừng chân và xem xét các poster trước khi bắt đầu hành trình khám phá.
 
@@ -68,7 +68,7 @@ Từ đó, bạn sẽ sàng lọc và tổng kế lại những gì phù hợp v
 
 Người Việt Nam chúng ta thường coi nhẹ tầm quan trọng của bảo hiểm du lịch bởi đây thường được xem là một khoản chi phí thừa thải và không cần thiết. Tuy nhiên, có ai biết trước được việc gì sẽ xảy ra ngày mai, chuyện gì bất ngờ đến với chúng ta trong lúc đi du lịch. Bạn có thể gãy chân, mất máy ảnh, kẹt lại ở một nơi nào đó vì thảm hoạ thời tiết.
 
-![](images/insurance.jpg)
+![](/images/insurance.jpg)
 
 Bảo hiểm du lịch sẽ giúp bạn tránh khỏi những điều không may xảy ra, giảm chi phí/tổn thất xuống tối thiểu và bảo vệ chuyến đi của bạn an toàn hơn. Đặc biệt là gia đình du lịch cùng con nhỏ nên mua bảo hiểm du lịch khi đi du lịch nước ngoài xa và dài ngày. Bởi chúng ta sẽ không biết khi nào trẻ em đổ bệnh đâu. Đó cũng là lí do vì sao gia đình mình mua bảo hiểm du lịch cho cả nhà khi du lịch sang Nhật cùng Silk trong một tháng.
 

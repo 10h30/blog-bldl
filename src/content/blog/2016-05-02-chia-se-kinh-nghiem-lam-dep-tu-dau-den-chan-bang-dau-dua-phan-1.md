@@ -22,7 +22,7 @@ Mình muốn chia sẻ với các bạn một số phương pháp đơn giản l
 - Tăm bông
 - Lược
 
-![Mình chiết dầu dừa từ chai lớn ra chai nhỏ đủ dùng cho 1 tuần. Cách làm này vừa giúp dầu dừa giữ được mùi thơm lâu hơn vì hạn chế mở nấp chai lớn, lại tiện dụng cho mỗi lần dùng.](images/dau-dua-bldl01.jpg)
+![Mình chiết dầu dừa từ chai lớn ra chai nhỏ đủ dùng cho 1 tuần. Cách làm này vừa giúp dầu dừa giữ được mùi thơm lâu hơn vì hạn chế mở nấp chai lớn, lại tiện dụng cho mỗi lần dùng.](/images/dau-dua-bldl01.jpg)
 
 **_Cách làm_**
 
@@ -31,15 +31,13 @@ Bước 1: Cho phần chân tóc
 - Bạn cho một ít dầu dừa ra chén nhỏ, thấm đều tăm bông vào dầu dừa rồi miết tăm bông lên da đầu theo hình vòng tròn và cứ thế chăm chỉ tỉ mỉ làm hết da đầu luôn nhé.
 - Massage da đầu nhẹ nhàng cho dầu dừa thẩm thấu khoảng 1-2 phút.
 
- 
-
-![Dau dua -BL&DL03](images/dau-dua-bldl03.jpg)
+![Dau dua -BL&DL03](/images/dau-dua-bldl03.jpg)
 
 Bước 2: Cho phần đuôi tóc
 
 Tương tự như trên, bạn dùng tăm bông thấm dầu dừa miết nhẹ lên phần đuôi tóc giúp chân tóc giảm chẻ ngọn.
 
-![Dau dua -BL&DL02](images/dau-dua-bldl02.jpg)
+![Dau dua -BL&DL02](/images/dau-dua-bldl02.jpg)
 
 Bước 3: Cho phần thân tóc (nếu thích)
 
@@ -65,10 +63,6 @@ Nếu bạn siêng năng chăm mái tóc mỗi tuần 1-2 lần với dầu dừ
 Cũng tương tự như đối với tóc, bạn chấm tăm bông/ cây chải mi đã không dùng nữa vào dầu dừa, chải lông mi theo hình Z từ gốc đến ngọn mi để thấm đều dầu dừa.
 
 Đối với mi, bạn có thể để nguyên ngủ qua đêm cũng không sao. Với những bạn lần đầu tiên dưỡng mi bằng dầu dừa thì cảm giác mắt hơi "nặng nặng" là điều bình thường ha. Mình kiên trì chải mi như thế 1-2 lần/ tuần thì mi dài và dày ra trông thấy.
-
- 
-
- 
 
 ### C. Chăm sóc răng miệng
 

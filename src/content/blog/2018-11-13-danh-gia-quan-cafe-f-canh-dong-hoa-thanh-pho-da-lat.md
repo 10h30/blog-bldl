@@ -5,7 +5,7 @@ pubDate: 2018-11-13
 categories:
   - "an-uong"
   - "du-lich"
-coverImage: "img_7003.jpg"
+image: "img_7003.jpg"
 slug: "danh-gia-quan-cafe-f-canh-dong-hoa-thanh-pho-da-lat"
 destination:
   - "da-lat"

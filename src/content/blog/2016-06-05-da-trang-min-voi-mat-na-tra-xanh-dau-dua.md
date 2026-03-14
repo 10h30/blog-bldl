@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-06-05
 categories:
   - "lam-dep"
-coverImage: "green-tea-cover-e1465108225762.jpeg"
+image: "green-tea-cover-e1465108225762.jpeg"
 slug: "da-trang-min-voi-mat-na-tra-xanh-dau-dua"
 ---
 
@@ -12,26 +12,26 @@ Cuối tuần rồi, chị em phụ nữ mình đừng quên tranh thủ làm đ
 
 ### Nguyên liệu
 
-- 3 muỗng [Tinh bột trà xanh Nhật Bản Uji](https://balodeplao.com/shop/bot-tra-xanh-nguyen-chat-uji-matcha/) 
-- 1 muỗng [Dầu dừa nguyên chất](https://balodeplao.com/shop/dau-dua-nguyen-chat-phu-yen/) 
+- 3 muỗng [Tinh bột trà xanh Nhật Bản Uji](https://balodeplao.com/shop/bot-tra-xanh-nguyen-chat-uji-matcha/)
+- 1 muỗng [Dầu dừa nguyên chất](https://balodeplao.com/shop/dau-dua-nguyen-chat-phu-yen/)
 - 1 muỗng nước chanh tươi
 
-![Nguyên liệu làm đẹp hoàn toàn tự nhiên và đơn giản nhưng hiệu quả thật bất ngờ](images/matnatraxanh-bldl01.jpg)
+![Nguyên liệu làm đẹp hoàn toàn tự nhiên và đơn giản nhưng hiệu quả thật bất ngờ](/images/matnatraxanh-bldl01.jpg)
 
 ### Thực hiện
 
 Bạn cho lần lượt 3 muỗng trà xanh Uji, 1 muỗng dầu dừa nguyên chất và vài giọt chanh tươi như hình.
 
-![Dầu dừa mình sử dụng là dầu dừa nguyên chất gia truyền từ Phú Yên](images/matnatraxanh-bldl02.jpg)
+![Dầu dừa mình sử dụng là dầu dừa nguyên chất gia truyền từ Phú Yên](/images/matnatraxanh-bldl02.jpg)
 
-![Bột trà xanh Uji Nhật Bản mình vừa uống vừa đắp mạ nạ luôn. Đẹp từ trong ra ngoài luôn nhe](images/matnatraxanh-bldl03.jpg)
+![Bột trà xanh Uji Nhật Bản mình vừa uống vừa đắp mạ nạ luôn. Đẹp từ trong ra ngoài luôn nhe](/images/matnatraxanh-bldl03.jpg)
 
-![](images/matnatraxanh-bldl04-e1465108517806.jpg)
+![](/images/matnatraxanh-bldl04-e1465108517806.jpg)
 
 Sau đó bạn khuấy nhẹ nhàng để hỗn hợp hoà quyện đều nhau. Teng teng , thế là chúng ta đã có một hỗn hợp dưỡng da trắng mịn thiệt tiết kiệm và đơn giản mà không cần đi spa.
 
-![Tèn Ten! sẵn sàng làm đẹp thôi](images/matnatraxanh-bldl06.jpg)
+![Tèn Ten! sẵn sàng làm đẹp thôi](/images/matnatraxanh-bldl06.jpg)
 
 Bạn nhớ vừa đắp mặt nạ vừa massage nhẹ nhàng để dưỡng chất từ trà xanh và dầu dừa thấm sâu vào da nhé! Chúc các bạn cuối tuần vui vẻ, tươi trẻ và xinh đẹp. Ai có bí quyết mặt nạ tự nhiên nào hay nhớ share BLDL nha.
 
-![](images/matnatraxanh-bldl07.jpg)
+![](/images/matnatraxanh-bldl07.jpg)

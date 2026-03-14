@@ -6,13 +6,13 @@ categories:
   - "meo-hay"
 tags:
   - "hotelquickly"
-coverImage: "hotelquickly.jpg"
+image: "hotelquickly.jpg"
 slug: "hotelquickly-ung-dung-dat-phong-khach-san-phut-chot-gia-re"
 ---
 
 HotelQuickly là khám phá mới của mình trong chuyến du lịch [Boracay](https://balodeplao.com/location/boracay/ "Boracay") - [Manila](https://balodeplao.com/location/manila/ "Manila"), Philippines cuối tháng 11 vừa rồi. Đây là dịch vụ đặt phòng khách sạn dựa trên nền tảng điện thoại hiện đại như iPhone, Android, BlackBerry. HotelQuickly giúp mình tiết kiệm tiền khách sạn khá nhiều so với cách đặt phòng qua các dịch vụ quen thuộc như Agoda, Booking.com, Hotels.com.
 
-![Hotequickly-banner](images/hotequickly-banner.jpg)
+![Hotequickly-banner](/images/hotequickly-banner.jpg)
 
 ### Ưu điểm của HotelQuickly
 
@@ -64,16 +64,16 @@ Con số tuy còn khiêm tốn nhưng đủ để bạn khám phá cả Đông N
 
 Sau khi đã tải ứng dụng, bạn tiến hành đăng ký sử dụng tương tự như cách [đăng ký tài khoản UBER](https://balodeplao.com/huong-dan-su-dung-uber-phan-1-dang-ky-tai-khoan-va-nhan-khuyen-mai-100-000/ "Hướng dẫn sử dụng UBER – [Phần 1] Đăng ký tài khoản và nhận khuyến mãi 100.000").
 
-![Giao diện HotelQuickly trên iPhone](images/hotequickly-1.jpg)
+![Giao diện HotelQuickly trên iPhone](/images/hotequickly-1.jpg)
 
 Giao diện của HotelQuickly rất dễ dùng, chỉ cần vài phút thao tác là sẽ quen ngay.
 
-![Chọn thành phố cần đặt phòng](images/hotequickly-3.jpg)
+![Chọn thành phố cần đặt phòng](/images/hotequickly-3.jpg)
 
 ### Miễn phí $15 đặt phòng
 
 Điểm hấp dẫn nhất của HotelQuickly là dịch vụ này tặng **$15 miễn phí** cho tất cả các khách hàng mới, tương tự như [khuyến mãi 100.000đ của UBER](https://balodeplao.com/huong-dan-su-dung-uber-phan-1-dang-ky-tai-khoan-va-nhan-khuyen-mai-100-000/ "Hướng dẫn sử dụng UBER – [Phần 1] Đăng ký tài khoản và nhận khuyến mãi 100.000"). Để nhận được $15 miễn phí này, bạn truy cập vào phần Credit, sau đó chọn Redeem, nhập mã **TBUIV1**.
 
-![Sử dụng mã **TBUIV1** để nhận ngay $15 miễn phí dùng thử HotelQuickly](images/hotequickly-2.jpg)
+![Sử dụng mã **TBUIV1** để nhận ngay $15 miễn phí dùng thử HotelQuickly](/images/hotequickly-2.jpg)
 
 Còn chần chờ gì nữa mà không tải HotelQuickly ngay để chuẩn bị cho chuyến đi phượt kế tiếp của bạn. Nhớ đừng quên mã khuyến mãi **TBUIV1** để nhận $15 miễn phí nhé.

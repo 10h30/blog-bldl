@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2019-11-06
 categories:
   - "du-lich"
-coverImage: "c9184189-ee3d-4aeb-a58e-8609d9e46056.jpg"
+image: "c9184189-ee3d-4aeb-a58e-8609d9e46056.jpg"
 slug: "danh-gia-quan-cafe-tui-mo-to-da-lat"
 destination:
   - "da-lat"
@@ -22,7 +22,7 @@ Vì thời tiết mưa gió bão bùng trong suốt ba ngày viếng thăm Đà 
 
 Tên nghe dễ thương ha. Nào cùng nhau xem thử Túi Mơ To có gì đặc biệt không nhe.
 
-![](images/9cd494b4-5bc7-4ed9-9f86-2cad9538e8fa.jpg)
+![](/images/9cd494b4-5bc7-4ed9-9f86-2cad9538e8fa.jpg)
 
 ### Quang cảnh
 
@@ -36,13 +36,13 @@ https://www.instagram.com/p/B4buKfxp0X\_/
 
 Không gian của "Túi Mơ To" đúng theo kiểu truyền thống của các quán cafe tại Đà Lạt: mộc mạc với chất liệu gỗ làm chính, xanh mướt với hoa lá làm nền. Từ cổng bước vào, không gian bên ngoài của Túi Mơ To gây ấn tượng với khách bằng một mảng sân vườn khá xinh và một hồ nước nhân tạo nho nhỏ.
 
-![](images/c9184189-ee3d-4aeb-a58e-8609d9e46056.jpg)
+![](/images/c9184189-ee3d-4aeb-a58e-8609d9e46056.jpg)
 
 Không gian bên trong nhỏ nhắn và ấm cúng đặc biệt có một góc phòng trưng bày nhiều chậu cây xanh rất bắt mắt.
 
-![](images/446b5b6d-0623-484e-8aee-3fd983f794ce.jpg)
+![](/images/446b5b6d-0623-484e-8aee-3fd983f794ce.jpg)
 
-![](images/d4ea3c29-a529-4e7b-b240-92aaa80694ac.jpg)
+![](/images/d4ea3c29-a529-4e7b-b240-92aaa80694ac.jpg)
 
 BLDL ghé quán tầm 6g chiều thì đã thấy rất đông các bạn trẻ lên hình "sống ảo" khắp mọi ngõ ngách của quán. Vì quán nhỏ nhưng người lại đông nên có cảm giác hơi chật chội.
 
@@ -50,7 +50,7 @@ BLDL ghé quán tầm 6g chiều thì đã thấy rất đông các bạn trẻ 
 
 Theo cảm nhận cá nhân thì thức uống tại Túi Mơ To không có gì đặc biệt, chỉ ở mức trung bình chấp nhận. Nếu bạn đến đây với mục đích chụp hình đẹp thì ok còn về thức uống chỉ ở mức chấp nhận được mà thôi.
 
-![](images/1cb3e731-87a1-4f4d-bf7b-a6f34be20b21.jpg)
+![](/images/1cb3e731-87a1-4f4d-bf7b-a6f34be20b21.jpg)
 
 ### Giá cả ổn
 

@@ -4,7 +4,7 @@ author: "thuanbui"
 pubDate: 2018-06-23
 categories:
   - "du-lich"
-coverImage: "kyoto-2.jpg"
+image: "kyoto-2.jpg"
 slug: "tong-hop-hanh-trinh-18-ngay-kham-pha-mua-thu-nhat-ban-thang-11-2016"
 destination:
   - "nhat-ban"

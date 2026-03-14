@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-08-02
 categories:
   - "du-lich"
-coverImage: "japan-1.jpg"
+image: "japan-1.jpg"
 slug: "nhung-dieu-ban-can-biet-truoc-khi-den-nhat-ban"
 destination:
   - "nhat-ban"
@@ -18,7 +18,7 @@ Chúc các bạn có chuyến đi vui vẻ
 
 ## 1\. Ý thức xếp hàng
 
-![](images/queue.jpg)
+![](/images/queue.jpg)
 
 Xếp hàng là một trong những nét văn hóa đáng tự hào của người Nhật Bản. Nghe có vẻ tầm thường nhưng đó lại là điều mà chúng ta cần học hỏi. Đi bất cứ nơi đâu trên nước Nhật, bạn sẽ dễ dàng nhìn thấy hình ảnh một hàng dài những con người lịch sự đứng xếp hàng.
 
@@ -38,7 +38,7 @@ Bạn sẽ khá bất ngờ khi một đất nước nổi tiếng với những
 
 ## 4\. Không nên tip
 
-![](images/money.jpg)
+![](/images/money.jpg)
 
 Nếu bạn có thói quen tip thêm ít tiền sau khi được phục vụ thì nên bỏ ngay thói quen này khi đến Nhật. Bởi phục vụ chu đáo là ưu tiên hàng đầu của người Nhật.
 
@@ -50,7 +50,7 @@ Khi đến Nhật, chúng ta sẽ khó mà tìm thấy Wi Fi miễn phí, ngoạ
 
 ## 6\. Ăn uống theo cách của người Nhật
 
-![](images/sushiko.jpg)
+![](/images/sushiko.jpg)
 
 Có một số lưu ý nho nhỏ mình muốn chia sẻ về thói quen ăn uống của người Nhật mà bạn cần quan tâm:
 
@@ -63,4 +63,4 @@ Có một số lưu ý nho nhỏ mình muốn chia sẻ về thói quen ăn uố
 
 Đừng quên đón xem chuỗi bài viết mùa hè vàng tươi sắp tới của gia đình tại Hokkaido nhé ;)
 
-![](images/japan.jpg)
+![](/images/japan.jpg)

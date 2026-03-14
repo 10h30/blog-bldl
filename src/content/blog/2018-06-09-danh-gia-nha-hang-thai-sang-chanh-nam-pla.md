@@ -5,7 +5,7 @@ pubDate: 2018-06-09
 categories:
   - "an-uong"
   - "kham-pha-cuoi-tuan"
-coverImage: "nam-pla.jpg"
+image: "nam-pla.jpg"
 slug: "danh-gia-nha-hang-thai-sang-chanh-nam-pla"
 destination:
   - "viet-nam"
@@ -17,9 +17,9 @@ Cũng là fan của ẩm thức cay nồng Thái Lan, cuối tuần rồi cặp 
 
 Trái ngược với vẻ ngoài kín đáo nằm im ỉm trên lầu 3 của một tòa nhà gần chợ Bến Thành, không gian bên trong của Nạm Plà quá sức sang chảnh. Một màu vàng hoàng gia sáng choa với họa tiết chim phụng cầu kỳ, vòng pha lê treo đủng đỉnh rủ từ trần, trang phục nhân viên sặc sỡ đôi chút rườm rà...khiến mình hơi choáng ngợp và bất ngờ.
 
-![](images/nam-pla-2.jpg)
+![](/images/nam-pla-2.jpg)
 
-![Nguồn: Nạm Pla](images/nam-pla.jpg)
+![Nguồn: Nạm Pla](/images/nam-pla.jpg)
 
 Không chỉ có không gian mà ngay cả thực khách cũng "chanh sả" không kém. Đa phần là nam thanh nữ tú, chân dài, celeb, trang điểm, áo quần lộng lẫy như đi ăn cưới. Đây có vẻ là nhà hàng Thái dành cho giới showbiz hay người nổi tiếng.
 

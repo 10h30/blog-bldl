@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-02-18
 categories:
   - "yoga"
-coverImage: "meditation.jpg"
+image: "meditation.jpg"
 slug: "nhat-ky-tong-ket-7-ngay-dau-tien-cua-hanh-trinh-tro-thanh-huan-luyen-vien-yoga"
 ---
 

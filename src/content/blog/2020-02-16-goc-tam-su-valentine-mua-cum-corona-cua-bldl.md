@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2020-02-16
 categories:
   - "tam-su"
-coverImage: "img_6877.jpg"
+image: "img_6877.jpg"
 slug: "goc-tam-su-valentine-mua-cum-corona-cua-bldl"
 ---
 
@@ -16,7 +16,7 @@ Không phải vì đã cưới, đã hai con mà tụi mình  xuề xoà, bỏ 
 
 <figure>
 
-![](images/img_6876.jpg)
+![](/images/img_6876.jpg)
 
 <figcaption>
 
@@ -26,12 +26,12 @@ _Bánh Lavacake thuần chay mình tự tay làm tặng anh cùng nhà._
 
 </figure>
 
-![](images/img_6877.jpg)
+![](/images/img_6877.jpg)
 
 Rồi đêm Valentine, trong lúc mọi người tràn ra đường ăn mừng thì hai đứa mình ở nhà cùng nhau thưởng thức nachos thuần chay, uống chút bia tự nấu rồi ngồi nắm tay cùng xem một bộ phim yêu thích. Hạnh phúc thật đơn giản. Khi sống tối giản đi, mình cảm thấy lòng hạnh phúc trọn vẹn hơn.
 
-![](images/IMG_6882-900x675.jpg)
+![](/images/IMG_6882-900x675.jpg)
 
-![](images/IMG_6883-675x900.jpg)
+![](/images/IMG_6883-675x900.jpg)
 
 Thế là tụi mình đã kỉ niệm một Lễ tình nhân thật trọn vẹn, hạnh phúc và an toàn ngay giữa mùa cúm Corona tại ngôi nhà yêu thương của mình. Sống khoẻ, sống đẹp, sống tối giản mỗi ngày để hạnh phúc hơn bạn nhé.

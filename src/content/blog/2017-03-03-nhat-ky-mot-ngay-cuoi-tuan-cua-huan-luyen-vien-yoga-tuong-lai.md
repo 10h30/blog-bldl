@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-03-03
 categories:
   - "yoga"
-coverImage: "16730616_606489736212267_7662884568968606635_n.jpg"
+image: "16730616_606489736212267_7662884568968606635_n.jpg"
 slug: "nhat-ky-mot-ngay-cuoi-tuan-cua-huan-luyen-vien-yoga-tuong-lai"
 ---
 
@@ -16,7 +16,7 @@ Sau ba tuần khổ luyện, tất cả học viên ở đây đều vào guồn
 
 4g30 sáng vừa mở mắt ra là mình chui vào ngay phòng tắm, vệ sinh cá nhân và giặt đồ. Giặt đồ lúc 4g30 sáng trong nhiệt độ 12 độ C cảm giác thật ...so KOOOOOL! Nước lạnh run người khiến mình tỉnh ngủ hẳn luôn. Thường mình hoàn tất cả những công việc vệ sinh cá nhân đó trong vòng 30 phút. Đúng 5g sáng là bật đèn pin ngồi học bài trong đêm và chờ đến 6g sáng là quẩy ba lô đi hành thiền lên núi.
 
-![Siêng năng phơi và giặt đồ buổi sáng đây hix](images/img_5993.jpg)
+![Siêng năng phơi và giặt đồ buổi sáng đây hix](/images/img_5993.jpg)
 
 Sau một tiếng ngồi bất động, tĩnh tâm, thiền trên núi, mình chỉ được ăn sáng bằng một ly sữa đậu nành nóng (mình là fan cuồng của sữa đậu nành haha). Sau đó là giờ thực hành các tư thế Yoga kéo dài trong 2 tiếng. Thường vào cuối tuần lớp thực hành không bắt buộc. Mọi người có thể tham gia nếu thích, hoặc bắt taxi vào trung tâm Đà Lạt để đi chơi, ăn uống.
 
@@ -36,7 +36,7 @@ https://www.instagram.com/p/BQh4iNIjImF/?taken-by=balodeplao
 
 Ăn xong mình cứ tèn tèn thư thả về phòng ngủ trưa khoảng 30 phút và xách giày đi chạy sau đó.
 
-![](images/img_5999-e1488580933786.jpg) ![](images/img_5996-e1488580964838.jpg)
+![](/images/img_5999-e1488580933786.jpg) ![](/images/img_5996-e1488580964838.jpg)
 
 Mình yêu nhất khoảng khắc chạy bộ lên đỉnh đồi để ngắm toàn bộ quang cảnh của Asram.Yên tĩnh, xanh ngắt và thanh bình. Với những ai yêu Yoga, yêu thiên nhiên, muốn tìm kiếm hạnh phúc bên trong hay muốn theo đuổi đam mê Yoga thì Trung tâm Quốc Tế Sivananda Yoga là sự lựa chọn trên cả tuyệt vời.
 
@@ -44,6 +44,6 @@ https://www.instagram.com/p/BQ9hV8gFAb6/?taken-by=balodeplao
 
 Sau khi tắm rửa sạch sẽ, mình dùng bữa tối và quay lại phòng học chính để thiền tối trước khi đi ngủ. Thế là ngày cuối tuần duy nhất của mình đã chấm dứt. Không ồn ả, không tham lam, vừa đủ vui vừa đủ thư giãn cho chuỗi ngày học tập điên cuồng phía trước haha.
 
-![](images/img_5989.jpg)
+![](/images/img_5989.jpg)
 
 Chúc các bạn cuối tuần vui vẻ.

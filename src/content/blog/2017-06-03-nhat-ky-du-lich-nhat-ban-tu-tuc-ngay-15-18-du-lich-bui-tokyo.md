@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-06-03
 categories:
   - "du-lich"
-coverImage: "shibuya-bldl04.jpg"
+image: "shibuya-bldl04.jpg"
 slug: "nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-15-18-du-lich-bui-tokyo"
 destination:
   - "nhat-ban"
@@ -43,14 +43,14 @@ https://balodeplao.com/mot-ngay-dang-nho-tai-bao-tang-fujiko-f-fujio-nhat-ban/
 
 Đến với Shibuya, mình hoàn toàn choáng ngợp trước gu thời trang ấn tượng của các bạn trẻ. Ai ai cũng như bước ra từ tạp chí thời trang vây. Phải nói Tokyo là một thành phố đa hệ, đem đến cho mình cảm giác vừa nhẹ nhàng vừa dữ dội.
 
-![](images/shibuya-bldl01.jpg)
+![](/images/shibuya-bldl01.jpg)
 
-![](images/shibuya-bldl02.jpg)
+![](/images/shibuya-bldl02.jpg)
 
 Địa điểm nối tiếng nhất của Shibuya là ngã tư "thần thánh" với rất nhiều biển quảng cáo đầy màu sắc và màn hình video khổng lồ.
 
-![](images/shibuya-bldl03.jpg)
+![](/images/shibuya-bldl03.jpg)
 
-![](images/shibuya-bldl04.jpg)
+![](/images/shibuya-bldl04.jpg)
 
 Vậy là chúng ta đã cùng nhau trải qua 18 ngày tại Nhật rồi đấy. Series bài viết "Nhật ký du lịch Nhật Bản tự túc" của BLDL sẽ đem lại cho các bạn những cảm nhận, những thông tin hữu ích nhất về hành trình khám phá Nhật Bản trong 18 ngày. Chúc các bạn có những kỉ niệm đẹp khó quên tại đất nước mặt trời mọc...và hẹn gặp lại Nhật một ngày không xa nhé ;)

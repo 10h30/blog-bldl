@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2019-08-22
 categories:
   - "an-uong"
-coverImage: "dscf6748.jpg"
+image: "dscf6748.jpg"
 slug: "khi-dan-phuot-an-chay"
 ---
 
@@ -34,7 +34,7 @@ Có rất nhiều mục đích cho việc ăn chay như vì đạo đức (khôn
 
 Trên thế giới, có rất nhiều phương pháp ăn chay khác nhau. Nhưng theo mình nghiên cứu có hai loại chính: **“vegan” (ăn thuần chay) và “vegetarian” (ăn chay - ăn thực vật là chính).**
 
-![](images/dscf5838.jpg)
+![](/images/dscf5838.jpg)
 
 Loại nghiêm ngặt nhất được gọi là thuần chay (vegan). Người ăn thuần chay không những không ăn thịt mà còn loại bỏ luôn các chế phẩm từ động vật (trứng, sữa, phomai…)
 
@@ -48,7 +48,7 @@ Có người ăn chay trường (tất cả các ngày trong năm), cũng có ng
 
 <figure>
 
-![](images/dscf6409.jpg)
+![](/images/dscf6409.jpg)
 
 <figcaption>
 
@@ -83,7 +83,7 @@ Những món ăn của mình chế biến ưu tiên sử dụng nguyên liệu t
 
 <figure>
 
-![](images/dscf6039.jpg)
+![](/images/dscf6039.jpg)
 
 <figcaption>
 
@@ -95,7 +95,7 @@ Gỏi cuốn thuần chay.
 
 <figure>
 
-![](images/dscf6748.jpg)
+![](/images/dscf6748.jpg)
 
 <figcaption>
 

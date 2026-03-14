@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-01-10
 categories:
   - "lam-dep"
-coverImage: "dhc-olive-oil-bldl03.jpg"
+image: "dhc-olive-oil-bldl03.jpg"
 slug: "tay-trang-voi-dhc-deep-cleansing-oil-hieu-qua-tuyet-voi"
 ---
 
@@ -33,7 +33,7 @@ https://balodeplao.com/shop/dau-dua-nguyen-chat-phu-yen/
 
 Mình chỉ cần vài giọt dầu dừa ra lòng bàn tay, xoa nhẹ nhàng áp lên khắp vùng da mặt. Sau đó, bạn có thể tung tăng lướt điện thoại, đọc báo, xem tivi trong 5 - 10 phút để dầu thẩm thấu vào da. Cuối cùng, bạn chỉ cần lấy bông tẩy trang nhẹ nhàng lau sạch lớp trang điểm một cách dễ dàng mà da lại mềm mịn, không hề bị khô.
 
-![](images/dau-dua-bldl07.jpg)
+![](/images/dau-dua-bldl07.jpg)
 
 Trong trường hợp bạn không có dầu dừa nguyên chất có thể dùng dầu olive nguyên chất (loại extra virgin) hoặc baby oil của Johnson & Johnson cũng rất tốt. Tuy nhiên, sau một khoảng thời gian tẩy trang bằng dầu tự nhiên, mình nhận ra rằng những vùng da như góc mắt, mí mắt, chân mày...rất khó được tẩy sạch. Thông thường sau đó, mình phải dùng thêm trợ thủ TĂM BÔNG để lấy đi những cặn trang điểm còn sót lại.
 
@@ -56,7 +56,7 @@ _Khuyết điểm:_ Da khô, mất độ ẩm, gây cảm giác khó chịu và 
 
 Không chùn bước, mình mày mò tìm kiếm và phát hiện ra một lựa chọn hoàn hảo cho công cuộc tẩy trang của mình. Đó là **DHC Deep Cleansing Oil, được đánh giá cao rất nổi tiếng trong giới dầu tẩy trang** mà giá cả lại mềm mại hơn mấy bạn tẩy trang của Shu Uemura, thế nên tội gì không thử nhỉ.
 
-![](images/dhc-olive-oil-bldl03.jpg)
+![](/images/dhc-olive-oil-bldl03.jpg)
 
 **Thành phần**: olea europaea (olive) fruit oil, caprylic/capric triglyceride, sorbeth-30 tetraoleate, pentylene glycol, phenoxyethanol, tocopherol, stearyl glycyrrhetinate, rosmarinus officinalis (rosemary) leaf oil.
 
@@ -67,7 +67,7 @@ Thành phần chính được chiết xuất từ dầu olive nguyên chất, vi
 - Dạng chai nhựa, trong suốt thấy được chất dầu màu vàng bên trong, thiết kế giản dị vô cùng, in nhiều thông tin nhưng toàn tiếng Nhật nên mình chả biết nó nói gì trên đấy nữa
 - Chai có vòi ấn chắc chắn và có cả nắp đậy vòi nên có thể mang em ấy đi khắp nơi vô tư
 
-![](images/dhc-olive-oil-bldl01.jpg)
+![](/images/dhc-olive-oil-bldl01.jpg)
 
 **Dung tích:** 70ml, 200ml và dạng mini 30ml
 
@@ -77,17 +77,17 @@ Thành phần chính được chiết xuất từ dầu olive nguyên chất, vi
 
 - Giữ mặt và tay khô, cho khoảng 2-3 pump dầu ra tay, mát xa đều lên mặt và cổ khoảng 2-3 phút.
 
-![](images/dhc-cleansing-oil-test-bldl01.jpg)
+![](/images/dhc-cleansing-oil-test-bldl01.jpg)
 
-![](images/dhc-cleansing-oil-test-bldl02.jpg)
+![](/images/dhc-cleansing-oil-test-bldl02.jpg)
 
 - Cho ít nước ra tay rồi xoa lên mặt mát xa đều thêm khoảng 1-2 phút để dầu chuyển hóa thành dạng sữa và có thể rửa đi một cách dễ dàng.
 
-![](images/dhc-cleansing-oil-test-bldl04.jpg)
+![](/images/dhc-cleansing-oil-test-bldl04.jpg)
 
 - Sau đó dùng bông tẩy trang lau nhẹ nhàng, rửa sạch mặt với nước và rửa lại lần cuối bằng sữa rửa mặt.
 
-![](images/dhc-cleansing-oil-test-bldl03.jpg)
+![](/images/dhc-cleansing-oil-test-bldl03.jpg)
 
 _Ưu điểm:_
 

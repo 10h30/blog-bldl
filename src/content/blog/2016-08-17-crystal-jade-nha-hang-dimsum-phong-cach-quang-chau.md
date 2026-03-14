@@ -7,7 +7,7 @@ categories:
   - "kham-pha-cuoi-tuan"
 tags:
   - "dimsum"
-coverImage: "crystal-jade-dimsum-bldl20-1.jpg"
+image: "crystal-jade-dimsum-bldl20-1.jpg"
 slug: "crystal-jade-nha-hang-dimsum-phong-cach-quang-chau"
 ---
 
@@ -21,28 +21,28 @@ Vừa bước vào Crystal Jade, bạn có thể cảm nhận ngay đậm đà p
 
 Thực đơn phong phú với nhiều món ăn chế biến theo kiểu Quảng Châu và dĩ nhiên là muôn màu muôn vẻ dimsum.Trung bình mỗi món dimsum tại đây sẽ có giá từ 55K-65K. Chân gà tàu xì luôn là ưu tiên số một của mình khi đến thăm bất cứ nhà hàng dimsum nào.
 
-![](images/crystal-jade-dimsum-bldl07.jpg)
+![](/images/crystal-jade-dimsum-bldl07.jpg)
 
 Tuy nhiên điều khiến mình nhất định "hội ngộ" Crystal là món vịt quay Bắc Kinh nổi tiếng của nhà hàng <img src="images/1F60E.png" width="18">.Hai vợ chồng mình gọi nửa con vịt quay với giá 380K chia ra làm hai món đặc biệt. Phần da vịt ăn với bánh tráng ngọt chấm tương đỏ, phần thịt làm mì xào. Bất cứ yêu cầu chế biến nào khác ngoài phần da vịt đều phụ thu 80K  nhe các bạn. Ví dụ như phần vịt của mình làm thành hai món thì phí là 380K+80K.
 
-![](images/crystal-jade-dimsum-bldl11.jpg)
+![](/images/crystal-jade-dimsum-bldl11.jpg)
 
-![](images/crystal-jade-dimsum-bldl14-1.jpg)
+![](/images/crystal-jade-dimsum-bldl14-1.jpg)
 
-Ngồi quan sát đầu bếp lóc da vịt và cuộn với bánh tráng thật thú vị! Mỗi cuốn đều có một phần da vịt quay giòn rụm, đầu hành lá và thanh dưa leo. Thành phần nghe đơn gỉản vậy mà ngon ngất ngây. Mình rất thích nước sốt tương đỏ tại đây, đậm đà gia vị, ngon đến giọt cuối cùng ![](images/1F602.png).
+Ngồi quan sát đầu bếp lóc da vịt và cuộn với bánh tráng thật thú vị! Mỗi cuốn đều có một phần da vịt quay giòn rụm, đầu hành lá và thanh dưa leo. Thành phần nghe đơn gỉản vậy mà ngon ngất ngây. Mình rất thích nước sốt tương đỏ tại đây, đậm đà gia vị, ngon đến giọt cuối cùng ![](/images/1F602.png).
 
-![](images/crystal-jade-dimsum-bldl08-1.jpg)
+![](/images/crystal-jade-dimsum-bldl08-1.jpg)
 
-![](images/crystal-jade-dimsum-bldl12.jpg)
+![](/images/crystal-jade-dimsum-bldl12.jpg)
 
 Ngoài ra, vợ chồng mình cực kì ưng ý món khai vị Bí đỏ hoàng kim. Nghe tên sang chảnh vậy chứ thật ra bí đỏ áo bột chiên giòn ngập trong sốt trứng muối. Tưởng không ngon ai dè ngon không tưởng các bạn ạ <img src="images/1F60D.png" width="18">.
 
-![](images/crystal-jade-dimsum-bldl09.jpg)
+![](/images/crystal-jade-dimsum-bldl09.jpg)
 
 Silk cũng ké được món bột chiên sốt dầu hào, cực kì thích thú ăn hết 3-4 miếng của ba mẹ luôn.
 
-![](images/crystal-jade-dimsum-bldl06.jpg)
+![](/images/crystal-jade-dimsum-bldl06.jpg)
 
-![](images/crystal-jade-dimsum-bldl13.jpg)
+![](/images/crystal-jade-dimsum-bldl13.jpg)
 
 Hi vọng với bài review nho nhỏ, các bạn sẽ có thêm địa điểm thưởng thức dimsum mới cùng gia đình và bạn bè nhé.

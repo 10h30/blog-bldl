@@ -20,7 +20,7 @@ https://balodeplao.com/am-thuc-thanh-pho-hoa-da-lat/
 
 Ẩm thực Đà Lạt chưa từng bao giờ làm mình thất vọng cho đến khi mình thử qua nhà hàng nướng **Kings BBQ ở số 10 Bùi Thị Xuân, Tp. Đà Lạt**. Do chưa từng thử qua buffet món nướng bao giờ tại Đà Lạt, một phần tin tưởng vào đánh giá của Foodie/ Diadiemanuong mà BLDL đã có một bữa tối "nhớ đời" tại nhà hàng này.
 
-![](images/undefined-king-bbq-bui-thi-xuan-da-lat-0-ca38cd70636022108842157244.jpg)
+![](/images/undefined-king-bbq-bui-thi-xuan-da-lat-0-ca38cd70636022108842157244.jpg)
 
 ### Không có hệ thống xử lí khói
 
@@ -30,7 +30,7 @@ Thêm vào đó, do nhà hàng mới vừa khai trương được 6 tháng nên 
 
 Tuy nhiên, khi vừa bước vào bên trong, mình đã khói bay mịt mù và ngửi thấy mùi thịt nướng nồng nặc. Mình để ý phần lớn các nhà hàng món nướng đều có hệ thống ống thoát khí cũng như ống hút khói để tạo không gian khoáng đãng cho thực khách. Kings BBQ không hề có điều này. _Hoàn tất bữa ăn, cả người mình, tóc tai đều ám mùi thịt rất nặng. Không gian nhà hàng tràn đầy MÙI THỊT!_
 
-![](images/kings-bbq01.jpg)
+![](/images/kings-bbq01.jpg)
 
 ### Thức ăn không được đầu tư đúng mức
 
@@ -38,13 +38,13 @@ Theo như đánh giá của Foodie và Diadiemanuong, Kings BBQ Bùi Thị Xuân
 
 Nhưng tiếc thay những gì mình nhận được là những khay thịt lèo tèo dăm ba cục, thịt vài lát mỏng...và được ướp gia vị nhợt nhạt. Không biết mọi người cảm nhận thế nào nhưng với mình đây là bữa buffet nướng dở nhất mình từng được ăn.
 
-![](images/kings-bbq02.jpg)
+![](/images/kings-bbq02.jpg)
 
 Hải sản như tôm cua không hề tươi và được ướp sơ sài...thậm chí vô vị. Đỉnh điểm là thố ốc bươu nhồi thịt lạnh tanh, vừa được đem ra từ tủ lạnh. Trái ngược hoàn toàn với món ốc bươu nhồi thịt mình từng ăn quán khác tại Đà Lạt lúc nào cũng nóng hổi, cay nồng, thơm phức mùi tiêu xanh.
 
 _Đây là bữa tiệc buffet nướng khiến mình THẤT VỌNG CHÁN NẢN nhất từ trước đến nay!_ Thật lòng mà nói khách ham rẻ nên ghé rất đông và...bỏ đồ ăn cũng rất nhiều. Bàn kế bên mình là một phái đoàn Tung Của gọi món ào ạt như vũ bão nhưng bỏ lại tàn tích gần như phân nửa!
 
-![](images/kings-bbq03.jpg)
+![](/images/kings-bbq03.jpg)
 
 ### Nhân viên phục vụ không chuyên nghiệp
 

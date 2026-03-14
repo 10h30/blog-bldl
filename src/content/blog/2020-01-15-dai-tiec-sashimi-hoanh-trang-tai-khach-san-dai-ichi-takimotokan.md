@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2020-01-15
 categories:
   - "an-uong"
-coverImage: "jesse-ballantyne-9r5khbw51fk-unsplash.jpg"
+image: "jesse-ballantyne-9r5khbw51fk-unsplash.jpg"
 slug: "dai-tiec-sashimi-hoanh-trang-tai-khach-san-dai-ichi-takimotokan"
 destination:
   - "hokkaido"
@@ -15,7 +15,7 @@ Khách sạn chúng mình chọn cho đêm nghỉ hè cuối cùng tại Nhật 
 
 <figure>
 
-![](images/takimotokan.jpg)
+![](/images/takimotokan.jpg)
 
 <figcaption>
 
@@ -27,17 +27,17 @@ Một trong những bể tắm onsen lớn tại Takimotokan
 
 Tuy nhiên, theo mình ngoài khu suối nước nóng khổng lồ, Takimotokan còn ghi lại dấu ấn sâu đậm trong lòng thực khách nhờ những bữa tiệc buffet hải sản cực kỳ hoành tráng. Tuy chỉ qua đêm vài ngày ngắn ngủi tại đây nhưng niềm đam mê bất tận về sushi - sashimi của gia đình mình hoàn toàn được thoả mãn hihi.
 
-![](images/daiichi-takimotokan-food.jpg)
+![](/images/daiichi-takimotokan-food.jpg)
 
 Yếu tố quyết định thành công của sashimi là hải sản phải thật tươi ngon. Takimotokan hoàn toàn thấu hiểu điều này và thiết đãi khách hàng của mình bằng chất lượng hải sản tuyệt vời nhất.
 
 Cua hoàng đế được trình bày một cách "phồn thực" trong những xửng tre thế này và được xếp "lego" thành núi. Sau chuyến đi Nhật, thú thật mình không còn khao khát gì cua hoàng đế khi về Việt Nam nữa.
 
-![](images/199176747.jpg)
+![](/images/199176747.jpg)
 
 Lâu lâu mình mới dám mua trứng cá hồi tươi trong siêu thị cho Silk ăn, đâu đó chỉ 30-40gr mà gần 200k. Còn Takimotokan bày trứng cá hồi tươi rói trong chậu cho thực khách tha hồ lấy muỗng xúc ;)). Mình đã ăn đến hai chén trứng cá hồi cho đã thèm đấy các bạn tin không.
 
-![](images/sushi2.jpg)
+![](/images/sushi2.jpg)
 
 Ngoài khu vực sashimi "lấp lánh", các thể loại sushi, cơm cuộn, soup, bánh xèo Nhật, mì udon, mì ramen...các món ăn truyền thống của Nhật la liệt phong phú không thiếu món gì. Không những vậy, Takimotokan còn chuẩn bị chu đáo luôn cả một số thực đơn Tây, Tàu khác cho khách du lịch quốc tế dễ dàng lựa chọn.
 

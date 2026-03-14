@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-09-28
 categories:
   - "kham-pha-cuoi-tuan"
-coverImage: "biacraft-bldl10.jpg"
+image: "biacraft-bldl10.jpg"
 slug: "biacraft-bia-tuoi-thu-cong-thom-ngon-voi-ten-goi-khung"
 ---
 
@@ -19,26 +19,26 @@ Hiện tại BiaCraft chỉ có hai chi nhánh tại Sài Gòn
 
 Mình khá ưng ý với cảm giác không gian BiaCraft đem lại: hiện đại, phóng khoáng nhưng ấm cúng. Quán được thiết kế theo phong cách nột thất retro, đơn giản và khá Tây. Những poster lớn với châm ngôn hài hước, menu bia với những tên gọi ngộ nghĩnh tạo nên ấn tượng độc đáo cho thực khách lần đầu gặp gỡ.
 
-![](images/biacraft-bldl05.jpg)
+![](/images/biacraft-bldl05.jpg)
 
-![](images/biacraft-bldl11.jpg)
+![](/images/biacraft-bldl11.jpg)
 
-Hai đứa mình chọn đại hai cái tên khá "chảnh choẹ" trong danh sách bia kiêu kỳ: Lùn mà láo và Đừng chọc tao ![](images/1F60E.png).
+Hai đứa mình chọn đại hai cái tên khá "chảnh choẹ" trong danh sách bia kiêu kỳ: Lùn mà láo và Đừng chọc tao ![](/images/1F60E.png).
 
-![](images/biacraft-bldl10.jpg)
+![](/images/biacraft-bldl10.jpg)
 
 Bia màu vàng nhạt thường có nồng độ cồn nhẹ hơn so với màu vàng sậm/ nâu đen. BiaCraft ghi điểm thành công với khách hàng nhờ hương vị bia tươi thủ công khác biệt, thức ăn ngon không tưởng nhe các bạn. Ngoài bia "chính chủ" do BiaCraft chế biến, tại đây còn bày bán những loại bia thủ công của các quán bia nổi tiếng khác trong đó có cả Pasteur Street Brewing.
 
-![Bia của Pasteur Street Brewing cũng được bày bán tại BiaCraft](images/biacraft-bldl06.jpg)
+![Bia của Pasteur Street Brewing cũng được bày bán tại BiaCraft](/images/biacraft-bldl06.jpg)
 
 Bữa tiệc thịnh soạn của hai đứa bày ra khá hấp dẫn với da gà phô mai chiên giòn, sandwich bò, khoai tây chiên đặc biêt...Món mình yêu thích nhất là da gà phô mai chiên giòn, beo béo, giòn giòn, bùi bùi, thơm ngon đến miếng cuối cùng các bạn ạ. Ngon thiệt nhưng cẩn thận coi chừng tăng cân nhé!
 
-![Nữ hoàng của lòng mình: Da gà phô mai chiên giòn - ngon không tưởng nhưng có hại cho vòng eo quá các bạn ơi :(](images/biacraft-bldl12.jpg)
+![Nữ hoàng của lòng mình: Da gà phô mai chiên giòn - ngon không tưởng nhưng có hại cho vòng eo quá các bạn ơi :(](/images/biacraft-bldl12.jpg)
 
-![](images/biacraft-bldl13.jpg)
+![](/images/biacraft-bldl13.jpg)
 
-![](images/biacraft-bldl09.jpg)
+![](/images/biacraft-bldl09.jpg)
 
-![Khoai tây chiên của BiaCraft ngon cực khủng nhé](images/biacraft-bldl08.jpg)
+![Khoai tây chiên của BiaCraft ngon cực khủng nhé](/images/biacraft-bldl08.jpg)
 
 Với vài dòng đánh giá nho nhỏ, hi vọng các bạn có thêm địa điểm lý tưởng thưởng thức bia tươi và thức ăn ngon cùng gia đình và bạn bè. Bạn nào là fan cuồng của bia thủ công thì có thể gửi mail hẹn hò với Balodeplao để cùng nhau ngồi tán gẫu và thưởng thức bia ngon nhé.

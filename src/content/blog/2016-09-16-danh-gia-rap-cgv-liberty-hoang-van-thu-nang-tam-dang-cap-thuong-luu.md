@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-09-16
 categories:
   - "kham-pha-cuoi-tuan"
-coverImage: "cgv-hvt-bldl03.jpg"
+image: "cgv-hvt-bldl03.jpg"
 slug: "danh-gia-rap-cgv-liberty-hoang-van-thu-nang-tam-dang-cap-thuong-luu"
 ---
 
@@ -26,15 +26,15 @@ Trong khi đó, cụm rạp CGV Liberty CityPoint mới xứng danh sang chản
 
 Tuy nhiên, khi mình bước vào bên trong thì CGV Liberty Hoàng Văn Thụ hiện ra như một thế giới khác. Nội thất cực kì sang trọng, nhẹ nhàng theo đúng phong cách thiết kế retro - phong cách mang tính chất hoài cổ nhưng cũng không kém phần hiện đại. Đây sẽ là không gian cực kì thích hợp cho các bạn trẻ chụp choẹt sống ảo nhé.
 
-![](images/cgv-hvt-bldl01.jpg)
+![](/images/cgv-hvt-bldl01.jpg)
 
-![](images/cgv-hvt-bldl02.jpg)
+![](/images/cgv-hvt-bldl02.jpg)
 
 ### III. Chất lượng dịch vụ
 
 Về chất lượng phục vụ tại CGV, tất cả chúng ta không thể bàn cãi về độ chuyên nghiệp rồi ha. Nhân viên thân thiện, dịch vụ đặt vé xem phim nhanh chóng, màn hình chiếu phim rộng hoành tráng, âm thanh sống động. Điều đáng khen ngợi là chất lượng phục vụ tốt đều được đồng nhất ở tất cả mọi cụm rạp. Chỉ khác nhau chút xíu về độ đẹp mỗi rạp thôi <img src="images/1F602.png" width="18">
 
-![](images/cgv-hvt-bldl04.jpg)
+![](/images/cgv-hvt-bldl04.jpg)
 
 ### IV. Giá vé
 

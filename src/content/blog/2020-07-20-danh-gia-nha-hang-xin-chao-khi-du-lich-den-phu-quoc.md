@@ -5,7 +5,7 @@ pubDate: 2020-07-20
 categories:
   - "an-uong"
   - "du-lich"
-coverImage: "xin-chao.jpg"
+image: "xin-chao.jpg"
 slug: "danh-gia-nha-hang-xin-chao-khi-du-lich-den-phu-quoc"
 destination:
   - "phu-quoc"
@@ -23,7 +23,7 @@ Nhà hàng Xin Chào nằm ngay trên con đường Trần Hưng Đạo trung t�
 
 <figure>
 
-![](images/img_20200628_180629_original.jpg)
+![](/images/img_20200628_180629_original.jpg)
 
 <figcaption>
 
@@ -45,7 +45,7 @@ Gỏi cá trích và chả ghẹ là hai món đặc sản nổi tiếng ở đ�
 
 <figure>
 
-![](images/img_9939.jpg)
+![](/images/img_9939.jpg)
 
 <figcaption>
 

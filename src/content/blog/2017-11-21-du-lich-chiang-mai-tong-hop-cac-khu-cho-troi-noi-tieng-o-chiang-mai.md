@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2017-11-21
 categories:
   - "du-lich"
-coverImage: "market-in-chiang-mai01.jpg"
+image: "market-in-chiang-mai01.jpg"
 slug: "du-lich-chiang-mai-tong-hop-cac-khu-cho-troi-noi-tieng-o-chiang-mai"
 destination:
   - "chiang-mai"
@@ -22,11 +22,9 @@ Cứ đến cuối tuần, nhiều con đường trong khu trung tâm của Chia
 
 **Chợ phiên đêm chủ nhật** là khu chợ mà mình yêu thích nhất trong suốt chuyến đi. Đây là chợ phiên đêm quan trọng ở Chiang Mai, thường được diễn ra vào mỗi tối chủ nhật  tại trung tâm khu phố cổ Chiang Mai - **con đường Ratchadamnoen**. Chợ thường được bắt đầu vào khoảng 4 giờ chiều, các quầy hàng sẽ được bày bán ở giữa con đường trung tâm phố cổ.
 
-![](images/market-in-chiang-mai01.jpg) ![](images/market-in-chiang-mai02.jpg)
+![](/images/market-in-chiang-mai01.jpg) ![](/images/market-in-chiang-mai02.jpg)
 
 Khác với những chợ đêm khác, chợ phiên tối bày bán vô số hàng hoá thủ công mỹ nghệ từ tranh nghệ thuật, trang sức thủ công, quần áo thiết kế cho đến các món ăn địa phương nhà làm. Giá cả rẻ "hạt dẻ" dao động từ 100 - 300 Baht mà thôi.
-
- 
 
 Ngoài việc thoả thích mua sắm, bạn còn được thưởng thức các màn trình diễn sôi nổi của các nghệ sĩ đường phố từ âm nhạc truyền thống cho đến hiện đại. Band mình thích nhất ở chợ đêm tối chủ nhật là các bạn nghệ sĩ mù. Mặc dù mang khiếm khuyết cơ thể nhưng điều này không ngăn được khả năng âm nhạc thiên phú. Họ chơi đàn, trống, sáo, phối hợp nhịp nhàng với nhau rất hay.
 
@@ -35,25 +33,25 @@ Ngoài việc thoả thích mua sắm, bạn còn được thưởng thức các
 
 ## Chợ đêm Night Bazaar
 
-![](images/market-in-chiang-mai05.jpg)
+![](/images/market-in-chiang-mai05.jpg)
 
 Cách đó không xa khu chợ phiên cuối tuần là chợ đêm Night Bazaar. Night Bazaar được mệnh danh là chợ đêm lớn nhất ở Chiang Mai, diễn ra từ 18h - 24h mỗi đêm tất cả các ngày trong tuần. Chợ nằm dọc theo con đường Chang Klan, nơi có vô số các quán ăn, cafe, bar và những tiệm massage giá rẻ.
 
-![](images/market-in-chiang-mai04.jpg) ![](images/market-in-chiang-mai03.jpg)
+![](/images/market-in-chiang-mai04.jpg) ![](/images/market-in-chiang-mai03.jpg)
 
 Trong khu chợ đêm Bazaar, bạn sẽ dễ dàng nhận ra khu ẩm thực khá sầm uất và tấp nập khách du lịch. Các món ăn đường phố Thái Lan được bày bán tại đây với giá phải chăng.
 
-![](images/market-in-chiang-mai09.jpg) ![](images/market-in-chiang-mai08.jpg) ![](images/market-in-chiang-mai10.jpg) ![](images/market-in-chiang-mai06.jpg) ![](images/market-in-chiang-mai07.jpg)
+![](/images/market-in-chiang-mai09.jpg) ![](/images/market-in-chiang-mai08.jpg) ![](/images/market-in-chiang-mai10.jpg) ![](/images/market-in-chiang-mai06.jpg) ![](/images/market-in-chiang-mai07.jpg)
 
 Tuy nhiên, theo mình cảm nhận, chợ đêm Bazaar không nhiều mẫu mã như chợ phiên cuối tuần. Mình chỉ cần đi vài ba quầy là biết những quầy còn lại bán gì hết vì tất cả hàng hoá tương tự nhau. Đa phần là quần thụng, giày dép và một số hàng thủ công mỹ nghệ. Lời khuyên chân thành là nếu các bạn muốn thoả thích mua sắm thì nên đi chợ phiên cuối tuần hơn.
 
-**Night Bazaar: 104-1 Chang Klan Road** 
+**Night Bazaar: 104-1 Chang Klan Road**
 
 ## Chợ Warorot
 
 Được một người bạn Thái Lan giới thiệu, mình biết đến chợ Warorot. Mặt hàng chính của chợ Warorot là trái cây, rau quả, quần áo, thuốc men và các loại gia vị Trung Quốc cũng như có thể sửa chữa đồng hồ ở đây. Khu chợ gồm hai toà nhà nằm đối diện nhau, chia tách bởi một con phố đi bộ.
 
-![](images/market-in-chiang-mai11.jpg)
+![](/images/market-in-chiang-mai11.jpg)
 
 Bạn có thể mua bánh trái, đặc sản ẩm thực Thái Lan hoặc quần áo giá rẻ tại đây. Chợ Warorot có vẻ thuần địa phương hơn, phục vụ chính cho dân địa phương nhiều hơn là khách du lịch.
 

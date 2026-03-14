@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2020-04-10
 categories:
   - "meo-hay"
-coverImage: "img_7474.jpg"
+image: "img_7474.jpg"
 slug: "5-goi-y-hay-ren-luyen-suc-khoe-tai-nha-mua-dich-benh"
 ---
 
@@ -20,13 +20,13 @@ Vì vậy, **chúng ta cần nâng cao sức khoẻ ngay tại nhà để tăng 
 
 ## 1\. Săn chắc với Youtube
 
-![](images/kon-karampelas-pels78vbu50-unsplash.jpg)
+![](/images/kon-karampelas-pels78vbu50-unsplash.jpg)
 
 Chỉ cần một chiếc [thảm tập yoga](https://ycb.vn/shop/tham-tap-yoga-tpe/), tạ tay (nếu muốn) là bạn có thể gập bụng, plank, tập cánh tay, tập đùi ngay tại nhà rồi. Youtube thì có hàng tỉ bài hướng dẫn với các keywords: core, strength, power body, pilate, cardio workout...đa dạng cho từng phần cơ trên cơ thể với thời lượng và mức độ khác nhau.
 
 ## 2\. Nhảy dây
 
-![](images/nhay-day.jpg)
+![](/images/nhay-day.jpg)
 
 Nhảy dây là một trong những phương thức thể dục thể thao ngon bổ rẻ từ "ngàn xưa". Bạn không cần quá nhiều không gian, không cần đi đâu xa, chỉ cần ở nhà với một sợi dây nhảy thì bạn có thể tập đùi 100 cái rồi. Nhảy dây rất hữu ích trong việc giảm mỡ toàn thân. Hãy thử nhảy liên tục trong vòng 10 phút, bạn sẽ thấy toàn thân ướt nhẹp mồ hôi cho xem.
 
@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=7-j22blo2lQ
 
 Nếu bạn là người đam mê chạy bộ, có thói quen chạy bộ mỗi ngày và có điều kiện kinh tế ổn thì việc đầu tư một máy chạy bộ tại gia là hoàn toàn xứng đáng. Hiện tại, trên thị trường có nhiều dòng máy chạy bộ chức năng khác nhau với nhiều mức giá từ thấp đến cao. Gia đình mình vừa tậu em [máy chạy bộ của Decathlon](https://www.decathlon.vn/vi/p/8542703_may-chay-bo-t900c.html) ngon bổ rẻ với giá tầm 15 triệu.
 
-![](images/may-chay-bo-t900c.jpg)
+![](/images/may-chay-bo-t900c.jpg)
 
 Đây được xem là sự đầu tư lâu dài cho sức khoẻ không chỉ trong mùa dịch bệnh. Nhiều bạn vẫn đeo khẩu trang chạy bộ ngoài công viên, mặc kệ lệnh cách ly toàn xã hội của Chính Phủ. Theo mình, đây là một lựa chọn rất nguy hiểm bởi ai nấy đều biết virus Corona có thể tồn tại sống trong không khí đến 3 giờ đồng hồ. Không ai biết được, liệu có một ai đó đã mắc bệnh vừa chạy bộ hay đi bộ nơi công viên bạn tập trước đó. Vì vậy, hãy chạy bộ ở nhà, luyện tập tại nhà là an toàn nhất bạn ạ.
 

@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-08-24
 categories:
   - "lam-dep"
-coverImage: "cafe-cover.jpg"
+image: "cafe-cover.jpg"
 slug: "cong-thuc-tay-te-bao-chet-min-da-don-gian-tu-dau-dua-va-ca-phe"
 ---
 
@@ -26,7 +26,7 @@ Bạn chỉ cần tẩy tế bào chết 1-2 lần/tuần là đủ; bằng các
 
 ### **Công thức tẩy tế bào chết từ dầu dừa và cà phê**
 
-![](images/dau-dua-cafe-4-1.jpg)
+![](/images/dau-dua-cafe-4-1.jpg)
 
 #### **_Nguyên liệu_**
 
@@ -40,9 +40,9 @@ Bạn chỉ cần tẩy tế bào chết 1-2 lần/tuần là đủ; bằng các
 
 Bạn chỉ cần trộn đều tất cả nguyên liệu trên vào một cái tô; sau đó, thoa đều hỗn hợp này lên người. Bạn massage nhẹ nhàng theo vòng tròn bằng xơ mướp mềm hoặc khăn mềm trong 15-20 phút để dầu dừa và cà phê thẩm thấu vào da, phát huy hết tác dụng.
 
-![](images/dau-dua-ca-fe-1.jpg)
+![](/images/dau-dua-ca-fe-1.jpg)
 
-![](images/dau-dua-ca-fe-1.jpg)
+![](/images/dau-dua-ca-fe-1.jpg)
 
 Tốt nhất là bạn nên thực hiện tẩy bào chết trong phòng tắm, ngồi thư giãn, có thể thưởng thức thêm chút  âm nhạc càng tốt. Vừa dễ dàng vừa thoải mái hơn phải không các bạn <img src="images/1F60D.png" width="18">. Hoàn thành quá trình tẩy tế bào chết, bạn chỉ cần tắm sơ lại người và đừng quên thoa lotion/serum dưỡng ẩm da mà bạn đang dùng nhé!
 

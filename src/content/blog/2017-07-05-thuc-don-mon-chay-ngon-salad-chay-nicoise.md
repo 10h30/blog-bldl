@@ -5,7 +5,7 @@ pubDate: 2017-07-05
 categories:
   - "an-uong"
   - "yoga"
-coverImage: "nicoise-salad21.jpg"
+image: "nicoise-salad21.jpg"
 slug: "thuc-don-mon-chay-ngon-salad-chay-nicoise"
 ---
 
@@ -21,7 +21,7 @@ Nicoise Salad là một loại salad của vùng Nice nước Pháp. Món salad 
 
 ## Nguyên liệu
 
-![](images/nicoise-salad01.jpg)
+![](/images/nicoise-salad01.jpg)
 
 Cho salad
 
@@ -50,13 +50,13 @@ Cà chua: Các bạn chọn cà chua trái lớn hoặc cà chua bi đỏ/ nâu 
 
 Khoai tây: Mình chọn khoai tây Đà Lạt là ngon nhất đó. Các bạn gọt sạch vỏ, cắt hột lựu vừa ăn, rồi cho vào nồi nước sôi luộc kỹ đến khi chín mềm vừa ăn thì vớt ra để ráo.
 
-![](images/nicoise-salad02.jpg)
+![](/images/nicoise-salad02.jpg)
 
 Trái olive: Các bạn vào siêu thị chon mua những lọ trái olive tươi ngâm sẵn. Mình thích olive đen hơn xanh vì có cảm giác ăn bùi hơn, hương vị đậm đà hơn.
 
 Đậu cove (nếu muốn): Các bạn có thể cho thêm đậu cove luộc, cắt khúc vừa ăn.
 
-![Tèn ten! Thành phẩm salad nicoise của chúng ta đây](images/nicoise-salad06.jpg)
+![Tèn ten! Thành phẩm salad nicoise của chúng ta đây](/images/nicoise-salad06.jpg)
 
 Sau khi sơ chế tất cả các nguyên liệu trên, các bạn cho tất cả một tô lớn. Chúng ta chuẩn bị bắt tay làm sốt.
 
@@ -66,11 +66,11 @@ Các bạn đảm bảo tỉ lệ chuẩn **3 dầu:1 dấm**. Các gia vị cò
 
 _Số lượng ít (cho một lần ăn):_ Các bạn cho hết tất cả các nguyên liệu theo tỉ lệ vào một tô rồi khuấy đều tay hỗn hợp. Nếu có các bạn đánh bằng cây đánh trứng (whisk) càng tốt. Sốt sẽ hoà tan nhanh và đều hơn.
 
-![Khi bắt đầu làm sốt, đầu tiên mình cho dấm táo vào trước](images/nicoise-salad03.jpg)
+![Khi bắt đầu làm sốt, đầu tiên mình cho dấm táo vào trước](/images/nicoise-salad03.jpg)
 
-![tiếp theo là dầu olive](images/nicoise-salad04.jpg)
+![tiếp theo là dầu olive](/images/nicoise-salad04.jpg)
 
-![Sau đó là đường, muối và tiêu](images/nicoise-salad05.jpg)
+![Sau đó là đường, muối và tiêu](/images/nicoise-salad05.jpg)
 
 _Số lượng nhiều (để vào lọ, cho vào tủ lạnh, ăn trong 3-5 ngày):_ đầu tiên bạn bỏ dấm vào tô lớn, một tay dùng whisk đánh đều, một tay cho dầu olive vào từ từ cho đến khi nào hết lượng dầu.
 
@@ -82,15 +82,11 @@ Sau đó, bạn cho gia vị theo tỉ lệ vào, nếm thử vừa ăn là ok c
 
 Bạn trộn hỗn hợp salad với hỗn hợp sốt là xong. Ăn thôiiiii! Các bạn có thể ăn không hoặc dùng với cơm gạo lức nấu đậu. Ngon và bổ dưỡng lắm đây
 
-![Trộn đều sốt vào ăn thôi](images/nicoise-salad10.jpg)
+![Trộn đều sốt vào ăn thôi](/images/nicoise-salad10.jpg)
 
-![Bữa ăn chay đầy đủ dinh dưỡng với cơm gạo lức nấu đậu va salad chay nicoise](images/nicoise-salad07.jpg)
+![Bữa ăn chay đầy đủ dinh dưỡng với cơm gạo lức nấu đậu va salad chay nicoise](/images/nicoise-salad07.jpg)
 
- 
-
- 
-
-![Tráng miệng thêm nửa trái bơ hehe](images/nicoise-salad11.jpg)
+![Tráng miệng thêm nửa trái bơ hehe](/images/nicoise-salad11.jpg)
 
 ## Thành phần dinh dưỡng
 

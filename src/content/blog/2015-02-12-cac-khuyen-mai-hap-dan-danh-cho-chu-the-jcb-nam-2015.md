@@ -7,7 +7,7 @@ categories:
 tags:
   - "jcb"
   - "the-tin-dung"
-coverImage: "khuyen-mai-jcb-2015.jpg"
+image: "khuyen-mai-jcb-2015.jpg"
 slug: "cac-khuyen-mai-hap-dan-danh-cho-chu-the-jcb-nam-2015"
 ---
 
@@ -17,7 +17,7 @@ Trong thị trường thẻ tín dụng sôi động hiện nay ở Việt Nam, 
 
 JCB là thương hiệu thẻ tín dụng duy nhất đến từ Nhật Bản. Thẻ JCB có cách thức hoạt động tương tự như tất cả các loại thẻ tín dụng khác của VISA, MasterCard hay American Express: thanh toán trước, trả tiền sau.
 
-![jcb_main](images/jcb_main.jpg)
+![jcb_main](/images/jcb_main.jpg)
 
 Hiện nay, thẻ JCB đã được phát hành tại 16 quốc gia và các vùng lãnh thổ, chủ yếu là ở khu vực Châu Á. Theo trang web [JCB Card](http://www.jcbcard.com/brand/index.html "JCB Card"), số lượng hội viên sử dụng thẻ đã tăng lên 84 triệu người. Trong đó, có khoảng hơn 10 triệu chủ thẻ JCB là khách hàng ở các quốc gia, lãnh thổ bên ngoài Nhật Bản.
 
@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=bPs2mfXbHFk Phí phát hành thẻ JCB thường
 
 ### Các khuyến mãi / ưu đãi hấp dẫn dành cho chủ thẻ JCB năm 2015
 
-![](images/khuyen-mai-jcb-2015.jpg)Năm 2015, JCB triển khai chiến dịch “Daily enjoy with JCB card” (Tận hưởng niềm vui mỗi ngày với thẻ JCB) với rất nhiều các khuyến mãi hấp dẫn dành riêng cho chủ thẻ JCB.
+![](/images/khuyen-mai-jcb-2015.jpg)Năm 2015, JCB triển khai chiến dịch “Daily enjoy with JCB card” (Tận hưởng niềm vui mỗi ngày với thẻ JCB) với rất nhiều các khuyến mãi hấp dẫn dành riêng cho chủ thẻ JCB.
 
 #### 1\. Jetstar Pacific (Từ ngày 1/2 – 31/5/2015)
 

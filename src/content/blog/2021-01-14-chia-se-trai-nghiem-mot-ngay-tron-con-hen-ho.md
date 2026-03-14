@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2021-01-14
 categories:
   - "tam-su"
-coverImage: "img-2400.jpg"
+image: "img-2400.jpg"
 slug: "chia-se-trai-nghiem-mot-ngay-tron-con-hen-ho"
 destination:
   - "viet-nam"
@@ -24,7 +24,7 @@ Vì không thể thu xếp hay nhờ vả một ai khác trông nom hai bé nên
 
 Trước đây, "Ba Lô" đã từng tham gia hoạt động "team building" cùng công ty ở khu phức hợp vui chơi **BCR - Quận 9**. Và anh đánh giá khá tốt nơi này với không gian xanh thoáng mát, hồ bơi lớn dài 50m cùng nhiều hoạt động vui chơi khác như bắn súng sơn, câu cá... Cả hai dự tính sẽ trải nghiệm một ngày hẹn hò từ sáng đến chiều tại đây.
 
-![](images/img-4336.jpg)
+![](/images/img-4336.jpg)
 
 Nhưng hiện thực không như mơ ước. BCR ở thời điểm hiện tại đã bị xuống cấp phần nào, không gian khá hoang tàn. Thế là tụi mình quyết định bơi cùng nhau rồi về trung tâm ăn uống nghỉ dưỡng haha.
 
@@ -38,7 +38,7 @@ Mình gọi một phần salad chay với hỗn hợp rau, củ quả nướng v
 
 <figure>
 
-![](images/img-4346.jpg)
+![](/images/img-4346.jpg)
 
 <figcaption>
 
@@ -48,9 +48,9 @@ salad chay của mình
 
 </figure>
 
-![](images/img-4349.jpg)
+![](/images/img-4349.jpg)
 
-![](images/img-4340.jpg)
+![](/images/img-4340.jpg)
 
 ## Massage thư giãn
 

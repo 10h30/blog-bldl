@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2016-08-07
 categories:
   - "lam-dep"
-coverImage: "nghe-nguyen-chat.jpg"
+image: "nghe-nguyen-chat.jpg"
 slug: "mat-na-tinh-bot-nghe-sua-tuoi-phuong-thuc-lam-sang-da-an-toan-hieu-qua"
 ---
 
@@ -26,15 +26,15 @@ Qua bài viết này, mình muốn chia sẻ về công thức cũng như tác d
 - 2 muỗng cà phê sữa tươi ( bạn có thể thay thế bằng sữa chua không đường, mua về để ngăn mát tủ lạnh trước khi làm mặt nạ)
 - 2 muỗng cà phê tinh bột nghệ (bạn có thể giã nghệ tươi để dùng nhé)
 
-![](images/mat-na-nghe-sua-tuoi-bldl01.jpg)
+![](/images/mat-na-nghe-sua-tuoi-bldl01.jpg)
 
 ### III. Cách làm
 
 Các bạn chỉ cần trộn đều hai nguyên liệu trên, sau đó bạn đắp mặt nạ này trực tiếp lên mặt, để trong vòng 15 - 20 phút, rồi rửa sạch bằng nước lạnh. Bạn thực hiện từ 2 đến 3 lần/ tuần để đạt hiệu quả tốt nhất, da sẽ từ từ trắng lên trông thấy.
 
-![](images/mat-na-nghe-sua-tuoi-bldl03.jpg)
+![](/images/mat-na-nghe-sua-tuoi-bldl03.jpg)
 
-![](images/mat-na-nghe-sua-tuoi-bldl03.jpg)
+![](/images/mat-na-nghe-sua-tuoi-bldl03.jpg)
 
 Nếu sau khi dùng còn dư, bạn có thể cất vào một bình nhỏ, đậy nấp kín,  sử dụng tiếp được trong 1 tuần. Hết 1 tuần, bạn hãy chịu khó làm hỗn hợp mới nhé.
 
@@ -48,6 +48,6 @@ Bạn nữ nào chịu khó có thể mua nghệ tươi rồi về giã nhuyễn
 
 Hoàn toàn khác biệt với những tinh bột nghệ mình mua ở Việt Nam, nghệ cay hơn, thơm nồng nàn, nhuyễn mịn rất đã. Ngoài đắp mặt, mình còn pha với [mật ong và nước](https://balodeplao.com/dep-khoe-voi-detox-bang-mat-ong-va-matcha/) ấm uống vào bữa sáng vừa có tác dụng giảm cân, đẹp da và làm sạch dạ dày nữa.
 
-![](images/mat-na-nghe-sua-tuoi-bldl02.jpg)
+![](/images/mat-na-nghe-sua-tuoi-bldl02.jpg)
 
 Do quá ưng với chất lượng của tinh bột nghệ từ Ấn Độ, BLDL Shop nhập ngay về số lượng lớn để đáp ứng nhu cầu làm đẹp của các bạn nữ yêu thích thành phần tự nhiên. Mong các bạn sẽ hài lòng với làn da trắng hồng tự nhiên bằng mặt nạ sữa tươi tinh bột nghệ. Với chút chia sẻ nho nhỏ, hi vọng các bạn nữ có thêm công thức làm đẹp mới - trẻ khoẻ tươi vui mỗi ngày nhé!

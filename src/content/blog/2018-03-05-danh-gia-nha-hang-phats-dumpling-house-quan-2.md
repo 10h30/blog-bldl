@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-03-05
 categories:
   - "an-uong"
-coverImage: "phats.jpg"
+image: "phats.jpg"
 slug: "danh-gia-nha-hang-phats-dumpling-house-quan-2"
 ---
 
@@ -14,7 +14,7 @@ Cuối tuần vừa rồi, hai đứa quyết định ghé thử **Phat's Dumpli
 
 ## Không gian nhỏ xinh
 
-![](images/phat-dumpling02.jpg) ![](images/phat-dumpling01.jpg)
+![](/images/phat-dumpling02.jpg) ![](/images/phat-dumpling01.jpg)
 
 Ấn tượng đầu tiên là quán có một không gian nhỏ xinh, đơn giản, mộc mạc, mang hơi hướng hơi Tàu với bàn ghế gỗ cao nhỏ, ống đũa tre cộng thêm mấy tờ giấy áp phích cổ đầy chữ Hoa. Quán chỉ chứa được khoảng 25 khách và phần lớn là khách Tây.
 
@@ -26,11 +26,11 @@ Thú nhận lần đầu ghé quán, mình yêu cầu nhân viên tư vấn mộ
 
 Đa phần các món ăn của tiệm đều đậm đà gia vị, thơm ngon và vừa miệng. Nhưng nếu gọi là đặc sắc hay ấn tượng thì Ba Lô Dép Lào đều không cảm nhận được điều này. Nếu so với Dimsum của [Dim Tu Tac](https://balodeplao.com/dim-tu-tac-dimsum-phong-cach-hong-kong/) thì không thể nào sánh bằng.
 
-![](images/phat-dumpling04.jpg) ![](images/phat-dumpling05.jpg)
+![](/images/phat-dumpling04.jpg) ![](/images/phat-dumpling05.jpg)
 
 Tuy nhiên món cà tím xào của quán rất ấn tượng với nước sốt đặc biệt rất rất ngon. Các bạn nhất định không nên bỏ qua món này nhé.
 
-![](images/phat-dumpling03.jpg)
+![](/images/phat-dumpling03.jpg)
 
 ## Giá khá cao
 

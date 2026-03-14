@@ -4,7 +4,7 @@ author: "thaonguyen"
 pubDate: 2018-12-27
 categories:
   - "tam-su"
-coverImage: "catus.jpg"
+image: "catus.jpg"
 slug: "dung-chon-cho-minh-cach-song-qua-kho-khan"
 ---
 

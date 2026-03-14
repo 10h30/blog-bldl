@@ -4,7 +4,7 @@ author: "thuanbui"
 pubDate: 2014-08-09
 categories:
   - "du-lich"
-coverImage: "Bugis-Street-02.jpg"
+image: "Bugis-Street-02.jpg"
 slug: "du-hi-singapore-ngay-3-happy-birthday-singapore"
 destination:
   - "singapore"

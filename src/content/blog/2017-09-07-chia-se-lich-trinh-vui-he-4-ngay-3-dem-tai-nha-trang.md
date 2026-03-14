@@ -5,7 +5,7 @@ pubDate: 2017-09-07
 categories:
   - "an-uong"
   - "du-lich"
-coverImage: "nha-trang20.jpg"
+image: "nha-trang20.jpg"
 slug: "chia-se-lich-trinh-vui-he-4-ngay-3-dem-tai-nha-trang"
 destination:
   - "nha-trang"
@@ -21,7 +21,7 @@ Dưới đây là lịch trình 4 ngày 3 đêm ăn chơi nhảy múa của gia 
 
 Gia đình mình đáp xuống sân bay Cam Ranh lúc 1 giờ trưa. Mình thuê taxi chở về trung tâm Thành phố Nha Trang mất 30 phút. Tụi mình check in ở Khách sạn **SenKotel** \- nằm trong cụm khách sạn 64 Trần Phú. Mình đặt SenKotel qua Agoda bạn nhé.
 
-![](images/nha-trang01.jpg) ![](images/nha-trang02.jpg)
+![](/images/nha-trang01.jpg) ![](/images/nha-trang02.jpg)
 
 https://www.instagram.com/p/BYc7WYnlRyb/?taken-by=balodeplao
 
@@ -37,19 +37,19 @@ Tụi mình mướn luôn xe máy của khách sạn với giá 120k/24 giờ ch
 
 Đây là 3 địa điểm tắm bùn mà những người dân địa phương và khách du lịch thường đến nhất. Trong số đó, Trung tâm suối khoáng nóng Tháp Bà Nha Trang được đánh giá là điểm tắm bùn chất lượng nhất Nha Trang nên nơi đây khá đông khách hơn hẳn 2 nơi còn lại. Do cách đây 4 năm mình đã thử qua suối khoáng nóng Tháp Bà rồi nên kì này mình dẫn Silk đi chỗ mới I-Resort.
 
-![](images/nha-trang03.jpg) ![](images/nha-trang04.jpg)
+![](/images/nha-trang03.jpg) ![](/images/nha-trang04.jpg)
 
 Và mình thích I-Resort hơn bởi không gian thoáng đãng, thoải mái, nhiều cây xanh và có cả một hồ bơi lớn cho trẻ em. Silk tắm bùn xong còn có thể chơi đùa với khu vực phun nước hoặc chìm mình trong hồ bơi trẻ em. Bùn rất ấm và mịn. Cô ấy khoái chí cười tít cả mắt. Sau khi tắm bùn, bạn tắm rửa lại bằng nước sạch.
 
-![](images/nha-trang05.jpg)
+![](/images/nha-trang05.jpg)
 
-![](images/nha-trang06.jpg)
+![](/images/nha-trang06.jpg)
 
 Giá vé là 300k/ người lớn, 150k/ trẻ em. Và bạn chỉ được ngâm bùn trong 20 phút thôi nhé. I- Resort phát cho mỗi người hai cái khăn tắm và một tủ đồ để các bạn để vật dụng cá nhân vào.  Tốt nhất bạn nên chuẩn bị sẵn một túi nhỏ để đựng điện thoại, ví tiền theo người và cả đồ bơi để tắm nữa nhé.
 
 Tắm xong, cảm giác da mềm mịn rất đã, kèm theo đó là bụng đói cồn cào. Thế là đi ăn thôi. Tụi mình chạy thẳng đến **khu hải sản Tháp Bà** "chén" no căng nào nghêu, tôm tích, cua, sò điệp...chỉ với 600k. Và quan trọng là tối về không ai bị đau bụng haha. Khu đó có vô số quán san sát nhau. Bạn chỉ cần thấy quán nào đông đúc người ăn thì chọn nhé. Y như ở Đài Loan mình thấy quán nào đông nghẹt người xếp hàng là biết ngon lắm đó, là biết phải xếp hàng chung rồi đó.
 
-![](images/nha-trang07.jpg)
+![](/images/nha-trang07.jpg)
 
 https://www.instagram.com/p/BYdgnZEFPG1/?taken-by=balodeplao
 
@@ -65,11 +65,11 @@ Sau đó, cả nhà chạy xe ra đường Phan Chu Trinh ăn bánh canh chả c
 
 Ăn sáng xong, tụi mình ra Chợ Đầm gần đó chơi, mua một ít trái cây và đặc sản về làm quà. Đặc sản Nha Trang đa dạng phong phú khôn kể xiết tưg kẹo mè xửng, khô cá thu, cà pháo...Điểm hài hước là con gái của BLDL đi đến đâu là người ta cho đồ ăn đến đó chắc nhờ cái miệng hay nói hay hỏi: "Cái gì vậy mẹ? Cho Silk ăn đi" :)))
 
-![](images/nha-trang08.jpg)
+![](/images/nha-trang08.jpg)
 
 https://www.instagram.com/p/BYe8Ug4l9Te/?taken-by=balodeplao
 
-Điểm tham quan tiếp theo là **Tháp Chàm Ponagar** - một trong những di sản văn hoá nổi tiếng của Nha Trang. Nơi đây bạn sẽ được tận mắt chứng kiến các tháp chàm cổ từ lâu đời và có cơ hội lắng nghe các bài hát dân gian của người Chăm.![](images/nha-trang09.jpg)
+Điểm tham quan tiếp theo là **Tháp Chàm Ponagar** - một trong những di sản văn hoá nổi tiếng của Nha Trang. Nơi đây bạn sẽ được tận mắt chứng kiến các tháp chàm cổ từ lâu đời và có cơ hội lắng nghe các bài hát dân gian của người Chăm.![](/images/nha-trang09.jpg)
 
 Trưa 12 giờ tụi mình check out khỏi SenKotel và lên đường tiến về resort để tận hưởng hai ngày còn lại.
 

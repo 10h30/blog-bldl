@@ -6,7 +6,7 @@ categories:
   - "gia-dinh"
 tags:
   - "cuoc-song-o-nhat"
-coverImage: "leo-nui-ngam-la-mua-thu.jpg"
+image: "leo-nui-ngam-la-mua-thu.jpg"
 slug: "cuoc-song-tai-nhat-leo-nui-ngam-la-mua-thu-🍁-tham-bao-tang-gom-bbq-am-cung-tai-nha"
 ---
 
@@ -18,7 +18,7 @@ https://youtu.be/KfzqT0Vbtag
 
 Leo núi vào mùa thu luôn là một trải nghiệm đáng nhớ. Gia đình mình đã chọn một cung đường không quá khó, nhưng vẫn đủ để cảm nhận vẻ đẹp thiên nhiên hùng vĩ của Nhật Bản. Trên đường đi, những tán cây chuyển màu rực rỡ tạo nên một khung cảnh thơ mộng, như một bức tranh mùa thu đầy sắc màu. Không khí mát mẻ, dễ chịu, khiến cho từng bước chân trên hành trình trở nên nhẹ nhàng hơn.
 
-![](images/leo-nui-ngam-la-mua-thu.jpg)
+![](/images/leo-nui-ngam-la-mua-thu.jpg)
 
 Có những khoảnh khắc, chúng mình dừng lại để hít thở không khí trong lành, chụp ảnh kỷ niệm, và tận hưởng sự bình yên giữa thiên nhiên. Những chiếc lá phong đỏ rực rỡ, cùng với ánh nắng nhẹ xuyên qua kẽ lá, khiến mình cảm thấy thật may mắn khi được trải nghiệm một mùa thu đẹp đến vậy.
 
