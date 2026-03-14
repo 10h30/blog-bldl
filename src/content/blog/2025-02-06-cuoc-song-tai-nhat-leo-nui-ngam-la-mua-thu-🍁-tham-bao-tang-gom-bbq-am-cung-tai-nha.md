@@ -1,5 +1,5 @@
 ---
-title: "[Cuộc sống ở Nhật] Leo Núi Ngắm Lá Mùa Thu 🍁 | Thăm Bảo Tàng Gốm &amp; BBQ Ấm Cúng tại nhà"
+title: "[Cuộc sống ở Nhật] Leo Núi Ngắm Lá Mùa Thu 🍁 | Thăm Bảo Tàng Gốm & BBQ Ấm Cúng tại nhà"
 author: "thaonguyen"
 pubDate: 2025-02-06
 categories:
