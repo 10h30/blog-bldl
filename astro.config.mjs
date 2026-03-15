@@ -6,9 +6,12 @@ import icon from "astro-icon";
 import remarkReadingTime from "remark-reading-time";
 import { remarkR2Images } from './src/plugins/remark-r2-images.mjs';
 
+import cloudflare from "@astrojs/cloudflare";
+
 export default defineConfig({
   site: "https://balodeplao.com/",
   integrations: [sitemap(), icon(), mdx()],
+
   markdown: {
     remarkPlugins: [
       remarkReadingTime,
@@ -21,6 +24,7 @@ export default defineConfig({
       remarkR2Images
     ],
   },
+
   i18n: {
     defaultLocale: "vi",
     locales: ["vi", "en"],
@@ -28,14 +32,19 @@ export default defineConfig({
       prefixDefaultLocale: false,
     },
   },
+
   prefetch: {
     prefetchAll: true,
     defaultStrategy: "viewport",
   },
+
   build: {
     inlineStylesheets: "always",
   },
+
   vite: {
     plugins: [tailwindcss()],
   },
+
+  adapter: cloudflare(),
 });
