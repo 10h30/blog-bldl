@@ -12,7 +12,7 @@ Bạn có biết đoạn Lê Thánh Tôn từ Tôn Đức Thắng đến Hai Bà
 
 Dạo quanh phố Nhật có cảm giác yên bình thư thả, không xô bồ tấp nập người như khu Vincom, Union Square chỉ cách đó một ngã tư. Đó là cảm giác của vợ chồng mình sau buổi hẹn hò tối nay. Bài viết này xin chia sẻ vài dòng trải nghiệm cùng mọi người<!--more-->
 
-### Lần đầu đi dạo phố Nhật
+## Lần đầu đi dạo phố Nhật
 
 Thật ra thì mình biết đoạn Lê Thánh Tôn là phố Nhật từ lâu lắm rồi. Dọc một khúc đường vài trăm mét là san sát các nhà hàng, cửa tiệm, dịch vụ treo bảng tiếng Nhật. Chưa kể khách Nhật sống và làm việc xung quanh khu vực này rất đông. Chỉ cần đi ngang qua là có thể cảm thấy không khí hoàn toàn khác biệt những góc đường kề bên.
 
@@ -20,7 +20,7 @@ Chỉ là biết vậy thôi chứ mình chưa bao giờ thực sự dừng châ
 
 Gửi xe ở toà nhà gì đó quên tên rồi (ngay chỗ Domino Pizza), hai vợ chồng bắt đầu buổi hẹn khám phá phố Nhật tối thứ bảy.
 
-### Sushi Chuồn Chuồn Đỏ
+## Sushi Chuồn Chuồn Đỏ
 
 ![Logo của quán Chuồn Chuồn Đỏ](/images/2ABF3201-7F5B-49F3-B359-02240B030A2B.png)
 
@@ -36,7 +36,7 @@ Vợ chồng mình gọi 2 món quen thuộc là shasimi và dragon roll, cộng
 
 Tuy nhiên, giá của quán này không dễ thương tí nào, vài món kể trên tốn hơn 500.000. Các dĩa thức ăn khá khiêm tốn về kích thước, số lượng, nhưng chất lượng thì không phải bàn. Cộng thêm không gian lãng mạn ngay giữa trung tâm TP.HCM nên số tiền bỏ ra cũng hoàn toàn xứng đáng.
 
-### Dạo phố tìm Vanilla & Butter
+## Dạo phố tìm Vanilla & Butter
 
 Sau khi lót dạ với sushi, hai vợ chồng đi kiếm tráng miệng ở quán Vannila&Butter. Quán này nằm khuất sâu bên trong khu cư xá Thái Văn Lung, khá khó tìm. Đi dạo kiếm quán này mới phát hiện ra phố Nhật trước đây mình biết chỉ là bề nổi. Có đi sâu vào trong các con hẻm dọc theo đường Lê Thánh Tôn mới phát hiện ra nguyên một khu phố khuất sâu bên trong chuyên kinh doanh phục vụ khách Nhật. Vô số các hotel, nhà hàng, spa, massage, bar, lounge nhỏ nhắn san sát nhau trong một khu vực khá chật hẹp. Tuy hàng quán đông đúc nhưng không hề có hiện tượng chèo kéo khách, khu phố rất yên tĩnh, cảm giác thanh bình khi đi dạo qua lại.
 

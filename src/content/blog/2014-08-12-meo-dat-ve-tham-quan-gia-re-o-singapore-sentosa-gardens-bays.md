@@ -14,29 +14,29 @@ destination:
 
 Singapore là điểm đến ưa thích của khách du lịch Việt Nam nhờ ưu điểm vị trí địa lý chỉ cách 2 giờ bay từ TP.HCM hay 4 giờ bay từ Hà Nội. Mặc dù vé máy bay đi Sing rất rẻ nhưng bù lại chi phí khách sạn, ăn uống rất đắt đỏ. Ngoài ra một chi phí khá đáng kể là vé vào tham quan các địa điểm nổi tiếng của Singapore như Sentosa, Gardens By The Bay, Universal Studio Singapore,... Tổng chi phí cho các điểm này có thể lên đến vài trăm $ Singapore nếu bạn mua vé trực tiếp tại cổng. <!--more-->
 
-### Có cách nào mua vé tham quan giá rẻ không?
+## Có cách nào mua vé tham quan giá rẻ không?
 
 Tất nhiên là có. Bởi vậy mình mới viết bài này để giúp các bạn nào sắp đi Singapore tiết kiệm phần nào chi phí cho hành trình. Kinh nghiệm này mình tìm ra trong chuyến đi Singapore mới đây trong nỗ lực tiết kiệm tối đa để dành tiền ăn cháo ếch và Chili Crab. Bạn sẽ tiết kiệm được khoảng 30% so với giá vé niêm yết bán tại cổng của các địa điểm tham quan ở Sing.
 
-### Đừng bao giờ mua vé ở cổng
+## Đừng bao giờ mua vé ở cổng
 
 Mua vé tham quan ngay cổng chẳng khác nào bạn check in khách sạn mà không đặt phòng trước. Dĩ nhiên bạn sẽ phải trả giá phòng theo giá niêm yết, cao hơn nhiều so với giá đặt qua các công ty du lịch hay qua mạng (Agoda.com, Booking.com,Hotels.com). Vé tham quan cũng vậy, bạn sẽ tiết kiệm hơn nhiều nếu đặt vé qua mạng hoặc qua các đại lý du lịch ở Singapore.
 
 Thắc mắc của mọi người là mua ở đâu, có an toàn không, có sợ vé giả không. Tham khảo tiếp bên dưới nha các bạn.
 
-### Hãy mua vé trực tuyến hoặc qua công ty du lịch
+## Hãy mua vé trực tuyến hoặc qua công ty du lịch
 
 Để được giá tốt nhất cho các vé tham quan hoặc các tour ở Singapore, bạn hãy liên hệ các công ty du lịch ở đây.
 
 Có hai cách bạn có thể đặt vé tham quan giá rẻ ở Singapore: đặt online hoặc đến trực tiếp văn phòng công ty du lịch để mua.
 
-#### Đặt vé online
+### Đặt vé online
 
 Địa chỉ mua vé tham quan giá rẻ là [Quo10](http://www.qoo10.sg/ "Quo10"). Bạn có thể dễ dàng tìm thông tin mua vé rẻ bằng cách dùng các từ khóa như Gardens by the Bays, Universal Studio Singapore,...Kết quả sẽ hiện ra rất nhiều lựa chọn mua vé cho bạn. Đa số các công ty đều cung cấp rất nhiều loại vé tham quan khác nhau, bạn chỉ cần vào xem một cái là có thể tìm ra giá vé cho các địa điểm khác.
 
 Tuy nhiên, mình không khuyến khích cách này vì bạn sẽ phải mất phí chuyển phát. Vả lại, sau khi đặt hàng, phải mất 1-2 ngày để bên công ty gửi vé cho bạn, việc này hoàn toàn vô nghĩa khi bạn đang cần vé đi tham quan ngay trong ngày hoặc hôm sau. Cách tốt nhất là bạn đến trực tiếp công ty để mua. Bạn có thể tham khảo thông tin các công tin thông qua trang web mua bán này hoặc có thể dùng công ty mà mình dưới thiệu ở phần kế tiếp.
 
-#### Đến trực tiếp văn phòng công ty du lịch
+### Đến trực tiếp văn phòng công ty du lịch
 
 Cách này là tiện lợi nhất đối với khách du lịch ngắn hạn ở Singapore. Ưu điểm của nó là bạn không cần phải làm nhiều thủ tục rườm rà trên mạng, không tốn tiền ship và cũng không phải chờ đợi 1-2 ngày mới nhận được vé. Chỉ cần gửi mail hoặc alo đến công ty du lịch trước khi đến để họ chuẩn bị sẵn vé, sau đó ghé lấy và trả tiền là xong.
 
@@ -44,7 +44,7 @@ Mặc dù vậy, nếu bạn mua vé quá sát ngày, rất có khả năng sẽ
 
 Các công ty du lịch do là mối quen của các địa điểm và tour tham quan nên họ có được giá ưu đãi hơn nhiều so với vé bán lẻ. Mỗi khi bạn đến mua vé ở đại lý, họ sẽ trực tiếp mua vé từ nhà tổ chức và bán lại cho bạn với mức giá rẻ hơn giá niêm yết khá nhiều. Tính ra cả hai cùng có lợi.
 
-### Mua ở công ty nào?
+## Mua ở công ty nào?
 
 Có khá nhiều công ty du lịch ở Singapore cung cấp dịch vụ này. Tất cả đều có văn phòng rõ ràng nên không sợ lừa đảo đâu. Mình giới thiệu đại lý du lịch tên **Asia World Travel** (trên [Quo10](http://www.qoo10.sg/ "Quo10") là [**BOBO E-SHOP**](http://www.qoo10.sg/shop/boboeshop "BOBO E-SHOP")). Đây là đại lý mình đã mua vé tham quan Cloud Forest & Flower Dome (Garden By The Bays) và Wings of Time (Sentosa) trong chuyến du lịch vừa rồi. Công ty này rất uy tín và chuyên nghiệp, lúc mình đến mua vé thì nó hết vé Wings of Time do hệ thống đặt vé bị lỗi, và bảo đảm đến sáng sẽ có vé. Lúc này mình thanh toán đầy đủ tiền vé, thấy làm việc chuyên nghiệp không đòi lại tiền vé mà đi chơi tiếp, chờ vé gửi qua email từ công ty ngày mai mặc dù cũng thấy hơi lo lo lỡ nó xù mình thì sao.
 
@@ -52,7 +52,7 @@ Không phụ lòng tin tưởng của mình, đến sáng công ty chủ động
 
 Các bạn muốn mua vé tham quan giá rẻ hãy liên hệ trực tiếp với công ty theo thông tin dưới đây:
 
-\[su_note\]**BOBO E-SHOP** Địa chỉ: 31A Bali Lane Singapore 189867 (which is 5mins walk from Bugis MRT, see attached direction map). Hotline: 98521485 Email: boboeshopsg@gmail.com Facebook: www.facebook.com/boboeshopSG\[/su\_note\]
+\[su_note\]**BOBO E-SHOP** Địa chỉ: 31A Bali Lane Singapore 189867 (which is 5mins walk from Bugis MRT, see attached direction map). Hotline: 98521485 Email: <boboeshopsg@gmail.com> Facebook: <www.facebook.com/boboeshopSG\[/su\_note\>]
 
 Dưới đây là các email trao đổi của mình và BOBO E-SHOP về việc mua vé tham quan ở Singapore. Các bạn có thể tham khảo để liên lạc đặt vé dễ dàng hơn nhé. \[su_accordion\] \[su_spoiler title="Ba Lô" icon="chevron-circle" style="fancy"\] Hi, I need urgent ticket for tonight visit at SEA aquarium and Wings of times. Is it available? How do I get the ticket after purchasing from qoo10.
 

@@ -13,7 +13,7 @@ slug: "pasteur-street-brewing-sai-gon-dia-diem-thuong-thuc-huong-vi-bia-thu-cong
 
 Mình đang tìm kiếm một beer club thật "khác" - một nơi đúng nghĩa để bạn thưỏng thức bia là chính, một nơi để bạn thoải mái tán gẫu cùng bạn bè, một nơi có thức ăn ngon để nhâm nhi cùng vài ngụm bia. Một beer club như vậy không ngờ lại hiện hữu ngay tại lòng Sài Gòn. Mình muốn chia sẻ ngay Quán **Pasteur Street Brewing Co. Saigon** - quán bia thủ công (craft beer) đầu tiên tại Sài Gòn.
 
-### I. Không gian nhỏ ấm cúng
+## I. Không gian nhỏ ấm cúng
 
 Khác với những beer club khác, **Pasteur Street Brewing** ẩn mình trong một con hẻm nhỏ mặt tiền đường Pasteur. Mặc dù địa thế không phô trương, không "ồn ào" nhưng tiếng thơm từ hương vị bia tự nấu của Pasteur Street Brewing lan toả đến khắp những ai yêu bia.
 
@@ -27,7 +27,7 @@ Thật độc đáo với lối dẫn lên quán là một cầu thang nhỏ xin
 
 Không nhạc xập xình, không sàn nhảy, không mấy "em" tiếp thị bia. Chỉ có những người bạn cùng chung niềm đam mê thưởng thức bia, những đoạn đối thoại rôm rả, những tiếng cười...vậy là đủ!
 
-### II. Hương vị bia độc đáo
+## II. Hương vị bia độc đáo
 
 Điểm đặc biệt của Pasteur Street Brewing là bia tại đây hoàn toàn được làm thủ công (craft beer).
 
@@ -49,9 +49,9 @@ Mình thích vị chanh dây ("passion fruitwheat ale"), chua chua, ngọt ngọ
 
 Nữ hoàng đêm đó là ly bia hương chocolate (**"Cyclo Imperial Chocolate Stout"**) với nồng độ bia nặng nhất và là hương vị bia được đánh giá "hạng nặng" nhất tại Asia Beer. Lúc uống ngụm đầu mình hơi bị choáng bởi vị bia hơi nặng nhưng khi xuống cổ họng thì hương chocolate thơm ngào ngạt! Rất ngon và độc đáo !
 
-### ![](/images/pasteur-street-brewing-bldl13.jpg)
+## ![](/images/pasteur-street-brewing-bldl13.jpg)
 
-### III. Thức ăn ngon
+## III. Thức ăn ngon
 
 Ngoài bia ngon, thức ăn tại Pasteur Street Brewing ngon tuyệt vời. Sloppy Chip tại đây ngon không tưởng, khoai tây lát được chiên giòn rụm, chấm chung với sốt kem hấp dẫn.
 

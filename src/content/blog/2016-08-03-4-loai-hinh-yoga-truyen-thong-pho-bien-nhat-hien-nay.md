@@ -14,7 +14,7 @@ Có bao giờ bạn tự hỏi :”Vậy Yoga có bao nhiêu loại? Mỗi loạ
 
 Minh cũng chỉ là một tín đồ yêu mến Yoga, tìm tòi và nghiên cứu về bộ môn thú vị này. Qua bài viết này, mình muốn giới thiệu 4 loại hình Yoga truyền thống phổ biến nhất cho những ai yêu mến Yoga như mình cùng khám phá nhé!!
 
-### I. Hatha Yoga
+## I. Hatha Yoga
 
 Hatha Yoga là loại hình đầu tiên mình muốn nhắc đến bởi nó rất thông dụng, đơn giản và phù hợp cho mọi đối tượng.
 
@@ -24,7 +24,7 @@ Hatha Yoga chú trọng đến việc kiểm soát hơi thở và thực hiện 
 
 Khi chọn trang phục tập Hatha Yoga bạn nên chú trọng đến yếu tố thoải mái là chính. Vì vậy quần áo vừa vặn, không cần ôm sát người sẽ là lựa chọn thích hợp nhé.
 
-### II. Ashtanga Yoga
+## II. Ashtanga Yoga
 
 Ashtanga tập trung vào sáu bộ tư thế truyền thống theo phong cách của Sri Pattabhi Jois. Ashtanga Yoga giúp bạn kiểm soát hơi thở, nâng cao khả năng khóa năng lượng và tập trung vào các điểm nhìn cố định. Các tư thế phải được nối tiếp nhau không ngừng hoặc chỉ bị ngắt quảng ngắn. Khi tập sẽ không có nhạc các bạn nhé. Mỗi tư thế thường được tập trong năm nhịp thở.
 
@@ -34,7 +34,7 @@ Tuy nhiên, loại hình Yoga này không thích hợp cho người mới bắt 
 
 Đối với Ashtanga, trang phục tập cần ôm sát và co giãn tốt nhằm hỗ trợ người tập thực hiện các động tác kéo căng và vặn người mức độ cao.
 
-### III. Vinyasa Yoga
+## III. Vinyasa Yoga
 
 Vinyasa yoga là một thuật ngữ chung được sử dụng cho yoga có nhịp độ nhanh và liên tiếp. Những lớp học Vinyasa có thể bao gồm nhiều trường phái khác nhau của yoga và các động tác thường di chuyển nhanh hơn so với Hatha Yoga. Do thế mà Vinyasa giúp ngưởi tập tiêu hao năng lượng nhiều hơn, thúc đẩy quá trình giảm cân và hỗ trợ các cơ khoẻ mạnh hơn.
 
@@ -46,7 +46,7 @@ Từ kình nghiệm bản thân mình, khi tập những bài Yoga hạng nặng
 
 Ngoài ra, bạn nên chọn quần áo tập băng chất liệu polyester spandex thoát mồ hôi tốt, co giãn tối đa. Tránh dùng áo bằng chất liệu cotton hút mồ hôi thì tốt thật, mà giữ mồ hôi cũng tốt luôn. Quần áo tập xong ướt nhẹp, hút ngược vào cơ thể, dễ gây bệnh lắm.
 
-### IV. Power Yoga
+## IV. Power Yoga
 
 Power yoga (còn gọi là boot camp yoga hay cardio yoga) được biết đến như một phương pháp rèn luyện thể lực cao và giảm cân. Dựa trên kỹ thuật yoga Kundalini và một vài cách điệu, Power yoga có khả năng vừa đốt cháy mỡ tối đa, vừa làm săn chắc các khối cơ trên cơ thể. Vì vậy khi tập Power Yoga, bạn sẽ tiêu hao năng lượng nhiều hơn so với các hình thức kể trên.
 

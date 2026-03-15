@@ -19,11 +19,11 @@ Không phải ngẫu nhiên mà những từ khoá như thực phẩm sạch, th
 
 Là một [hướng dẫn viên yoga](https://purna.vn/), khá nhiều học viên đặt câu hỏi với mình:" Làm sao để giảm cân nhanh chóng, làm sao sở hữu một thân hình đẹp, làm sao để giảm mỡ tăng cơ, làm sao để có được sức khoẻ tốt?!". Đó luôn là khao khát của tất cả mọi người: Sống khoẻ - sống lâu bởi chúng ta ai cũng sợ "chết sớm" hihi.
 
-https://www.instagram.com/p/ByoiUOUpN0b/
+<https://www.instagram.com/p/ByoiUOUpN0b/>
 
 Câu trả lời của mình là ngoài việc tập thể dục - rèn luyện thể chất, bạn cần có một chế độ ăn "lành mạnh" đầy dinh dưỡng hằng ngày.
 
-### Chế độ ăn hiện tại của chúng ta như thế nào?
+## Chế độ ăn hiện tại của chúng ta như thế nào?
 
 Thời sơ khai, con người chúng ta ăn toàn những thực phẩm thuần gốc, tươi và không qua chế biến. Khi xã hội ngày càng phát triển, con người thay thế chế độ ăn uống và dung nạp ngày càng nhiều hơn đồ ăn làm sẵn, đồ ăn công nghiệp qua nhiều giai đoạn chế biến. Và kết quả là chúng ta dung nạp nhiều đường, nhiều muối, nhiều tinh bột đã qua xử lý và chất béo bão hòa cũng như các chất độc khác như chất điều vị, chất tạo màu, các phụ gia thực phẩm có trong đồ ăn đóng gói .
 
@@ -35,7 +35,7 @@ Nói dễ hiểu hơn, thay vì ăn salad tươi chúng ta ăn khoai tây chiên
 
 Đó là nguyên nhân khiến cơ thể càng ngày càng mất cân bằng, không nạp được lượng vitamins, khoáng chất cần thiết dẫn đến vô số bệnh ung thư và hậu quả dễ thấy nhất là việc TĂNG CÂN mất kiểm soát.
 
-### Chúng ta nên ăn "lành mạnh" ra sao?
+## Chúng ta nên ăn "lành mạnh" ra sao?
 
 Ăn lành lạnh - ăn sạch không có nghĩa là ăn kiêng mà là cách bạn lựa chọn thực phẩm và cách ăn như thế nào. Ăn những thực phẩm lành mạnh, tươi, nguyên chất, không bị chế biến quá nhiều và gần với trạng thái tự nhiên càng nhiều càng tốt...chính là mấu chốt của chế độ ăn uống lành mạnh tương đồng với sức khoẻ tốt.
 
@@ -43,9 +43,9 @@ Khi các bạn tìm kiếm cụm từ "eat clean" sẽ ra vô số thực đơn 
 
 Với sự thấu hiểu đó cũng như kinh nghiệm “làm bếp” tích lũy sau khoảng thời gian ăn uống thực dưỡng, mình quyết tâm mở một góc bếp nho nhỏ mang tên **[Bếp Lành](https://lanhkitchen.com/)** chế biến những món ăn nhà làm lành mạnh, bổ dưỡng tốt cho sức khỏe để phục vụ mọi người.
 
-https://www.instagram.com/p/BxtuTdwhv0W/
+<https://www.instagram.com/p/BxtuTdwhv0W/>
 
-https://purna.vn/bep-lanh-dem-den-suc-khoe-tot-lanh-cho-moi-nguoi/
+<https://purna.vn/bep-lanh-dem-den-suc-khoe-tot-lanh-cho-moi-nguoi/>
 
 Với một chút chia sẻ thân tình về chế độ ăn uống lành mạnh, hi vọng các bạn cảm thấy hữu ích và có tác động tích cực phần nào trong việc thay đổi thói quen ăn uống cũng như tăng cường sức khoẻ bản thân.
 

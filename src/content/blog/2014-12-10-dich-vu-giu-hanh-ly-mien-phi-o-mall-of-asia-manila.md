@@ -16,7 +16,7 @@ Nếu có dịp ghé Manila, **Mall Of Asia** mà một trong những điểm đ
 
 Mall of Asia còn là điểm dừng chân lý tưởng cho các bạn nào bay với Cebu Pacific Air để về TP.HCM như vợ chồng mình. Hãng này có duy nhất 1 chuyến bay lúc 11PM, làm gì cho hết thời gian từ lúc check out khỏi khách sạn lúc trưa đây? Không đâu tốt hơn Mall of Asia. Sau khi check out khỏi khách sạn, hãy hướng thẳng đến Mall of Asia, gửi hành lý, vậy là bạn sẽ tự do đi dạo mua sắm ở một trong những shopping mall lớn nhất thế giới.
 
-### Hướng dẫn cách gửi hành lý ở Mall of Asia
+## Hướng dẫn cách gửi hành lý ở Mall of Asia
 
 Thông tin về dịch vụ giữ hành lý có thể được tìm thấy ở website của Mall of Asia: [Package Pick-Up](http://smmallofasia.com/moa/?p=1097 "Package Pick-up"). Tuy nhiên trang này lại không ghi rõ địa điểm này nằm ở đâu. Ngay cả [trang bản đồ](http://www.smmallofasia.com/moa/moamap/index.html?mcid=0&cat=1&str=0&subcat=0 "MOA Store Locator") của nó cũng không ghi. Cũng may mình có tìm hiểu trên mạng trước khi ghé chứ nếu không chắc sẽ bó tay. Làm sao tìm ra cái điểm gửi hành lý nhỏ xíu giữa cái trung tâm thương mại khổng lồ này.
 
@@ -26,7 +26,7 @@ Dưới đây là bản đồ của trung tâm mà mình đã đánh dấu thêm
 
 Khi đến đây, các bạn sẽ thấy một quầy giữ đồ nằm khiêm tốn ở một góc khuất. Nhân viên sẽ ra đưa cho bạn tờ giấy để ghi thông tin, sau đó kẹp vào hành lý một nửa, một nửa còn lại đưa bạn giữ để đối chiếu khi lấy đồ. Chú ý không nên để tiền bạc, laptop, máy chụp hình trong hành lý ký gửi nhé. Mall of Asia không chịu trách nhiệm cho mọi sự mất mác. Tốt nhất các bạn nên cho hết vô một cái Ba Lô nhỏ nhỏ rồi vác theo bên mình cho yên tâm.
 
-### Chú ý thời gian ra sân bay
+## Chú ý thời gian ra sân bay
 
 Đừng bị cuốn vào các cửa hàng rồi quên giờ ra sân bay nhé. Từ Mall of Asia ra Terminal 3 mất khoảng 30 phút, nhưng nếu đi vào giờ cao điểm (4 giờ chiều đến 8 giờ tối), có thể mất tới 1 tiếng 30 phút. Hôm bữa mình đi mất đến gần một tiếng vì đường kẹt xe quá khủng khiếp. Tốt nhất là nên rời khỏi Mall of Asia lúc 7PM để chuẩn bị cho chuyến bay lúc 10h50 của Cebu Pacific Air.
 

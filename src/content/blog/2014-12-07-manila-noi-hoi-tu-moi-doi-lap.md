@@ -14,7 +14,7 @@ Tiếp nối cho 5 ngày nghỉ dưỡng tại thiên đường Boracay là chuy
 
 Ấn tượng đầu tiên của mình về Manila là người vô gia cư quá nhiều. Họ ngủ lay lắt, co ro trong đêm trước các vỉa hè của những toà cao ốc sang trọng. Cảnh tượng đối lập đến đau lòng. Việt Nam chúng ta dù không phải là một quốc gia giàu có nhưng số lượng người vô gia cư không nhiều. Thậm chí Đà Nẵng còn có không có người ăn xin. Họ đều được đưa về các trung tâm xã hội để hướng nghiệp và tạo cơ hội việc làm. Còn ở thủ đô của Philippins, người vô gia cư bám víu trên vỉa hè tìm chốn nương thân qua ngày.
 
-### Tham quan thành cổ Intramorus
+## Tham quan thành cổ Intramorus
 
 Mình bắt đầu ngày đầu tiên ở Manila bằng bữa sáng nhẹ ngon lành tại Mc Donald để lấy sức tham quan **Intramorus**. Du khách kháo nhau là chưa đến Manila nếu không đến thăm Intramorus, nên hai vợ chồng mình cũng tò mò đến xem cho biết.
 
@@ -28,7 +28,7 @@ Mình bắt đầu ngày đầu tiên ở Manila bằng bữa sáng nhẹ ngon l
 
 ![Intramurous Balodeplao](/images/Intramurous-Balodeplao.jpg)
 
-### Dạo phố Manila
+## Dạo phố Manila
 
 Ra khỏi khu thành cổ, hai vợ chồng mình đi dạo dọc Vịnh Manila ngay trung tâm thành phố. Buồn cười nhất là mình cảm thấy không khác gì bến Bạch Đằng tại Thành phố Hồ Chí Mình. Nếu so với Boracay xinh đẹp, Manila ồn ào, bụi bậm với nạn kẹt xe kinh khủng, dơ bẩn với rác thải đầy đường (ngoài trừ khu thành cổ Intramorus). Mặt khác bạn cũng phải cảnh giác khi đi du lịch tại Manila vì nạn cướp bóc, lừa đảo rất nhiều.
 

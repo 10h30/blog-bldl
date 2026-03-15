@@ -17,14 +17,14 @@ Công thức cực kì đơn giản mà hiệu quả cao. Hỗn hợp cà rốt 
 
 Vì mình có gương mặt dài hơi xương nên mình lựa chọn hỗn hợp cà rốt và táo để khắc phục nhược điểm này. Bạn nào muốn má phính một chút như mình thì đừng bỏ qua công thức diệu kì này nhe.
 
-### I. Các bước thực hiện nước ép cà rốt và táo
+## I. Các bước thực hiện nước ép cà rốt và táo
 
-#### Chuẩn bị
+### Chuẩn bị
 
 - Táo đỏ và Cà rốt (tỉ lệ 1:1)
 - Một ít chanh vắt
 
-#### Cách làm
+### Cách làm
 
 - Bạn ngâm rửa cà rốt và táo kĩ lưỡng, sau đó gọt sạch vỏ, cắt lát/ khúc nhỏ như hình.
 
@@ -43,7 +43,7 @@ Vì mình có gương mặt dài hơi xương nên mình lựa chọn hỗn hợ
 
 ![Thành phẩm tèn ten ten! Màu thật đẹp, lại thơm ngon](/images/nuoc-ep-carot-bldl07.jpg)
 
-### II. Tận dụng phần bã cà rốt làm mặt nạ dưỡng da
+## II. Tận dụng phần bã cà rốt làm mặt nạ dưỡng da
 
 - Bạn lấy phần bã cà rốt thêm vài thìa thìa mật ong vào bát trộn đều.
 - Đắp mặt nạ lên da và thư giãn khoảng 20 phút. Rửa sạch mặt với nước ấm để kết thúc quá trình.

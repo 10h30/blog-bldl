@@ -13,7 +13,7 @@ Nhân dịp Silk bé nhỏ đã được 20 tuần rưỡi, vợ chồng mình q
 
 Điểm đến đầu tiên là thành phố cổ Penang. Penang là thành phố được UNESCO công nhận là di sản thế giới (giống như Hội An của Việt Nam mình), trước kia đây là một trong những hòn đảo quan trọng trên tuyến đường biển qua eo Malacca, bị thực dân Anh chiếm đóng từ khá sớm. Ngày nay, đây là một trong những thành phố rất thú vị về kiến trúc cũng như văn hóa đa sắc tộc người Malaysia, gốc Hoa, gốc Ấn và cả gốc Thái nữa. Tuy lịch trình khám phá Penang cổ kính diễn ra trong ba ngày hai đêm thôi nhưng thành phố xinh đẹp này đã để lại trong mình rất nhiều thiện cảm, nhiều điều mới mẻ của một Malaysia - Truly Asia !.
 
-### 1\. Phong phú nghệ thuật đường phố tại George Town
+## 1\. Phong phú nghệ thuật đường phố tại George Town
 
 Ở Penang, sự đa dạng văn hóa và sắc tộc thể hiện qua kiến trúc, tín ngưỡng, trang phục, ẩm thực... Có thể nói George Town là đại diện cho kiến trúc Trung Hoa cổ với các ngôi nhà dài (còn có tên là kongsi). Đặc biệt hơn, George Town còn là sân chơi nghệ thuật đường phố nổi tiếng tại Penang. Có lẽ vì vậy mà vợ chồng mình giành cả một ngày khám phá trọn vẹn vẻ đẹp hoài cổ nơi đây.
 
@@ -37,7 +37,7 @@ Cứ thế mà vợ chồng mình rong rủi tìm được tất cả các hình
 
 ![Me <3](/images/george-town-penang-bldl05.jpg)
 
-### 2\. Đậm đà tín ngưỡng, đa dạng tôn giáo
+## 2\. Đậm đà tín ngưỡng, đa dạng tôn giáo
 
 Có thể nói, Penang là hòn đảo hiếm hoi đa văn hóa và tôn giáo giữa Hồi giáo, Phật giáo, Thiên Chúa giáo và Đạo giáo… Đến Penang, khách du lịch dễ dàng tìm thấy vô số đền chùa, hội quán của người Hoa trong khu Hoa kiều (Chinatown), đền Hindu, nhà thờ Hồi giáo của người Ấn trong khu Tiểu Ấn (Little India) và rất nhiều nhà thờ Thiên chúa giáo.
 
@@ -61,7 +61,7 @@ Lâu đài Cheong Fatt Tze (Blue Mansion) – công trình kiến trúc được
 
 ![Cheong Fatt Tze-Penang-BL&DL](/images/cheong-fatt-tze-penang-bldl.jpg)
 
-### 3\. Phong phú quán cafe và bảo tàng
+## 3\. Phong phú quán cafe và bảo tàng
 
 Dọc phố cổ George Town, các bạn sẽ  thấy vô số các quán cafe nhỏ xinh trang trí theo nhiều phong cách khác nhau. Nhâm nhi vài chiếc bánh ngọt, nhấp vài ngụm cafe hay hí hứng với ly nước trái cây, ngắm nhìn phố cổ yên bình thì còn gì bằng. Một số quán cafe được nhiều khách du lịch yêu thích như Long Bar, Busy Bodhi Cafe, Purrfect Cat Cafe...
 
@@ -79,7 +79,7 @@ Mình rất thích bảo tàng socola! Tại đây trưng bày lịch sử hình
 
 Điểm cộng siu bự là các bạn được tha hồ nếm thử những mẫu socola trong hủ nhỏ để lựa chọn mùi vị yêu thích. Cuối cùng, mình hí hửng mua được hai hộp socola ớt (best seller) làm quà từ Penang.
 
-### 4\. Thiên đường ẩm thực
+## 4\. Thiên đường ẩm thực
 
 Người ta thường ví von Penang như  nhà bếp của thế giới: Thức ăn đường phố với rất nhiều món ăn của các quốc gia lân cận được bày bán trên những chiếc xe đẩy thô sơ trông rất hấp dẫn thu hút khách du lịch. Người dân Penang rất tự hào vì cho rằng ở đây có nền ẩm thực đa dạng và phong phú nhất Malaysia.
 

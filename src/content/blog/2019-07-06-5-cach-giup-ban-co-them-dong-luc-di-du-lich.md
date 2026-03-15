@@ -16,7 +16,7 @@ Do đó, hãy nuôi dưỡng và duy trì động lực thoát ra khỏi vùng a
 
 Dưới đây là 5 cách đơn giản giúp bạn có động lực để đi du lịch dễ dàng hơn:
 
-### Nghiên cứu về những nơi bạn muốn đi
+## Nghiên cứu về những nơi bạn muốn đi
 
 ![](/images/dscf3226.jpg)
 
@@ -24,7 +24,7 @@ Tiếp tục tìm hiểu và nghiên cứu về nơi bạn muốn đi là cách 
 
 _Thinking about doing something all the time will make it happen_
 
-### Hi sinh thời gian
+## Hi sinh thời gian
 
 Hằng tỉ công việc chợt đến và diễn ra mỗi ngày trong cuộc sống của bạn bao gồm cả việc trong kế hoạch và ngoài kế hoạch. Bạn dự tính sẽ đi Nhật ngắm hoa anh đào vào tháng ba nhưng rồi tháng ba đến bạn lại bận. Hay bạn muốn xách ba lô đi rong chơi vào ngày thứ sáu nhưng sực nhớ ra vẫn chưa giặt xong đồ hay chưa làm xong một việc gì đó. Thế là bạn lại chùn bước lại và thất hẹn với chính mình.
 
@@ -34,17 +34,17 @@ Chúng ta luôn luôn bận rộn bởi những nghĩa vụ, trách nhiệm do c
 
 Do đó, cách duy nhất để được trải nghiệm, để đôi chân đi xa, để mắt được nhìn rộng thế giới, bạn hãy lựa chọn và hi sinh thời gian cho việc đi du lịch. Bởi cái gì cũng có giá của nó mà. Nếu bạn mong muốn đi du lịch, hãy tiến hành, hãy sắp xếp thời gian, lên kế hoach và thực hiện ngay đi!
 
-### Đọc blog về du lịch
+## Đọc blog về du lịch
 
 Đọc blog du lịch là một trong những cách giúp bạn được truyền cảm hứng và mạnh dạn tự tin du lịch hơn. Như các bạn đang đọc blog của Ba Lô Dép Lào vậy. Các bạn dự tính đi Thái chơi hè cho vui bổ rẻ nhưng lại không biết đi đâu, làm gì, ăn gì ngon, chơi gì vui. Các bạn đọc blog của mình và tìm thấy những mẹo hay, những chia sẻ chân tình, những trải nghiệm thực tế ở Thái. Thế là các bạn tích trữ được nhiều thông tin hữu ích và tự tin khi du lịch đến Thái hơn.
 
 ![](/images/eating-philippines.jpg)
 
-### Đọc sách về du lịch
+## Đọc sách về du lịch
 
 Nếu đọc blog về du lịch đã thú vị thì đọc sách về du lịch lại càng hay ho hơn rất nhiều. Những cuốn cẩm nang du lịch sẽ cho bạn vô vàn thông tin du lịch bổ ích để bạn tha hồ ngâm cứu.
 
-### Gặp gỡ những người đam mê du lịch
+## Gặp gỡ những người đam mê du lịch
 
 Kết bạn, trò chuyện, chia sẻ đam mê với những người "cùng chung chí hướng" sẽ tiếp thêm nguồn động lực cho bạn du lịch nhiều hơn. Bạn không thể nào thích "xê dịch" khi xung quanh bạn chỉ toàn những người "thích ở nhà".
 

@@ -15,7 +15,7 @@ Thành phố Takayama - trái tim tinh khiết của Nhật Bản hằng năm đ
 
 Không chỉ nổi tiếng với [làng cổ di sản thế giới Shirakawa-go](https://balodeplao.com/nhat-ky-du-lich-nhat-ban-tu-tuc-ve-dep-cham-tim-cua-lang-co-shirakawago/), Takayama còn biết đến với những món ăn mang đậm phong vị địa phương như sansei (rau củ vùng núi), wasakana (cá sông), mì soba, ramen, sake và đặc biệt là đặc sản **sansai-ryori** (thịt bò sốt miso nướng). Sansai-ryori là món ăn ấn tượng và được BLDL yêu thích nhất khi ghé thăm Takayama.
 
-### Đặc sản Sansai-ryori
+## Đặc sản Sansai-ryori
 
 ![](/images/sansai-ryori-bldl03.jpg)
 
@@ -25,7 +25,7 @@ Cái thú khi ăn sansai-ryori là bạn sẽ từ từ ngửi thấy được 
 
 ![](/images/sansai-ryori-bldl05.jpg)
 
-### Nhà hàng Hidatakayama Kyoya
+## Nhà hàng Hidatakayama Kyoya
 
 Vợ chồng mình lùng sục nghiên cứu và đã tìm ra nhà hàng chuyên về sansai-ryori nổi tiếng nhất Takayama. Đó là nhà hàng **Hidatakayama Kyoya**.
 

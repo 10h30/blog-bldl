@@ -37,7 +37,7 @@ Ngoài phương pháp [detox bằng mật ong và trà xanh](https://balodeplao.
 
 Nào cùng bắt tay vào làm thức uống xanh thanh lọc cơ thể bạn nhé!
 
-### Nguyên liệu
+## Nguyên liệu
 
 - 1 lá cải xoăn - Kale
 - 1 trái táo xanh
@@ -49,7 +49,7 @@ Nào cùng bắt tay vào làm thức uống xanh thanh lọc cơ thể bạn nh
 
 ![](/images/dscf6261.jpg)
 
-### Chế biến
+## Chế biến
 
 Do tất cả các nguyên liệu này đều sẽ được xay sống và uống trực tiếp nên các bạn cần ngâm nước muối/ giấm rửa thật kỹ lưỡng để đảm bảo an toàn vệ sinh nhé.
 

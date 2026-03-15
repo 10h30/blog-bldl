@@ -18,11 +18,11 @@ Như đã hứa trong bài viết [giới thiệu UBER](https://balodeplao.com/
 
 Để có thể sử dụng UBER, các bạn phải đăng ký một tài khoản để sử dụng dịch vụ. Có thể đăng ký tài khoản UBER bằng điện thoại hoặc máy tính/laptop đều được.
 
-#### Đăng ký bằng máy tính
+### Đăng ký bằng máy tính
 
 Để đăng ký, đầu tiên bạn cần truy cập vào trang chủ của [**UBER**](https://balodeplao.com/go/uber/ "UBER"). Nếu đăng ký theo theo link dưới đây, các bạn sẽ nhận được 50.000 VND để trải nghiệm UBER miễn phí.
 
-\[su_button url="https://balodeplao.com/go/uber" target="blank" style="stroked" background="#1b9af1" size="6" center="yes" radius="0" icon="icon: building" text_shadow="0px 1px 1px #000000"\]Đăng ký UBER\[/su_button\]
+\[su_button url="<https://balodeplao.com/go/uber>" target="blank" style="stroked" background="#1b9af1" size="6" center="yes" radius="0" icon="icon: building" text_shadow="0px 1px 1px #000000"\]Đăng ký UBER\[/su_button\]
 
 Nếu truy cập theo đường dẫn trên, UBER sẽ hiện ra mời chào bạn đăng ký để được hưởng khuyến mãi như bên dưới.
 
@@ -38,7 +38,7 @@ Sau khi điền đầy đủ thông tin, nút **CREATE ACCOUNT** sẽ được k
 
 Tiếp theo, tải UBER lên điện thoại của bạn và đăng nhập bằng thông tin bạn vừa mới đăng ký ở trên. [UBER](https://balodeplao.com/go/uber "Uber") hiện đang có các phiên bản dành cho [iPhone](https://itunes.apple.com/us/app/uber/id368677368?mt=8 "Uber iPhone"), [Android](https://play.google.com/store/apps/details?id=com.ubercab "Uber Android") và [Windows Phone](https://www.windowsphone.com/en-us/store/app/uber/b905a877-bd55-4ce7-a7aa-467cdc3a21f4 "Uber Windows Phone").
 
-#### Đăng ký bằng điện thoại
+### Đăng ký bằng điện thoại
 
 Cách đăng ký UBER bằng điện thoại cũng tương tự như trên máy tính. Tuy nhiên, đầu tiên bạn phải tải ứng dụng UBER lên điện thoại. [UBER](https://balodeplao.com/go/uber "Uber") hiện đang có các phiên bản dành cho [iPhone](https://itunes.apple.com/us/app/uber/id368677368?mt=8 "Uber iPhone"), [Android](https://play.google.com/store/apps/details?id=com.ubercab "Uber Android") và [Windows Phone](https://www.windowsphone.com/en-us/store/app/uber/b905a877-bd55-4ce7-a7aa-467cdc3a21f4 "Uber Windows Phone").
 

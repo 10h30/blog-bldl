@@ -16,19 +16,19 @@ Trên thị trường, các thể loại kem gắn mác [làm trắng](https://b
 
 Qua bài viết này, mình muốn chia sẻ về công thức cũng như tác dụng làm đẹp của mặt nạ tinh bột nghệ sữa tươi để các bạn gái làm đẹp tại nhà dễ dàng nhe.
 
-### I. Tác dụng
+## I. Tác dụng
 
 - Nghệ có chứa chất curcumin, có tác dụng chống oxy hóa, chống viêm và chống vi khuẩn… nên giúp ngăn ngừa mụn hiệu quả
 - Sữa tươi có tác dụng làm sạch da, dưỡng ẩm, tẩy tế bào chết, giảm nếp nhăn, chống lão hóa và ...làm sáng da
 
-### II. Nguyên liệu
+## II. Nguyên liệu
 
 - 2 muỗng cà phê sữa tươi ( bạn có thể thay thế bằng sữa chua không đường, mua về để ngăn mát tủ lạnh trước khi làm mặt nạ)
 - 2 muỗng cà phê tinh bột nghệ (bạn có thể giã nghệ tươi để dùng nhé)
 
 ![](/images/mat-na-nghe-sua-tuoi-bldl01.jpg)
 
-### III. Cách làm
+## III. Cách làm
 
 Các bạn chỉ cần trộn đều hai nguyên liệu trên, sau đó bạn đắp mặt nạ này trực tiếp lên mặt, để trong vòng 15 - 20 phút, rồi rửa sạch bằng nước lạnh. Bạn thực hiện từ 2 đến 3 lần/ tuần để đạt hiệu quả tốt nhất, da sẽ từ từ trắng lên trông thấy.
 
@@ -38,11 +38,11 @@ Các bạn chỉ cần trộn đều hai nguyên liệu trên, sau đó bạn đ
 
 Nếu sau khi dùng còn dư, bạn có thể cất vào một bình nhỏ, đậy nấp kín,  sử dụng tiếp được trong 1 tuần. Hết 1 tuần, bạn hãy chịu khó làm hỗn hợp mới nhé.
 
-### IV. Lưu ý
+## IV. Lưu ý
 
 Do tinh bột nghệ thường có màu vàng rất đậm. Vì vậy, bạn cho lượng cho lượng vừa phải khi đắp mặt. Sau khi rửa mặt, bạn sẽ thấy làn da mình có màu vàng nhẹ. Đừng quá lo lắng và vội vàng rửa mặt tiếp! Bạn cứ để mặt thế một lúc/ đi ngủ qua đêm để tinh chất từ nghệ và sữa tươi thấm sâu vào da. Sáng hôm sau/ sau đó, bạn rửa lại với xíu sữa rửa mặt là hết nhé.
 
-### V. Mua tinh bột nghệ ở đâu?
+## V. Mua tinh bột nghệ ở đâu?
 
 Bạn nữ nào chịu khó có thể mua nghệ tươi rồi về giã nhuyễn đắp mặt nạ rất tốt. Bạn nên chọn củ nghệ có màu sẫm sẽ tốt hơn củ có màu nhạt, còn non. Trong trường hợp "làm biếng" như mình thì bạn tìm mua tinh bột nghệ cho nhanh nhé. Bạn có thể mua ở siêu thị hoặc các điểm bán uy tính. Còn mình sau một khoảng thời gian lùng sục tinh bột nghệ nguyên chất, mình nhập trực tiếp **tinh bột nghệ từ Ấn Độ** về dùng thử.
 

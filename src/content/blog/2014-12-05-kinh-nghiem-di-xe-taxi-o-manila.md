@@ -12,7 +12,7 @@ destination:
 
 Kinh nghiệm của mình trước khi đi du lịch nước nào thì luôn tìm hiểu về phương tiện đi lại như taxi, xe bus, xe điện ngầm ở nước bạn để tránh tiền mất tật mang khi đến nơi. May mắn là lần vừa rồi ghé Manila sau khi nghỉ dưỡng ở Boracay có tìm hiểu trước, không thì chắc là bị taxi ở đây "luộc" rồi. Bạn nào chuẩn bị đi du lịch Manila thì tham khảo các kinh nghiệm dưới đây của mình để không bỡ ngỡ khi phải đối phó với các bác tài xứ bạn nha.<!--more-->
 
-### Luôn hỏi xem có chạy bằng meter không trước khi lên xe
+## Luôn hỏi xem có chạy bằng meter không trước khi lên xe
 
 Theo luật của Philippins, tất cả các xe taxi hoạt động đều phải dùng meter. Thực tế đúng là như vậy, xe nào cũng có meter hết, nhưng nhiều khi chỉ để chưng cho vui thôi. Các bác tài luôn tìm cách không sử dụng meter mà đưa ra giá cố định tuỳ theo hành trình của bạn. Tất nhiên là giá này sẽ cao hơn giá meter nhiều. Chém ít thì cao hơn gấp rưỡi hoặc có thế chém cao hơn đến 2,3 lần.
 
@@ -22,7 +22,7 @@ Cứ yên tâm là taxi ở Manila rất nhiều, đừng nôn nóng rồi tốn
 
 Ông nào chạy đàng hoàng mình thường tip thêm 20-30 Peso, nhiều khi cũng bằng tiền ra giá thoả thuận ban đầu. Nhưng mình thích vậy hơn, không thích cái kiểu chạy xe thiếu trung thực ép giá khách hàng của mấy ông taxi tào lao.
 
-### Cách đi taxi từ sân bay NAIA, Terminal 3 về trung tâm Manila
+## Cách đi taxi từ sân bay NAIA, Terminal 3 về trung tâm Manila
 
 Nếu bạn dùng Cebu Air, hãng này sẽ hạ cánh ở Terminal 3 của NAIA. Để đi từ Terminal 3 về trung tâm Manila, taxi là cách nhanh nhất. Vừa bước ra khỏi Arrival Hall, sẽ lập tức có người hỏi bạn muốn đi taxi đi đâu. Các taxi ở khu này có màu trắng, là loại taxi bình thường ở Manila. Giá đưa ra rất là trên trời, nên bạn đừng quan tâm. Hãy quẹo phải và đi về phía cuối sãnh, sẽ thấy khu vực taxi vàng của sân bay. Có rất đông người đứng đợi taxi ở đây, đa số là người bản xứ, nên bạn cứ yêm tâm không sợ bị lừa.
 
@@ -30,7 +30,7 @@ Taxi vàng là taxi của sân bay nên tất cả đều chạy bằng meter. G
 
 Đừng dại gì mà cắm đầu vô taxi trắng ở sân bay nha bạn. Luôn luôn đi taxi vàng ở về trung tâm thành phố.
 
-### Tham khảo giá đi trong trung tâm
+## Tham khảo giá đi trong trung tâm
 
 Mình ở Manila chỉ 2 ngày nên không đi đâu nhiều, ngày đầu tiên thì đi bộ từ Ermita lên khu thành cổ tham quan rồi ghéghé Robinson Mall chơi. Ngày thứ hai khi check out mới dùng taxi để đi xuống Mall of Asia mua sắm rồi sau đó đi taxi từ đây ra lại sân bay. Dưới đây là giá tham khảo lúc mình đi:
 

@@ -13,17 +13,17 @@ destination:
 
 Không lấy làm lạ với bánh xèo Nhật Bản, chắc hẳn mọi người đã từng được ăn ở các nhà hàng sushi tại Việt Nam rồi phải không nào? Tuy nhiên, các bạn có bao giờ đặt câu hỏi Bánh xèo Nhật Bản ("Okonomiyaki") bắt nguồn từ đâu không, có bao nhiêu loại và đặc sản ở đâu là nôỉ tiếng nhất. Bài viết này sẽ là đáp án giải toả thắc mắc cho các bạn yêu thích đặc sản Okonomiyaki đến từ xứ sở Nhật Bản nhé.
 
-### Bánh xèo Okonomiyaki là gì?
+## Bánh xèo Okonomiyaki là gì?
 
 Okonomiyaki là món ăn sử dụng bột mì đã hòa trộn các nguyên liệu hải sản và rau vào nước, rồi nướng trên một bàn nướng Teppan, sau đó có thể được chấm với nước sốt để ăn.
 
 Nguồn gốc ban đầu của Okonomiyaki chỉ là hỗn hợp bột mì đã hòa với nước, sau đó đổ một lớp mỏng trong chảo và đem nướng, rồi đổ súp Miso hạt tiêu lên. Về sau, người ta thường trộn hải sản với rau quả rồi đem nướng, và họ có thể nướng với những nguyên liệu mình ưa thích, vì vậy tên gọi Okonomiyaki đã được hình thành (Okonomi nghĩa là tùy thích).
 
-### Có bao nhiêu loại Bánh xèo Okonomiyaki?
+## Có bao nhiêu loại Bánh xèo Okonomiyaki?
 
 Có hai loại Okonomiyaki nổi tiếng nhất ở hai vùng khác nhau: đó là Okonomiyaki vùng Kansai - là loại bánh xèo được chế biến bằng cách trộn đều bột mì với các nguyên liệu rồi đem nướng, và Okonomiyaki vùng Hiroshima - loại bánh được xếp lên bàn nướng mà không trộn sẵn bột với nguyên liệu.
 
-### Tìm hiểu về Okonomiyaki - Hiroshima
+## Tìm hiểu về Okonomiyaki - Hiroshima
 
 Trong hai ngày khám phá [di tích lịch sử Hiroshima](https://balodeplao.com/nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-5-tham-quan-di-tich-lich-su-hiroshima/), Ba Lô và Dép Lào đã không bỏ qua cơ hội thưởng thức bằng được một trong những đặc sản nổi tiếng nhất nơi đây: Bánh xèo Okonomiyaki.
 
@@ -31,7 +31,7 @@ Okonomiyaki của vùng Hiroshima thường được kẹp nhiều lớp bắp c
 
 ![](/images/okonomiyaki-hiroshima.jpg)
 
-### Ăn Bánh xèo Okonomiyaki - Hiroshima ở đâu?
+## Ăn Bánh xèo Okonomiyaki - Hiroshima ở đâu?
 
 Dĩ nhiên là chúng ta phải ăn ở Thành phố lịch sử Hiroshima rồi! Còn quán nào nổi tiếng ở Hiroshima về Bánh xèo Okonomiyaki thì để BLDL bật mí ngay sau đây nhé. Đó chính là ***Momiji-tei*** - Một nhà hàng chuyên về Okonomiyaki nổi tiếng không chỉ bởi bánh xèo ngon mà còn vì phong cách anime quá dễ thương của nhà hàng.
 
@@ -50,7 +50,7 @@ Gia đình nào đẩy xe nôi thì chịu khó xếp xe, ẵm bé lên lầu nh
 
 Sau 30 phút ngồi quan sát đầu bếp tay thoăn thoắt nướng bánh, hai dĩa bánh xèo Okonomiyaki khổng lồ đã được bày ra trước mặt: một phần không cay và một phần cay đặc biệt. Mùi thơm bay nứt mũi. Lớp mặt bánh trên cùng giòn rụm, ươm vàng, được trang trí bởi sốt mayonnaise và hành lá tươi/ hoặc sốt ớt cay.
 
-https://www.instagram.com/p/BNqZJ9xDqOt/?taken-by=balodeplao
+<https://www.instagram.com/p/BNqZJ9xDqOt/?taken-by=balodeplao>
 
 ![](/images/momiji-tei-bldl04.jpg)
 
@@ -62,4 +62,4 @@ Nhân viên và ông chủ ở đây rất dễ thương và nhiệt tình. Mọ
 
 Chúc các bạn ngon miệng cùng bánh xèo Nhật phong cách Hiroshima nhé. À mà đã ghé thăm thành phố lịch sử Hiroshima rồi thì đừng bỏ qua những địa điểm tham quan hấp dẫn của nơi đây nhé. Tham khảo bài viết về lịch trình hai ngày khám phá Hiroshima của BLDL nào.
 
-https://balodeplao.com/nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-5-tham-quan-di-tich-lich-su-hiroshima/
+<https://balodeplao.com/nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-5-tham-quan-di-tich-lich-su-hiroshima/>

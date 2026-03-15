@@ -17,7 +17,7 @@ Thái Lan được biết đến như trung tâm du lịch Đông Nam Á, thiên
 
 Mình có dịp đến Thái vào dịp hè cách đây 2 năm và bị ấn tượng khó phai với khu **chợ Chatuchak - Bangkok**. Chợ Chatuchak được xem là khu chợ rộng nhất trên thế giới với diện tích gần 11 héc ta (ha) gồm 27 khu chợ nhỏ, có khoảng 10.000 cửa hàng và 300 quầy hàng lưu động. Vào ngày thường, chợ vẫn hoạt động bình thường nhưng đặc biệt sôi nổi vào hai ngày cuối tuần từ 8giờ sáng đến 6giờ chiều.
 
-### 1\. Phương tiện đến Chatuchak
+## 1\. Phương tiện đến Chatuchak
 
 Tại Bangkok, bạn có thể dễ dàng tìm nhiều phương tiện đi lại thuận tiện với giá hạt dẻ. Để đến chợ Chatuchak, bạn có rất nhiều lựa chọn như  xe buýt, tuktuk, taxi, tàu điện. Tuy nhiên mình nghĩ hai cách phổ biến và được ưa chuộng hơn cả là di chuyển bằng tàu điện ngầm metro hoặc tàu điện trên không bởi tính thuận lợi, nhanh chóng với giá từ 28 baht đến 42 baht.
 
@@ -25,7 +25,7 @@ Các bạn mua vé tới ga Chatuchak Park nếu đi bằng điện ngầm và
 
 Chatuchak nằm trên đường Panothynin, rất dễ nhận ra bởi không khí sôi động và đông nghịt người mua bán cùng những gian hàng ngợp hàng hoá.
 
-### 2\. Ngợp trời hàng hoá
+## 2\. Ngợp trời hàng hoá
 
 Mình mê tít Chatuchak bởi tại đây bạn có thể tìm bất cứ thứ gì muốn mua trên thiên đàng hạ giới. Chatuchak ngợp trời hàng hoá, đa dạng mọi chủng loại từ đồ điện tử, mỹ phẩm, nội ngoại thất, gia dụng, thủ công mỹ nghệ, đồ dùng tôn giáo… cho đến rau quả, thực phẩm, gia súc, sinh vật cảnh…và đặc biệt là quần áo, giày dép, phụ kiện thời trang. Mỗi gian hàng có một phong cách riêng như có cửa hàng chỉ chuyên đồ vintage, phụ kiện quần áo cho rocker hoặc dụng cụ cho dân phượt. Nếu không biết chủ đích muốn mua gì, cần gì thì chuyện lạc lối sa đà ở Chatuchak là bình thường.
 
@@ -39,7 +39,7 @@ Ban đầu bạn nên giảm 50% giá người bán đưa ra. Nếu họ không 
 
 ![Chiến lợi phẩm sau ngày đầu tiên shopping tai Chatuchak](/images/933870_10152985835690363_1896660200_n.jpg)
 
-### 3\. Phong phú món ăn vặt hấp dẫn
+## 3\. Phong phú món ăn vặt hấp dẫn
 
 Xen lẫn giữa những gian hàng hóa là những gian hàng bán nước giải khát, trái cây ướp lạnh, hay gian hàng bán đồ ăn nhanh như mỳ, bún gạo, cơm… theo kiểu Thái vừa ngon vừa rẻ, vừa đảm bảo vệ sinh. Khu ẩm thực còn là nơi tập trung nhiều món ngon, lạ đến từ các nước như Campuchia, Lào, Ấn Độ, có cả Việt Nam. Đây cũng là lần đầu mình được thưởng thức món kem xôi trái dừa Thái Lan mà mình từng đề cập trong món ngon cuối tuần. Thật là địa điểm lý tưởng cho các tín đồ shopping nhe ;)
 

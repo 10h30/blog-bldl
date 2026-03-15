@@ -14,7 +14,7 @@ destination:
 
 Sau ngày đầu tiên đi bộ quá đuối, kế hoạch dậy sớm chạy bộ lúc 5h đã bị phá sản. Phải chiến đấu với cơn buồn ngủ dữ lắm mình mới lết ra khỏi giường được lúc 7h30. Dự định sáng nay đi chơi Garden By The Bays rồi trưa về check out mang hành lý qua chỗ ở mới. Nghĩ đến nghĩ lui sợ ham chơi quá về trễ quá giờ quy định bị phạt tiền oan uổng nên hai vợ chồng quyết định tranh thủ gói ghém check out sớm luôn cho yên tâm. Sau khi làm tục check out nhanh gọn và gửi hành lý, cả hai rời khỏi khách sạn lúc 8h30 hướng đến **Gardens By The Bay**.<!--more-->
 
-### Tuyệt vời Gardens By The Bay
+## Tuyệt vời Gardens By The Bay
 
 Chuyến du lịch Singapore cách đây 2 năm do thời gian có hạn nên hai vợ chồng mình bỏ qua không tham quan Gardens By The Bay. Rút kinh nghiệm lần này đi Singapore, vợ chồng mình chọn đi tham quan vườn cây này đầu tiên.
 
@@ -34,15 +34,15 @@ Tình cờ tìm được [bí kíp mua vé tham quan giá rẻ ở Singapore](ht
 
 Tham khảo một số hình ảnh vợ chồng mình chộp được ở Cloud Forest và Flower Dome nha mọi người
 
-#### Cloud Forest
+### Cloud Forest
 
 \[foogallery id="1058"\]
 
-#### Flower Dome
+### Flower Dome
 
 \[foogallery id="1057"\]
 
-### Chuyển phòng qua khu vực Orchard
+## Chuyển phòng qua khu vực Orchard
 
 Sau buổi sáng tham quan ở Gardens By The Bay, hai vợ chồng mình về lại Geylang để kéo vali chuyển qua chỗ ở mới ở gần Orchard Road. Chỗ ở nằm trên đường River Valey Road ngay khu trung tâm, cách Orchard Road và Clark Quay khoảng 10 phút đi bộ, rất tiện đi mua sắm hoặc ăn nhậu về đêm.
 
@@ -60,13 +60,13 @@ Giá mình thuê là $100/đêm. Một cái giá không hề rẻ, nhưng nếu
 
 - Tham khảo thêm: [Trải nghiệm du lịch độc đáo với AirBnB](https://balodeplao.com/trai-nghiem-du-lich-doc-dao-voi-airbnb/ "Trải nghiệm du lịch độc đáo với AirBnB")
 
-### Khám phá SEA Aquarium và Wings of Times.
+## Khám phá SEA Aquarium và Wings of Times
 
 Sau khi nghỉ ngơi, khoảng 4h vợ chồng mình bắt xe đi Sentosa để tham quan SEA Aquarium và ở lại đến tối để xem Wings of Time lúc 7:40. Để tiết kiệm, thay vì đi Sentosa Express qua thẳng bên đảo (tốn $3/người), tụi mình chọn cách đi bộ trên Sentosa Boardwalks, vừa rẻ (chỉ phải trả phí vô đảo $1/người) vừa ngắm cảnh hai bên cầu.
 
 ![Ba Lô & Dép Lào tự sướng trên cầu](/images/Sentosa-Boardwalk.jpg)
 
-#### SEA Aquarium
+### SEA Aquarium
 
 Sau khi chụp hình chán chê trên Sentosa Boardwalk, hai đứa ghé vô **SEA Aquarium** chơi. Vé vào cổng là $38/người nhưng mình mua vé qua công ty du lịch nên chỉ tốn $29/người. Cứ tưởng trong đây nhỏ, ai ngờ đi gần 2 tiếng mới hết. Đủ thứ loài sinh vật biển hội tụ về đây, cá mập, cá heo, cá đuối, sứa biển,...Ai thích đi thuỷ cung bảo đảm vô là mê, vợ mình vô đây cứ như con nít, xuýt xoa liên tục :)
 
@@ -76,7 +76,7 @@ Một số hình ảnh khác mình chộp trong SEA Aquarium
 
 \[foogallery id="1052"\]
 
-#### Wings of Time
+### Wings of Time
 
 Xem xong SEA chỉ mới khoảng 6h15 trong khi Wings of Time đến 7h40 mới có show, hai vợ chồng mình vô quán Aston ngay gần Universal Studio Singapore ăn steak giết thời gian. Quán này nhìn ngoài khá sang trọng nhưng giá cũng không đến nổi quá mắc, mình nhớ là khoảng $17/phần steak kèm theo 2 side dish tuỳ chọn như khoai tây, salad,...
 

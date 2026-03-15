@@ -12,15 +12,15 @@ Người xưa có câu thành ngữ quen thuộc "Nhất dáng nhì da" khi nói
 
 Ở những bài viết trước, mình từng chia sẻ rất nhiều công thức detox đẹp da bằng [matcha](https://balodeplao.com/dep-khoe-voi-detox-bang-mat-ong-va-matcha/), [mật ong](https://balodeplao.com/da-trang-min-voi-mat-na-tra-xanh-dau-dua/), chanh...Đa phần nguyên liệu mình thích sử dụng là thành phần tự nhiên bởi tính an toàn và hiệu quả cho quá trình thanh lọc cơ thể. Lần này, mình muốn chia sẻ thức uống detox mới từ táo tươi thơm ngon bổ dưỡng.
 
-### ![](/images/detox-tao-bldl02.jpg)
+![](/images/detox-tao-bldl02.jpg)
 
-### I. Nguyên liệu
+## I. Nguyên liệu
 
 - Táo tươi
 - Chanh
 - Giấm táo (nếu có)
 
-### II. Cách làm
+## II. Cách làm
 
 - Ngâm táo, chanh vào nước muối loãng khoảng 15 phút trước khi sử dụng để phần nào làm sạch nguyên liệu trước khi làm nước detox
 - Cắt táo và chanh thành từng lát mỏng. Lưu ý, bạn để luôn cả vỏ nhe
@@ -29,7 +29,7 @@ Người xưa có câu thành ngữ quen thuộc "Nhất dáng nhì da" khi nói
 
  ![](/images/detox-tao-bldl01.jpg)
 
-###  III. Công dụng
+##  III. Công dụng
 
 - Bài trừ độc tố tích tụ lâu ngày trong cơ thể
 - Xử lý, điều trị các vấn đề về mụn trứng cá

@@ -18,13 +18,13 @@ Không thể tin nổi là Pizza Reale lại có những chiến tích vang dộ
 
 Nghe nhiêu đó thôi là đủ thôi thúc BLDL mua ngay và luôn hai chiếc pizza size lớn để thử xem hương vị pizza chuẩn Ý là như thế nào rồi.
 
-### Thực đơn đa dạng
+## Thực đơn đa dạng
 
 Nhìn vào [thực đơn pizza](https://www.vietnammm.com/en/pizza-reale), BLDL không thể không hoa mắt trước vô vàn các thể loại pizza Ý phong phú với tên gọi nghe thật lạ tai, có cả pizza cho người ăn chay như mình nữa đấy. Bạn nhất định nên thử qua những pizza được đánh dấu là "chef's signature" chắc chắn sẽ không thất vọng đâu.
 
 ![](/images/dscf5838.jpg)
 
-### Pizza ngon xuất sắc
+## Pizza ngon xuất sắc
 
 Không hổ danh là vô địch pizza Đông Nam Á, cốt bánh thơm lừng, viền bánh giòn, nhân bánh ngon xuất sắc. Pizza ở Reale được nướng bằng củi nên giữ được cái hồn truyền thống của pizza Ý.
 
@@ -56,7 +56,7 @@ pizza mimosa (phải) và vegan pizza (trái)
 
 </figure>
 
-### Giá cả hợp lý
+## Giá cả hợp lý
 
 Tuy chất lượng cao nhưng giá cả tại Pizza Reale lại rất hợp lý. Pizza Reale chỉ có hai size bánh duy nhất: cho người lớn và trẻ em với giá trung bình tầm 110-280k. Mình nghĩ giá "hạt dẻ" thế này cho một chiếc pizza thần thánh vì Pizza Reale chủ yếu cung cấp dịch vụ giao hàng (delivery) chứ không phải dùng món tại quán.
 

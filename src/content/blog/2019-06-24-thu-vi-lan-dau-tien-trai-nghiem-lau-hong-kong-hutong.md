@@ -19,19 +19,19 @@ Chính sự khắt khe và yêu cầu cao trong tính cách của con người H
 
 ![](/images/img_2580.jpg)
 
-### Không gian đậm chất Hồng Kông
+## Không gian đậm chất Hồng Kông
 
 Là một người mê không gian đẹp nên cứ hễ du lịch đến đâu, tham quan địa điểm nào, ăn quán nào mới, mình đều quan sát không gian nơi đó đầu tiên trước. Hutong lấy màu đỏ làm nền chủ đạo, với lối kiến trúc cổ đậm chất Hoa xưa. Từ lối trang trí vẽ tranh trên tường cho đến bàn ghế gỗ đều đem đến cho thực khách một cảm giác mới mẻ như lạc vào giữa xứ sở Hồng Kông thu nhỏ.
 
 ![](/images/img_2585.jpg)
 
-### Quầy sốt chấm sáng tạo
+## Quầy sốt chấm sáng tạo
 
 ![](/images/img_2581.jpg)
 
 Mình ấn tượng nhất với quầy sốt chấm tự chế. Nước chấm lẩu thường chỉ 1, 2 loại do nhà hàng pha sẵn nhưng với lẩu Hongkong thì có tới gần 20 loại gia vị khác nhau để khách hàng tự mình “chế biến” theo tuỳ khẩu vị và sự sáng tạo riêng của mỗi người.
 
-### Hương vị lẩu ấn tượng
+## Hương vị lẩu ấn tượng
 
 Hutong có 5 vị nước lẩu chính với tên nào cũng nghe thật lạ lẫm. Nghe tên gọi mình chưa thể hình dung ra vị từng loại như thế nào để gọi cho phù hợp. Cuối cùng, mình chọn thử hai vị lẩu nổi tiếng ở đây theo sự giới thiệu của người bạn thân là lẩu Hutong đặc biệt và lẩu sâm bổ dưỡng.
 
@@ -41,7 +41,7 @@ Nồi lẩu với thiết kế thông minh 2 ngăn giúp khách hàng có thể 
 
 ![](/images/img_2584.jpg)
 
-### Món nhúng đa dạng
+## Món nhúng đa dạng
 
 Nhìn menu món nhúng, mình càng thấy bỡ ngỡ hơn vì có hơn 60 món đồ nhúng mới lạ ở Hutong. Được nhiều người “truyền tai” khuyên nhủ là đến Hutong nhất định phải thử qua huyết vịt, viên tôm hùm, viên hải sản...nên mình gọi khá nhiều món nhúng và hoàn toãn mãn nguyện bởi món nào cũng ngon.
 
@@ -51,11 +51,11 @@ Bên cạnh nồi lẩu thơm nức là các món thịt, hải sản và rau qu
 
 ![](/images/img_2586.jpg)
 
-### Phục vụ chu đáo
+## Phục vụ chu đáo
 
 Nhân viên ở Hutong rất lịch sự, tư vấn kĩ càng và thao tác nhanh nhẹn. Nhìn chung, chất lượng phục vụ tốt.
 
-### Giá thành hợp lý
+## Giá thành hợp lý
 
 Một lần nữa câu nói "tiền nào của đấy" luôn luôn chính xác. Chất lượng dịch vụ và thức ăn ngon như vậy đòi hỏi phí trả cũng không rẻ. Mình ăn 5 người lớn, trung bình mỗi người 500k :). Nhưng không ai phàn nàn gì bởi cảm thấy gía cả tương đối hợp lý cho một bữa ăn ngon miệng như vậy.
 

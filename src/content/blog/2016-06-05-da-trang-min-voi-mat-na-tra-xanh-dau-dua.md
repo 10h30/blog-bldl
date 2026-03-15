@@ -10,7 +10,7 @@ slug: "da-trang-min-voi-mat-na-tra-xanh-dau-dua"
 
 Cuối tuần rồi, chị em phụ nữ mình đừng quên tranh thủ làm đẹp giữ gìn nhan sắc nhe. Tận dụng thời gian rãnh rỗi, mình luôn thử nghiệm những công thức làm đẹp mới từ các nguyên liệu tự nhiên quen thuộc trong nhà. Kì này mình thử đắp mặt nạ [trà xanh](https://balodeplao.com/dep-khoe-voi-detox-bang-mat-ong-va-matcha/) với [dầu dừa](https://balodeplao.com/chia-se-kinh-nghiem-lam-dep-tu-dau-den-chan-bang-dau-dua-phan-1/). Kết quả bất ngờ ngoài sức tưởng tượng luôn nhe. Da mịn màng, sạch khoẻ, trắng sáng lên hẳn sau vài lần mình sử dụng.
 
-### Nguyên liệu
+## Nguyên liệu
 
 - 3 muỗng [Tinh bột trà xanh Nhật Bản Uji](https://balodeplao.com/shop/bot-tra-xanh-nguyen-chat-uji-matcha/)
 - 1 muỗng [Dầu dừa nguyên chất](https://balodeplao.com/shop/dau-dua-nguyen-chat-phu-yen/)
@@ -18,7 +18,7 @@ Cuối tuần rồi, chị em phụ nữ mình đừng quên tranh thủ làm đ
 
 ![Nguyên liệu làm đẹp hoàn toàn tự nhiên và đơn giản nhưng hiệu quả thật bất ngờ](/images/matnatraxanh-bldl01.jpg)
 
-### Thực hiện
+## Thực hiện
 
 Bạn cho lần lượt 3 muỗng trà xanh Uji, 1 muỗng dầu dừa nguyên chất và vài giọt chanh tươi như hình.
 

@@ -13,7 +13,7 @@ destination:
 
 **Công viên Hitachi Seaside Park**, nằm ở Hitachinaka, tỉnh Ibaraki, Nhật Bản, bên cạnh bãi biển Ajigaura, là một công viên đầy sắc hoa và là điểm đến du lịch nổi tiếng, có sức hút lớn với mọi du khách khi đến Ibaraki. Những cánh đồng hoa tại đây được mệnh danh là “thiên đường có thật” trên Thế giới. Tuy nhiên, liệu điều này là đúng như những lời quảng cáo bóng bẩy, những hình ảnh đẹp lung linh về Hitachi Park hay không? Hãy cùng Ba Lô và Dép Lào tìm hiểu một ngày trải nghiệm tại Hitachi Seaside nhé.
 
-### Cách đến Hitachi Seaside Park
+## Cách đến Hitachi Seaside Park
 
 Từ Tokyo, bạn có thể đi bằng tàu điện, tuyến tàu **JR Hitachi - Tokiwa** (mỗi chuyến cách nhau 30 phút), khởi hành từ ga Ueno, đi đến ga Katsuta ở tỉnh Ibaraki. Sau đó, từ ga Katsuta, bạn đónxe buýt hoặc đi taxi đến công viên (mất khoảng 15 phút). Tham khảo bản đồ hướng dẫn dưới đây cho dễ hiểu nha các bạn
 
@@ -23,7 +23,7 @@ Từ Tokyo, bạn có thể đi bằng tàu điện, tuyến tàu **JR Hitachi -
 
 ![](/images/hitachi-park-bldl01.jpg)
 
-### Phí vào cổng
+## Phí vào cổng
 
 - Người lớn: 410 yên
 - Người già trên 65 tuổi: 210 yên
@@ -32,7 +32,7 @@ Từ Tokyo, bạn có thể đi bằng tàu điện, tuyến tàu **JR Hitachi -
 
 ![Trong suốt chuyến đi Nhật, Silk luôn được miễn phí vé vào cổng haha](/images/hitachi-park-bldl03.jpg)
 
-### Thời gian hoạt động
+## Thời gian hoạt động
 
 - 9:30–17:00 (01 Tháng 3 – 20 Tháng 7, 01 Tháng 9 – 31 Tháng 10)
 - 9:30–18:00 (21 Tháng 7 – 31 Tháng 8)
@@ -43,7 +43,7 @@ Công viên đóng cửa vào ngày Thứ hai hàng tuần, trừ trường hợ
 - Đóng cửa vào ngày Thứ ba nếu Thứ hai là ngày quốc lễ
 - Đóng cửa vào ngày 31 Tháng 12 và ngày 01 Tháng Giêng; và 4 ngày liên tục từ Thứ ba - Thứ sáu của tuần đầu tiên trong Tháng 2
 
-### Cảm nhận sau một ngày tham quan Hitachi Seaside Park
+## Cảm nhận sau một ngày tham quan Hitachi Seaside Park
 
 ![](/images/hitachi-seaside-park-travel-wallpaper-flower-hd-desktop-free-689928883.jpg)
 
