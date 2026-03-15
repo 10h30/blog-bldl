@@ -20,19 +20,9 @@ Vẫn không thích sự đông đúc bon chen tại tắm bùn Thác Bà mà gi
 
 ![](/images/img_5734.jpg)
 
-<figure>
+![Sảnh chính của Movenpick Resort](/images/img_5735.jpg)
 
-![](/images/img_5735.jpg)
-
-<figcaption>
-
-Sảnh chính của Movenpick Resort
-
-</figcaption>
-
-</figure>
-
-### Hồ bơi
+## Hồ bơi
 
 Hồ bơi luôn là yếu tố BLDL quan tâm hàng đầu khi đi du lịch cùng con. Bọn trẻ ra biển thường chỉ vọc nước, ngâm chân, xây lâu đài cát mà thôi. Nơi để lũ trẻ tập bơi, vui đùa dưới nước chính vẫn là hồ bơi phải không nào. Chưa kể đến biển Nha Trang vừa sâu vừa sóng lớn ngay cả người lớn còn "ngán" huống hồ trẻ con.
 
@@ -40,67 +30,27 @@ Do vậy, một trong những lí do tụi mình lựa chọn Movenpick mới to
 
 ![](/images/img_5868.jpg)
 
-<figure>
-
-![](/images/foodie_1576491821.jpg)
-
-<figcaption>
-
-Hồ bơi chung cho mọi người
-
-</figcaption>
-
-</figure>
+![Hồ bơi chung cho mọi người](/images/foodie_1576491821.jpg)
 
 Silk và Quinn mê tít căn phòng villa hướng biển có hồ bơi riêng mà ba mẹ lựa chọn. Chỉ cần sáng ngủ dậy mở mắt ra là hai đứa đã thấy ngay hồ bơi và lao ra vui chơi cùng nhau dưới nước thoả thích.
 
 ![](/images/img_5828.jpg)
 
-### Công viên nước trẻ em
+## Công viên nước trẻ em
 
 Điểm cộng lớn của Movenpick cho gia đình có bé nhỏ là xây dựng một khu vui chơi dưới nước trẻ em giữa lòng resort. Bé nhà bạn có thể trượt cầu tuột, bắn súng nước, trượt máng nước...an toàn dưới sự quan sát của nhân viên cứu hộ.
 
 Tuy nhiên, Silk nhà mình lại không hề thích nơi này chỉ bởi vì những bức tượng trang trí qúa ghê rợn với cô ấy nào cá mập, cá sấu, bạch tuột khổng lồ... haha. Nhưng không sao, mình vẫn thấy vô số các bé nhỏ khác không ngại ngùng vui chơi hồ hởi tại đây.
 
-<figure>
+![Khu vực công viên nước cho trẻ em. Người mẫu nhí quá sợ cá mập nên không dám xuống bơi ;))](/images/img_5866.jpg)
 
-![](/images/img_5866.jpg)
-
-<figcaption>
-
-Khu vực công viên nước cho trẻ em. Người mẫu nhí quá sợ cá mập nên không dám xuống bơi ;))
-
-</figcaption>
-
-</figure>
-
-### Khu vui chơi trẻ em
+## Khu vui chơi trẻ em
 
 Gia đình mình ưng nhất là khu vui chơi trẻ em của Movenpick. Khu vực này nằm sau nhà hàng ăn uống, mở ra một chân trời lý tưởng cho trẻ nhỏ nào nhà banh, thư viện, góc tô màu, góc xếp giấy, góc đọc truyện và lưới trượt trẻ em đầy hấp dẫn. Silk và Quinn chơi cả ngày ở đây cũng không chán.
 
-<figure>
+![Góc đọc truyện và thư giãn cho gia đình](/images/img_5934.jpg)
 
-![](/images/img_5934.jpg)
-
-<figcaption>
-
-Góc đọc truyện và thư giãn cho gia đình
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/img_5935.jpg)
-
-<figcaption>
-
-Lưới trượt được các bạn nhỏ cực kỳ yêu thích
-
-</figcaption>
-
-</figure>
+![Lưới trượt được các bạn nhỏ cực kỳ yêu thích](/images/img_5935.jpg)
 
 Ba mẹ cũng có thể tham gia cùng con tô màu, xếp giấy, gấp hoa hoặc yên tĩnh quan sát các bạn nhỏ vui chơi. Điểm đáng hoan nghệnh ở đây là nhân viên cực kỳ dễ thương, yêu trẻ, quan tâm và hỗ trợ các bé chơi an toàn.
 
@@ -110,7 +60,7 @@ Chưa kể đến một bàn bánh kẹo, thức ăn nhẹ miễn phí cho bé k
 
 ![](/images/img_5825.jpg)
 
-### Phòng Gym
+## Phòng Gym
 
 Dù đang đi du lịch nhưng tập luyện vẫn là một phần không thể thiếu của người đam mê [yoga](https://purna.vn/) và chạy bộ như mình. Thời tiết Nha Trang khi ấy khá lạnh lại gió lớn nên đành nép mình trong phòng gym của Movenpick. Với thói quen chạy bộ sớm lúc 5g sáng, dù phòng gym 6g sáng mới mở cửa nhưng nhân viên vẫn vui vẻ mở cửa phòng để mình tập luyện.
 
@@ -118,166 +68,46 @@ Dù đang đi du lịch nhưng tập luyện vẫn là một phần không thể
 
 Máy móc mới toanh và hiện đại. Không gian thoải mái để bạn tha hồ tập luyện, giữ gìn vóc dáng khi đang đi du lịch.
 
-### Làng Thuỵ Sỹ
+## Làng Thuỵ Sỹ
 
 Làng Thuỵ Sỹ cũng là nét độc đáo rất riêng của Movenpick. Đây là một khu phức hợp có quán bar, club, bảo tàng, phòng gym...nằm ngay trong lòng resort. Mình khá bất ngờ trước độ sáng tạo tinh tế của Movenpick khi đem đến cho khách du lịch nhiều lựa chọn vui chơi thú vị như vậy.
 
-### Nhà hàng
+## Nhà hàng
 
 Movenpick có hai khu vực nhà hàng lớn - một là sâu trong resort gần khu vui chơi trẻ em chuyên về tiệc buffet, hai là nhà hàng sát biển chuyên về các món lẻ.
 
-<figure>
-
-![](/images/img_5824.jpg)
-
-<figcaption>
-
-Khu vực nhà hàng bên trong resort
-
-</figcaption>
-
-</figure>
+![Khu vực nhà hàng bên trong resort](/images/img_5824.jpg)
 
 Gia đình mình thích khu nhà hàng sát biển hơn do cảnh quang biển xinh đẹp lại dễ dàng chọn món cho cả người lớn và trẻ nhỏ. Ngoài ra, theo cảm nhận của mình thì thực đơn tại nhà hàng gần biển này có vẻ đa dạng và ngon hơn là khu nhà hàng còn lại.
 
-<figure>
-
-![](/images/img_5916.jpg)
-
-<figcaption>
-
-Thực đơn đa dạng và khá ngon
-
-</figcaption>
-
-</figure>
+![Thực đơn đa dạng và khá ngon](/images/img_5916.jpg)
 
 Mình ăn chay trường theo kiểu thực dưỡng. Và các món ăn chay kiểu Âu của Movenpick rất hợp khẩu vị của mình. Thanh nhẹ, đầy dinh dưỡng như cách chế biến mỗi ngày tại [Bếp Lành](https://lanhkitchen.com/) nhà mình.
 
-<figure>
-
-![](/images/img_5902.jpg)
-
-<figcaption>
-
-Nhiều lựa chọn cho cả người ăn chay
-
-</figcaption>
-
-</figure>
+![Nhiều lựa chọn cho cả người ăn chay](/images/img_5902.jpg)
 
 Movenpick có một thực đơn riêng cho trẻ em với một số món đặc trưng như mỳ ý, phở gà, miến, món ăn nhẹ...để ba mẹ dễ dàng lựa chọn cho bé. Trước khi ăn, bé còn được các bạn nhân viên tặng cho một tờ giấy và vài chiếc bút tô màu trong khi đợi món nữa đấy.
 
-<figure>
+![Không gian bên trong của nhà hàng gần biển](/images/img_5898.jpg)
 
-![](/images/img_5898.jpg)
-
-<figcaption>
-
-Không gian bên trong của nhà hàng gần biển
-
-</figcaption>
-
-</figure>
-
-### Phòng nghỉ
+## Phòng nghỉ
 
 Chỉ hai từ "tuyệt vời" khi diễn tả độ sang chảnh của phòng nghỉ tại Movenpick. Mình chọn villa hướng biển với một phòng ngủ, một bếp, một phòng khách, một phòng tắm lớn, hai nhà vệ sinh và một hồ bơi riêng. Nếu bạn đi gia đình có trẻ nhỏ thì đây là lựa chọn lý tưởng đem đến cảm giác thoải mái như chính nhà bạn vậy. Phòng nghỉ này theo mình đủ tiêu chuẩn được xem là căn hộ gia đình bốn người luôn đấy. Chất lượng phục vụ rất tốt. Nhân viên thân thiện sẵn sàng hỗ trợ, phục vụ nhiệt tình.
 
-<figure>
+![Villa hướng biển tại Movenpick của gia đình mình](/images/img_5908.jpg)
 
-![](/images/img_5908.jpg)
+![]Khu vực phòng khách và bếp(/images/img_5831.jpg)
 
-<figcaption>
+![Góc đọc sách lý tưởng của mình](/images/img_5863.jpg)
 
-Villa hướng biển tại Movenpick của gia đình mình
+![Khu vực bàn ăn](/images/img_5747.jpg)
 
-</figcaption>
+![Bể bơi riêng](/images/img_5757.jpg)
 
-</figure>
+![Phòng ngủ lớn. Khách sạn cung cấp luôn nôi em bé khi được yêu cầu](/images/img_5759.jpg)
 
-<figure>
+![Khu vực tủ quần áo và vali](/images/img_5764.jpg)
 
-![](/images/img_5831.jpg)
-
-<figcaption>
-
-Khu vực phòng khách và bếp
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/img_5863.jpg)
-
-<figcaption>
-
-Góc đọc sách lý tưởng của mình
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/img_5747.jpg)
-
-<figcaption>
-
-Khu vực bàn ăn
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/img_5757.jpg)
-
-<figcaption>
-
-Bể bơi riêng
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/img_5759.jpg)
-
-<figcaption>
-
-Phòng ngủ lớn. Khách sạn cung cấp luôn nôi em bé khi được yêu cầu
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/img_5764.jpg)
-
-<figcaption>
-
-Khu vực tủ quần áo và vali
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/img_5746.jpg)
-
-<figcaption>
-
-Góc nhỏ nhà tắm
-
-</figcaption>
-
-</figure>
+![Góc nhỏ nhà tắm](/images/img_5746.jpg)
 
 Mình vừa chia sẻ bài đánh giá thật chi tiết Movenpick Cam Ranh Resort từ phòng ốc cho đến các dịch vụ vui chơi đi kèm. Hi vọng gia đình bạn có thêm lựa chọn mới khi du hí đến Nha Trang nhé. Chúc cả nhà có chuyến đi vui vẻ ;)

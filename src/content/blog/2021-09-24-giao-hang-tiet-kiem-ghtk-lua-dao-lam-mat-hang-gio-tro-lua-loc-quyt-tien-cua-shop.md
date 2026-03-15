@@ -47,7 +47,7 @@ OK. Đợi thì đợi!
 
 Việc làm thất lạc hàng hoá đôi khi có thể xảy ra, miễn sao bên vận chuyển bồi hoàn là ổn! Nhưng mình đã lầm!
 
-## 2\. GHTK giở trò lừa đảo!
+## 2\. GHTK giở trò lừa đảo
 
 - Ngày 07/09, mình mở app GHTK để kiểm tra tình trạng đơn hàng thì NGẠC NHIÊN chưa: **Đơn hàng đã được báo giao hàng thành công**! WTF!
 
@@ -93,7 +93,7 @@ Mình phải quay lại tiếp tục công việc tố tụng với bên CSKH.
 
 ![](/images/ghtk-lua-dao-23.jpg)
 
-Ngoài ra mình còn gửi thêm 1 tâm thư đến cskh@ghtk.vn với hi vọng sẽ được xử lý thoả đáng hơn.
+Ngoài ra mình còn gửi thêm 1 tâm thư đến <cskh@ghtk.vn> với hi vọng sẽ được xử lý thoả đáng hơn.
 
 ![](/images/ghtk-lua-dao-27.png)
 
@@ -127,7 +127,7 @@ Mình đợi thêm 1 tuần nữa. Đến hôm nay hỏi lại CSKH trên app th
 
 ĐM! Thằng GHTK này làm mất hàng của mình, rồi tìm cách giờ trò lừa đảo quỵt tiền, bị mình vạch mặt quay ra xin lỗi hứa đền tiền. Tưởng tốt đẹp, hoá ra vẫn là trò lừa đảo.
 
-## 4\. Toàn hứa rồi không làm gì cả!
+## 4\. Toàn hứa rồi không làm gì cả
 
 CSKH báo chốt bồi hoàn cho mình vào ngày 25/09. Nhưng đến hôm nay 01/10, sau 6 ngày đợi vẫn không thấy bất kỳ email thông báo bồi hoàn nào cả.
 
@@ -153,17 +153,7 @@ GHTK không phải là công ty đầu tiên mình vạch mặt phong cách làm
 
 Shop YCB của mình trước giờ chỉ gửi hàng qua GHTK. Số lượng đơn mỗi tháng phải hơn trăm đơn. Nhưng giờ cháy nhà lòi ra mặt chuột!
 
-<figure>
-
-![](/images/ghtk.png)
-
-<figcaption>
-
-Tháng 3 -5 shop mình gửi đến hơn 400 đơn qua GHTK
-
-</figcaption>
-
-</figure>
+![Tháng 3 - 5 shop mình gửi đến hơn 400 đơn qua GHTK](/images/ghtk.png)
 
 Làm ăn kiểu đuổi khách thế này thì bye!Không bao giờ đụng vào dịch vụ của ông GHTK lừa đảo này nữa! Các bạn nào kinh doanh đang dùng GHTK cẩn thận nhé.
 

@@ -32,29 +32,9 @@ Không hổ danh là vô địch pizza Đông Nam Á, cốt bánh thơm lừng, 
 
 Mình gọi một bánh pizza mimosa (pizza mặn) và một vegan pizza. Cả hai bánh đều ngon. Mình cực ưng phần nước sốt cà truyền thống ở Reale. Vị thanh tao, nhẹ nhàng, vừa ăn.
 
-<figure>
+![Pizza Reale](/images/dscf5832.jpg)
 
-![](/images/dscf5832.jpg)
-
-<figcaption>
-
-Pizza Reale
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/dscf5837.jpg)
-
-<figcaption>
-
-pizza mimosa (phải) và vegan pizza (trái)
-
-</figcaption>
-
-</figure>
+![pizza mimosa (phải) và vegan pizza (trái)](/images/dscf5837.jpg)
 
 ## Giá cả hợp lý
 

@@ -21,17 +21,7 @@ Tuy nhiên, không phải chỉ ngày đêm detox điên cuồng là các bạn 
 
 Mỗi ngày, mình đều dành ít nhất một tiếng cho chạy bộ sớm và [tập yoga](https://purna.vn/). Trung bình thường hai tuần mình sẽ detox cơ thể một lần, còn bận hay lười quá thì một tháng một lần do mình chú trọng đến việc luyện tập hơn là detox. Nhưng mình phải công nhận một điều, sau mỗi đợt detox, cơ thể mình nhẹ nhàng hơn hẳn và làn da có vẻ mịn màng tươi sáng lên trông thấy.
 
-<figure>
-
-![](/images/dscf4485.jpg)
-
-<figcaption>
-
-Mình đang hướng dẫn yoga cho các bạn học viên tại Purna Yoga Studio.
-
-</figcaption>
-
-</figure>
+![Mình đang hướng dẫn yoga cho các bạn học viên tại Purna Yoga Studio.](/images/dscf4485.jpg)
 
 Ngoài phương pháp [detox bằng mật ong và trà xanh](https://balodeplao.com/dep-khoe-voi-detox-bang-mat-ong-va-matcha/) đã từng được chia sẻ, ngày hôm nay mình sẽ bật mí cho các bạn công thức sinh tố detox vừa thơm ngon, bổ dưỡng lại rất dễ làm. Đây cũng là một trong những thức uống "lành mạnh" mới sắp được trình làng tại [Lành Kitchen](https://lanhkitchen.com/) trong thời gian sắp tới hihi.
 

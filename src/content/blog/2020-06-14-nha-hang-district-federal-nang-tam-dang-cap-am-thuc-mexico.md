@@ -29,57 +29,17 @@ Dù người ăn chay kẻ ăn mặn nhưng cả hai đều có thể hoàn toà
 
 **Tacos** là một món bánh truyền thống trong ẩm thực Mexico. Loại bánh này được làm từ bột ngô và nhân bên trong đa dạng từ thịt lợn, thịt gà, thịt bò cho đến cá. Khi ăn bạn có thể dùng kèm với hành tây, rau mùi, nước sốt…để tăng độ đậm đà. Với loại bánh này có 2 loại là vỏ mềm và vỏ cứng. Theo mình, nếu chưa ăn Tacos bao giờ thì bạn nên thử loại vỏ mềm trước. Ba lô thì thích tacos bò còn mình thì mê tít tacos chay với bí đỏ và các thể loại hạt nướng. Ngon lắm luôn.
 
-<figure>
+![Tacos chiên giòn với bí đỏ và hạt](/images/img_9596.jpg)
 
-![](/images/img_9596.jpg)
-
-<figcaption>
-
-Tacos chiên giòn với bí đỏ và hạt
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/img_8911.jpg)
-
-<figcaption>
-
-Một phần tacos tại DF bao gồm ba miếng thế này
-
-</figcaption>
-
-</figure>
+![Một phần tacos tại DF bao gồm ba miếng thế này](/images/img_8911.jpg)
 
 **Nachos** cũng là món ăn truyền thống hấp dẫn lâu đời khác của Mexico. Thành phần chính là bánh Tortilla được cắt thành miếng hình tam giác vừa ăn. Bạn có thể hình dung bánh Tortilla giòn tương tự như snack khoai tây hoặc bánh tráng, bánh đa Việt Nam vậy. Bánh Tortilla sau khi cắt nhỏ sẽ được sắp vào đĩa cho đều rồi người ta bắt đầu cho các nguyên liệu khác lên trên. Nguyên liệu dùng kèm phổ biến nhất là phô mai Cheddar vụn, ớt jalapenos cắt khoanh, sốt salsa...
 
 BLDL mê nhất là nachos rau củ nướng cháy cạnh ẩn dưới lớp phô mai tan chảy và vài loại sốt đặc biệt tại DF. Một phần nachos tại DF khá lớn và chất lượng đủ dùng cho hai người.
 
-<figure>
+![GRILLED VEGETABLE NACHOS khi dùng tại quán](/images/img_8909.jpg)
 
-![](/images/img_8909.jpg)
-
-<figcaption>
-
-GRILLED VEGETABLE NACHOS khi dùng tại quán
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/img_7915.jpg)
-
-<figcaption>
-
-GRILLED VEGETABLE NACHOS mình mua đem về nhà có vẻ nhỏ hơn một tí.
-
-</figcaption>
-
-</figure>
+![GRILLED VEGETABLE NACHOS mình mua đem về nhà có vẻ nhỏ hơn một tí.](/images/img_7915.jpg)
 
 **Churros** là món tráng miệng yêu thích nhất của mình. Nhìn đơn giản nhưng để chế biến được churros ngon là cả một nghệ thuật. Từng que bánh vàng ươm với lớp vỏ ngoài giòn xốp, thơm hương quế; bên trong dai mềm, phảng phất chút hương bơ béo ngậy chấm cùng sốt chocolate sánh mịn quả thật là ngon không thể chối từ.
 

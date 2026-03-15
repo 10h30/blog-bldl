@@ -36,17 +36,7 @@ Ngoài yêu thể thao, thích xê dịch, hai đứa mình đều thích ăn ng
 
 Mình gọi một phần salad chay với hỗn hợp rau, củ quả nướng và nấm áp chảo. Anh gọi một phần salad hải sản với sốt chua ngọt khá hấp dẫn. Tụi mình nhâm nhi chút bia, trò chuyện về mọi thứ trên đời, ngắm cảnh bờ hồ mà không nghe tiếng "mè nheo, ồn ào" của lũ trẻ haha.
 
-<figure>
-
-![](/images/img-4346.jpg)
-
-<figcaption>
-
-salad chay của mình
-
-</figcaption>
-
-</figure>
+![salad chay của mình](/images/img-4346.jpg)
 
 ![](/images/img-4349.jpg)
 

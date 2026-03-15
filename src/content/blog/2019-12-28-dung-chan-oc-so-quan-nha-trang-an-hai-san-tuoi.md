@@ -14,17 +14,7 @@ Chuyến đi Nha Trang cuối năm vừa rồi tuy không thu hoạch được n
 
 Không thể nào đếm hết được các quán ốc lớn nhỏ tại Nha Trang nhưng nơi đây đặc biệt được một người bạn thân bản địa của mình tâm đắc và giới thiệu cho BLDL. Thay vì ngồi chen chúc ăn ốc ở khu du lịch Thác Bà cách đây hai năm thì gia đình mình lại thoải mái thưởng thức hải sản trong một không gian gia đình và ấm cúng hơn tại **Ốc Sò Quán - 87 Hồng Bàng Tp Nha Trang**.
 
-<figure>
-
-![](/images/img_5709.jpg)
-
-<figcaption>
-
-**Ốc Sò Quán - 87 Hồng Bàng Tp Nha Trang**.
-
-</figcaption>
-
-</figure>
+![Ốc Sò Quán - 87 Hồng Bàng Tp Nha Trang](/images/img_5709.jpg)
 
 ## Không gian nhỏ
 

@@ -14,17 +14,7 @@ Thế còn Lễ tình nhân của Ba lô và Dép Lào như thế nào?! À! Val
 
 Không phải vì đã cưới, đã hai con mà tụi mình  xuề xoà, bỏ bê Lễ tình nhân đâu mà càng lớn chúng mình càng thích sống tối giản đi. Không cầu kỳ, không vật chất, không khoa trương, mình chỉ tự tay làm tặng “nửa kia” một chiếc bánh [Lavacake thuần chay](https://lanhkitchen.com/shop/banh-vegan/vegan-lava-cake/) và tung tăng mua thêm một phần bánh Tiramisu (bánh người ấy thích nhất) mặn mòi trứng – bơ – sữa cho thoả lòng người ấy. Vậy mà người ta vui tít mắt. Phần quà yêu thương thiết thực cho anh người yêu – người chồng – người cha tuyệt vời của hai đứa nhỏ nhà mình.
 
-<figure>
-
-![](/images/img_6876.jpg)
-
-<figcaption>
-
-_Bánh Lavacake thuần chay mình tự tay làm tặng anh cùng nhà._
-
-</figcaption>
-
-</figure>
+![ánh Lavacake thuần chay mình tự tay làm tặng anh cùng nhà](/images/img_6876.jpg)
 
 ![](/images/img_6877.jpg)
 

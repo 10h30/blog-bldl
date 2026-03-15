@@ -25,17 +25,7 @@ Có hai cách đến Thành phố Nara: Ga JR Nara hoặc Ga Kintetsu Nara. Ga 
 
 Từ Kyoto đến Nara: BLDL đến ga Kyoto bắt tuyến đi thẳng từ Ga JR Kyoto đến Ga JR Nara khoảng 50 phút.
 
-<figure>
-
-![](/images/nara-bldl01.jpg)
-
-<figcaption>
-
-Ga Nara dễ thương với hình ảnh nai khắp nơi đón chào du khách
-
-</figcaption>
-
-</figure>
+![Ga Nara dễ thương với hình ảnh nai khắp nơi đón chào du khách](/images/nara-bldl01.jpg)
 
 ![](/images/nara-bldl02.jpg)
 
@@ -79,17 +69,7 @@ Mình nhắc khéo các bạn tí! Ở góc cuối của điện thờ có một
 
 Kofufu cũng là một kiến trúc đặc sắc của Nara. Khi mới xây dựng, Kofuku là một quần thể của hơn 100 công trình lớn nhỏ thuộc sở hữu của dòng họ Fujiwara quyền quý, nhưng ngày nay chỉ còn sót lại một vài công trình. Nổi bật nhất chính là ngọn tháp năm tầng nằm tại khuôn viên chùa.
 
-<figure>
-
-![](/images/nara-bldl17.jpg)
-
-<figcaption>
-
-Silk không hứng thú với chùa đền chỉ mê ngủ...mặc kệ ba mẹ muốn làm gì làm haha
-
-</figcaption>
-
-</figure>
+![Silk không hứng thú với chùa đền chỉ mê ngủ...mặc kệ ba mẹ muốn làm gì làm haha](/images/nara-bldl17.jpg)
 
 ### 4. Hội chợ ẩm thực Nara
 
@@ -107,17 +87,7 @@ Với một đống tiền xu trong tay, mình đi dạo thăm tất cả các g
 
 ![](/images/nara-bldl16.jpg)
 
-<figure>
-
 ![Khoai lang nướng ngon bá cháy! Trời lạnh, hai đứa vừa ăn vừa thổi xoa xoa hai tay! Cực thích](/images/nara-bldl11.jpg)
-
-<figcaption>
-
-Khoai lang nướng ngon bá cháy! Trời lạnh, hai đứa vừa ăn vừa thổi xoa xoa hai tay! Cực thích
-
-</figcaption>
-
-</figure>
 
 \--------
 

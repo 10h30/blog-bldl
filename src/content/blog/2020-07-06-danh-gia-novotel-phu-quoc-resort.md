@@ -24,45 +24,15 @@ Sau chuyến đi Nha Trang ở tại [Movenpick Cam Ranh Resort](https://balodep
 
 So với Movenpick thì Novotel có nhiều bể bơi lớn hơn, ở nhiều vị trí khác nhau trong khuôn viên resort: gần biển, gần nhà hàng, gần khu villa... cho khách tha hồ lựa chọn.
 
-<figure>
+![Hồ bơi gần nhà hàng](/images/img_9964.jpg)
 
-![](/images/img_9964.jpg)
-
-<figcaption>
-
-Hồ bơi gần nhà hàng
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/img_9788.jpg)
-
-<figcaption>
-
-Hồ bơi sát biển
-
-</figcaption>
-
-</figure>
+![Hồ bơi sát biển](/images/img_9788.jpg)
 
 Tuy nhiên, do mới mở cửa lại sau mùa dịch nên chỉ có một số hồ bơi nơi nhiều khách sử dụng mới được vệ sinh sạch sẽ. Những hồ còn lại mình cảm nhận không được vệ sinh thường xuyên còn cả cặn và chất bẩn dưới đáy. Vì vậy các bạn cần quan sát cũng như kiểm tra hồ trước khi cho trẻ xuống bơi nhé.
 
 Nếu bạn book phòng villa có hồ bơi riêng (private pool) thì có thể hoàn toàn yên tâm, hồ cực sạch và nước rất trong xanh. Tuy nhiên, khu vui chơi trẻ em dưới nước tại Novotel thì khá nghèo nàn so với độ hoành tráng của Movenpick, chỉ có một chiếc cầu tuột nhỏ "cô đơn" giữa hồ em bé mà thôi.
 
-<figure>
-
-![](/images/img_9872.jpg)
-
-<figcaption>
-
-Khu hồ bơi trẻ em
-
-</figcaption>
-
-</figure>
+![Khu hồ bơi trẻ em](/images/img_9872.jpg)
 
 ## Khu vui chơi trẻ em
 
@@ -82,7 +52,7 @@ Novotel có một khu trò chơi trẻ em duy nhất khá rộng rãi với mộ
 
 ![](/images/img_9857.jpg)
 
-### Phòng Gym
+## Phòng Gym
 
 Dù đang đi du lịch nhưng tập luyện vẫn là một phần không thể thiếu của người đam mê [yoga](https://purna.vn/), đạp xe, chạy bộ và bơi lội như mình. Chồng mình hay nói đùa:" em đi du lịch gì kỳ. Cứ như luyện thi đấu giải". Vì việc tập luyện mỗi ngày dường như trở thành thói quen của mình, đặc biệt khi du lịch có nhiều thời gian chăm sóc bản thân, mình càng yêu thích việc rèn luyện sức khoẻ hơn.
 
@@ -90,31 +60,11 @@ Như một thói quen, mình thức dậy từ 4g30 sáng và thiền. Sau đó 
 
 Theo nhận xét của mình thì phòng gym ở Novotel khá đẹp và chất lượng. Máy móc thiết bị hiện đại và mới toanh. Phòng tập to đẹp và rất sạch sẽ. Có cả sân tennis và sân chơi bóng bàn cho những ai yêu thích.
 
-<figure>
+![Silk đi tập cùng mẹ buổi sớm](/images/img_9820.jpg)
 
-![](/images/img_9820.jpg)
+![Khu vực bóng bàn](/images/img_9821.jpg)
 
-<figcaption>
-
-Silk đi tập cùng mẹ buổi sớm
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/img_9821.jpg)
-
-<figcaption>
-
-Khu vực bóng bàn
-
-</figcaption>
-
-</figure>
-
-### Nhà hàng
+## Nhà hàng
 
 ![](/images/img_9748.jpg)
 
@@ -122,61 +72,21 @@ Nhà hàng Novotel rộng rãi với quang cảnh nhìn ra biển và hồ bơi.
 
 Trong bài viết sau, mình sẽ giới thiệu các bạn những quán ăn ngon không thể bỏ qua khi du lịch đến Phú Quốc nhé.
 
-### Phòng nghỉ
+## Phòng nghỉ
 
 Nhà mình book một villa lớn với ba phòng ngủ, một phòng khách, bốn phòng tắm, một bếp và một hồ bơi riêng. Giá cho một đêm là tầm 5 triệu. Villa rất rộng rãi với sân vườn nhỏ bao quanh nhà. Hồ bơi riêng sâu 1m2 cho các bé ông bà thoải mái vui chơi cũng như vợ chồng trẻ có không gian riêng.
 
-<figure>
+![Villa gia đình 3 phòng ngủ](/images/img_20200626_173842_original.jpg)
 
-![](/images/img_20200626_173842_original.jpg)
+![Phòng ăn và bếp](/images/img_9762.jpg)
 
-<figcaption>
+![Phòng ngủ lớn](/images/img_9764.jpg)
 
-Villa gia đình 3 phòng ngủ
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/img_9762.jpg)
-
-<figcaption>
-
-Phòng ăn và bếp
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/img_9764.jpg)
-
-<figcaption>
-
-Phòng ngủ lớn
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/img_9771.jpg)
-
-<figcaption>
-
-Hồ bơi riêng
-
-</figcaption>
-
-</figure>
+![Hồ bơi riêng](/images/img_9771.jpg)
 
 ![](/images/img_9776.jpg)
 
-### Dịch vụ
+## Dịch vụ
 
 Sau mùa dịch, vì cắt giảm nhân sự nên cũng là điều dễ hiểu khi dịch vụ có phần chậm hơn lúc trước. Từ gọi xe cho đến dọn phòng đều rất chậm. Gia đình mình đi bộ suốt trong bốn ngày tại đây vì ngộ ra đợi xe còn lâu hơn tự thân đi bộ. Cách hai ngày nhân viên mới dọn phòng một lần vì không đủ người hỗ trợ. Có hơi không hài lòng về dịch vụ một chút nhưng mình cũng hiểu được tình cảnh khó khăn của các doanh nghiệp trong mùa dịch Corona.
 

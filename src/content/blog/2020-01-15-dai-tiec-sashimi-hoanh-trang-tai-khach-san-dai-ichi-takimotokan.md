@@ -13,17 +13,7 @@ destination:
 
 Khách sạn chúng mình chọn cho đêm nghỉ hè cuối cùng tại Nhật chính là **[Dai-ichi Takimotokan](https://takimotokan.co.jp/en/)** – một trong những khách sạn onsen lớn nhất và cổ nhất tại [Noboribetsu](https://balodeplao.com/tan-huong-thien-duong-suoi-nuoc-nong-phong-phu-tai-noboribetsu-onsen/). Takimotokan nổi tiếng bởi mạch suối nước nóng ngầm đa dạng nhờ sở hữu [5/10 loại onsen](https://takimotokan.co.jp/en/spa/) tốt với sức khỏe con người như nước nóng lưu huỳnh, nước nóng muối khoáng, nước nóng phèn chua, nước nóng sắt sulfat và nước khoáng sodium.
 
-<figure>
-
-![](/images/takimotokan.jpg)
-
-<figcaption>
-
-Một trong những bể tắm onsen lớn tại Takimotokan
-
-</figcaption>
-
-</figure>
+![Một trong những bể tắm onsen lớn tại Takimotokan](/images/takimotokan.jpg)
 
 Tuy nhiên, theo mình ngoài khu suối nước nóng khổng lồ, Takimotokan còn ghi lại dấu ấn sâu đậm trong lòng thực khách nhờ những bữa tiệc buffet hải sản cực kỳ hoành tráng. Tuy chỉ qua đêm vài ngày ngắn ngủi tại đây nhưng niềm đam mê bất tận về sushi - sashimi của gia đình mình hoàn toàn được thoả mãn hihi.
 

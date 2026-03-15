@@ -33,17 +33,7 @@ Nếu bạn còn bỡ ngỡ chưa biết đi đâu làm gì ở Nhật thì hãy
 
 Bạn có thể bấm vào từng khu vực, thành phố ở Nhật Bản để xem danh sách các địa điểm tham quan nổi tiếng nhất. Sau đó điền tên các điểm tham quan này vào lịch trình lưu trú để hoàn thành hồ sơ xin visa.
 
-<figure>
-
-![](/images/japan-guide-kyoto-destination.jpg)
-
-<figcaption>
-
-Các địa điểm tham quan ở Kyoto, được phân loại bằng các dấu tròn dựa trên mức độ phổ biến. 3 chấm tròn là cực kỳ phổ biến, must visit!
-
-</figcaption>
-
-</figure>
+![Các địa điểm tham quan ở Kyoto, được phân loại bằng các dấu tròn dựa trên mức độ phổ biến. 3 chấm tròn là cực kỳ phổ biến, must visit!](/images/japan-guide-kyoto-destination.jpg)
 
 Bạn còn có thể tìm kiếm địa điểm tham quan dựa trên sở thích: Bảo tàng, Đền chùa, Nghệ thuật, Ẩm thực, hoặc tìm kiếm theo từng mùa trong năm. Japan-Guide có các mục phân loại rất hữu ích.
 
@@ -103,17 +93,7 @@ Bạn cũng có thể mua trên website [Klook](https://www.klook.com/vi/activit
 
 JR Pass nhậnđược từ đại ly bán chỉ là một tờ giấy A4 xác nhận, chưa thể sử dụng trực tiếp để đi đi tàu điện ở Nhật. Sau khi đến Nhật, bạn cần phải ghé văn phòng JR để đổi giấy xác nhận này thành cuốn sổ Japan Rail Pass như hình bên dưới.
 
-<figure>
-
-![](/images/japan-rail-pass.jpg)
-
-<figcaption>
-
-Japan Rail Pass
-
-</figcaption>
-
-</figure>
+![Japan Rail Pass](/images/japan-rail-pass.jpg)
 
 Trên tờ giấy xác nhận JR Pass có in sẵn địa điểm của các phòng vé JR tại các sân bay của Nhật để bạn dễ dàng tìm kiếm sau khi hạ cánh. Khi đổi qua vé JR Pass, bạn cần cung cấp ngày kích hoạt để sử dụng. Ngày kích hoạt phải trong vòng 30 ngày từ ngày đổi vé.
 

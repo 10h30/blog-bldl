@@ -30,7 +30,7 @@ Vợ chồng mình đều là phượt thủ từ lúc trước khi kết hôn. 
 
 Được ra mắt năm 2008, [**AirBnB**](https://balodeplao.com/go/airbnb/) là dịch vụ trung gian kết nối chủ nhà và khách du lịch bốn phương. Với AirBnB, bạn vừa có thể làm guest (khách)  để tìm kiếm một phòng ngủ hay một căn hộ cho chuyến hành trình kế tiếp của mình. Bạn cũng có thể trở thành host (chủ nhà), sử dụng AirBnB để quảng cáo cho thuê các căn phòng còn trống trong nhà hay các căn hộ bạn chưa dùng đến.
 
-https://balodeplao.com/trai-nghiem-du-lich-doc-dao-voi-airbnb/embed/#?secret=B12gP1S9fw
+<https://balodeplao.com/trai-nghiem-du-lich-doc-dao-voi-airbnb/embed/#?secret=B12gP1S9fw>
 
 Lần này tụi mình quyết định không ở trung tâm thành phố nữa mà chuyển ra ở 1 căn villa trên đường Xô Viết Nghệ Tĩnh, cách chợ hơn 3km, tên gọi [Tinghouse Hideaway](https://www.airbnb.com/rooms/45105089) ([https://www.airbnb.com/rooms/45105089](https://www.airbnb.com/rooms/45105089)). Giá thuê là khoảng $60/đêm cho nguyên căn villa rộng mênh mông, đủ chỗ ở cho 8 người lớn. Gia đình mình chỉ có 4 người nên cảm thấy cực kỳ thoải mái trong 2 ngày đầu ở đây.
 
@@ -38,77 +38,17 @@ Lần này tụi mình quyết định không ở trung tâm thành phố nữa 
 
 Căn nhà có hai khu vực phòng ngủ lớn, bếp, phòng khách và sân vườn…thật sự rất tiện lợi mà giá cả cũng hợp lý so với thuê khách sạn/resort không thoải mái riêng tư bằng. Các con tha hồ chạy nhảy, chơi đùa thoả thích trong không gian lớn. Còn mình thì thư thả ra vườn ngắm hoa, ngồi thiền trong không gian xanh rì mỗi sáng. Nơi đây khá xa trung tâm nên cực kỳ yên tĩnh, biệt lập thích hợp cho các bạn muốn “hide away” tịnh dưỡng.
 
-<figure>
+![Nhà có một trệt, một gác lửng và vườn cây xung quanh](/images/15014724-9DD0-4A51-9D21-93DBF93C2F5D-900x675.jpg)
 
-![](/images/15014724-9DD0-4A51-9D21-93DBF93C2F5D-900x675.jpg)
+![Phòng khách cũng là khu vực cả nhà quây quần ngồi ăn uống](/images/IMG_3015-900x675.jpg)
 
-<figcaption>
+![Một trong hai khu vực phòng ngủ. Một dưới trệt, một trên gác lửng](/images/IMG_3017-900x675.jpg)
 
-Nhà có một trệt, một gác lửng và vườn cây xung quanh
+![Khu vực nhà bếp](/images/IMG_3021-900x675.jpg)
 
-</figcaption>
+![Vườn nhỏ quanh nhà trồng đầy hoa hồng](/images/IMG_3050-675x900.jpg)
 
-</figure>
-
-<figure>
-
-![](/images/IMG_3015-900x675.jpg)
-
-<figcaption>
-
-Phòng khách cũng là khu vực cả nhà quây quần ngồi ăn uống
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/IMG_3017-900x675.jpg)
-
-<figcaption>
-
-Một trong hai khu vực phòng ngủ. Một dưới trệt, một trên gác lửng
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/IMG_3021-900x675.jpg)
-
-<figcaption>
-
-Khu vực nhà bếp
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/IMG_3050-675x900.jpg)
-
-<figcaption>
-
-Vườn nhỏ quanh nhà trồng đầy hoa hồng
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/IMG_3018-900x675.jpg)
-
-<figcaption>
-
-Nơi mình hay ngồi thiền và chill vào mỗi sáng
-
-</figcaption>
-
-</figure>
+![Nơi mình hay ngồi thiền và chill vào mỗi sáng](/images/IMG_3018-900x675.jpg)
 
 Do đêm cuối cùng ở lại ngoài dự kiến nên vợ chồng mình thuê một căn hộ AirBnB khác nhỏ nhắn ấm cúng hơn ngay trong trung tâm chợ Đà Lạt trên đường Trương Công Định. Giá chỉ $40/ đêm. Mình chọn đêm cuối ở gần trung tâm để tiện cho việc đi lại, mua sắm, ăn uống và dẫn các bé đi dạo chơi khu vực Hồ Xuân Hương hơn. Căn nhà này tuy nhỏ hơn nhưng ấm cúng hơn Ting House, ngủ ngon mê mệt về đêm.
 
@@ -118,17 +58,7 @@ Do đêm cuối cùng ở lại ngoài dự kiến nên vợ chồng mình thuê
 
 Là người ăn thuần chay, khi đi du lịch, mình thường mang theo một số đồ ăn thực dưỡng của [**Lành Kitchen**](https://lanhkitchen.com/) như pate hạt, sốt mayonnaise thuần chay, bánh năng lượng hạt thuần chay, granola ngũ cốc…để sẵn sàng nạp ngay năng lượng khi cần thiết.
 
-<figure>
-
-![](/images/IMG_3141-900x675.jpg)
-
-<figcaption>
-
-“Cô Lành” vào bếp
-
-</figcaption>
-
-</figure>
+![“Cô Lành” vào bếp](/images/IMG_3141-900x675.jpg)
 
 Nếu đến những nơi không có nhiều lựa chọn thì mình sẽ ăn rau, chồng và các con ăn thịt. Nói chung mình khá linh hoạt khi ăn chay trong lúc sống chung cùng gia đình miễn ai cũng thoải mái vui vẻ là được.
 
@@ -142,21 +72,11 @@ Các món ăn khác trong chuyến đi:
 - Nem nướng bà Hùng
 - Nhà hàng Chay Hoa Sen
 
-Các bạn có thể tham khảo bài viết về “Ẩm thực thành phố Hoa Đà Lạt” trên **[Blog du lịch và ẩm thực “Ba Lô Dép Lào”](https://balodeplao.com/)** của vợ chồng mình để biết thêm nhiều địa điểm ăn uống hấp dẫn nhé.https://balodeplao.com/am-thuc-thanh-pho-hoa-da-lat/embed/#?secret=cJ0pA9V12m
+Các bạn có thể tham khảo bài viết về “Ẩm thực thành phố Hoa Đà Lạt” trên **[Blog du lịch và ẩm thực “Ba Lô Dép Lào”](https://balodeplao.com/)** của vợ chồng mình để biết thêm nhiều địa điểm ăn uống hấp dẫn nhé.<https://balodeplao.com/am-thuc-thanh-pho-hoa-da-lat/embed/#?secret=cJ0pA9V12m>
 
 ## Vui chơi kiểu gia đình
 
-<figure>
-
-![](/images/IMG_3184-900x675.jpg)
-
-<figcaption>
-
-Dẫn bé nhà mình đi Rừng Thông Mơ Farm & Bistro
-
-</figcaption>
-
-</figure>
+![Dẫn bé nhà mình đi Rừng Thông Mơ Farm & Bistro](/images/IMG_3184-900x675.jpg)
 
 Địa điểm vui chơi lần này chỉ xoay quanh các khu công viên, quán cà phê thân thiện với trẻ em.
 
@@ -167,44 +87,24 @@ Dẫn bé nhà mình đi Rừng Thông Mơ Farm & Bistro
 - Dalat Mountain View (25 Hoàng Hoa Thám): quán cafe với view thung lũng buổi tối rất đẹp. Silk thích nhất chỗ này.
 - Married Beans (44 Hùng Vương): quán cafe rất rộng trên đường Hùng Vương.
 
-<figure>
-
-![](/images/IMG_3088-900x675.jpg)
-
-<figcaption>
-
-Cà phê tối đẹp mê mệt lại Đà Lạt – Still Cafe
-
-</figcaption>
-
-</figure>
+![Cà phê tối đẹp mê mệt lại Đà Lạt – Still Cafe](/images/IMG_3088-900x675.jpg)
 
 Ngoài ra còn vô số địa điểm vui chơi thú vị khác tại Đà Lạt mà các bạn có thể tìm đọc trên **[Blog du lịch và ẩm thực “Ba Lô Dép Lào”](https://balodeplao.com/)**
 
-https://balodeplao.com/3-quan-cafe-dep-khong-the-phot-lo-khi-den-da-lat/
+<https://balodeplao.com/3-quan-cafe-dep-khong-the-phot-lo-khi-den-da-lat/>
 
-https://balodeplao.com/danh-gia-quan-cafe-wood-stock-da-lat/
+<https://balodeplao.com/danh-gia-quan-cafe-wood-stock-da-lat/>
 
-https://balodeplao.com/danh-gia-quan-cafe-tui-mo-to-da-lat/
+<https://balodeplao.com/danh-gia-quan-cafe-tui-mo-to-da-lat/>
 
-https://balodeplao.com/danh-gia-quan-cafe-f-canh-dong-hoa-thanh-pho-da-lat/
+<https://balodeplao.com/danh-gia-quan-cafe-f-canh-dong-hoa-thanh-pho-da-lat/>
 
 ## Tập luyện nghiêm túc
 
 Dù ở đâu, làm gì thì lịch tập luyện của mình hầu như không thay đổi. Mình nhận thấy mình là con người của sự kỉ luật. Dù đi du lịch, mình đã quen thức dậy lúc 4g sáng rồi thiền 30 phút. Khi mặt trời chưa ló dạng và các con còn ngủ, mình đã xách giày đi chạy bộ gần nhà 45 phút – 1 tiếng. Sau đó mình tập yoga thêm 60-90 phút là đến giờ các bé dậy. Sau đó cả nhà cùng nhau ăn sáng và lên kế hoạch vi vu đi chơi. Việc tạo thói quen sinh hoạt – tập luyện đều đặn khiến mình duy trì một cơ thể săn chắc, tinh thần minh mẫn và tâm trạng lúc nào cũng sảng khoái vui vẻ.
 
-<figure>
+![Đường chạy sáng tại Đà Lạt của mình](/images/IMG_3108-900x675.jpg)
 
-![](/images/IMG_3108-900x675.jpg)
-
-<figcaption>
-
-Đường chạy sáng tại Đà Lạt của mình
-
-</figcaption>
-
-</figure>
-
-https://purna.vn/lam-the-nao-tao-duoc-thoi-quen-tot-trong-cuoc-song/
+<https://purna.vn/lam-the-nao-tao-duoc-thoi-quen-tot-trong-cuoc-song/>
 
 Kí sự vui chơi 4 ngày 3 đêm tại Đà Lạt 2020 đến đây xin hết. Cám ơn bạn đã quan tâm đọc đến cuối bài. Hẹn gặp lại Đà Lạt vào một ngày không xa!

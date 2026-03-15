@@ -22,17 +22,7 @@ Nhận ngay **$34 miễn phí** khi đăng ký tài khoản AirBnB ngay hôm nay
 
 Khi đi du lịch hay công tác, đa số mọi người sẽ lựa chọn resort hay khách sạn hoặc bình dân hơn là kiếm hostel giá rẻ để nghỉ lưng qua đêm. Những lựa chọn này có ưu điểm tiện lợi, an toàn nhưng thường vướng phải chi phí cao hoặc tiện nghi kém, chật chội. [AirBnB](https://balodeplao.com/go/airbnb/ "Airbnb") chính là sự thay thế hoàn hảo cho các vấn đề đó.
 
-<figure>
-
 ![AirBnB ra mắt năm 2008](/images/airbnb_logo.png)
-
-<figcaption>
-
-AirBnB ra mắt năm 2008
-
-</figcaption>
-
-</figure>
 
 Được ra mắt năm 2008, [**AirBnB**](https://balodeplao.com/go/airbnb/ "Airbnb") là dịch vụ trung gian kết nối chủ nhà và khách du lịch bốn phương. Với AirBnB, bạn vừa có thể làm guest (khách)  để tìm kiếm một phòng ngủ hay một căn hộ cho chuyến hành trình kế tiếp của mình. Bạn cũng có thể trở thành host (chủ nhà), sử dụng AirBnB để quảng cáo cho thuê các căn phòng còn trống trong nhà hay các căn hộ bạn chưa dùng đến.
 
@@ -56,17 +46,7 @@ Lời khuyên cho các bạn mới sử dụng dịch vụ này là luôn tìm
 
 Lần đầu tiên mình sử dụng AirBnB là trong chuyến du lịch [Singapore](https://balodeplao.com/location/singapore/ "Singapore") tháng 8/2014. Khi đó mình đặt một căn phòng ở gần khu Orchard Road với giá $100/đêm. Giá này chỉ là mức trung bình thấp so với chi phí sinh hoạt đắt đỏ ở Singapore. Nếu chọn khách sạn, với số tiền đó có lẽ mình chỉ kiếm được 1 căn phòng cực "mini" với diện tích dưới 10m2, thiếu tiện nghi mọi bề.
 
-<figure>
-
-![Đầy đủ tiện nghi cần thiết](/images/Singapore-AirBnB-03.jpg)
-
-<figcaption>
-
-Phòng ngủ của mình - Đầy đủ tiện nghi cần thiết
-
-</figcaption>
-
-</figure>
+![Phòng ngủ của mình - Đầy đủ tiện nghi cần thiết](/images/Singapore-AirBnB-03.jpg)
 
 Trong khi đó, khi đặt phòng với AirBnB, mình có được một căn phòng to khổng lồ, với một nhà vệ sinh rộng thênh thang. Ngoài ra trong phòng còn có sẵn máy giặt, bếp, bàn ủi,... tất cả mọi tiện nghi cần thiết cho một chuyến du lịch dài ngày. Quá tuyệt vời!
 

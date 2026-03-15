@@ -16,15 +16,15 @@ Chắc các bạn đang rất hồ hởi cũng như cực kỳ bận rộn để
 
 Tin đáng mừng hơn là các bạn có thể "xuất cung" du lịch đây đó an toàn trong nước rồi đấy. Điều này cũng dễ nhận ra khi các hình ảnh "xê dịch" ăn mừng hết cách ly lan tràn khắp mọi nơi. Nhà BLDL cũng không ngoại lệ hihi. Do cả hai vợ chồng mình đều có dấu hiệu "trầm cảm" sau bốn tháng ở nhà làm bảo mẫu trông trẻ, chôn chân không ra khỏi nhà nên hai đứa quyết định làm ngay một chuyến du lịch xả stress.
 
-## I. Lên rừng hay xuống biển?!
+## I. Lên rừng hay xuống biển?
 
 Giáng sinh hằng năm gia đình mình đều "về quê" Đà Lạt nên quyết định không lên rừng mà xuống biển kì này. Thêm vào đó, mấy đứa con nít đều mê tít chơi nước. Suy đi nghĩ lại, **Nha Trang là một địa điểm lý tưởng với biển sạch đẹp, hải sản tươi ngon, tắm bùn thú vị...hồi phục tinh thần buồn chán của BLDL.** Còn chần chừ gì mà không xách balo lên và đi!
 
-## II. Nghỉ dưỡng hay khám phá?!
+## II. Nghỉ dưỡng hay khám phá?
 
 **Do quá mệt mỏi và cần được thư giãn, tụi mình chọn nghỉ dưỡng** trong ba ngày ngắn ngủi cuối tuần. Thay vì tung hoành khám phá như các chuyến đi trước, gia đình BLDL quyết định chỉ "lười biếng" ăn ngủ - bơi chơi - tịnh dưỡng hồi phục mà thôi.
 
-## III. Resort hay khách sạn?!
+## III. Resort hay khách sạn?
 
 Với mục tiêu chill out tuyệt đối, mình chọn cách lười biếng trốn trong resort cách xa trung tâm thành phố. **Một lần nữa gia đình mình đều muốn quay trở lại [Movenpick Cam Ranh Resort](https://balodeplao.com/movenpick-cam-ranh-resort-diem-vui-choi-ly-tuong-cho-du-lich-gia-dinh/)** bởi những ấn tượng ban đầu quá tốt đẹp in sâu từ tháng 12 năm ngoái.
 
@@ -36,17 +36,9 @@ Với mục tiêu chill out tuyệt đối, mình chọn cách lười biếng t
 - Trẻ em dưới 6 tuổi được ăn miễn phí với menu gọi món riêng.
 - Gần sát sây bay Cam Ranh, rất tiện cho các chuyến nghĩ dưỡng tốc hành.
 
-<figure>
-
-https://balodeplao.com/movenpick-cam-ranh-resort-diem-vui-choi-ly-tuong-cho-du-lich-gia-dinh/
-
-<figcaption>
+<https://balodeplao.com/movenpick-cam-ranh-resort-diem-vui-choi-ly-tuong-cho-du-lich-gia-dinh/>
 
 Gia đình BLDL tại **[Movenpick Cam Ranh Resort](https://balodeplao.com/movenpick-cam-ranh-resort-diem-vui-choi-ly-tuong-cho-du-lich-gia-dinh/)** vào Giáng Sinh năm ngoái
-
-</figcaption>
-
-</figure>
 
 ##  IV. Công cuộc chuẩn bị
 
@@ -80,17 +72,7 @@ Thực tế đúng là như vậy!
 
 Nếu bạn chuẩn bị đi du lịch trong thời gian sắp tới, nhớ chủ động khai báo y tế trên website [tokhaiyte.vn](https://tokhaiyte.vn/) trước ở nhà để tránh cập rập khi ra sân bay. Sau khi hoàn thành tờ khai, lấy máy ảnh chụp lại barcode, cùng thông tin ngày khởi hành, số hiệu phương tiện là xong.[**Tham khảo thêm:**  Tiếp tục tung tăng ngược xuôi khám phá Đà Lạt chiều thứ bảy](https://yeuchaybo.com/tung-tang-nguoc-xuoi-kham-pha-da-lat-chieu-thu-bay/)
 
-<figure>
-
-![](/images/khai-bao-y-te.jpg)
-
-<figcaption>
-
-Thông tin khai báo y tế
-
-</figcaption>
-
-</figure>
+![Thông tin khai báo y tế](/images/khai-bao-y-te.jpg)
 
 Chuyến đi Sài Gòn – Cam Ranh mình không nhớ khai báo y tế, ra đến sân bay mới làm, cập rập tốn thời gian.
 
@@ -114,29 +96,9 @@ Chuyến đi hồi tháng 12 trời lạnh, nước lạnh nên hồ bơi riêng
 
 Do resort vắng khách nên khu vui chơi Kid Club mà Silk thích mê đã bị đóng cửa. Chỉ còn 1 khu vui chơi bên làng Thụy Sĩ còn mở, nhưng bên này không đẹp và ấn tượng như bên kia.
 
-<figure>
+![Khu trò chơi trẻ em Kid Club hiện tại đang đóng cửa. Ảnh chụp hồi chuyến đi tháng 12/2019](/images/movenpick-cam-ranh-resort-kid-club.jpg)
 
-![](/images/movenpick-cam-ranh-resort-kid-club.jpg)
-
-<figcaption>
-
-Khu trò chơi trẻ em Kid Club hiện tại đang đóng cửa. Ảnh chụp hồi chuyến đi tháng 12/2019
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/movenpick-cam-ranh-resort-5.jpg)
-
-<figcaption>
-
-Nhà phao bên khu vui chơi thiếu nhi ở Swiss Village. Silk thích mê chỗ này!
-
-</figcaption>
-
-</figure>
+![Nhà phao bên khu vui chơi thiếu nhi ở Swiss Village. Silk thích mê chỗ này!](/images/movenpick-cam-ranh-resort-5.jpg)
 
 Ngay khu trung tâm resort có hệ thống máng trượt nước nhưng cả nhà mình đều không hứng thú:
 
@@ -147,45 +109,15 @@ Ngay khu trung tâm resort có hệ thống máng trượt nước nhưng cả n
 
 Đã đi nghỉ dưỡng thì không thể thiếu Bia Craft. Mình mang theo 6 lon bia: 3 East West, 3 Pasteur Brew để có thể nhâm nhi bất kỳ lúc nào.
 
-<figure>
-
-![](/images/mvenpick-cam-ranh-resort-craft-beer.jpg)
-
-<figcaption>
-
-Bia luôn sẵn sàng trong tủ lạnh
-
-</figcaption>
-
-</figure>
+![Bia luôn sẵn sàng trong tủ lạnh](/images/mvenpick-cam-ranh-resort-craft-beer.jpg)
 
 Resort có 3 nhà hàng nhưng do vắng khách nên đóng cửa hết 2, chỉ còn duy nhất nhà hàng Tropicana sát biển còn hoạt động. Gia đình mình chỉ ăn trưa ngày đầu tiên (tốn tiền) ở đây và 2 bữa ăn sáng (miễn phí). Các bữa ăn còn lại đều thưởng thức hải sản bên ngoài.
 
 Sau khi Google, mình phát hiện cách Movenpick khoảng 7km có 1 khu vực nhà hàng hải sản chuyên phục vụ khách du lịch. Mình chọn **Nhà Hàng Cầu Mới** làm điểm ăn tối cho gia đình.
 
-<figure>
+![Silk thích ăn ốc hương nướng.](/images/movenpick-cam-ranh-resort-7.jpg)
 
-![](/images/movenpick-cam-ranh-resort-7.jpg)
-
-<figcaption>
-
-Silk thích ăn ốc hương nướng.
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/movenpick-cam-ranh-resort-6.jpg)
-
-<figcaption>
-
-Thực đơn nhà hàng
-
-</figcaption>
-
-</figure>
+![Thực đơn nhà hàng](/images/movenpick-cam-ranh-resort-6.jpg)
 
 Chi phí cho bữa tối tốn 500.000, thêm tiền taxi 250.000. Tổng cộng 750.000 cho bữa tối hải sản ngon lành. Các bữa ăn sau mình không đi taxi ra nữa mà liên hệ trực tiếp nhà hàng để giao hàng đến resort. Chi phí giao hàng: 50.000 / lần.
 
@@ -197,44 +129,14 @@ Nhà hàng Cầu Mới: [0258 3989 057](tel:02583989057)
 
 Bên cạnh việc ăn ngủ chơi bời, cả nhà mình cũng tập luyện hăng say không kém. Hai đứa nhỏ bơi ngày bơi đêm từ biển ra hồ bơi. Hai đứa lớn thay phiên nhau chạy bộ, đạp xe, bơi lội tưng bừng. Vì vậy mà đi chơi không sợ mập! Ăn no rồi tập dữ, tối ngủ siêu ngon luôn bạn ơi.
 
-<figure>
+![Bơi nè!](/images/23028ab2-1b9e-483f-8c5d-d36da692af5d.jpg)
 
-![](/images/23028ab2-1b9e-483f-8c5d-d36da692af5d.jpg)
+![Tập yoga](/images/72330c3a-bed8-4307-90ad-16f236502c37.jpg)
 
-<figcaption>
-
-Bơi nè!
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/72330c3a-bed8-4307-90ad-16f236502c37.jpg)
-
-<figcaption>
-
-Tập yoga
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/exif_temp_image.jpg)
-
-<figcaption>
-
-Chạy bộ và đạp xe
-
-</figcaption>
-
-</figure>
+![Chạy bộ và đạp xe](/images/exif_temp_image.jpg)
 
 Thế là mình đã chia sẻ xong tất cả mọi chi tiết của chuyến đi nghỉ dưỡng Nha Trang kì này. Hi vọng với những mẹo hay khi du lịch đến Nha Trang, gia đình bạn sẽ có một chuyến đi hoàn hảo hơn. Chúc mọi người đi chơi vui vẻ nhe!
 
 Trích dẫn: Blog Yêu Chạy Bộ.
 
-https://yeuchaybo.com/ky-su-di-choi-nghi-duong-cam-ranh-3n2d-chua-benh-runners-blues-chan-doi/
+<https://yeuchaybo.com/ky-su-di-choi-nghi-duong-cam-ranh-3n2d-chua-benh-runners-blues-chan-doi/>

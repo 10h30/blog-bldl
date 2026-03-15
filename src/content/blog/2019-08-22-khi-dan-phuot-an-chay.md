@@ -46,17 +46,7 @@ Có người ăn chay trường (tất cả các ngày trong năm), cũng có ng
 
 ## Ăn chay sao cho đủ chất?
 
-<figure>
-
-![](/images/dscf6409.jpg)
-
-<figcaption>
-
-Burger thuần chay của mình tự chế biênd
-
-</figcaption>
-
-</figure>
+![Burger thuần chay của mình tự chế bien](/images/dscf6409.jpg)
 
 Người ăn chay nên bảo đảm đủ những nhóm dinh dưỡng chính: chất xơ, đường, protein, vitamin, khoáng chất…Sau đây là những nhóm thực phẩm bạn nên sử dụng cho chế độ ăn chay đủ chất:
 
@@ -81,29 +71,9 @@ Giờ đây, sau khi hoàn thành nghĩa vụ "hai con hai nách", mình chuyể
 
 Những món ăn của mình chế biến ưu tiên sử dụng nguyên liệu tươi, hữu cơ, có lợi cho sức khỏe và hoàn toàn không có chất bảo quản. Thành phần chính là các  loại hạt nguyên chất bổ dưỡng như hạnh nhân, quả óc chó, hạt điều, hạt lanh… cung cấp nguồn dinh dưỡng dồi dào và lành mạnh cho sức khoẻ mọi người ngay cả phụ nữ mang thai và trẻ em.
 
-<figure>
+![Gỏi cuốn thuần chay](/images/dscf6039.jpg)
 
-![](/images/dscf6039.jpg)
-
-<figcaption>
-
-Gỏi cuốn thuần chay.
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](/images/dscf6748.jpg)
-
-<figcaption>
-
-Súp bí đỏ thuần chay.
-
-</figcaption>
-
-</figure>
+![Súp bí đỏ thuần chay](/images/dscf6748.jpg)
 
 Nhiều bạn hỏi mình làm sao để có thể ăn chay được khi đang đi du lịch. Và mình đã có câu trả lời cho các bạn ngay trong bài viết tổng hợp kinh nghiệm ăn chay trong lúc phượt của mình.
 

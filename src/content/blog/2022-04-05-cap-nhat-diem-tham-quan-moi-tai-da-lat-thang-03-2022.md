@@ -88,17 +88,7 @@ Thiết kế của quán sẽ thiên hướng Vintage, phù hợp với những 
 
 Điều làm mình ấn tượng là nhân viên ở đây cực kì thân thiện, ai cũng dễ thương và nhiệt tình.
 
-<figure>
-
-![](/images/img-2469-2.jpg)
-
-<figcaption>
-
-Cafe Trứng ở Lưng Chừng rất ngon!
-
-</figcaption>
-
-</figure>
+![Cafe Trứng ở Lưng Chừng rất ngon!](/images/img-2469-2.jpg)
 
 ## Quán cơm Ngày ba bữa
 
