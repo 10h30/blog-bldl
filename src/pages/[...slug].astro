@@ -1,6 +1,8 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import Schema from "@/components/seo/Schema.astro";
+import Tags from "@/components/ui/Tags.astro";
+import Categories from "@/components/ui/Categories.astro";
 
 import { getCollection, render } from "astro:content";
 
@@ -14,7 +16,8 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content, remarkPluginFrontmatter } = await render(post);
-const { title, description, pubDate, author, image } = post.data;
+const { title, description, pubDate, author, image, categories, tags } =
+  post.data;
 
 const formattedDate = pubDate.toLocaleDateString("vi-VN", {
   year: "numeric",
@@ -48,6 +51,13 @@ const metadata = {
   <section class="relative px-4 py-8 sm:px-6 lg:px-8 md:py-12">
     <div class="relative mx-auto max-w-3xl">
       <div class="reveal mb-10 text-center">
+        {
+          categories && categories.length > 0 && (
+            <div class="mb-3 flex flex-wrap justify-center gap-2">
+              <Categories categories={categories} />
+            </div>
+          )
+        }
         <p class="text-sm font-semibold tracking-wide text-primary uppercase">
           {formattedDate} • {author}
           {readingTime && ` • ${readingTime}`}
@@ -72,6 +82,13 @@ const metadata = {
       >
         <Content />
       </div>
+      {
+        tags && tags.length > 0 && (
+          <div class="mt-4 relative z-20">
+            <Tags tags={tags} />
+          </div>
+        )
+      }
     </div>
   </section>
 </BaseLayout>
