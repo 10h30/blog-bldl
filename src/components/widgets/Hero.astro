@@ -34,6 +34,7 @@ const heroImage = toR2Url(bgImage);
     heroImage && (
       <Fragment slot="bg">
         <img
+          fetchpriority="high"
           src={heroImage}
           alt=""
           aria-hidden="true"
