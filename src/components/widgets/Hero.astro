@@ -4,6 +4,7 @@ import type { HeroProps } from "@/types/types";
 import Headline from "@/components/ui/Headline.astro";
 import Button from "@/components/ui/Button.astro";
 import { Icon } from "astro-icon/components";
+import { toR2Url } from "@/utils/r2";
 
 const {
   title = await Astro.slots.render("title"),
@@ -19,6 +20,7 @@ const {
 } = Astro.props as HeroProps;
 
 const { container: containerClassProp = "" } = classes;
+const heroImage = toR2Url(bgImage);
 ---
 
 <WidgetWrapper
@@ -29,10 +31,10 @@ const { container: containerClassProp = "" } = classes;
   animate={animate}
 >
   {
-    bgImage && (
+    heroImage && (
       <Fragment slot="bg">
         <img
-          src={bgImage}
+          src={heroImage}
           alt=""
           aria-hidden="true"
           class="absolute inset-0 h-full w-full object-cover"
@@ -41,7 +43,7 @@ const { container: containerClassProp = "" } = classes;
       </Fragment>
     )
   }
-  <div class:list={["text-center", { "relative z-10": bgImage }]}>
+  <div class:list={["text-center", { "relative z-10": heroImage }]}>
     {
       tagline && (
         <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/10 border border-primary/20 text-primary text-xs font-semibold mb-6">
@@ -61,8 +63,8 @@ const { container: containerClassProp = "" } = classes;
           titleAs="h1"
           classes={{
             container: "mb-0 max-w-none",
-            title: `text-5xl md:text-7xl font-extrabold tracking-tight mb-6 ${bgImage ? "text-white" : "text-foreground"}`,
-            subtitle: `max-w-2xl mx-auto text-xl mb-10 ${bgImage ? "text-white/80" : "text-muted-foreground"}`,
+            title: `text-5xl md:text-7xl font-extrabold tracking-tight mb-6 ${heroImage ? "text-white" : "text-foreground"}`,
+            subtitle: `max-w-2xl mx-auto text-xl mb-10 ${heroImage ? "text-white/80" : "text-muted-foreground"}`,
           }}
         />
       )
