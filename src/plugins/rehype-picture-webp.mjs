@@ -1,4 +1,14 @@
 import { visit } from "unist-util-visit";
+import { R2_BASE } from "../config/r2.mjs";
+
+const WIDTHS = [480, 800, 1200];
+const SIZES = "(max-width: 640px) 100vw, (max-width: 1024px) 80vw, 1200px";
+
+function buildTransformUrl(src, width) {
+  // Extract path từ full URL
+  const path = src.replace(R2_BASE, "");
+  return `${R2_BASE}/cdn-cgi/image/width=${width},format=auto,onerror=redirect${path}`;
+}
 
 export function rehypePictureWebp() {
   return (tree) => {
@@ -9,27 +19,37 @@ export function rehypePictureWebp() {
       const src = node.properties?.src || "";
 
       // Chỉ xử lý ảnh từ R2
-      if (!src.includes("media.balodeplao.com")) return;
-      if (!/\.(jpe?g|png)$/i.test(src)) return;
+      if (!src.startsWith(R2_BASE)) return;
 
-      /* const webpSrc = src.replace(/\.(jpe?g|png)$/i, ".webp"); */
+      // Tạo srcset với nhiều width
+      const srcset = WIDTHS.map(
+        (w) => `${buildTransformUrl(src, w)} ${w}w`,
+      ).join(", ");
 
-      // Wrap <img> thành <picture> với WebP source + fallback
+      const defaultSrc = buildTransformUrl(src, 800);
+
       parent.children[index] = {
         type: "element",
         tagName: "picture",
         properties: {},
         children: [
-          /*  {
+          {
             type: "element",
             tagName: "source",
-            properties: { type: "image/webp", srcSet: webpSrc },
+            properties: {
+              type: "image/webp",
+              srcSet: srcset,
+              sizes: SIZES,
+            },
             children: [],
-          }, */
+          },
           {
             ...node,
             properties: {
               ...node.properties,
+              src: defaultSrc,
+              srcSet: srcset,
+              sizes: SIZES,
               loading: "lazy",
               decoding: "async",
             },
