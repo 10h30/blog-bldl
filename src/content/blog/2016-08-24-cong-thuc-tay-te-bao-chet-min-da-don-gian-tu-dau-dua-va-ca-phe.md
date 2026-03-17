@@ -8,11 +8,11 @@ image: "/images/cafe-cover.jpg"
 slug: "cong-thuc-tay-te-bao-chet-min-da-don-gian-tu-dau-dua-va-ca-phe"
 ---
 
-Phần đông phụ nữ chúng ta ai cũng mong muốn một [làn da trắng, căng mịn và bóng loáng](https://balodeplao.com/da-trang-min-voi-mat-na-tra-xanh-dau-dua/) như các diễn viên Hàn Quốc phải không?!  <img src="images/1F60A.png" width="18">Một trong những giải phảp đơn giản là bạn nên thường xuyên **tẩy tế bào chết**.
+Phần đông phụ nữ chúng ta ai cũng mong muốn một [làn da trắng, căng mịn và bóng loáng](https://balodeplao.com/da-trang-min-voi-mat-na-tra-xanh-dau-dua/) như các diễn viên Hàn Quốc phải không?!  <img src="/images/1F60A.png" width="18">Một trong những giải phảp đơn giản là bạn nên thường xuyên **tẩy tế bào chết**.
 
 Trong bài viết kì này của chuyên mục "Làm đẹp", mình muốn chia sẻ cho phái đẹp một công thức vừa giúp tẩy tế bào chết vừa làm mềm da cực kì đơn giản mà hiệu quả. Các bạn chỉ cần mất 15 phút mỗi lần là có thể sỡ hữu làn da trắng mịn lên trông thấy.
 
-Đầu tiên mình muốn nói sơ qua về công dụng của việc tẩy tế bào chết với công cuộc làm đẹp, sau đó sẽ bật mí ngay công thức bí mật đó nhé <img src="images/1F609.png" width="18">
+Đầu tiên mình muốn nói sơ qua về công dụng của việc tẩy tế bào chết với công cuộc làm đẹp, sau đó sẽ bật mí ngay công thức bí mật đó nhé <img src="/images/1F609.png" width="18">
 
 ### **Tẩy tế bào chết là gì?**
 
@@ -44,7 +44,7 @@ Bạn chỉ cần trộn đều tất cả nguyên liệu trên vào một cái 
 
 ![](/images/dau-dua-ca-fe-1.jpg)
 
-Tốt nhất là bạn nên thực hiện tẩy bào chết trong phòng tắm, ngồi thư giãn, có thể thưởng thức thêm chút  âm nhạc càng tốt. Vừa dễ dàng vừa thoải mái hơn phải không các bạn <img src="images/1F60D.png" width="18">. Hoàn thành quá trình tẩy tế bào chết, bạn chỉ cần tắm sơ lại người và đừng quên thoa lotion/serum dưỡng ẩm da mà bạn đang dùng nhé!
+Tốt nhất là bạn nên thực hiện tẩy bào chết trong phòng tắm, ngồi thư giãn, có thể thưởng thức thêm chút  âm nhạc càng tốt. Vừa dễ dàng vừa thoải mái hơn phải không các bạn <img src="/images/1F60D.png" width="18">. Hoàn thành quá trình tẩy tế bào chết, bạn chỉ cần tắm sơ lại người và đừng quên thoa lotion/serum dưỡng ẩm da mà bạn đang dùng nhé!
 
 Các bạn có thể tham khảo thêm [các bài viết làm đẹp đơn giản khác cùng dầu dừa nguyên chất](https://balodeplao.com/lam-dep-tu-dau-den-chan-voi-dau-dua-nguyen-chat-phan-2/) để biết thêm nhiều công thức làm đẹp tự nhiên, rẻ tiền mà cực kì hiệu quả nhé. Ngoài ra, BLDL Shop còn là địa điểm bán [dầu dừa nguyên chất từ xứ dừa Phú Yên](https://balodeplao.com/shop/dau-dua-nguyen-chat-phu-yen/) nữa đó nhe. Các bạn có thể tham khảo link sản phẩm bên dưới
 

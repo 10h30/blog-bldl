@@ -44,4 +44,4 @@ https://balodeplao.com/chia-se-kinh-nghiem-tap-boi-som-cho-tre-so-sinh/
 
 https://balodeplao.com/chia-se-4-meo-nho-giup-be-nhanh-biet-noi/
 
-Các kỹ năng trên vừa giúp bé có nếp sinh hoạt tốt vừa giúp mẹ nhàn hạ, có nhiều thời gian hơn cho bản thân và cho ba <img src="images/1F601.png" width="18"> Chúc các bạn thành công nhé! Nếu các mẹ bỉm sữa có bất cứ thắc mắc nào cứ tự nhiên chia sẻ gửi về BLDL nhé.
+Các kỹ năng trên vừa giúp bé có nếp sinh hoạt tốt vừa giúp mẹ nhàn hạ, có nhiều thời gian hơn cho bản thân và cho ba <img src="/images/1F601.png" width="18"> Chúc các bạn thành công nhé! Nếu các mẹ bỉm sữa có bất cứ thắc mắc nào cứ tự nhiên chia sẻ gửi về BLDL nhé.

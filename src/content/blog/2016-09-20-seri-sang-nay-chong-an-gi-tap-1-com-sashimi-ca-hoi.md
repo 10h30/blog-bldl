@@ -8,9 +8,9 @@ image: "/images/com-sashimi-ca-hoi-bldl05.jpg"
 slug: "seri-sang-nay-chong-an-gi-tap-1-com-sashimi-ca-hoi"
 ---
 
-Con nhỏ, việc nước, chuyện nhà...đủ mọi gánh nặng đè lên vai người phụ nữ. Bởi bản chất của phụ nữ là hi sinh, là đảm đang, là tảo tần nên cứ thế mà chúng ta cứ quay cuồng cố gắng quán xuyến mọi thứ sao cho tốt nhất. Do đó, để giữ hạnh phúc gia đình, người chồng nên là người bạn thân của vợ, chia sẻ, quan tâm, chủ động phụ giúp "cô ấy" bất cứ lúc nào. Thật may mắn, điều này Ba lô làm rất tốt! <img src="images/1F609.png" width="18">
+Con nhỏ, việc nước, chuyện nhà...đủ mọi gánh nặng đè lên vai người phụ nữ. Bởi bản chất của phụ nữ là hi sinh, là đảm đang, là tảo tần nên cứ thế mà chúng ta cứ quay cuồng cố gắng quán xuyến mọi thứ sao cho tốt nhất. Do đó, để giữ hạnh phúc gia đình, người chồng nên là người bạn thân của vợ, chia sẻ, quan tâm, chủ động phụ giúp "cô ấy" bất cứ lúc nào. Thật may mắn, điều này Ba lô làm rất tốt! <img src="/images/1F609.png" width="18">
 
-Tuy nhiên, đôi khi do quá bận rộn, chính phụ nữ chúng ta lại quên mất đi "người bạn đồng hành" đáng yêu của mình. Không cần làm gì quá to tát! Một bữa sáng ngon miệng do chính vợ xắn tay áo chuẩn bị cũng đủ bồi đắp tình cảm vợ chồng <img src="images/1F60D.png" width="18">.
+Tuy nhiên, đôi khi do quá bận rộn, chính phụ nữ chúng ta lại quên mất đi "người bạn đồng hành" đáng yêu của mình. Không cần làm gì quá to tát! Một bữa sáng ngon miệng do chính vợ xắn tay áo chuẩn bị cũng đủ bồi đắp tình cảm vợ chồng <img src="/images/1F60D.png" width="18">.
 
 Đây là bài viết đầu tiên cho chuỗi seri **"Sáng nay chồng ăn gì?"**. Qua đó, mình muốn chia sẻ với những người vợ bận rộn công thức những món ăn ngon cực kì đơn giản, không mất quá nhiều thời gian của các bạn mà vẫn khiến gia đình hạnh phúc và ngon miệng .
 

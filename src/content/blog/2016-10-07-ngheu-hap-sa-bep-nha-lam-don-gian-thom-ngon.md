@@ -31,7 +31,7 @@ Nghêu tươi:
 
 ![](/images/ngheu-hap-sa-bldl01.jpg)
 
-Để món món nghêu hấp sả thơm ngon đúng điệu, việc sơ chế nghêu sao cho sạch đóng vai trò hết sức quan trọng. Mình nhớ mãi thất bại lần đầu tiên nồi nghêu hấp sả của mình đen thui thùi lùi đầy đất cát do không rửa nghêu sạch <img src="images/1F602.png" width="18">
+Để món món nghêu hấp sả thơm ngon đúng điệu, việc sơ chế nghêu sao cho sạch đóng vai trò hết sức quan trọng. Mình nhớ mãi thất bại lần đầu tiên nồi nghêu hấp sả của mình đen thui thùi lùi đầy đất cát do không rửa nghêu sạch <img src="/images/1F602.png" width="18">
 
 Sả: Bạn cắt bỏ gốc, rửa sạch, đập dập, cắt khúc 5cm
 
@@ -63,4 +63,4 @@ Bạn trộn đều 2 thìa nước mắm, 2 thìa đường, 1 thìa tỏi băm
 
 Chúc các bạn thành công với món nghêu hấp sả bếp nhà làm nhé. Thơm ngon, an toàn, sạch sẽ, bảo đảm không đau bụng bạn ha.
 
-Cuối tuần rồi! Quẫy thôi các bạn ơi <img src="images/1F601.png" width="18">
+Cuối tuần rồi! Quẫy thôi các bạn ơi <img src="/images/1F601.png" width="18">

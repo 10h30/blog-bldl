@@ -11,7 +11,7 @@ destination:
   - "nhat-ban"
 ---
 
-Sau [hai ngày đầu tiên mãn nhãn khám phá Cố đô Kyoto xinh đẹp](https://balodeplao.com/nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-2-3-kham-pha-co-do-kyoto-xinh-dep/), BLDL quyết định vác ba lô bắt tàu thẳng tiến đến thành phố Naraaaaa <img src="images/1F617.png" width="18">! **Nara** - thủ phủ của tỉnh Nara, thuộc vùng Kansai, gần Kyoto - là thủ đô đầu tiên của đất nước mặt trời mọc và là một trong những địa điểm tham quan thu hút khá đông khách du lịch khi đến với Nhật Bản.
+Sau [hai ngày đầu tiên mãn nhãn khám phá Cố đô Kyoto xinh đẹp](https://balodeplao.com/nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-2-3-kham-pha-co-do-kyoto-xinh-dep/), BLDL quyết định vác ba lô bắt tàu thẳng tiến đến thành phố Naraaaaa <img src="/images/1F617.png" width="18">! **Nara** - thủ phủ của tỉnh Nara, thuộc vùng Kansai, gần Kyoto - là thủ đô đầu tiên của đất nước mặt trời mọc và là một trong những địa điểm tham quan thu hút khá đông khách du lịch khi đến với Nhật Bản.
 
 Cũng giống như Cố đô Kyoto, Thành phố Nara tuy không rộng lớn nhưng sở hữu nét duyên thầm, trầm mặc, cổ kính, lưu giữ giá trị văn hoá và nghệ thuật cổ xưa nhất của Nhật Bản. Điểm cực kì thú vị ở thành phố này là chúng ta có thể _nhìn và chạm vào những chú nai được thả rong khắp nơi_ vì nai ở đây được xem là sứ giả của thần linh, là hiện thân của những điều linh thiêng tốt đẹp.
 
@@ -41,11 +41,11 @@ Từ Kyoto đến Nara: BLDL đến ga Kyoto bắt tuyến đi thẳng từ Ga J
 
 ![](/images/nara-bldl06.jpg)
 
-Mất khoảng 150 yên cho một xấp bánh quy, bạn có thể dùng cho nai ăn cũng như bó cỏ 5.000VND cho dê ăn ở Sở Thú vậy. Sau những lần cho Silk [thăm thú ở công viên Đầm Sen](https://balodeplao.com/nhat-ky-du-ngoan-cuoi-tuan-cong-vien-dam-sen-cung-silk/) hay Sở Thú, hai vợ chồng mình càng hào hứng hơn đón xem buổi gặp gỡ đầu tiên của Silk và nai như thế nào <img src="images/1F61B.png" width="18">!
+Mất khoảng 150 yên cho một xấp bánh quy, bạn có thể dùng cho nai ăn cũng như bó cỏ 5.000VND cho dê ăn ở Sở Thú vậy. Sau những lần cho Silk [thăm thú ở công viên Đầm Sen](https://balodeplao.com/nhat-ky-du-ngoan-cuoi-tuan-cong-vien-dam-sen-cung-silk/) hay Sở Thú, hai vợ chồng mình càng hào hứng hơn đón xem buổi gặp gỡ đầu tiên của Silk và nai như thế nào <img src="/images/1F61B.png" width="18">!
 
 ![Ba Silk lấy làm thích thú với việc cho nai ăn, còn Silk la ó ỏm tỏi sợ hãi.](/images/nara-bldl25.jpg)
 
-Ui! Trái ngược với phần đồng trẻ em ở Nhật, các e thấy nai là nhào tới chạm sờ ôm hôn hít rối rít. Còn Silk mặt hãi hùng la hét kinh hoàng khi bị nai tấn công. Thất bại từ lần gặp đầu tiên haizzz <img src="images/1F60F.png" width="18">.
+Ui! Trái ngược với phần đồng trẻ em ở Nhật, các e thấy nai là nhào tới chạm sờ ôm hôn hít rối rít. Còn Silk mặt hãi hùng la hét kinh hoàng khi bị nai tấn công. Thất bại từ lần gặp đầu tiên haizzz <img src="/images/1F60F.png" width="18">.
 
 ![Ánh mắt cực kì dè chừng các bạn nai](/images/nara-bldl04.jpg)
 
@@ -63,7 +63,7 @@ Vừa bước vào chùa, bạn sẽ choáng ngợp trước vẻ đẹp hoành 
 
 ![](/images/nara-chua-todaiji.jpg)
 
-Mình nhắc khéo các bạn tí! Ở góc cuối của điện thờ có một cây cột gỗ nổi tiếng với một lỗ hổng dưới chân cột mà theo truyền thuyết người nào chui qua được lỗ này sẽ gặp nhiều may mắn. Do con nít xếp hàng chui qua đông quá nên hai đứa già bọn mình không bon chen! Đợi Silk lớn tí, cả nhà quay lại nơi này cùng bò qua lấy hên vậy <img src="images/1F601.png" width="18">.
+Mình nhắc khéo các bạn tí! Ở góc cuối của điện thờ có một cây cột gỗ nổi tiếng với một lỗ hổng dưới chân cột mà theo truyền thuyết người nào chui qua được lỗ này sẽ gặp nhiều may mắn. Do con nít xếp hàng chui qua đông quá nên hai đứa già bọn mình không bon chen! Đợi Silk lớn tí, cả nhà quay lại nơi này cùng bò qua lấy hên vậy <img src="/images/1F601.png" width="18">.
 
 ### 3. Chùa Kofuku
 
@@ -81,7 +81,7 @@ Kết thúc hành trình ghé thăm Nara là một bữa ăn hoành tráng tại
 
 ![](/images/nara-bldl14.jpg)
 
-Với một đống tiền xu trong tay, mình đi dạo thăm tất cả các gian rồi rinh về kha khá các dĩa thức ăn thơm ngon hấp dẫn. Hai đứa ngồi nhăm nhi từng món ngon một, hít khí trời trong lành, ngắm nhìn mọi người, tận hưởng hết mức cái sướng của việc ĂN trong lúc Silk... đang ngủ trong xe <img src="images/1F604.png" width="18">.
+Với một đống tiền xu trong tay, mình đi dạo thăm tất cả các gian rồi rinh về kha khá các dĩa thức ăn thơm ngon hấp dẫn. Hai đứa ngồi nhăm nhi từng món ngon một, hít khí trời trong lành, ngắm nhìn mọi người, tận hưởng hết mức cái sướng của việc ĂN trong lúc Silk... đang ngủ trong xe <img src="/images/1F604.png" width="18">.
 
 ![](/images/nara-bldl15.jpg)
 
@@ -91,4 +91,4 @@ Với một đống tiền xu trong tay, mình đi dạo thăm tất cả các g
 
 \--------
 
-Xong bài viết về Nara rồi. Chúc các bạn có khoảng thời gian thú vị với các chú nai ở Nara nhé. Hẹn gặp các bạn trong những bài viết mới của serie bài viết chia sẻ kinh nghiệm du lịch Nhật Bản tự túc nhé <img src="images/1F609.png" width="18">
+Xong bài viết về Nara rồi. Chúc các bạn có khoảng thời gian thú vị với các chú nai ở Nara nhé. Hẹn gặp các bạn trong những bài viết mới của serie bài viết chia sẻ kinh nghiệm du lịch Nhật Bản tự túc nhé <img src="/images/1F609.png" width="18">

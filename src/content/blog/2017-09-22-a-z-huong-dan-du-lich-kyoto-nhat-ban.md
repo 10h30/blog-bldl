@@ -11,7 +11,7 @@ destination:
   - "kyoto"
 ---
 
-Kyoto là thành phố mình yêu thích nhất trong chuyến du lịch đến Nhật Bản. Đến với Kyoto, mình không thể đếm hết có bao nhiêu khu vườn, đền thờ, chùa chiền cũng như bất tận các khu trung tâm mua sắm và nhà hàng nổi tiếng. Mình thích lang thang trên những con đường nhỏ cổ kính, ghé thăm hết ngôi đền này đến đền khác, ngắm nhìn những khu vườn bình yên, đi xuyên qua rừng tre và len lỏi khám phá hết mọi ngõ ngách của Kyoto. Với mình, [ba ngày tại Cố đô Kyoto](https://balodeplao.com/nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-2-3-kham-pha-co-do-kyoto-xinh-dep/) xinh đẹp là chuỗi thời gian mình mãn nguyện nhất chuyến đi, tưởng chừng như thời gian dừng lại ở nơi này <img src="images/1F60C.png" width="18"> Thú thực mình có thể sống ở Kyoto và mình yêu Kyoto.
+Kyoto là thành phố mình yêu thích nhất trong chuyến du lịch đến Nhật Bản. Đến với Kyoto, mình không thể đếm hết có bao nhiêu khu vườn, đền thờ, chùa chiền cũng như bất tận các khu trung tâm mua sắm và nhà hàng nổi tiếng. Mình thích lang thang trên những con đường nhỏ cổ kính, ghé thăm hết ngôi đền này đến đền khác, ngắm nhìn những khu vườn bình yên, đi xuyên qua rừng tre và len lỏi khám phá hết mọi ngõ ngách của Kyoto. Với mình, [ba ngày tại Cố đô Kyoto](https://balodeplao.com/nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-2-3-kham-pha-co-do-kyoto-xinh-dep/) xinh đẹp là chuỗi thời gian mình mãn nguyện nhất chuyến đi, tưởng chừng như thời gian dừng lại ở nơi này <img src="/images/1F60C.png" width="18"> Thú thực mình có thể sống ở Kyoto và mình yêu Kyoto.
 
 Dưới đây là một số thông tin hữu ích các bạn cần tham khảo để chuẩn bị hành trang tốt hơn trải nghiệm Kyoto xinh đẹp:
 

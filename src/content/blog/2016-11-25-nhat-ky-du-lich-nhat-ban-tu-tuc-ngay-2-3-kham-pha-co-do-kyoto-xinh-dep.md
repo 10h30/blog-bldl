@@ -11,11 +11,11 @@ destination:
   - "nhat-ban"
 ---
 
-Sau [ngày đầu tiên quá cảnh thú vị tại Kuala Lumpur](https://balodeplao.com/nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-1-qua-canh-tai-kuala-lumpur-malaysia/), BLDL đã trải qua 6 tiếng đồng hồ mòn mỏi trên máy bay Air Asia từ lúc 2 giờ sáng đến 8g sáng ngày hôm sau mới đến được miền đất hứa Nhật Bản. Địa điểm đầu tiên BLDL chọn dừng chân là Cố đô Kyoto xinh đẹp <img src="images/1F60A.png" width="18">.
+Sau [ngày đầu tiên quá cảnh thú vị tại Kuala Lumpur](https://balodeplao.com/nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-1-qua-canh-tai-kuala-lumpur-malaysia/), BLDL đã trải qua 6 tiếng đồng hồ mòn mỏi trên máy bay Air Asia từ lúc 2 giờ sáng đến 8g sáng ngày hôm sau mới đến được miền đất hứa Nhật Bản. Địa điểm đầu tiên BLDL chọn dừng chân là Cố đô Kyoto xinh đẹp <img src="/images/1F60A.png" width="18">.
 
 Sau khi làm xong mọi thủ tục hải quan, lấy hành lý, ăn trưa và check in khách sạn ở Kyoto, coi như xong toi ngày thứ hai. Ngày thứ ba BLDL mới bắt đầu xuất phát tìm hiểu về Kyoto cổ kính.
 
-Với bản chất yêu mến những gì truyền thống, những gì thuộc về văn hoá đặc sắc, những miền đất lưu giữ ký ức lịch sử, không nơi nào có thể thôi thúc mình tìm đến bằng Kyoto. Với mình, ba ngày tại Cố đô Kyoto xinh đẹp là chuỗi thời gian mình mãn nguyện nhất chuyến đi, tưởng chừng như thời gian dừng lại ở nơi này <img src="images/1F60C.png" width="18">Kyoto đẹp đằm thắm, êm dịu, không xô bồ, ồn ào; đem đến cho con người ta cảm giác bình yên, thanh thản, thư thả cảm nhận vẻ đẹp cuộc sống.
+Với bản chất yêu mến những gì truyền thống, những gì thuộc về văn hoá đặc sắc, những miền đất lưu giữ ký ức lịch sử, không nơi nào có thể thôi thúc mình tìm đến bằng Kyoto. Với mình, ba ngày tại Cố đô Kyoto xinh đẹp là chuỗi thời gian mình mãn nguyện nhất chuyến đi, tưởng chừng như thời gian dừng lại ở nơi này <img src="/images/1F60C.png" width="18">Kyoto đẹp đằm thắm, êm dịu, không xô bồ, ồn ào; đem đến cho con người ta cảm giác bình yên, thanh thản, thư thả cảm nhận vẻ đẹp cuộc sống.
 
 E Hèm! Sến quá trời ơi! Thôi, nào cùng nắm tay mình lướt nhìn qua những danh lam thắng cảnh BLDL đã khám phá trong ba ngày ngắn ngủi tại Kyoto. Giờ nếu bà tiên bỗng dưng xuất hiện cho mẹ Silk một điều ước, mẹ Silk chỉ mong được ở Kyoto thêm 4 ngày nữa để thoả tình yêu dành cho thành phố xinh đẹp này.
 
@@ -27,7 +27,7 @@ E Hèm! Sến quá trời ơi! Thôi, nào cùng nắm tay mình lướt nhìn q
 
 Sagano không chỉ thu hút du khách vì vẻ đẹp hoành tráng của những rặng tre bạt ngàn  thẳng tắp mà còn vì âm thanh của tiếng gió thổi qua những thân tre tạo nên những bản nhạc thiên nhiên du dương . Âm thanh này theo mình biết còn được bầu chọn là một trong một trăm âm thanh cần được bảo tồn ở Nhật Bản.
 
-Ấn tượng đầu tiên khi ghé thăm Rừng tre Sagano là ...quá nhiều khách du lịch. Cánh sắc thiên nhiên tuyệt vời chìm trong... hàng hàng vô số khách tham quan <img src="images/1F616.png" width="18">. Điều này khó trách bởi mình đi ngay mùa thu- mùa du lịch cao điểm chỉ đứng sau mùa xuân tháng 2 mà thôi.
+Ấn tượng đầu tiên khi ghé thăm Rừng tre Sagano là ...quá nhiều khách du lịch. Cánh sắc thiên nhiên tuyệt vời chìm trong... hàng hàng vô số khách tham quan <img src="/images/1F616.png" width="18">. Điều này khó trách bởi mình đi ngay mùa thu- mùa du lịch cao điểm chỉ đứng sau mùa xuân tháng 2 mà thôi.
 
 https://www.youtube.com/watch?v=hX75VfKmHcM
 
@@ -92,7 +92,7 @@ Bao bọc khuôn viên chùa là khu vườn Sogen Chiteien xinh đẹp. Đặc 
 
 \-------------
 
-Vậy là mình tóm tắt xong những điểm tham quan nổi bật nhất trong hai ngày đầu tại Kyoto. Chắc các bạn đang thắc mắc sao lại đi ít điểm như vậy. Mình sẽ trình bày những lí do sau để các bạn có thể hiểu được tình hình du lịch của BLDL <img src="images/1F602.png" width="18">
+Vậy là mình tóm tắt xong những điểm tham quan nổi bật nhất trong hai ngày đầu tại Kyoto. Chắc các bạn đang thắc mắc sao lại đi ít điểm như vậy. Mình sẽ trình bày những lí do sau để các bạn có thể hiểu được tình hình du lịch của BLDL <img src="/images/1F602.png" width="18">
 
 - BLDL đi du lịch cùng SILK chứ không phải 2 đứa! Ngoài việc chuẩn bị sữa, bỉm, thức ăn đầy đủ "cung phụng" đầy đủ nhu cầu của công chúa cả ngày, chúng mình còn phải tìm kiếm và ưu tiên những địa điểm thích hợp khi có trẻ nhỏ theo cùng
 
@@ -102,10 +102,10 @@ Vậy là mình tóm tắt xong những điểm tham quan nổi bật nhất tro
 
 - Các bạn đừng quá áp lực về việc phải tham quan hết tất cả các chùa, đền, vườn hay bảo tàng...Vì nói thật lòng chùa nào cũng giống chùa nào, vườn nào cũng như vườn nào...đẹp đều. Vì vậy các bạn chỉ cần chọn lọc những điểm tham quan phù hợp lịch trình mà bạn tâm đắc nhất.
 
-Tóm lại, nếu các bạn không du lịch Nhật Bản cùng con nhỏ như gia đình BLDL, bạn có thể tham khảo thêm sách _**Japan - Lonely Planet**_ \- được xem là bách khoa toàn thư dành cho các phượt thủ Nhật Bản để biết thêm nhiều địa điểm tham quan thú vị mới mẻ khác nhé. Khi ấy đừng quên chia sẻ hình ảnh/ video cho BLDL thèm chơi nhe <img src="images/1F602.png" width="18">
+Tóm lại, nếu các bạn không du lịch Nhật Bản cùng con nhỏ như gia đình BLDL, bạn có thể tham khảo thêm sách _**Japan - Lonely Planet**_ \- được xem là bách khoa toàn thư dành cho các phượt thủ Nhật Bản để biết thêm nhiều địa điểm tham quan thú vị mới mẻ khác nhé. Khi ấy đừng quên chia sẻ hình ảnh/ video cho BLDL thèm chơi nhe <img src="/images/1F602.png" width="18">
 
 ![lonely-planet](/images/lonely-planet.jpg)
 
-Chúc các bạn có những khoảng khắc đáng nhớ tại Kyoto xinh đẹp!<img src="images/1F60E.png" width="18">
+Chúc các bạn có những khoảng khắc đáng nhớ tại Kyoto xinh đẹp!<img src="/images/1F60E.png" width="18">
 
 ![Me <3 Đi chùa cầu Silk có em ...](/images/kyoto-bldl07.jpg)

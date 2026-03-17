@@ -8,7 +8,7 @@ image: "/images/dacc82m-den-orihiro-bldl01.jpg"
 slug: "dep-toan-than-cung-vien-dam-den-giam-can-nhat-ban-orihiro"
 ---
 
-Một tháng ăn chơi nhảy múa ở Nhật là một tháng hạnh phúc nhất đời BLDL. BL&DL có cơ hội khám phá rất nhiều địa danh đẹp điên người, thưởng thức vô vàn thức ăn ngon nhức nhối. Mình phải công nhận ở Nhật cái gì cũng ngon, cái gì cũng đẹp. Người Nhật bày biện hàng hoá từ tiêu dùng cho đến thức ăn đều tinh tế và bắt mắt. Haizzz! Chính vì như thế mà đi Nhật về xong, mẹ Silk leo lên bàn cân mà muốn đập đầu vô gối khóc thành dòng sông <img src="images/1F622.png" width="18"><img src="images/1F622.png" width="18"><img src="images/1F622.png" width="18">
+Một tháng ăn chơi nhảy múa ở Nhật là một tháng hạnh phúc nhất đời BLDL. BL&DL có cơ hội khám phá rất nhiều địa danh đẹp điên người, thưởng thức vô vàn thức ăn ngon nhức nhối. Mình phải công nhận ở Nhật cái gì cũng ngon, cái gì cũng đẹp. Người Nhật bày biện hàng hoá từ tiêu dùng cho đến thức ăn đều tinh tế và bắt mắt. Haizzz! Chính vì như thế mà đi Nhật về xong, mẹ Silk leo lên bàn cân mà muốn đập đầu vô gối khóc thành dòng sông <img src="/images/1F622.png" width="18"><img src="/images/1F622.png" width="18"><img src="/images/1F622.png" width="18">
 
 Với bản năng làm đẹp không ngừng của người phụ nữ, mẹ Silk không thể để cho thân hình béo ú ụ như thế tồn tại lâu thêm được nữa. Nghe thiên hạ đồn thổi về _**Viên dấm đen Orihiro**_ thần thánh giúp các bà mẹ bỉm sữa ở Nhật nhanh chóng lấy lại vóc dáng sau sinh hay phụ nữ có nhu cầu giảm cân làm đẹp. Vì thế mà "Dép Lào" không quản công sức lặn lội hết tiệm thuốc này đến tiệm thuốc khác tìm bằng được viên dấm đen thần thánh dùng thử.
 

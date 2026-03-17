@@ -32,7 +32,7 @@ Ban đầu mình đặt phòng [TQL Premium](https://www.airbnb.com/rooms/208449
 
 Mình nhận được email nâng cấp phòng của Hannah ngay trong buổi sáng khi đang làm thủ tục ở sân bay Tân Sơn Nhất chuẩn bị bay qua Singapore. Mình chỉ biết căn hộ nằm ở địa chỉ 2 Marina Boulevard. Ngoài ra chẳng thể tưởng tượng chính xác nó nằm ở đâu.
 
-Chẳng biết là nâng cấp hay giáng cấp đây!<img src="images/1F605.png" width="18">
+Chẳng biết là nâng cấp hay giáng cấp đây!<img src="/images/1F605.png" width="18">
 
 ### I. Vị trí tuyệt vời
 

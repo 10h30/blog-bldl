@@ -17,7 +17,7 @@ Chào các bạn độc giả yêu quý của Ba Lô & Dép Lào ![](/images/263
 
 Đây là cú phượt dài nhất, xa xôi nhất, hấp dẫn nhất, ấn tượng nhất mà BLDL từng có được. Thoát khỏi "ao làng" Đông Nam Á, tụi mình như được mở mắt trước vẻ đẹp thiên nhiên hùng vĩ của Nhật Bản, khâm phục phẩm chất cao quý của con người nơi đây và ngưỡng mộ bề dày lịch sử lẫn văn hoá đặc sắc của xứ sở mặt trời mọc.
 
-Chém thế đủ rồi nhé vì quá đỗi yêu Nhật Bản mà <img src="images/1F601.png" width="18">Bài viết đầu tiên trong serie "**Lịch trình 20 ngày du lịch Nhật Bản tự túc"** sẽ là nhật ký ngày đầu tiên quá cảnh tại Kuala Lumpur - Malaysia.
+Chém thế đủ rồi nhé vì quá đỗi yêu Nhật Bản mà <img src="/images/1F601.png" width="18">Bài viết đầu tiên trong serie "**Lịch trình 20 ngày du lịch Nhật Bản tự túc"** sẽ là nhật ký ngày đầu tiên quá cảnh tại Kuala Lumpur - Malaysia.
 
 ### I. Đi bằng vé máy bay giá rẻ Air Asia
 
@@ -69,6 +69,6 @@ Ngoài khu food court giá rẻ, MOP cũng có đủ các nhà hàng đa dạng 
 
 \--------------
 
-Thế là xong ngày đầu tiên của chuyến hành trình ước mơ đến Nhật Bản - quá cảnh tại KL. Giờ đây, mình đang ngồi viết blog chia sẻ với các bạn trong lúc chờ đợi chuyến bay tiếp theo sang Nhật. Không kiềm được ham muốn lần đầu chạm tay vào lá đỏ mùa thu Nhật Bản như thế nào! <img src="images/1F624.png" width="18">
+Thế là xong ngày đầu tiên của chuyến hành trình ước mơ đến Nhật Bản - quá cảnh tại KL. Giờ đây, mình đang ngồi viết blog chia sẻ với các bạn trong lúc chờ đợi chuyến bay tiếp theo sang Nhật. Không kiềm được ham muốn lần đầu chạm tay vào lá đỏ mùa thu Nhật Bản như thế nào! <img src="/images/1F624.png" width="18">
 
 Mong các bạn tiếp tục dõi theo hành trình Nhật Bản của mình qua các bài viết tiếp theo nhé.

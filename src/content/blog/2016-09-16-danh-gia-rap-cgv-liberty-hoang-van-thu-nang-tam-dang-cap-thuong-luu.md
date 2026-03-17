@@ -32,7 +32,7 @@ Tuy nhiên, khi mình bước vào bên trong thì CGV Liberty Hoàng Văn Thụ
 
 ### III. Chất lượng dịch vụ
 
-Về chất lượng phục vụ tại CGV, tất cả chúng ta không thể bàn cãi về độ chuyên nghiệp rồi ha. Nhân viên thân thiện, dịch vụ đặt vé xem phim nhanh chóng, màn hình chiếu phim rộng hoành tráng, âm thanh sống động. Điều đáng khen ngợi là chất lượng phục vụ tốt đều được đồng nhất ở tất cả mọi cụm rạp. Chỉ khác nhau chút xíu về độ đẹp mỗi rạp thôi <img src="images/1F602.png" width="18">
+Về chất lượng phục vụ tại CGV, tất cả chúng ta không thể bàn cãi về độ chuyên nghiệp rồi ha. Nhân viên thân thiện, dịch vụ đặt vé xem phim nhanh chóng, màn hình chiếu phim rộng hoành tráng, âm thanh sống động. Điều đáng khen ngợi là chất lượng phục vụ tốt đều được đồng nhất ở tất cả mọi cụm rạp. Chỉ khác nhau chút xíu về độ đẹp mỗi rạp thôi <img src="/images/1F602.png" width="18">
 
 ![](/images/cgv-hvt-bldl04.jpg)
 

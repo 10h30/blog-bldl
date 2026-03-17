@@ -39,7 +39,7 @@ Phải nói các thể loại sườn nướng, bò nướng tại Gogi House ng
 
 ### Giá cả dễ chấp nhận
 
-Nếu so với Phổ Đình, giá cả tại Gogi House khá ổn, rẻ hơn một chút, trung bình từ 150k - 400k tuỳ theo giá thịt hoặc món bạn chọn. Một phần ăn ở Gogi House hai người ăn đủ no bạn nhé. Trung bình vợ chồng mình ăn một bữa no nê tại Gogi House bao gồm một phần thịt bò, một phần thịt heo, một salad, một mì thì "tổn thất" khoảng 500k-600k <img src="images/1F601.png" width="18"> Rau tươi thì la liệt miễn phí khỏi bàn ha.
+Nếu so với Phổ Đình, giá cả tại Gogi House khá ổn, rẻ hơn một chút, trung bình từ 150k - 400k tuỳ theo giá thịt hoặc món bạn chọn. Một phần ăn ở Gogi House hai người ăn đủ no bạn nhé. Trung bình vợ chồng mình ăn một bữa no nê tại Gogi House bao gồm một phần thịt bò, một phần thịt heo, một salad, một mì thì "tổn thất" khoảng 500k-600k <img src="/images/1F601.png" width="18"> Rau tươi thì la liệt miễn phí khỏi bàn ha.
 
 ![](/images/gogi-house-bldl07.jpg)
 

@@ -53,6 +53,6 @@ Mình thì thích bánh mì Madam Khánh hơn bởi hương vị "Hội An" hơn
 
 ---
 
-Cùng nắm tay cùng ăn bánh mì nào <img src="images/1F601.png" width="18">
+Cùng nắm tay cùng ăn bánh mì nào <img src="/images/1F601.png" width="18">
 
 Chúc các bạn ngon miệng

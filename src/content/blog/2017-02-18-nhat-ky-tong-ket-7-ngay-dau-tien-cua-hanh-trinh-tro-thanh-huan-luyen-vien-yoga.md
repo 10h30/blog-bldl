@@ -24,7 +24,7 @@ https://balodeplao.com/7-yeu-to-quan-trong-giup-ban-thien-dinh-dung-cach/
 
 ### Ăn chay
 
-Sau khi thiền định, mình dùng bữa sáng tại phòng ăn trong vòng 15 phút trước khi bắt đầu giờ thực hành. Thường thì buổi sáng của mình cực kì thanh đạm nhẹ nhàng  <img src="images/1f642.png" width="18">Chỉ là một chén cháo gạo lức hay chỉ đơn giản là một ly sữa đậu nành nóng. Tại sao vậy?! Vì trước khi tập Yoga, bạn không nên ăn gì cả tròng vòng 1-2 tiếng.
+Sau khi thiền định, mình dùng bữa sáng tại phòng ăn trong vòng 15 phút trước khi bắt đầu giờ thực hành. Thường thì buổi sáng của mình cực kì thanh đạm nhẹ nhàng  <img src="/images/1f642.png" width="18">Chỉ là một chén cháo gạo lức hay chỉ đơn giản là một ly sữa đậu nành nóng. Tại sao vậy?! Vì trước khi tập Yoga, bạn không nên ăn gì cả tròng vòng 1-2 tiếng.
 
 https://www.instagram.com/p/BQo-iBYFMQS/?taken-by=balodeplao
 

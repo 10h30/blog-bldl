@@ -35,7 +35,7 @@ https://balodeplao.com/nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-6-tham-quan-cong-vie
 
 ### 3\. Nara Park - Nara
 
-Điểm tham quan bắt buộc các bạn không được bỏ qua đó là **Nara Park – công viên lớn nhất Nhật Bản** nằm ở Đông Bắc thành phố Nara. Đây là pháo đài cư ngụ chính của các em nai. Nai đứng, nai ngồi, nai nằm trên đường, trên bồn cây cảnh, trên ghế… đủ mọi tư thế tràn ngập khắp mọi nơi. Các chú nai tại Nara đa phần rất thân thiện với người do đã được thuần hoá phần nào. Đến với Nara Park, bé sẽ tha hồ cho nai ăn, có cơ hội chạm tay vào bộ lông mềm mượt của các bạn ấy. Tuy nhiên cũng tuỳ bé nhá, có bé dạn dĩ khoái chí chơi với các con thú to. Cũng có những bé mặt hãi hùng la hét kinh hoàng khi bị nai đến gần như Silk nhà mình haizzz <img src="images/1F60F.png" width="18">.
+Điểm tham quan bắt buộc các bạn không được bỏ qua đó là **Nara Park – công viên lớn nhất Nhật Bản** nằm ở Đông Bắc thành phố Nara. Đây là pháo đài cư ngụ chính của các em nai. Nai đứng, nai ngồi, nai nằm trên đường, trên bồn cây cảnh, trên ghế… đủ mọi tư thế tràn ngập khắp mọi nơi. Các chú nai tại Nara đa phần rất thân thiện với người do đã được thuần hoá phần nào. Đến với Nara Park, bé sẽ tha hồ cho nai ăn, có cơ hội chạm tay vào bộ lông mềm mượt của các bạn ấy. Tuy nhiên cũng tuỳ bé nhá, có bé dạn dĩ khoái chí chơi với các con thú to. Cũng có những bé mặt hãi hùng la hét kinh hoàng khi bị nai đến gần như Silk nhà mình haizzz <img src="/images/1F60F.png" width="18">.
 
 https://balodeplao.com/nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-4-la-lam-dang-yeu-voi-thanh-pho-nara/
 

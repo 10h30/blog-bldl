@@ -11,7 +11,7 @@ slug: "loi-ich-vang-den-tu-viec-ket-hop-yoga-voi-chay-bo"
 
 Ngoài Yoga, Chạy bộ là môn thể thao yêu thích thứ hai của mình. Trước đây, khi chưa luyện tập Yoga, mình thường chạy không bền sức, tốc độ và cự li đều rất tệ. 3km từng là ước mơ xa tầm với của mình. Tuy nhiên từ lúc tập yoga kết hợp với chạy bộ, mình đã điều tiết nhịp thở tốt hơn, chinh phục cự li 10km, cơ bắp phục hồi nhanh hơn, ít chấn thương hơn.
 
-Qua bài viết này, mình muốn chia sẻ với tất cả các bạn những lợi ích không ngờ khi kết hợp hai bộ môn tuyệt vời này với nhau Yoga & Chạy bộ <img src="images/1F600.png" width="18">
+Qua bài viết này, mình muốn chia sẻ với tất cả các bạn những lợi ích không ngờ khi kết hợp hai bộ môn tuyệt vời này với nhau Yoga & Chạy bộ <img src="/images/1F600.png" width="18">
 
 ### I. Lợi ích của Chạy bộ
 
@@ -58,4 +58,4 @@ _Link bài viết của Yeuchaybo các bạn nhé._
 
 https://yeuchaybo.com/giao-an-chay-bo-5k-danh-cho-cac-ban-moi/
 
-Hi vọng với một chút chia sẻ nho nhỏ, các bạn yêu chạy bộ hoặc yêu yoga có thể kết hợp cả hai bộ môn này với nhau để đạt được hiệu quả tốt nhất cho việc tập luyện. Muốn khoẻ đẹp thì chăm tập thể thao bạn nhé <img src="images/1F609.png" width="18">
+Hi vọng với một chút chia sẻ nho nhỏ, các bạn yêu chạy bộ hoặc yêu yoga có thể kết hợp cả hai bộ môn này với nhau để đạt được hiệu quả tốt nhất cho việc tập luyện. Muốn khoẻ đẹp thì chăm tập thể thao bạn nhé <img src="/images/1F609.png" width="18">
