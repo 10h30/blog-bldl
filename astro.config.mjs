@@ -4,6 +4,7 @@ import mdx from "@astrojs/mdx";
 import tailwindcss from "@tailwindcss/vite";
 import icon from "astro-icon";
 import remarkReadingTime from "remark-reading-time";
+import remarkUnwrapImages from "remark-unwrap-images";
 import { remarkR2Images } from "./src/plugins/remark-r2-images.mjs";
 import { rehypePictureWebp } from "./src/plugins/rehype-picture-webp.mjs";
 
@@ -20,6 +21,7 @@ export default defineConfig({
         };
       },
       remarkR2Images,
+      remarkUnwrapImages,
     ],
     rehypePlugins: [rehypePictureWebp],
   },

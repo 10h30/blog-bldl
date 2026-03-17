@@ -28,6 +28,7 @@
     "astro": "^6.0.4",
     "astro-icon": "^1.1.5",
     "remark-reading-time": "^2.0.2",
+    "remark-unwrap-images": "^4.0.1",
     "tailwindcss": "^4.1.18",
     "typescript": "^5.9.3",
     "unist-util-visit": "^5.1.0"
