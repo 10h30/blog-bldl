@@ -21,7 +21,7 @@ Từ một thành phố bị tàn phá nặng nề của vụ thả bom nguyên 
 
 Dưới đây mình sẽ nêu ra một số điểm tham quan nổi bật bạn không nên bỏ qua khi đến thăm Hiroshima nhé.
 
-### I. Công viên tưởng niệm hoà bình Hiroshima
+## I. Công viên tưởng niệm hoà bình Hiroshima
 
 Công viên tưởng niệm hoà bình Hiroshima nằm ngay vị trí xa xưa hai quả bom nguyên tử của Mỹ thả xuống tàn phá thành phố này. Lần đầu tiên đến khu vực tưởng niệm, mình không thể nào tin được nơi đây từng là đống đổ nát hoang tàn do chiến tranh gây ra. Cây cối xanh tươi, chim hót véo von, không khí cực kì trong lành. Có thể nói trong số những thành phố mình ghé thăm, Hiroshima là nơi được trồng nhiều hoa nhất. Hoa đủ màu đủ loại nở bung trong gió tô điểm cho Hiroshima xinh đẹp hơn.
 
@@ -35,7 +35,7 @@ Ngoài ra, bạn nên ghé thăm _**Bảo tàng tưởng niệm hoà bình Hiros
 
 ![](/images/hiroshima-bldl02-2.jpg)
 
-#### _Cách đến Công viên tưởng niệm hoà bình Hiroshima_
+### _Cách đến Công viên tưởng niệm hoà bình Hiroshima_
 
 Do Công viên tưởng niệm hoà bình Hiroshima nằm ngay trung tâm của thành phố nên bạn có thể bắt xe bus hoặc đi bộ như BLDL nhé. Bạn chỉ cần lấy các tấm bản đồ thành phố Hiroshima ở các trạm xe bus là biết ngay hướng đến Công viên tưởng niệm hoà bình thôi.
 
@@ -45,7 +45,7 @@ Do Công viên tưởng niệm hoà bình Hiroshima nằm ngay trung tâm của
 
 ![](/images/hiroshima-bldl06-1.jpg)
 
-### II. Đảo Miyajima xinh đẹp
+## II. Đảo Miyajima xinh đẹp
 
 Có thể nói Miyajima là một trong những hòn đảo được thiên nhiên ưu đãi của Nhật Bản. Đến tận ngày nay, Miyajima xinh đẹp vẫn còn giữ được cảnh quan thiên nhiên phong phú, hoang sơ do chưa có bàn tay khai phá con người chạm đến. Vì vậy mà _**rừng nguyên sinh Misen và quần thể đền thần Itsukushima**_ tại Miyajima được công nhận là di sản văn hoá thế giới.
 
@@ -71,7 +71,7 @@ Nếu các bạn thắc mắc ăn hải sản ở nhà hàng nào thì ngon thì
 
 Ngoài ra, đảo Miyajima còn là [nơi sinh sống của các bạn nai giống Nara Park](https://balodeplao.com/nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-4-la-lam-dang-yeu-voi-thanh-pho-nara/) vậy. Tuy nhiên, theo mình cảm nhận nai Miyajima có vẻ hiền lành hơn, bớt "chết đói" hơn các bạn ở Nara. Do vậy, ngoài việc ngắm cảnh đẹp, ăn đồ ngon, các bạn còn có thể chơi đùa chụp choẹt cùng các bạn nai nữa nhe.
 
-#### _**Cách đến Đảo Miyajima**_
+### _**Cách đến Đảo Miyajima**_
 
 - Bạn đi tuyến Sanyo line từ JR Hiroshima Station đến Ga JR Miyajimaguchi
 - Từ Ga JR Miyajimaguchi bạn sẽ mất khoảng 10 phút di chuyển bằng phà để đến được Miyajima

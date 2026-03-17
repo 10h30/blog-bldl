@@ -24,7 +24,7 @@ Bản thân mình thường rất cẩn thận trong các giao dịch thẻ tín
 
 Tham khảo các bước giải quyết dưới đây để có thể giải quyết, khắc phục vấn đề một cách nhanh chóng và hiệu quả nhất, giảm thiểu rủi ro mất tiền oan.
 
-### 1\. Bình tĩnh, đừng hoảng loạn
+## 1\. Bình tĩnh, đừng hoảng loạn
 
 _Tự nhiên nghe mất mấy chục triệu trong tài khoản thẻ tín dụng sao mà bình tĩnh được chứ!_
 
@@ -34,7 +34,7 @@ _Tự nhiên nghe mất mấy chục triệu trong tài khoản thẻ tín dụn
 
 Nhiều khi lý do thẻ hết tiền là do vợ bạn hay con bạn sử dụng thẻ phụ để mua sắm mà không báo cho bạn biết, hoặc có thể là do bạn mua sắm gì đó mà quên mất. Không phải lúc nào thẻ hết tiền cũng là do bị hack! Hãy bình tĩnh liên hệ với ngân hàng cung cấp thẻ để xác nhận và tìm phương hướng giải quyết nếu thẻ của bạn thực sự bị lợi dụng.
 
-### 2\. Liên hệ ngay với ngân hàng & khoá thẻ ngay lập tức
+## 2\. Liên hệ ngay với ngân hàng & khoá thẻ ngay lập tức
 
 Trong bất kỳ tình huống nào liên quan đến thẻ tín dụng, hãy liên hệ ngay với ngân hàng cung cấp thể để nhận được sự hỗ trợ tốt nhất. Số điện thoại ngân hàng luôn được in ở mặt sau của thẻ của bạn.
 
@@ -46,7 +46,7 @@ Nhiều trường hợp, ngân hàng sẽ chủ động liên hệ với bạn k
 
 Tiếp theo, hãy đến ngay trung tâm thẻ của ngân hàng để làm các thủ tục cần thiết: yêu cầu khiếu nại giao dịch, yêu cầu huỷ thẻ. Đồng thời trao đổi cách giải quyết với đại diện ngân hàng làm sao để hoàn tiền lại cho bạn, hạn chế tối đa rủi ro mất tiền.
 
-#### Cách giải quyết của Vietcombank
+### Cách giải quyết của Vietcombank
 
 Với trường hợp của mình, đại diện ngân hàng đã chủ động KHOÁ THẺ, và liên hệ với mình để xác nhận. Sau khi trao đổi, cách giải quyết của các trường hợp này như sau:
 
@@ -57,7 +57,7 @@ Với trường hợp của mình, đại diện ngân hàng đã chủ động 
 
 Nếu tất cả các bước trên không thành công, bạn mới phải "chịu hậu quả" trả tiền cho ngân hàng. Hy vọng là mình không xui xẻo đến vậy!
 
-### 3\. Liên hệ trang web/ cửa hàng để yêu cầu huỷ giao dịch
+## 3\. Liên hệ trang web/ cửa hàng để yêu cầu huỷ giao dịch
 
 Sau khi nhận được bảng kê chi tiết các giao dịch lạ từ ngân hàng, bạn cần phải gửi email cho trang web bán hàng / cung cấp dịch vụ để huỷ đơn hàng ngay lập tức và hoàn lại tiền vô tài khoản cho bạn. Tên cửa hàng luôn được hiện ra trong bảng kê, nằm ở cột **Merchant Name**. Chỉ cần google cái tên là bạn sẽ tìm ra ngay trang web của nó.
 
@@ -91,7 +91,7 @@ Best regards,
 
 **Xử lý càng nhanh, cơ hội được hoàn lại tiền càng cao.**
 
-### 4\. Chờ đợi thông tin từ ngân hàng
+## 4\. Chờ đợi thông tin từ ngân hàng
 
 Sau khi gửi email cho các cửa hàng ở bước 3, việc của bạn cần làm coi như đã xong. Phần còn lại tuỳ thuộc vào ... may mắn của bạn.
 
@@ -101,7 +101,7 @@ Hãy chủ động yêu cầu ngân hàng báo cáo tình trạng giải quyết
 
 ---
 
-#### Cập nhật tình trạng giải quyết sự cố của mình
+### Cập nhật tình trạng giải quyết sự cố của mình
 
 Có tất cả 7 giao dịch lừa đảo phát sinh trên thẻ tín dụng của mình tối qua, thực hiện ở 7 shop khác nhau. Tất cả đều ở Anh.
 

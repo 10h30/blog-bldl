@@ -19,7 +19,7 @@ Chào các bạn độc giả yêu quý của Ba Lô & Dép Lào ![](/images/263
 
 Chém thế đủ rồi nhé vì quá đỗi yêu Nhật Bản mà <img src="/images/1F601.png" width="18">Bài viết đầu tiên trong serie "**Lịch trình 20 ngày du lịch Nhật Bản tự túc"** sẽ là nhật ký ngày đầu tiên quá cảnh tại Kuala Lumpur - Malaysia.
 
-### I. Đi bằng vé máy bay giá rẻ Air Asia
+## I. Đi bằng vé máy bay giá rẻ Air Asia
 
 Do đặt **vé máy bay giá rẻ của hãng Air Asia** nên mình không bay trực tiếp cái vèo sang Nhật mà lại quá cảnh tại Kualar Lumpur ("KL") - Malaysia, rồi bắt tiếp chuyến bay sang Nhật đáp tại sân bay Kansai, Osaka.
 
@@ -27,7 +27,7 @@ Tụi mình khởi hành lúc 9g30 sáng, kéo dài đến 12g hạ cánh ngay t
 
 ![](/images/kl-transit-bldl13.jpg)
 
-### II. Trú chân tại TUNE Hotels
+## II. Trú chân tại TUNE Hotels
 
 Sau khi ăn xong, hai đứa chỉ cần kéo ngay hành lý check in tại [**khách sạn TUNE**](https://balodeplao.com/hotelquickly-ung-dung-dat-phong-khach-san-phut-chot-gia-re/) ngay sát bên sân bay KLIA2.
 
@@ -39,7 +39,7 @@ Do đi cùng với “công chúa” và một đống hành lý to tướng cho
 
 ![](/images/kl-transit-bldl10.jpg)
 
-### III. Chơi bời ăn uống ở **Mitsui Outlet Park**
+## III. Chơi bời ăn uống ở **Mitsui Outlet Park**
 
 Chuyến bay kế tiếp qua Nhật khởi hành lúc 2 giờ sáng ngày hôm sau. Bởi thời gian quá cảnh “quá khủng”, hai đứa quyết định dẫn Silk đi chơi thay vì nằm đợi ở TUNE. **Mitsui Outlet Park ("MOP")** là địa điểm tuyệt vời cho việc giết thời gian lúc này. MOP chỉ cách KLIA2 10 phút đi bằng xe bus miễn phí của sân bay, cứ cách 20 phút lại có một chuyến.
 

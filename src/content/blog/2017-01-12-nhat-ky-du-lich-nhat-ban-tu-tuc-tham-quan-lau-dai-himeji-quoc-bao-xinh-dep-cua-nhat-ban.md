@@ -52,12 +52,12 @@ Bạn còn được xem biểu diễn nhạc trống và hòa mình vào 
 
 ![Ba và Silk Silk háo hức tham quan lâu đài Himeji](/images/himeiji-castle-bldl08.jpg)
 
-### Cách thức đến lâu đài Himeji
+## Cách thức đến lâu đài Himeji
 
 - Bạn đi tàu Sinkansen từ Thành phố Osaka đến Thành phố Himeji. Sau đó từ Himeji Station, bạn đi bộ khoảng 15-20 phút sẽ đến được lâu đài Himeji/ đi xe bus (100 Yên một chiều) hoặc xe taxi (650 Yên một chiều) chỉ mất 5 phút nhé.
 - Lưu ý nếu bạn có thẻ JR Pass thì nên đi tàu Sinkansen sẽ tiện lợi và nhanh chóng hơn tuy nhiên giá vé tàu hơi mắc. Còn không bạn sử dụng local trains cũng đến được Thành phố Himeji, tuy chậm nhưng rẻ hơn nhiều.
 
-### Giờ hoạt động và giá vé
+## Giờ hoạt động và giá vé
 
 - Giờ hoạt động: 9:00 - 17:00 (từ tháng 4 đến tháng 8 giờ đóng cửa là 18:00)
 - Lượt vé cuối cùng kết thúc một tiếng trước giờ đóng cửa

@@ -17,7 +17,7 @@ Quay lại bài tổng kết năm, BLDL sẽ nhìn lại toàn bộ cuộc sốn
 
 Nào cùng nhau ngồi xuống tâm sự với BLDL nhé.
 
-### Trải nghiệm cuộc sống cách ly lành mạnh
+## Trải nghiệm cuộc sống cách ly lành mạnh
 
 Trong khoảng thời gian đầu tiên của năm 2020 khi đại dịch bùng phát đỉnh điểm, gia đình mình đã chấp hành các biện pháp cách ly phòng chống dịch an toàn theo hướng dẫn của Chính Phủ. Nhưng thay vì suy nghĩ tiêu cực và sống chán nản, chúng mình đã chọn một [cách nhìn nhận tích cực để cuộc đời trở nên tốt đẹp hơn](https://balodeplao.com/khi-suy-nghi-tich-cuc-cuoc-song-tot-dep-hon/?swcfpc=1). Mình xem đây là khoảng thời gian may mắn có được để chăm sóc sức khoẻ bản thân, để quan tâm nhiều hơn đến gia đình, để duy trì thói quen sống lành mạnh hơn mỗi ngày.
 
@@ -27,7 +27,7 @@ Thời gian cách ly xã hội cũng là khoảng thời gian vợ chồng mình
 
 https://balodeplao.com/5-goi-y-hay-ren-luyen-suc-khoe-tai-nha-mua-dich-benh/
 
-### Gặp "Nha Trang" khi vừa hết cách ly xã hội
+## Gặp "Nha Trang" khi vừa hết cách ly xã hội
 
 Sau khi cách ly xã hội đợt một được thực hiện khá tốt, tình hình dịch Covid tạm thời được khống chế. Trường học, cửa hàng, khách sạn, các khu trung tâm thương mại…dần dần hoạt động lại nhằm tăng cường khôi phục kinh tế.
 
@@ -45,7 +45,7 @@ Cũng như trải nghiệm thêm nhiều món ăn ngon ở Phú Quốc
 
 https://balodeplao.com/danh-gia-nha-hang-xin-chao-khi-du-lich-den-phu-quoc/?swcfpc=1
 
-### Về Quãng Ngãi tịnh dưỡng
+## Về Quãng Ngãi tịnh dưỡng
 
 Đã lâu lắm rồi mình chưa có dịp quay lại thăm quê từ lúc mang bầu bé thứ hai rồi những đợt dịch bùng lên liên tiếp. May mắn thay, trong những tháng ngày ảm đạm cuối cùng của năm 2020, gia đình mình đã sắp xếp được cho chuyến đi tịnh dưỡng ở Quãng Ngãi 3 ngày 2 đêm nhân dịp giỗ lớn của gia đình.
 
@@ -53,7 +53,7 @@ Có thể nói đây là chuyến đi “get away” đúng nghĩa trong năm na
 
 https://purna.vn/ky-su-ve-que-tinh-duong-nap-nang-luong-moi/
 
-### Truyền thống đón Noel tại Đà Lạt
+## Truyền thống đón Noel tại Đà Lạt
 
 Mê Đà Lạt không chỉ vì khung cảnh thiên nhiên đẹp, tiết trời mát lạnh, món ăn ngon mà còn là cái thú chạy bộ quanh hồ Xuân Hương, đạp xe lên dốc và cả tập yoga lạnh run người mỗi sáng. Theo truyền thống hằng năm, gia đình mình lại lên Đà Lạt đón Giáng Sinh ấm áp cùng nhau.
 

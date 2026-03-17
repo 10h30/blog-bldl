@@ -13,7 +13,7 @@ Ngoài Yoga, Chạy bộ là môn thể thao yêu thích thứ hai của mình. 
 
 Qua bài viết này, mình muốn chia sẻ với tất cả các bạn những lợi ích không ngờ khi kết hợp hai bộ môn tuyệt vời này với nhau Yoga & Chạy bộ <img src="/images/1F600.png" width="18">
 
-### I. Lợi ích của Chạy bộ
+## I. Lợi ích của Chạy bộ
 
 - Trái tim khoẻ mạnh
 - Cơ thể săn chắc và thon gọn
@@ -21,15 +21,15 @@ Qua bài viết này, mình muốn chia sẻ với tất cả các bạn những
 - Tinh thần thoải mái, giải tỏa stress hiệu quả
 - Giấc ngủ có chất lượng tốt hơn
 
-### II. Lợi ích của Yoga
+## II. Lợi ích của Yoga
 
 Các bạn tham khảo 5 lợi ích lớn nhất đến từ [việc tập luyện Yoga](https://balodeplao.com/4-loai-hinh-yoga-truyen-thong-pho-bien-nhat-hien-nay/) theo bài viết dưới đây nhé
 
 https://balodeplao.com/5-loi-ich-than-ki-khong-ngo-den-tu-yoga/
 
-### III. Tại sao Chạy bộ nên kết hợp với Yoga?
+## III. Tại sao Chạy bộ nên kết hợp với Yoga?
 
-#### _a. Yoga giúp phục hồi cơ bắp sau khi chạy bộ_
+## _a. Yoga giúp phục hồi cơ bắp sau khi chạy bộ_
 
 Sau khi chạy bộ, bạn thường hay bị đau cơ hoặc mỏi cơ do toàn bộ cơ bắp căng ra khi vận động mạnh. Việc giãn cơ sau khi chạy có vai trò rất quan trọng giúp xoa dịu cơ bắp, phục hồi lại độ dẻo dai và phòng ngừa các chấn thương. Yoga làm điều này rất tốt!
 
@@ -37,7 +37,7 @@ Yoga không đơn giản là các động tác rướn người mà còn giúp b
 
 Thường sau một giờ chạy thì mình dành ra 10 phút đi bộ để giãn cơ, thả lỏng cơ thể. Tiếp theo vài giờ sau đó, [mình bắt đầu trải thảm ra và tập Yoga ít nhất 30 phút](https://balodeplao.com/chia-se-kinh-nghiem-lam-dep-cho-nhung-nguoi-ban-ron/). Chỉ với vài động tác cơ bản như chó úp mặt, đứng gập người về phía trước, chống tay ưỡn lưng, xoạc một chân và vặn mình...mọi căng cơ gần như hoàn toàn biến mất. Ngoài ra, tinh thần mình cực kỳ sảng khoái, tràn đầy năng lượng cho hoạt động cả ngày.
 
-#### _b. Yoga giúp bạn điều tiết nhịp thở đều đặn khi chạy bộ_
+## _b. Yoga giúp bạn điều tiết nhịp thở đều đặn khi chạy bộ_
 
 Nếu bạn đã từng tập qua Yoga, bạn sẽ có khả năng giữ nhịp thở đều rất tốt. [Những bài tập hít thở của Yoga chú trọng đến việc thở và dạy chúng ta làm thế nào để sử dụng hai lá phổi hợp lý nhất](https://balodeplao.com/5-loi-ich-than-ki-khong-ngo-den-tu-yoga/). Đây là yếu tố rất quan trọng trong mọi hoạt động thể thao. Việc hít thở đều không chỉ giúp bạn bền sức hơn, cơ thể đỡ mệt hơn mà còn thúc đẩy bạn hoàn thành mục tiêu dễ dàng hơn.
 

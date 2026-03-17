@@ -17,7 +17,7 @@ destination:
 
 Là một gia đình yêu cây cỏ và động vật, BLDL không thể bỏ qua điểm tham quan hấp dẫn như thế này. Đặc biệt là từ khi có bà Silk, nhà mình càng chăm chỉ đi công viên hơn. Mục đích chính là để cho con có không gian xanh tươi chạy nhảy, làm quen với cây cỏ và khám phá thêm nhiều động vật mới, nhiều sinh vật sống quanh ta. Theo mình nghĩ sau [Viện hải dương Kaiyukan - Osaka](https://balodeplao.com/nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-7-tham-quan-vien-hai-duong-kaiyukan-hoanh-trang-nhat-osaka/), **Ueno Zoo - Tokyo** là nơi vui chơi Silk thích nhất trong chuỗi 20 ngày khám phá Nhật Bản cùng ba mẹ bởi mỗi lần vào bảo tàng là em chỉ có buồn ngủ thôi haha.
 
-### Thông tin chung
+## Thông tin chung
 
 ![](/images/ueno-zoo-bldl02.jpg)
 
@@ -29,7 +29,7 @@ Là một gia đình yêu cây cỏ và động vật, BLDL không thể bỏ qu
 - Giá vào cửa: 600 Yên.
 - Cách đến Ueno Park: Các bạn bắt tàu điện đến **trạm JR Ueno Station**. Ueno Park nằm ngay kế bên trạm JR Ueno Station luôn nhé. Lối ra ngoài nhanh nhất là "Park Exit".
 
-### Một ngày tại Ueno Zoo
+## Một ngày tại Ueno Zoo
 
 Với những gia đình có con nhỏ thì Ueno Zoo là địa điểm lý tưởng tuyệt vời cho các bé vui chơi thoả thích. Theo mình được biết, Ueno Zoo có khoảng 400 loài động vật, bao gồm cả các loài động vật hiếm như hổ Sumatra, Gorilla, gấu trắng Bắc cực... đặc biệt nhất là những chú gấu trúc khổng lồ ở Nhà gấu trúc. Ueno Zoo nổi tiếng là vườn thú đầu tiên nuôi dưỡng gấu trúc tại Nhật. Đây cũng là lần đầu tiên BLDL được trông thấy gấu bắc cực to và gần đến thế. Nhìn em ấy trồi lên lặn xuống chơi đùa với tảng băng mà Silk la làng thích thú.
 

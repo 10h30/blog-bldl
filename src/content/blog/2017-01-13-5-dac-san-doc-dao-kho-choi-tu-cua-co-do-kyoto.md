@@ -14,7 +14,7 @@ Với mình, [ba ngày tại Cố đô Kyoto](https://balodeplao.com/nhat-ky-du-
 
 Bài viết kỳ này sẽ dẫn dắt các bạn một vòng thưởng ngoạn những đặc sản không thể bỏ qua khi ghé thăm Cố đô Kyoto nhé
 
-### I. Soba
+## I. Soba
 
 Món ăn đầu tiên mình thưởng thức khi vừa đặt chân đến Kyoto là **Mì Soba**. Có thể nói sau chuyến bay dài từ khi [quá cảnh tại KL - Malay](https://balodeplao.com/nhat-ky-du-lich-nhat-ban-tu-tuc-ngay-1-qua-canh-tai-kuala-lumpur-malaysia/), đây tưởng chừng là bữa ăn ngon nhất đời mình. Sau này khi có thời gian nghiên cứu mình mới biết *Mì Soba là loại mì được làm từ bột kiều mạch, độ dày của nó có thể nói là ngang ngửa mì spaghetti của Ý và có rất nhiều kiểu ăn nóng hoặc lạnh khác nhau*.
 
@@ -30,7 +30,7 @@ Vui nhất là hai đứa không biết nên ăn mì Soba thế nào cho đúng,
 
 ![](/images/kyoto-food04.jpg)
 
-#### Ăn mì Soba như thế nào?
+### Ăn mì Soba như thế nào?
 
 _Đối với Soba nóng_
 
@@ -40,17 +40,17 @@ _Với Mì Soba lạnh_
 
 Mì Soba lạnh thường được ăn kèm với nước chấm. _Trước tiên, bạn trộn một ít lá hành xanh và wasabi (mồ tạc Nhật Bản) vào nước chấm. Sau đó gấp một ít sợi mì Soba và nhúng chúng vào nước chấm rồi thưởng thức_. Cách thức ăn hơi cầu kì một chút nhưng thật sự ngon không tưởng!
 
-#### Ăn mì Soba ở đâu?
+### Ăn mì Soba ở đâu?
 
 Hai đứa mình dùng mì Soba ở một tiệm mì nho nhỏ ngay trong sân bay Quốc tế Kansai. Do quán tên đầy tiếng Nhật nên mình không biết tên chính xác là gì, một phần hai đứa quá đói, chỉ kéo lê lếch vali và bước vào bất kì nơi nào có thức ăn :)) Không ngờ lại có bữa ăn ngon nhớ đời đến thế.
 
 \_Để ăn mì Soba, các bạn có thể chọn các nhà ăn xung quanh các điểm du lịch, nhà hàng gia đình hay quán rượu.\_Thậm chí ở các trạm xe lửa tấp nập, bạn cũng có thể tìm thấy những nhà hàng Soba phục vụ ăn đứng với các bữa ăn nhanh trong thời gian chờ xe.
 
-#### Giá cả
+### Giá cả
 
 _Các món Soba đơn giản thông thường có giá khoảng 500 - 1000 yên (100 - 200 nghìn VND), trong khi các món công phu hơn hoặc đặc biệt hơn thì có giá khoảng từ 1000 - 1500 yên (200 - 300 nghìn VND)_. Phần mì bò Soba của Ba lô có giá 680 Yên còn phần mì Soba Tempura của mình rẻ hơn chút 590 Yên. Thế là xong bữa ăn đầu tiên bước chân đến Kyoto. Ấm áp, thanh đạm và đáng nhớ!
 
-### II. Đậu hũ
+## II. Đậu hũ
 
 Kyoto nổi tiếng nhất với đặc sản đậu hũ được làm thủ công từ nguồn nước rất sạch. \_Có rất nhiều món ăn được chế biến từ đậu hũ ngon có tiếng ở Kyoto như đậu hũ vừng đen, đậu hũ nướng sốt miso, đậu hũ luộc, đậu hũ hầm Yudofu…\_Vì vậy, đặc điểm nổi bật trong tất cả những bữa cơm tại Kyoto là đều có một chén súp nhỏ gồm đậu hũ luộc nóng hổi kèm một miếng rong biển phủ lên trên.
 
@@ -58,25 +58,25 @@ Kyoto nổi tiếng nhất với đặc sản đậu hũ được làm thủ cô
 
 Là fan cuồng của đậu hũ, với mình Kyoto chính là thiên đường thế giới đậu hũ đầy hấp dẫn. Đậu hũ ở Kyoto rất mềm, mịn, béo nhẹ, đậm chất đậu nành khi ăn chứ không nhiều bột thạch cao pha trộn như ở Việt Nam.
 
-#### Ăn đậu hũ ngon nhất Kyoto ở đâu?
+### Ăn đậu hũ ngon nhất Kyoto ở đâu?
 
 Mình nghe đồn **Okutan là một trong những nhà hàng lâu đời nhất ở Kyoto nổi tiếng với món đậu hũ**. Nhà hàng này đã có lịch sử phát triển từ hơn 360 năm trước, chuyên phục vụ những món ăn được chế biến từ đậu hũ. Thật tình mình chưa có hân hạnh ghé qua thưởng thức Okutan. Nếu bạn nào có dịp thử qua đậu hủ trứ danh nhất Kyoto thì đừng quên chia sẻ với Ba lô Dép Lào nhé.
 
 _Địa chỉ Nhà Hàng Okutan: 86-30 Nanzenjifukuchicho Sakyo-ku, Kyoto_
 
-#### Giá cả
+### Giá cả
 
 Trung bình một combo gồm cơm/mì với soup tàu hủ từ 1500 Yên trở lên.
 
 ![](/images/tofu-kyoto-bldl01.jpg)
 
-### III. Yatsuhashi
+## III. Yatsuhashi
 
 Khi đến Kyoto, mình để ý đâu đâu cũng bày bán một loại bánh truyền thống có hình tam giác kèm nhân bên trong. Hoá ra đó là **bánh Yatsuhashi - đặc sản nổi tiếng tại Cố đô Kyoto**. Bánh có hình tam giác tượng trưng cho koto - loại đàn hạc truyền thống ở Nhật Bản, được làm bằng bột gạo cán mỏng, sau đó bọc đậu đỏ bên trong và nướng lên. Bánh có hương vị quế, vừng đen hay trà xanh.
 
 ![](/images/yatsuhashi-1.jpeg)
 
-#### Mua **bánh Yatsuhashi ở đâu?**
+### Mua **bánh Yatsuhashi ở đâu?**
 
 Bạn rất dễ tìm mua Yatsuhashi ở bất cứ tiệm bánh nào tại Kyoto từ sang trọng cho đến bình dân. Tuy nhiên, **hiệu bánh Izutsu Yatsuhashi Honkan ở Phố cổ Gion được rất nhiều người yêu thích.**
 
@@ -84,7 +84,7 @@ Bạn rất dễ tìm mua Yatsuhashi ở bất cứ tiệm bánh nào tại Kyot
 
 Mình công nhận tất cả các món bánh trái ở Nhật đều rất ngon. Ngoài hương vị thanh nhẹ, các món bánh đều được đầu tư công phu, trang trí tỉ mỉ và trưng bày rất rất đẹp mắt, khiến thực khách không khỏi xiêu lòng. Mình cứ bước chân ra đường là không thể không ngó ngược dòm xuôi, ăn cho bằng hết các loại bánh trái hấp dẫn nơi đây. Huhu hỏi sao đi Nhật 20 ngày về mà không mập!!!
 
-### IV. Bánh bông lan ngàn lớp
+## IV. Bánh bông lan ngàn lớp
 
 Xếp hạng thứ hai sau bánh đậu đỏ Yatsuhashi là bánh bông lan ngàn lớp nổi tiếng ở Kyoto. Mặc dù mình là đứa không thích ăn bánh bông lan lắm cũng phải công nhận bánh bông lan ngàn lớp rất rất ngon.
 
@@ -94,7 +94,7 @@ Bưng chiếc bánh trên tay mình có cảm giác như đang chiêm ngưỡng 
 
 ![](/images/kyoto-food08.jpg)
 
-#### Mua bánh bông lan ngàn lớp ở đâu?
+### Mua bánh bông lan ngàn lớp ở đâu?
 
 Cũng như bánh Yatsuhashi, bạn có thể dễ dàng bắt gặp bánh bông lan ngàn lớp ở khắp mọi ngõ ngách của Kyoto đặc biệt là khu phố cổ Gion. Mình cam đoan bạn sẽ cực kỳ hài lòng khi thấy bánh bông lan được gói ghém rất đẹp trong 2 -3 lớp hộp giấy như một món đồ trang sức quý giá vậy.
 
@@ -102,11 +102,11 @@ Cũng như bánh Yatsuhashi, bạn có thể dễ dàng bắt gặp bánh bông
 
 ![](/images/kyoto-food07.jpg)
 
-#### Giá cả
+### Giá cả
 
 Giá trung bình một bánh bông lan ngàn lớp khoảng 1000-1200 Yên.
 
-### V. Trà xanh
+## V. Trà xanh
 
 Nhật có 3 vùng trồng trà lớn, được xưng tụng là "Nhật Bản tam đại trà", đó là trà của vùng Shizuoka, trà vùng Sayama và trà của Uji. Uji là vùng đất nằm ở phía nam Kyoto, bắt đầu trồng trà từ thời Kamakura, được biết đến là kinh đô trà xanh nổi tiếng của Nhật Bản.
 
@@ -118,7 +118,7 @@ Mình không những uống mà còn dùng bột trà xanh Uji để đắp mặ
 
 https://balodeplao.com/da-trang-min-voi-mat-na-tra-xanh-dau-dua/
 
-#### Thưởng thức trà xanh ở đâu?
+### Thưởng thức trà xanh ở đâu?
 
 Không chỉ ở Kyoto mà toàn nước Nhật, các bạn sẽ được uống trà xanh mọi lúc mọi nơi…khi dùng cơm, khi ăn bánh, khi đàm đạo…Việc cùng nhau ngồi lại thưởng thức trà đã trở thành một nét văn hoá đặc trưng của con người Nhật Bản.
 

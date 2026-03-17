@@ -14,11 +14,11 @@ Với bản năng làm đẹp không ngừng của người phụ nữ, mẹ Sil
 
 Qua bài viết kì này mình muốn chia sẻ một số cảm nhận sau khi dùng dấm đen đều đặn trong hai tuần. Hi vọng bài viết hữu ích cho các mẹ bỉm sữa hay bạn gái nào có mong ước giảm cân bằng dấm đen Orihiro nhé
 
-### Thành phần viên dấm đen Orihiro
+## Thành phần viên dấm đen Orihiro
 
 Theo mình nghiên cứu thì viên dấm đen Orihiro chiết xuất từ gạo lức đỏ lên men, ủ theo phương pháp cổ truyền kết hợp với vỏ trấu và cám đại mạch, quả mơ tươi, tinh chất lá tía tô, tinh chất dầu vừng… Qua đó, các bạn đủ thấy được thành phần cấu tạo của viên dấm đen Orihiro hoàn toàn tự nhiên, lành tính và hấp dẫn hơn là có tác dụng giảm cân.
 
-### Công dụng của viên dấm đen Orihiro
+## Công dụng của viên dấm đen Orihiro
 
 Theo như quảng cáo thì viên dấm đen Orihiro đem đến vô vàn lợi ích vàng bất ngờ
 
@@ -33,13 +33,13 @@ Theo như quảng cáo thì viên dấm đen Orihiro đem đến vô vàn lợi 
 - Giảm táo bón
 - Làm đẹp da, trơn tóc
 
-### Cách dùng viên dấm đen Orihiro
+## Cách dùng viên dấm đen Orihiro
 
 - Ngày uống **_4 viên trước hoặc sau bữa ăn_** đều được, có thể chia 2 lần
 - Một gói chứa 216 viên dấm
 - Uống từ 2-3 gói một đợt, dừng khi thoả mãn với thân hình và cân nặng mong muốn
 
-### Kết quả sau hai tuần sử dụng viên dấm đen Orihiro
+## Kết quả sau hai tuần sử dụng viên dấm đen Orihiro
 
 Trước khi tiến hành chiến dịch giảm cân bằng dấm đen Orihiro, mình cũng lùng sục tìm kiếm review/feedback của những chị em đi trước trên các trang mạng lớn như webtretho. Mình tổng kết được khá nhiều ý kiến trái chiều: có người giảm ngay 3-4kg trong vòng một tháng; cũng có người chả giảm được gam nào. Thế là mình quyết định làm "chuột bạch" cho chiến dịch này bởi một phần mình khá an tâm với các sản phẩm sản xuất tại Nhật, đặc biệt sau chuyến đi phượt 20 ngày tại xứ sở mặt trời mọc.
 
@@ -57,13 +57,13 @@ https://balodeplao.com/loi-ich-vang-den-tu-viec-ket-hop-yoga-voi-chay-bo/
 
 Bên cạnh đó, mình hạn chế tối đa tinh bột, đồ ngọt, ăn "không giới hạn" rau xanh và uống hơn 2l nước/ mỗi ngày. Mình sẽ duy trì uống tiếp hết hai gói Orihiro tương đương 432 viên dấm trong vòng 3.5 tháng để xem kết quả như thế nào để còn viết bài review tiếp cho độc giả BLDL chớ.
 
-### Giảm cân khoa học và đúng cách
+## Giảm cân khoa học và đúng cách
 
 Mình xin nhấn mạnh viên dấm đen Orihiro chỉ là chất xúc tác đẩy nhanh quá trình giảm cân thôi. Các bạn không thể hoàn toàn phụ thuộc vào dấm đen, không ăn kiêng, không tập thể dục mà mong đợi kết quả thần kì đến với cơ thể mình được đâu.
 
 Ngoài ra, bạn cần lưu ý không nên uống dấm trực tiếp vì nó gây ảnh hưởng xấu đến sức khỏe, gây tình trạng ợ chua, ruột gan cồn cào khó chịu, nặng hơn là đau bao tử. Nói như vậy không có nghĩa là viên dấm đen Orihiro an toàn tuyệt đối với tất cả mọi người, tuỳ thuộc vào từng cơ địa từng người. Tuy nhiên, theo BLDL điều tra thì viên dấm Orihiro không gây tác dụng phụ nào cho người sử dụng.
 
-### Mua viên dấm đen Orihiro ở đâu?
+## Mua viên dấm đen Orihiro ở đâu?
 
 Do chuột bạch thành công sau hai tuần sử dụng, BLDL quyết định nhập một lượng lớn gói viên dấm Orihiro để phục vụ nhu cầu làm đẹp, giảm cân của các bạn nữ độc giả BLDL.
 
@@ -73,7 +73,7 @@ Các bạn có thể đặt mua ngay tại đây:
 
 _**Tin nóng: 10 bạn đầu tiên đặt hàng sẽ được ưu đãi giảm ngay 5% và một lọ thuỷ tinh nhỏ xinh chứa 10ml [dầu dừa Phú Yên nguyên chất](https://balodeplao.com/shop/dau-dua-nguyen-chat-phu-yen/) để làm đẹp là hết sảy nhé**_
 
-### Các phương pháp giảm cân tự nhiên khác
+## Các phương pháp giảm cân tự nhiên khác
 
 Là người yêu chuộng làm đẹp tự nhiên, mình luôn tìm tòi chia sẻ những công thức làm đẹp đơn giản từ các nguyên liệu tự nhiên lành tính mà mình đã áp dụng thành công. Các bạn có thể tham khảo các bài viết thanh lọc cơ thể "detox" giảm cân bên dưới và cập nhật nhiều bài viết hấp dẫn khác tại chuyên mục **[Làm Đẹp](https://balodeplao.com/category/lam-dep/)**
 

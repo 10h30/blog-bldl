@@ -16,7 +16,7 @@ Bài viết này được đúc kết từ việc nghiên cứu, học hỏi và
 
 **Tư thế Chó úp mặt** (Tên tiếng Anh là **Downward Facing Dog**, tên tiếng Phạn là **Adho Mukha Svanasana**) là một trong những tư thế cực kỳ quen thuộc xuất hiện trong chuỗi Chào Mặt Trời (Sun Salutation) để tăng cường sức mạnh cơ bắp, đóng vai trò là tư thế chuyển đổi hoặc tư thế nghỉ ngơi.
 
-### Lợi ích
+## Lợi ích
 
 Tư thế Chó Úp Mặt tuởng chừng đơn giản nhưng đem lại những lợi ích diệu kỳ đặc biệt cho phái nữ chúng ta. Ai muốn săn đùi, bụng phẳng thì chăm chỉ tập tư thế này nhé.
 
@@ -26,7 +26,7 @@ Tư thế Chó Úp Mặt tuởng chừng đơn giản nhưng đem lại những 
 - Làm tăng lượng oxi cho não giúp não hoạt động tích cực và hiệu quả hơn
 - Đẩy chất độc ra khỏi cơ thể thông qua hơi thở ra, giúp tăng cường chức năng của phổi
 
-### Kỹ thuật
+## Kỹ thuật
 
 Nói thật lòng, để thực hiện đúng chính xác tư thế chó úp mặt rất khó, đặc biệt là phải giữ phần lưng thật thẳng. Ngay cả bản thân mình cũng chỉ có thể thẳng lưng ở mức tương đối. Điểm sai phổ biến nhất là phần thắt lưng hay bị gù lên - vị trí đốt sống lưng T12- L1.
 
@@ -63,13 +63,13 @@ Bước ba: Vào thế Chó Úp Mặt
 - Đảm bảo phần thắt lưng vẫn được giữ thẳng không bị gồ hay cong lên để cột sống được kéo thẳng.
 - Hạ gót chân chạm sàn, hai bàn chân tách nhẹ bằng hông hoặc khép sát đều được.
 
-### Lỗi thường gặp
+## Lỗi thường gặp
 
 - Lưng dễ bị gù khu vực gần thắt lưng
 - Cột sống không thẳng
 - Vai bị rút gần về lỗ tai
 
-### Mẹo hay vào tư thế đúng
+## Mẹo hay vào tư thế đúng
 
 Trong trường hợp các bạn thấy việc nhón gót chân và áp sát bụng vào đùi trên quá khó, bạn có thể dùng một chiếc khăn đặt dưới gót chân và đạp lên - cũng như nhón gót chân lên cao rồi. Từ đây bạn cũng đẩy hết cơ đùi về phía sau, thẳng gối và thẳng lưng.
 

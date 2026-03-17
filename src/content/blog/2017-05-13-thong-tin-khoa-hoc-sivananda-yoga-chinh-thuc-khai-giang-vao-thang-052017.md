@@ -14,27 +14,27 @@ Với sự đồng tình ủng hộ của tất cả các bạn học viên sau 
 
 Dưới đây là thông tin chi tiết của khoá Sivananda Yoga cơ bản bắt đầu từ ngày 15/05/2017
 
-### Thông tin chung
+## Thông tin chung
 
 - Ngày dự khai giảng khoá học: 15/05/2017
 - Giờ học: 6g-7g15 sáng thứ 2-4-6 hằng tuần.
 - Địa điểm: Nhà Thiếu Nhi Thành Phố, 4 Tú Xương, Quận 1, TP. Hồ Chí Minh
 
-### Đối tượng học viên
+## Đối tượng học viên
 
 - Người mới bắt đầu tập Yoga
 - Người muốn tìm hiểu về trường phái yoga cổ điển – Sivananda Yoga
 - Học viên thuộc mọi lứa tuổi đều có thể tham gia được
 - Số lượng học viên: dưới 10 người
 
-### Nội dung buổi học
+## Nội dung buổi học
 
 - Hướng dẫn kỹ thuật thở Yoga đúng cách
 - Hướng dẫn chi tiết 12 động tác Asana cơ bản
 - Hướng dẫn thiền định
 - Cung cấp thông tin về hít thở đúng, chế độ ăn đúng, luyện tập đúng, thư giãn đúng và thiền định đúng
 
-### Học phí
+## Học phí
 
 - Tính theo giờ: 60.000VND/giờ
 - Tính theo khoá: 700.000VND/12 buổi/ tháng

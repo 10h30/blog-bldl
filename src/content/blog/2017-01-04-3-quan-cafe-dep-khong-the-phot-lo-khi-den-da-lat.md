@@ -17,7 +17,7 @@ Thành phố hoa Đà Lạt quá nổi tiếng là một trong những địa da
 
 Bài viết kì này sẽ là một vòng dạo quanh các quán cafe đặc sắc được ưa chuộng nhất tại Đà Lạt. Nào cùng nhau nhâm nhi tách ca cao nóng, cảm nhận cái tiết trời se lạnh đã đã của thành phố ngàn hoa nhé.
 
-### I. WINDMILLS
+## I. WINDMILLS
 
 Có thể nói Windmills Cafe như một biểu tượng mọi người đều nghĩ đến đầu tiên khi nhắc đến Đà Lạt. Đây là quán cafe yêu thích nhất của bộ đôi Ba lô Dép Lào. Cứ hễ Noel đến là các bạn sẽ thấy hai gương mặt thân quen xuất hiện tại Windmills  như truyền thống giáng sinh mỗi năm vậy.
 
@@ -41,7 +41,7 @@ _**Địa chỉ:**_
 - Windmills Hòa Bình: 7 đường 3/2, Đà Lạt
 - Windmills Nhà 9 Cánh: 1 đường Lê Đại Hành, Đà Lạt
 
-### II. AN CAFE
+## II. AN CAFE
 
 An Cafe là một trong những quán cafe khá mới nhưng lại gây tiếng vang trong cộng đồng giới trẻ. Nằm lửng bên con dốc Ba tháng Hai, với diện tích 200m² quán cà phê An là điểm dừng chân lý tưởng cho những ai yêu thích thiên nhiên và muốn tìm đến một nơi mang phong cách đậm chất mộc mạc của Đà Lạt.
 
@@ -59,7 +59,7 @@ Về thức uống, menu An khá đa dạng với nhiều thức uống phong ph
 
 _**Địa chỉ:**_ 63 Bis Đường 3/2 Tp. Đà Lạt
 
-### III. MELINH CAFE GARDEN
+## III. MELINH CAFE GARDEN
 
 Được mệnh danh là quán cà phê có view đẹp nhất ở Đà Lạt, Mê Linh Coffee Garden tọa lạc ở tận xã Tà Nung, được nhiều du khách yêu thích và tìm đến không chỉ nhờ hương vị cà phê chồn đúng chất mà còn sở hữu tầm nhìn có một không hai ở Đà Lạt.
 

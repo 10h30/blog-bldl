@@ -24,7 +24,7 @@ Tên nghe dễ thương ha. Nào cùng nhau xem thử Túi Mơ To có gì đặc
 
 ![](/images/9cd494b4-5bc7-4ed9-9f86-2cad9538e8fa.jpg)
 
-### Quang cảnh
+## Quang cảnh
 
 Cứ mỗi năm lên thăm Đà Lạt, mình lại ố à ngộ ra quá [nhiều quán cafe mới](https://balodeplao.com/danh-gia-quan-cafe-f-canh-dong-hoa-thanh-pho-da-lat/) mọc lên như nấm. Quán nào cũng dễ thương, mộc mạc với view "chất lượng" tôn lên vẻ đẹp yên bình tại Đà Lạt.
 
@@ -32,7 +32,7 @@ Nằm cách chợ Đà Lạt chừng 5km, "Túi Mơ To" nổi tiếng với view
 
 https://www.instagram.com/p/B4buKfxp0X\_/
 
-### Không gian
+## Không gian
 
 Không gian của "Túi Mơ To" đúng theo kiểu truyền thống của các quán cafe tại Đà Lạt: mộc mạc với chất liệu gỗ làm chính, xanh mướt với hoa lá làm nền. Từ cổng bước vào, không gian bên ngoài của Túi Mơ To gây ấn tượng với khách bằng một mảng sân vườn khá xinh và một hồ nước nhân tạo nho nhỏ.
 
@@ -46,17 +46,17 @@ Không gian bên trong nhỏ nhắn và ấm cúng đặc biệt có một góc 
 
 BLDL ghé quán tầm 6g chiều thì đã thấy rất đông các bạn trẻ lên hình "sống ảo" khắp mọi ngõ ngách của quán. Vì quán nhỏ nhưng người lại đông nên có cảm giác hơi chật chội.
 
-### Đồ ăn thức uống
+## Đồ ăn thức uống
 
 Theo cảm nhận cá nhân thì thức uống tại Túi Mơ To không có gì đặc biệt, chỉ ở mức trung bình chấp nhận. Nếu bạn đến đây với mục đích chụp hình đẹp thì ok còn về thức uống chỉ ở mức chấp nhận được mà thôi.
 
 ![](/images/1cb3e731-87a1-4f4d-bf7b-a6f34be20b21.jpg)
 
-### Giá cả ổn
+## Giá cả ổn
 
 So với mặt bằng các quán cafe tại Đà Lạt thì giá cả tại đây ổn các bạn nhé. Trung bình từ 50-60k.
 
-### Phục vụ
+## Phục vụ
 
 Theo mình nghiên cứu khá nhiều bạn đánh giá chất lượng của các bạn phục vụ ở đây rất kém. Nhưng lúc mình đến tuy khá đông khách nhưng nhân viên vẫn vui vẻ đón tiếp. Các bạn còn năng nổ chụp hình giúp gia đình bốn người của mình. Có lẽ sau khi nhận được những phản hồi góp ý, thái độ phục vụ đã được cải thiện chăng.
 

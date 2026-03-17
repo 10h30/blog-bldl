@@ -22,7 +22,7 @@ Một ngày đời thường khi tụi mình không "xê dịch"
 
 Mình không phải là tài phiệt, cũng không phải là chuyên gia tài chính hay chủ tịch tập đoàn cao siêu gì. Mình chỉ là một con người trẻ đầy nhiệt huyết xây dựng thành công một chút gì đó của riêng mình dựa trên sở trường và đam mê sẵn có. Do đó, trong bài viết này, mình muốn chia sẻ một số kinh nghiệm hữu ích khởi nghiệp dành cho các bạn trẻ khao khát thoát ra khỏi chiếc ghế văn phòng để mong muốn xây dựng công việc kinh doanh cho riêng mình. Dĩ nhiên, những gì mình nói ra đều dựa trên kinh nghiệm thực tiễn của bọn mình. Các bạn đọc để mang tính chất tham khảo và mày mò tìm ra lối đi riêng cho bản thân nhé.
 
-### Xác định việc mình thích và mình giỏi
+## Xác định việc mình thích và mình giỏi
 
 Sự kết hợp giữa việc mình thích làm và việc mình làm giỏi chính là chìa khoá thành công chính khi khởi nghiệp. Để xác định được điều này hoàn toàn không hề dễ dàng. Có người mất cả cuộc đời cũng không biết mình thích gì và giỏi gì.
 
@@ -40,7 +40,7 @@ Mỗi người chúng ta yêu thích những thứ khác nhau, lo lắng về nh
 
 Nếu bạn khởi nghiệp từ chính nguồn đam mê ấy dựa trên những việc bạn yêu thích và sở trường cá nhân thì bạn sẽ đủ lửa để tiếp tục phấn đấu cho dù có gặp phải khó khăn hay thất bại đi chăng nữa.
 
-### Xuất phát từ nhu cầu bản thân và thị trường
+## Xuất phát từ nhu cầu bản thân và thị trường
 
 Mình là một hướng dẫn viên yoga ăn thuần chay. Tuy nhiên, trên thị trường tại thời điểm ấy, không có nhiều thực phẩm thuần chay lành mạnh. Các món ăn chay bên ngoài thường mình không ăn được vì quá nhiều gia vị, dầu mỡ hoặc giả chay. Do đó, đa phần mình tự mày mò công thức và chế biến tại nhà cho bản thân. Và mình nhận được rất nhiều nhận xét từ gia đình, bạn bè, học viên là các món ăn mình tạo ra khá ngon.
 
@@ -52,7 +52,7 @@ Thế là ["Bếp Lành"](https://purna.vn/bep-lanh-dem-den-suc-khoe-tot-lanh-ch
 
 Đó là một ví dụ điển hình cho việc khởi nghiệp từ chính nhu cầu bản thân và thị trường. Những gì bạn cần mà không ai bán thì cũng ti tỉ người khác đang cần tìm. Vậy sao không nắm bắt cơ hội và bắt đầu xây dựng sản phẩm cốt lõi dựa trên nhu cầu bản thân, thị trường với thế mạnh riêng của bạn.
 
-### Xây dựng sản phẩm cốt lõi
+## Xây dựng sản phẩm cốt lõi
 
 <https://www.instagram.com/p/B9aclREpYON/>
 
@@ -62,7 +62,7 @@ Ban đầu, mình chỉ làm pate để phục vụ cho những bữa sáng ngon
 
 Khi bắt đầu khởi nghiệp, bạn sẽ mất khá nhiều thời gian nghiên cứu, mày mò định hướng sản phẩm cốt lõi của mình. Đây chính là nhân tố quan trọng quyết định thành bại của việc kinh doanh. Sản phẩm phải chất lượng, khác biệt, mang chất riêng của bạn và đáp ứng đúng nhu cầu thị trường đang cần thì xem như bạn thành công 1/2 rồi đấy.
 
-### Đừng làm lớn - hãy làm nhỏ
+## Đừng làm lớn - hãy làm nhỏ
 
 Một trong những kinh nghiệm khởi nghiệp của mình là đừng đua đòi làm gì quá to và hào nhoáng. Điều này chỉ khiến bạn đầu tư quá nhiều tiền bạc, công sức, thời gian mà rủi ro thất bại lại cao. Thay vào đó, hãy bước chậm từng bước nhỏ.
 
@@ -70,7 +70,7 @@ Bạn đầu tư một số tiền nho nhỏ hợp lý trong khả năng tài ch
 
 Thuyền to thì sóng lớn. Do đó, nếu chưa biết bơi giỏi, đừng vội vàng ra biển. Hãy chỉnh chu, trưởng thành trong chính ao làng của mình trước đã.
 
-### Bán gì chứ không bán hàng
+## Bán gì chứ không bán hàng
 
 Nghe lạ nhỉ, khởi nghiệp mà được khuyên là bán gì chứ không bán hàng. Ngụ ý ở đây là các bạn đừng chỉ chăm bẩm vô chuyện bán được hàng mà hãy bán sự uy tín, bán chất lượng và bán dịch vụ chăm sóc khách hàng. Nếu bạn có một sản phẩm tốt nhưng không phát triển dịch vụ chăm sóc khách hàng cũng như sự uy tín thương hiệu thì cũng chả thành công dài lâu được.
 

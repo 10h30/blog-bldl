@@ -14,21 +14,21 @@ Trong bài viết kì này của chuyên mục "Làm đẹp", mình muốn chia 
 
 Đầu tiên mình muốn nói sơ qua về công dụng của việc tẩy tế bào chết với công cuộc làm đẹp, sau đó sẽ bật mí ngay công thức bí mật đó nhé <img src="/images/1F609.png" width="18">
 
-### **Tẩy tế bào chết là gì?**
+## **Tẩy tế bào chết là gì?**
 
 Tẩy da chết là động tác làm đẹp cần thiết, không chỉ loại bỏ lớp tế bào da đã chết, còn giúp bạn lấy đi các bã nhờn bụi bẩn nằm sâu trong lỗ chân lông, đem lại làn da  mới rạng rỡ và mịn màng hơn. Tẩy da chết cũng là một cách để giúp làn da trẻ hóa, chống chảy sệ, trắng sáng mượt mà.
 
 Đồng thời, lớp da mới sau khi được tẩy tế bào chết sẽ độ thẩm thấu cao hơn. Do vậy mà các chuyên gia khuyên rằng sau khi tẩy tế bào chết xong, bạn nên thoa ngay một lớp lotion mà bạn đang sử dụng, tăng hiệu quả dưỡng da hơn.
 
-### **Bao lâu thì nên tẩy tế bào chết?**
+## **Bao lâu thì nên tẩy tế bào chết?**
 
 Bạn chỉ cần tẩy tế bào chết 1-2 lần/tuần là đủ; bằng cách sử dụng xơ mướp mềm hoặc khăn tắm. Bạn không cần phải chà xát quá mạnh để loại bỏ da chết đâu nhé vì nếu bạn chà sát quá mạnh tay, da sẽ đỏ lên và đau rát. Chà xát nhẹ nhàng theo chuyển động tròn là đủ để da chết, bụi bẩn bong tróc ra rồi.
 
-### **Công thức tẩy tế bào chết từ dầu dừa và cà phê**
+## **Công thức tẩy tế bào chết từ dầu dừa và cà phê**
 
 ![](/images/dau-dua-cafe-4-1.jpg)
 
-#### **_Nguyên liệu_**
+### **_Nguyên liệu_**
 
 1/4 chén muối biển
 
@@ -36,7 +36,7 @@ Bạn chỉ cần tẩy tế bào chết 1-2 lần/tuần là đủ; bằng các
 
 2 muỗng canh dầu dừa nguyên chất
 
-#### _Cách làm_
+### _Cách làm_
 
 Bạn chỉ cần trộn đều tất cả nguyên liệu trên vào một cái tô; sau đó, thoa đều hỗn hợp này lên người. Bạn massage nhẹ nhàng theo vòng tròn bằng xơ mướp mềm hoặc khăn mềm trong 15-20 phút để dầu dừa và cà phê thẩm thấu vào da, phát huy hết tác dụng.
 

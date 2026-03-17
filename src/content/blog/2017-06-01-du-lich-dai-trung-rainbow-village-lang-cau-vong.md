@@ -14,7 +14,7 @@ destination:
 
 Nhờ đọc những thông tin quảng cáo hoành tráng như thế này mà BLDL quyết định phải ghé thăm bằng được Làng Cầu Vồng. Nhưng...có những điều chỉ tuyệt vời đúng như quảng cáo mà thôi. Sự thật không huy hoàng như hai đứa từng nghĩ.
 
-### Cách đến Làng Cầu Vồng
+## Cách đến Làng Cầu Vồng
 
 Để đến được Làng Cầu Vồng, các bạn có thể bắt một trong bốn chuyến xe bus sau: Xe 53; Xe 73; Xe 157 và Xe 359. Thời gian di chuyển trung bình đến Làng Cầu Vồng là 40 phút.
 

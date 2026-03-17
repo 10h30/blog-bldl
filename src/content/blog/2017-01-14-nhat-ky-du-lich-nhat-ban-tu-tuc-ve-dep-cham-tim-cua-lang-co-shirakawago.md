@@ -35,7 +35,7 @@ Mình đi vào giữa tháng 11 nên chỉ có thể thưỡng lãm khung cảnh
 
 ![Các bạn có thể chiêm ngưỡng vẻ đẹp mùa thu lãng mạn ...đẹp rụng rời tại Shirakawago](/images/shirakawago-bldl09.jpg)
 
-### Cách thức di chuyển và mua vé tham quan Làng cổ Shirakawago
+## Cách thức di chuyển và mua vé tham quan Làng cổ Shirakawago
 
 Phương tiện duy nhất đến đến tham quan làng cổ Shirakawago là xe bus. Bạn có thể đi từ Toyama hoặc Kanazawa đều được.
 

@@ -14,13 +14,13 @@ HotelQuickly là khám phá mới của mình trong chuyến du lịch [Boracay]
 
 ![Hotequickly-banner](/images/hotequickly-banner.jpg)
 
-### Ưu điểm của HotelQuickly
+## Ưu điểm của HotelQuickly
 
 Bình thường muốn có giá khách sạn rẻ, chắc chắc điều đầu tiên nghĩ đến là phải đặt phòng càng sớm càng tốt. Đây là chiến thuật "ai cũng biết" của các tín đồ thích đi du lịch giá rẻ giống mình, tương tự như vé máy bay giá rẻ phải đặt trước 6 tháng đến 1 năm.
 
 HotelQuickly đi ngược lại nguyên tắc trên. Nó dùng chiến thuật đặt phòng phút chót để cung cấp giá ưu đãi nhất cho khách hàng. HotelQuickly cam kết **giá luôn luôn rẻ hơn ít nhất 28%** so với bất cứ dịch vụ đặt phòng khách sạn thông thường nào khác. Đôi khi giá rẻ đến giật mình luôn nhé!
 
-### Hạn chế của HotelQuickly
+## Hạn chế của HotelQuickly
 
 Do bản chất là ứng dụng đặt phòng phút chót nên bạn chỉ có thể đặt phòng trong ngày hoặc cho ngày hôm sau khi sử dụng HotelQuickly. Bạn không thể đặt trước 1 tuần hay 1 tháng. Do đó nếu bạn muốn lên một kế hoạch du lịch hoàn hảo, HotelQuickly không phải là sự lựa chọn thông minh. Nếu đợi đến sát ngày, nhiều khả năng khách sạn bạn yêu thích đã hết chỗ.
 
@@ -56,7 +56,7 @@ Con số tuy còn khiêm tốn nhưng đủ để bạn khám phá cả Đông N
 
 \[su_note note_color="#edec1e" radius="2"\]Sử dụng mã **TBUIV1** để có ngay $15 miễn phí khi đặt phòng với HotelQuickly\[/su_note\]
 
-### Đặt phòng với HotelQuickly
+## Đặt phòng với HotelQuickly
 
 Đầu tiên, bạn phải tải ứng dụng HotelQuickly lên điện thoại. Bạn chỉ có thể đặt phòng HotelQuickly qua điện thoại, dịch vụ này không có trang web như các dịch vụ đặt phòng truyền thống.
 
@@ -70,7 +70,7 @@ Giao diện của HotelQuickly rất dễ dùng, chỉ cần vài phút thao tá
 
 ![Chọn thành phố cần đặt phòng](/images/hotequickly-3.jpg)
 
-### Miễn phí $15 đặt phòng
+## Miễn phí $15 đặt phòng
 
 Điểm hấp dẫn nhất của HotelQuickly là dịch vụ này tặng **$15 miễn phí** cho tất cả các khách hàng mới, tương tự như [khuyến mãi 100.000đ của UBER](https://balodeplao.com/huong-dan-su-dung-uber-phan-1-dang-ky-tai-khoan-va-nhan-khuyen-mai-100-000/ "Hướng dẫn sử dụng UBER – [Phần 1] Đăng ký tài khoản và nhận khuyến mãi 100.000"). Để nhận được $15 miễn phí này, bạn truy cập vào phần Credit, sau đó chọn Redeem, nhập mã **TBUIV1**.
 

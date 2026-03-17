@@ -14,7 +14,7 @@ slug: "quan-kem-sai-gon"
 
 Thời tiết Sài Gòn nắng nóng khủng khiếp. Vì vậy thời điểm thích hợp ra ngoài dạo phố chỉ có trời tối mà thôi. Hai vợ chồng dắt díu nhau đi ăn kem giải nhiệt. "Vốn ăn kem" mình cũng có kha khá nhưng quán mình ưa thích thì chỉ có vài quán mà thôi. Ngoài những quán kem theo kiểu công nghiệp hoá như BUD, Snowy, Swensen, Dairy Queen...mình thích cái gì đó đặc trưng riêng biệt hơn. Tuỳ theo ý thích từng người nhưng mình là vậy.
 
-### I. Kem Bố Già
+## I. Kem Bố Già
 
 Đây là quán tủ của vợ chồng mình. Bố Già có mặt ở Sài Gòn từ rất lâu rồi. Nhưng đến nay, sức hấp dẫn của Bố Già vẫn chưa hề hạ nhiệt.
 
@@ -22,7 +22,7 @@ Thời tiết Sài Gòn nắng nóng khủng khiếp. Vì vậy thời điểm t
 
 Bố Già có rất nhiều chi nhánh. Tuy nhiên, chi nhánh mình yêu thích nhất là trên Nguyễn Văn Trỗi. Chia sẻ thêm là mình vote cho hai món kem nổi bật của quán là Kem Bố Già và Kem Chocolate !
 
-### II. Honey Cream
+## II. Honey Cream
 
 Việc có con em gái quá teen cũng có nhiều cái hay. Mình được update nhiều địa điểm ăn uống mới lạ cho kịp với thời đại, với giới trẻ ! Hiện nay, không ít các quán kem mang phong cách trẻ mọc lên như nấm như I Love Cà Rem, I love kem, Kem xôi dừa... thì mình ấn tượng với quán Honey Cream trên Nguyễn Thị Minh Khai.
 
@@ -32,7 +32,7 @@ Quán trang trí nhẹ nhàng theo phong cách Hàn Quốc với hình tượng 
 
 Ngoài ra, kem dâu tằm tại đây cũng là lựa chọn thú vị đối với các bạn không thích ăn quá ngọt như mình !
 
-### III. Lu Cream
+## III. Lu Cream
 
 Tối 30/4, hai đứa 8x lần đầu thử trào lưu Lu Cream. Kết quả bất ngờ là chồng mình thích kem ở đây hơn Honey Cream ngược với mình hehe. Nội thất Lu Cream trang trí sang chảnh hơn, tông trắng đen nền nã. Tuy nhiên, không gian quán hơi nhỏ, nếu bạn đi hơi đông người thì không thoải mái lắm.
 

@@ -14,7 +14,7 @@ Bên cạnh đó, dầu dừa lại dễ tìm, dễ làm, "ngon bổ rẻ". Ban 
 
 Mình muốn chia sẻ với các bạn một số phương pháp đơn giản làm đẹp từ đầu đến chân với dầu dừa mà mình áp dụng thành công. Làm đẹp tự nhiên không hề khó chỉ là có CHỊU KHÓ hay không thôi các bạn gái ơi !
 
-### A. Cho mái tóc dày và suôn mượt
+## A. Cho mái tóc dày và suôn mượt
 
 **_Chuẩn bị_**
 
@@ -51,7 +51,7 @@ Bước 4:
 
 Nếu bạn siêng năng chăm mái tóc mỗi tuần 1-2 lần với dầu dừa thì sẽ thấy kết quả rõ rệt. Sau này khi tóc đã đẹp rồi thì duy trì 1 lần/tuần là đủ. Mặc dù sinh con xong nhưng tóc mình vẫn đen mượt và dày dặn, giảm gãy rụng hẳn từ lúc dưỡng tóc bằng dầu dừa.
 
-### B. Cho mi dài và dày
+## B. Cho mi dài và dày
 
 **_Chuẩn bị_**
 
@@ -64,7 +64,7 @@ Cũng tương tự như đối với tóc, bạn chấm tăm bông/ cây chải 
 
 Đối với mi, bạn có thể để nguyên ngủ qua đêm cũng không sao. Với những bạn lần đầu tiên dưỡng mi bằng dầu dừa thì cảm giác mắt hơi "nặng nặng" là điều bình thường ha. Mình kiên trì chải mi như thế 1-2 lần/ tuần thì mi dài và dày ra trông thấy.
 
-### C. Chăm sóc răng miệng
+## C. Chăm sóc răng miệng
 
 **_Chuẩn bị_**
 
@@ -78,13 +78,13 @@ _**Cách làm**_
 - Sau đó súc lại bằng nước muối để loại bỏ chất nhớt trong dầu dừa
 - Thời gian phù hợp và hiệu quả nhất là bạn súc miệng bằng dầu dừa nguyên chất vào mỗi buổi sáng khi bạn thức dậy và bắt đầu vệ sinh răng miệng.
 
-### Mẹo nhỏ bảo quản dầu dừa
+## Mẹo nhỏ bảo quản dầu dừa
 
 Nếu đúng là dầu dừa nguyên chất, không có chứa tạp chất pha trộn thì bạn có thể dùng được trong vài năm mà không phải lo lắng về chất lượng cũng như hư hỏng. Bạn chỉ cần bảo quản trong chai thuỷ tinh hoặc chai nhựa để ở nhiệt độ thường nơi thoáng mát, tránh nắng nóng.
 
 Hoặc nếu kĩ lưỡng hơn, bạn cho dầu dừa vào ngăn mát tủ lạnh thì hạn sử dụng lâu hơn lên tới vài năm. Ở nhiệt độ dưới 25 độ C, dầu dừa nguyên chất sẽ đông lại thành dạng xốp, tuy nhiên chất lượng vẫn không đổi. Khi cần dùng bạn chỉ cần lấy muỗng xúc một ít tinh dầu dừa để ra ngoài, một vài phúc sau tinh dầu dừa sẽ tan ra, khi đó có thể sử dụng như bình thường.
 
-### Dầu dừa nguyên chất đã có mặt tại BL&DL Shop
+## Dầu dừa nguyên chất đã có mặt tại BL&DL Shop
 
 Hiện nay, BL&DL shop có nhập về một số dầu dừa nguyên chất từ Phú Yên. Dầu đảm bảo nguyên chất, chất lượng cực kì ổn, giữ được mùi thơm rất lâu vì người thân mình tự nấu từ những trái dừa tươi tại quê nhà. Các bạn có thể cập nhật tại mục "Shop" khi có hàng nhé !
 

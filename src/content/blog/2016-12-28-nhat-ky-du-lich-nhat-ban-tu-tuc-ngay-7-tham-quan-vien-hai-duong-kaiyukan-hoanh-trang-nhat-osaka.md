@@ -14,7 +14,7 @@ Sau chuyến thăm quan ấn tượng tại [công viên quốc gia Mino Park](h
 
 ![](/images/osaka-aquarium-kaiyukan-02.jpg)
 
-### **Cách đi đến Osaka Aquarium Kaiyukan**
+## Cách đi đến Osaka Aquarium Kaiyukan
 
 ![](/images/osaka-aquarium-kaiyukan-04.jpg)
 
@@ -23,11 +23,11 @@ Sau chuyến thăm quan ấn tượng tại [công viên quốc gia Mino Park](h
 - _Nếu di chuyển bằng xe điện thì ga gần nhất sẽ là ga "Osaka Wan" của Osaka Municipal Subway, Chuo Line._
 - _Nếu đi bằng xe buýt thì "Tempozan Harbor Village" của Osaka City Bus sẽ là trạm dừng gần nhất._
 
-### Thời gian hoạt động
+## Thời gian hoạt động
 
 Như thông lệ, Kaiyukan _mở cửa đón khách từ 9:30 AM và đóng cửa vào lúc 7:00 PM._ Tuy nhiên, thời gian mở cửa sẽ thay đổi theo từng thời kì, đặc biệt là _vào tháng 8, vì số lượng du khách tham quan đông nên giờ mở cửa sẽ là từ 9:30 sáng cho đến 20:00 tối_. Các bạn chú ý trước giờ đóng cửa 1 tiếng sẽ là suất vào cửa cuối cùng trong ngày của Kaiyukan nhé.
 
-### Cách thức mua vé vào cửa
+## Cách thức mua vé vào cửa
 
 ![](/images/osaka-aquarium-kaiyukan-03.jpg)
 
@@ -41,7 +41,7 @@ Bạn có thể mua vé vào cửa ngay cổng vào của Viện hải dương K
 
 Bạn có thể tham khảo giá vé được cập nhật tại: http://www.kaiyukan.com/language/eng/ticket.html
 
-### **Osaka Aquarium Kaiyukan** hoàng tráng
+## **Osaka Aquarium Kaiyukan** hoàng tráng
 
 Viện hải dương Kaiyukan tọa lạc ở khu cảng Tempoyama. Do vậy, ngoài việc tham quan viện hải dương, bạn còn có thể ngắm nhìn hoàng hôn tuyệt đẹp ở bến cảng.
 

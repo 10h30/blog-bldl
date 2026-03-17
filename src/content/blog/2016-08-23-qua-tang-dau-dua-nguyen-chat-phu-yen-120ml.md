@@ -25,7 +25,7 @@ https://balodeplao.com/lam-dep-tu-dau-den-chan-voi-dau-dua-nguyen-chat-phan-2/
 
 https://balodeplao.com/da-trang-min-voi-mat-na-tra-xanh-dau-dua/
 
-### Cách thức tham gia
+## Cách thức tham gia
 
 Chỉ cần cung cấp thông tin email của bạn theo khung đăng ký dưới dây dây là xong. Bạn sẽ nhận được thông báo qua email nếu may mắn nhận quà.
 
@@ -33,7 +33,7 @@ Chỉ cần cung cấp thông tin email của bạn theo khung đăng ký dướ
 
 <script src="https://widget-prime.rafflecopter.com/launch.js"></script>
 
-### Cách thức quay thưởng và gửi quà
+## Cách thức quay thưởng và gửi quà
 
 Người chiến thắng sẽ được chọn bằng cách quay ngẫu nhiên. Mình sẽ cập nhật danh sách nhận quà tặng tại bài viết này. Đồng thời sẽ có email thông báo cho bạn để xác nhận.
 

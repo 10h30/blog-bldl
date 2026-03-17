@@ -17,7 +17,7 @@ Sau bài viết chia sẻ kinh nghiệm di chuyển bằng [tàu lửa](https://
 
 Vì vậy, mình muốn chia sẻ cảm nhận cũng như đánh giá một vài địa điểm ăn uống tại Phan Thiết, đặc biệt dành cho các bạn [du lịch cùng trẻ nhỏ](https://balodeplao.com/meo-nho-khi-di-du-lich-dai-ngay-cung-be/) tham khảo nhe.
 
-### I. Đánh giá chung
+## I. Đánh giá chung
 
 Theo mình nghiên cứu, hiện có ba nhà hàng lớn được nhiều thực khách đánh giá cao tại khu du lịch Mũi Né - Phan Thiết là **_Cây Bàng, Hoa Viên và Ngọc Sương_**. Đây là ba địa điểm ăn uống thích hợp với những buổi đi chơi tụ họp của gia đình bạn bè bởi vị trí nằm ngay trung tâm khu du lịch - đường Nguyễn Đình Chiểu, khuôn viên rộng rãi, chất lượng phục vụ tốt và thức ăn ngon. Giá cả tại ba nhà hàng này khá đồng đều nhau, trung bình khoảng 150k-200k/ món tuỳ theo thời giá hải sản.
 
@@ -33,11 +33,11 @@ _Địa chỉ quán Sóc Nâu:_ Số 5, Đường Nguyễn Đình Chiểu, Tp. P
 
 Ngoài ra, các bạn trẻ có thể khám phá thêm những đặc sản nổi tiếng của Phan Thiết như bánh căn, chả lụi, bánh tráng chấm mắm ruốc và nhiều món hải sản khác tại khu ẩm thực bờ kè Nguyễn Đình Chiểu,  khu vực đường Trần Hưng Đạo và vô vàn những quán ăn địa phương nhỏ nằm rải rác khắp Phan Thiết. Do đi cùng Silk, mình chưa có đủ thời gian nghiên cứu hết. Nếu các bạn biết thêm địa điểm ăn uống nào khác hấp dẫn hơn thì đừng quên chia sẻ với BL&DL nhé.
 
-### II. Đánh giá về Nhà hàng Ngọc Sương - Phan Thiết
+## II. Đánh giá về Nhà hàng Ngọc Sương - Phan Thiết
 
 Cây Bàng là nơi tập trung chính của khách đoàn nên khá xô bồ đông đúc, không thích hợp khi đi du lịch cùng Silk. Hoa Viên có vẻ thiên về quán nhậu nhiều hơn, là nơi bạn bè tụ tập nhâm nhi chút rượu bia và thưởng thức hải sản. Vì vậy, mình quyết định chọn Nhà hàng Ngọc Sương bởi khuôn viên rộng rãi, sạch sẽ, món ăn nổi tiếng thơm ngon, chất lượng phục vụ tốt, thích hợp với gia đình đi cùng trẻ nhỏ.
 
-#### a. Vị trí và không gian
+### a. Vị trí và không gian
 
 Nhà hàng Ngọc Sương nằm ngay trên Nguyễn Đình Chiểu - con đường du lịch chính của thành phố Phan Thiết; nơi tập trung nhiều khách sạn, resort, nhà hàng, quán bar. Nhà hàng nằm ngay sát biển, quang cảnh đẹp, thoáng mát. Bạn có thể ngồi ăn mà nghe sóng biển vỗ rì rào rất thú vị. Khuôn viên khá rộng rãi, sát bên cạnh có bãi đỗ xe ôtô rất tiện lợi.
 
@@ -47,7 +47,7 @@ Nhà hàng Ngọc Sương nằm ngay trên Nguyễn Đình Chiểu - con đườ
 
 Tuy nhiên, nếu so với Cây Bàng hoặc Hoa Viên, Ngọc Sương khá xa so với khu vực resort/ khách sạn. Vợ chồng mình mỗi lần đi ăn mất gần 200k tiền taxi cho cả đi và về nên các bạn không thích ăn xa nên cân nhắc.
 
-#### b. Chất lượng và giá cả
+### b. Chất lượng và giá cả
 
 So với những nhà hàng khác, giá tại Ngọc Sương có phần hơi cao một chút nhưng bù lại chất lượng đồ ăn khỏi chê. Trung bình một phần ăn từ 150k-200k tuỳ theo thời giá hải sản các bạn nhé. Tuy nhiên, lượng mỗi phần ăn khá nhiều, đủ hai người ăn no.
 
@@ -67,10 +67,10 @@ Hải sản đút lò có phần hơi ngán, có thể do mình không thích ă
 
 ![](/images/nha-hang-ngoc-suong-phan-thiet-bldl07.jpg)
 
-#### c. Dịch vụ
+### c. Dịch vụ
 
 Mình đánh giá rất cao dịch vụ của nhà hàng Ngọc Sương. Không gian nhà hàng thoáng mát, sạch sẽ tạo ấn tượng tốt với khách ngay mới bước vào cửa. Nhân viên lịch sự, vui vẻ tận tình, luôn miệng tươi cười. Nhà hàng nằm sát biển, gió mát lồng lộng. Vừa nhâm nhi hải sản vừa ngắm biển thì còn gì bằng.
 
-### Lời kết
+## Lời kết
 
 Vài dòng đánh giá ngắn ngọn phần nào giúp các bạn có dự định đi du lịch Mũi Né- Phan Thiết tham khảo và lựa chọn địa điểm ăn uống thích hợp nhé. Chúc các bạn có chuyến đi vui vẻ :)

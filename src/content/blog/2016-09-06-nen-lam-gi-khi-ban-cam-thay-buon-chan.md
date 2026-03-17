@@ -12,7 +12,7 @@ Nói chung, tâm trạng con người thay đổi phức tạp lắm. Sáng nắ
 
 Vậy chúng ta cần làm gì để thoát khỏi tâm trạng chán đời này khi nó bất thình lình chợt đến. Bài viết kỳ này sẽ là cơ hội để mình chia sẻ với các bạn một số bí quyết mình từng thành công thoát khỏi cảm giác buồn chán.
 
-### I. Ăn cái gì mình thích
+## I. Ăn cái gì mình thích
 
 Niềm vui thông qua bao tử là cách thức dễ dàng và nhanh nhất để xoá tan nỗi buồn. Một lát bánh ngọt, một ít hoa quả, hay bất cứ món gì bạn thích đều xoa dịu phần nào tâm trạng chán nản, giúp bạn hưng phấn trở lại. Đặc biệt là socola đen có tác dụng khống chế tâm trạng chán nản, trầm cảm, đem lại cảm giác vui vẻ.
 
@@ -20,13 +20,13 @@ Với mình, [trà xanh là thức uống thần kì giảm stress hiệu quả]
 
 ![](/images/eating-is-happiness.jpeg)
 
-### II. Ngủ giấc ngắn
+## II. Ngủ giấc ngắn
 
 ![](/images/sleeping.jpeg)
 
 Đã nhắc đến ăn không thể bỏ qua ngủ. Một giấc ngủ ngắn có thể khiến tâm trạng bạn tốt hơn hẳn. Cả ngày quay cuồng với công việc kinh doanh và chăm sóc con khiến mình kiệt sức và đôi lúc cau có khó chịu trong người. Những lúc như vậy mình chỉ cần nằm xuống, ôm gối và đánh một giấc ngủ ngắn. Khi thức dậy là có thể cười toe toét với chồng con ngay.
 
-### III. Tập thể dục
+## III. Tập thể dục
 
 Thay vì ngồi một chỗ than thân trách phận, bạn chỉ cần đứng dậy và đi bộ quanh nhà/ công ty, hít thở sâu sẽ khiến tâm trạng khá hơn rất nhiều. Mình thì chỉ cần xách giày ra chạy bộ/ trải thảm [tập một giờ Yoga](https://balodeplao.com/5-loi-ich-than-ki-khong-ngo-den-tu-yoga/) là mệt mỏi tiêu biến, vui vẻ quay lại liền. Cảm giác đổ mồ hôi ra rất đã các bạn ạ!
 
@@ -34,13 +34,13 @@ Thay vì ngồi một chỗ than thân trách phận, bạn chỉ cần đứng 
 >
 > ![](/images/yoga-creative.jpg)
 
-### IV. Mua sắm cho bản thân
+## IV. Mua sắm cho bản thân
 
 Lúc chúng ta buồn là lúc túi tiền dễ bị viêm nhất. Không cần mua gì quá to tát! Chỉ đơn giản một quyển sách hay, một chiếc áo mới hay đơn thuần là bịch kẹo vị bạn thích thế là đủ. Đây là một trong những cách yêu thương bản thân mình vượt qua buồn chán.
 
 ![](/images/love-books.jpeg)
 
-### V. Gặp gỡ bạn bè/ người thân
+## V. Gặp gỡ bạn bè/ người thân
 
 Tìm một người để tâm sự giải khuây là giải pháp tích cực mình khuyến khích nhất. Mình thường tâm sự với mẹ mỗi khi buồn hoặc kéo con bạn thân nhất đi spa. Thay vì lên Facebook post status than vãn "Ôi tui chán đời quá" thì hãy ra ngoài gặp gỡ một ai đó mà bạn thấy cần sẽ ĐỠ BUỒN n lần khi sống ảo trên mạng xã hội.
 

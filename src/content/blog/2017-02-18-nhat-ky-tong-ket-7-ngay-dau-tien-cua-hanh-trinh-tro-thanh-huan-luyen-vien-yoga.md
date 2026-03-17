@@ -12,7 +12,7 @@ Hôm nay là ngày nghỉ đầu tiên của mình sau một tuần tu luyện [
 
 Một ngày của mình luôn bắt đầu từ 4g30 sáng bằng việc vệ sinh cá nhân vì chỉ có một nhà vệ sinh duy nhất trong phòng 4 người. Do đó mỗi người phải biết chia nhau thời gian sử dụng toilet hợp lý. Sau đó, mình thay đồ, chuẩn bị tập sách và đi bộ đến trường mất khoảng 5-10 phút. Mỗi ngày khoảng 5g30 sáng là có một nhân viên đánh chuông leng keng trước mỗi nhà, báo động mọi người tập trung nên có muốn ngủ nướng thêm cũng không được đâu hix.
 
-### Thiền định
+## Thiền định
 
 https://www.instagram.com/p/BQgzBSVFGrh/?taken-by=balodeplao
 
@@ -22,7 +22,7 @@ Trước khi đi ngủ, mình cũng có một tiếng ngồi thiền để thư 
 
 https://balodeplao.com/7-yeu-to-quan-trong-giup-ban-thien-dinh-dung-cach/
 
-### Ăn chay
+## Ăn chay
 
 Sau khi thiền định, mình dùng bữa sáng tại phòng ăn trong vòng 15 phút trước khi bắt đầu giờ thực hành. Thường thì buổi sáng của mình cực kì thanh đạm nhẹ nhàng  <img src="/images/1f642.png" width="18">Chỉ là một chén cháo gạo lức hay chỉ đơn giản là một ly sữa đậu nành nóng. Tại sao vậy?! Vì trước khi tập Yoga, bạn không nên ăn gì cả tròng vòng 1-2 tiếng.
 
@@ -38,7 +38,7 @@ Ban đầu mình chưa quen mấy với lịch ăn này. Sáng sớm bụng đó
 
 Do đó mà mình từng nói với các bạn **Yoga là một phạm trù vô biên, là một tổ hợp của nhiều yếu tố: thực hành, thiền định, thư giản, hít thở và chế độ dinh dưỡng**. Khi bạn ăn sạch, uống sạch, tham đạm, nhiều chất xơ và chất đạm từ thực vật, cơ thể sẽ thanh nhẹ và khoẻ mạnh hơn rất nhiều. Mình sẽ đề cập chi tiết về chế độ dinh dưỡng khi tập Yoga trong các bài viết sau bạn nhé.
 
-### Thực hành
+## Thực hành
 
 Sau khi dùng bữa sáng nhẹ, mình bắt đầu lớp học Asana (thực hành Yoga) lúc 8g sáng và kéo dài suốt 2 tiếng đồng hồ. Mở đầu lớp học luôn là vài phút thiền định, hít thở và niệm ca. Sau vài động tác khởi động làm nóng cơ thể, mình bắt đầu thực hành các tư thế Asana. Điều quan trọng khi thực hành Yoga không phải là bạn dẻo như thế nào, làm động tác đẹp ra sao mà là hơi thở. **Hơi thở là linh hồn của Yoga**. Bạn phải hít thở sâu, chậm rãi, đồng điệu với từng thư thế một thì bữa tập đó mới được xem là hoàn thiện. Khi ấy bạn mới cảm giác thư giãn, khoẻ khoắn, cơ bắp được co giãn hợp lý sau khi tập. Và kết thúc buổi học, bạn phải nằm thư giãn từ 15-20 phút để làm nguội cơ thể và thẩm thấu hết được những tác dụng của động tác Asana mang lại.
 
@@ -46,7 +46,7 @@ https://www.instagram.com/p/BQb8KUnlQ5Y/?taken-by=balodeplao
 
 Lúc 4 giờ chiều, mình lại tiếp tục thực hành Yoga hai tiếng trước khi dùng bữa tối. Mỗi ngày trung bình mình có 4 tiếng tập luyện điên cuồng như thế đấy.
 
-### Thiện nguyện
+## Thiện nguyện
 
 Karma Yoga hay còn gọi là làm công tác thiện nguyện. Mỗi ngày mình đều có một tiếng làm việc thiện nguyện tại cửa hàng bán văn phòng phẩm của trường. Mình thích công việc này do mình học Ngoại Thương mà. Mình thích kinh doanh buôn bán và gặp gỡ, trò chuyện với tất cả mọi người. Lúc trước mình từng tự hỏi tại sao tôi phải bỏ thời gian ra làm công ích như thế này thay vì dành thời gian quý báu trong giờ nghỉ cho bản thân. Dần dần mình nhận ra rằng việc cho đi mà không cần nhận lại rất ý nghĩa. Việc bạn sẵn sàng giúp đỡ một ai đó, làm việc gì đó tốt đẹp mà không cần đáp trả lại khiến chúng ta hạnh phúc như thế nào. **Karma Yoga khiến mình cảm thấy tốt đẹp hơn và lòng nhẹ nhàng hơn.**
 

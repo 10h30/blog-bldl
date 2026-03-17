@@ -20,7 +20,7 @@ BLDL muốn đem đến cho độc giả những địa điểm ăn thật sự.
 
 Nào cùng nhìn màn hình, cùng xoa bụng và trải nghiệm những địa điểm ăn ngon tại Hội An với BLDL nhé hehe
 
-### I. Cao lầu A Tý
+## I. Cao lầu A Tý
 
 Cao lầu là món ăn nổi tiếng số một của Hội An. Mình nghe người dân nơi đây truyền miệng là cách làm sợi mì cao lầu rất công phu và đặc biệt. Gạo phải được ngâm bằng nước tro, đốt bằng củi lấy từ Cù Lao Chàm, nước phải lấy từ giếng Bá Lễ duy nhất ở Hội An và rằng sợi mì phải được hấp nhiều lần mới có được màu vàng nhẹ cùng vị dai dai đậm đà như vậy.
 
@@ -35,7 +35,7 @@ Trong số những địa điểm bán mì cao lầu được quảng bá tại 
 - **_Địa chỉ: Đường Phan Châu Trinh, Hội An, Quảng Nam_**
 - **_Giá tiền:25k-50k_**
 
-### II. Bánh mì Phượng và Bánh mì Madam Khánh
+## II. Bánh mì Phượng và Bánh mì Madam Khánh
 
 Bánh mì Phượng và bánh mì Madam Khánh là 2 tiệm bánh mì ngon nổi tiếng không chỉ ở Hội An mà còn ở phạm vi cả thế giới. Bằng chứng là trên các website du lịch hay mạng xã hội như TripAdvisor hay Foursquare,… 2 tiệm bánh mì này đã nhận được hàng ngàn lời khen tặng.
 
@@ -51,7 +51,7 @@ https://balodeplao.com/banh-mi-hoi-an-xao-dong-the-gioi/
 - **_Giá: 20.000VND/ ổ_**
 - **_Địa chỉ: 2B Phan Chu Trinh, TP. Hội An, Quảng Nam_**
 
-### III. Cơm gà Xí
+## III. Cơm gà Xí
 
 Với tất cả sự khéo léo tỉ mỉ, người Hội An đã tạo ra một món cơm gà rất đặc biệt từ cách lựa chọn kỹ lưỡng loại gạo ngon rồi nấu với nước luộc gà và lá dứa bằng lò củi cho đến các bước ướp gia vị vào thịt gà luộc. Theo như quảng bá, hàng cơm gà nổi tiếng nhất ở Hội An là cơm gà bà Buội ở đường Phan Châu Trinh. BLDL cũng lần mò thử qua nhưng sao thấy không ngon bằng cơm gà Xí bình dân.
 
@@ -68,7 +68,7 @@ Cảm nhận của BLDL là như thế, không biết các bạn thưởng thứ
 - _**Địa chỉ: 47/2 Trần Hưng Đạo, Tp. Hội An, Quảng Nam**_
 - _**Giá tiền:**_ ***Cơm gà: 20k/dĩa;*** ***Gỏi gà: 70k/ nửa con, 140k/ cả con gà***
 
-### IV. Thịt nướng/ Bánh xèo Giếng Bá Lễ
+## IV. Thịt nướng/ Bánh xèo Giếng Bá Lễ
 
 À Há! Đây là nữ hoàng của lòng mình, là ngôi sao của bài viết về ẩm thực Hội An. Do vậy, mình sẽ "trình làng" em ấy trong một bài viết riêng mọi người nhé. Nhớ đón xem nhe, không là có lỗi với dạ dày bản thân lắm đó nhe.
 
@@ -76,7 +76,7 @@ Cảm nhận của BLDL là như thế, không biết các bạn thưởng thứ
 
 ![](/images/hoi-an-food-thit-nuong-gieng-ba-le-bldl01.jpg)
 
-### V. Chè
+## V. Chè
 
 Phải nói thú vui "thi vị" nhất vào buổi tối của BLDL là đi...ĂN CHÈ. Hội An là một thiên đường các loại chè dân dã nhưng ngon ngất ngây các bạn ạ.
 
