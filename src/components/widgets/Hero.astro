@@ -5,6 +5,7 @@ import Headline from "@/components/ui/Headline.astro";
 import Button from "@/components/ui/Button.astro";
 import { Icon } from "astro-icon/components";
 import { toR2Url } from "@/utils/r2";
+import Picture from "@/components/ui/Picture.astro";
 
 const {
   title = await Astro.slots.render("title"),
@@ -33,11 +34,10 @@ const heroImage = toR2Url(bgImage);
   {
     heroImage && (
       <Fragment slot="bg">
-        <img
-          fetchpriority="high"
+        <Picture
           src={heroImage}
           alt=""
-          aria-hidden="true"
+          fetchpriority="high"
           class="absolute inset-0 h-full w-full object-cover"
         />
         <div class="absolute inset-0 bg-black/55" aria-hidden="true" />

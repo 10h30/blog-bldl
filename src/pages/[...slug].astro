@@ -4,6 +4,7 @@ import Schema from "@/components/seo/Schema.astro";
 import Tags from "@/components/ui/Tags.astro";
 import Categories from "@/components/ui/Categories.astro";
 import { toR2Url } from "@/utils/r2";
+import Picture from "@/components/ui/Picture.astro";
 
 import { getCollection, render } from "astro:content";
 
@@ -74,10 +75,11 @@ const metadata = {
       {
         coverImage && (
           <div class="reveal relative mb-8 h-96 w-full overflow-hidden rounded-xl shadow-lg">
-            <img
+            <Picture
               src={coverImage}
               alt={title}
               class="h-full w-full object-cover"
+              fetchpriority="high"
             />
           </div>
         )

@@ -1,0 +1,60 @@
+---
+import { R2_BASE } from "@/config/r2.mjs";
+
+export interface Props {
+  src: string;
+  alt: string;
+  class?: string;
+  sizes?: string;
+  fetchpriority?: "high" | "low" | "auto";
+  loading?: "lazy" | "eager";
+}
+
+const {
+  src,
+  alt,
+  class: className,
+  sizes = "(max-width: 640px) 100vw, (max-width: 1024px) 80vw, 1200px",
+  fetchpriority,
+  loading,
+} = Astro.props;
+
+const WIDTHS = [480, 800, 1200];
+
+const isR2 = src.includes(R2_BASE.replace("https://", ""));
+
+function buildTransformUrl(src: string, width: number) {
+  const path = src.replace(R2_BASE, "");
+  return `${R2_BASE}/cdn-cgi/image/width=${width},format=auto,onerror=redirect${path}`;
+}
+
+const srcset = WIDTHS.map((w) => `${buildTransformUrl(src, w)} ${w}w`).join(
+  ", ",
+);
+const defaultSrc = isR2 ? buildTransformUrl(src, 800) : src;
+---
+
+{
+  isR2 ? (
+    <picture>
+      <source type="image/webp" srcset={srcset} sizes={sizes} />
+      <img
+        src={defaultSrc}
+        srcset={srcset}
+        sizes={sizes}
+        alt={alt}
+        class={className}
+        fetchpriority={fetchpriority}
+        loading={loading}
+      />
+    </picture>
+  ) : (
+    <img
+      src={src}
+      alt={alt}
+      class={className}
+      fetchpriority={fetchpriority}
+      loading={loading}
+    />
+  )
+}
