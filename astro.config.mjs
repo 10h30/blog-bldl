@@ -4,6 +4,7 @@ import mdx from "@astrojs/mdx";
 import tailwindcss from "@tailwindcss/vite";
 import icon from "astro-icon";
 import remarkReadingTime from "remark-reading-time";
+import remarkUnwrapImages from "remark-unwrap-images";
 
 export default defineConfig({
   site: "https://astrostarterpro.com/",
@@ -17,6 +18,7 @@ export default defineConfig({
             file.data.readingTime.minutes;
         };
       },
+      remarkUnwrapImages,
     ],
   },
   i18n: {
