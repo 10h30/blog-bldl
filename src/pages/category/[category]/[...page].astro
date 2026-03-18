@@ -3,30 +3,32 @@ import BaseLayout from "@/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import Headline from "@/components/ui/Headline.astro";
 import PostItem from "@/components/blog/PostItem.astro";
+import Pagination from "@/components/ui/Pagination.astro";
+import type { GetStaticPathsOptions } from "astro";
 
-export async function getStaticPaths() {
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const allPosts = await getCollection("blog");
-  const posts = allPosts.filter((post) => post.data && post.data.pubDate); // Ensure published
+  const posts = allPosts.filter((post) => post.data && post.data.pubDate);
 
-  const categories = new Set();
+  const categories = new Set<string>();
   posts.forEach((post) => {
-    post.data.categories?.forEach((tag) => categories.add(tag));
+    post.data.categories?.forEach((cat) => categories.add(cat));
   });
 
-  return Array.from(categories).map((category) => {
-    return {
-      params: { category: category as string },
-      props: {
-        category,
-        posts: posts.filter((post) =>
-          post.data.categories?.includes(category as string),
-        ),
-      },
-    };
+  return Array.from(categories).flatMap((category) => {
+    const categoryPosts = posts
+      .filter((post) => post.data.categories?.includes(category))
+      .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+    return paginate(categoryPosts, {
+      params: { category },
+      pageSize: 6,
+    });
   });
 }
 
-const { category, posts } = Astro.props;
+const { page } = Astro.props;
+const { category } = Astro.params;
 
 const metadata = {
   title: `Category: ${category}`,
@@ -40,7 +42,7 @@ const metadata = {
       <Headline
         tagline="Category"
         title={category}
-        subtitle={`Showing ${posts.length} article${posts.length === 1 ? "" : "s"}.`}
+        subtitle={`Showing ${page.total} article${page.total === 1 ? "" : "s"}.`}
         classes={{
           container: "mb-12 text-center",
           title:
@@ -54,12 +56,9 @@ const metadata = {
       </div>
 
       <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-        {
-          posts
-            .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-            .map((post) => <PostItem post={post} />)
-        }
+        {page.data.map((post) => <PostItem post={post} />)}
       </div>
+      <Pagination page={page} />
     </div>
   </section>
 </BaseLayout>
