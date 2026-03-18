@@ -3,28 +3,32 @@ import BaseLayout from "@/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import Headline from "@/components/ui/Headline.astro";
 import PostItem from "@/components/blog/PostItem.astro";
+import Pagination from "@/components/ui/Pagination.astro";
+import type { GetStaticPathsOptions } from "astro";
 
-export async function getStaticPaths() {
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const allPosts = await getCollection("blog");
-  const posts = allPosts.filter((post) => post.data && post.data.pubDate); // Ensure published
+  const posts = allPosts.filter((post) => post.data && post.data.pubDate);
 
-  const tags = new Set();
+  const tags = new Set<string>();
   posts.forEach((post) => {
     post.data.tags?.forEach((tag) => tags.add(tag));
   });
 
-  return Array.from(tags).map((tag) => {
-    return {
-      params: { tag: tag as string },
-      props: {
-        tag,
-        posts: posts.filter((post) => post.data.tags?.includes(tag as string)),
-      },
-    };
+  return Array.from(tags).flatMap((tag) => {
+    const tagPosts = posts
+      .filter((post) => post.data.tags?.includes(tag))
+      .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+    return paginate(tagPosts, {
+      params: { tag },
+      pageSize: 6,
+    });
   });
 }
 
-const { tag, posts } = Astro.props;
+const { page } = Astro.props;
+const { tag } = Astro.params;
 
 const metadata = {
   title: `Posts tagged with '${tag}'`,
@@ -38,7 +42,7 @@ const metadata = {
       <Headline
         tagline="Tag"
         title={`#${tag}`}
-        subtitle={`Showing ${posts.length} article${posts.length === 1 ? "" : "s"}.`}
+        subtitle={`Showing ${page.total} article${page.total === 1 ? "" : "s"}.`}
         classes={{
           container: "mb-12 text-center",
           title:
@@ -52,12 +56,9 @@ const metadata = {
       </div>
 
       <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-        {
-          posts
-            .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-            .map((post) => <PostItem post={post} />)
-        }
+        {page.data.map((post) => <PostItem post={post} />)}
       </div>
+      <Pagination page={page} />
     </div>
   </section>
 </BaseLayout>
