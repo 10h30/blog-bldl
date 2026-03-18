@@ -13,7 +13,7 @@ const { tags, class: className = "text-sm" } = Astro.props;
       {tags.map((tag) => (
         <li class="inline-block relative">
           <a
-            href={`/tags/${tag}`}
+            href={`/tag/${tag}`}
             class="inline-block bg-muted/50 hover:bg-muted text-muted-foreground hover:text-foreground px-3 py-1 rounded-full border border-border transition-colors duration-200"
           >
             #{tag}
