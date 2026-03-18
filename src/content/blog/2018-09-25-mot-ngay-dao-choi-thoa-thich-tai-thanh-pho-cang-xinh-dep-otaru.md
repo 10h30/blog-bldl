@@ -51,7 +51,7 @@ Nếu vào mùa đông khách du lịch có cơ hội chiêm ngưỡng những c
 - _Giá vào cổng Otaru Aquarium: 1,400 Yên/ người lớn, 210 Yên/ trẻ em trên 3 tuổi._
 - _Giờ hoạt đông: 9:00AM - 5:00PM_
 
-## Otaru Sushi Street
+## Otaru Sushi Street
 
 Oh là la!!!! Có hơn 100 cửa hàng sushi nổi tiếng tại Otaru Sushi Street. Dù chỉ là cửa hàng sushi băng truyền nhưng vẫn nghẹt khách đứng đợi xếp hàng. Ôm bụng đói, BLDL rảo bước hết cửa hàng này đến cửa hàng khác đều ngán ngẩm cảnh chờ đỏi mòn mỏi "đợi ăn" tính theo hằng tiếng.
 

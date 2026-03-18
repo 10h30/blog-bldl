@@ -118,4 +118,4 @@ Quán năm trên đường Nhà Chung, buổi sáng bán bún bò, ghé buổi c
 
 ![Bánh canh Xuân An](/images/Banh-canh-Xuan-An-DL-BLDL01.jpg)
 
-Hi vọng với một ít "thưc" nghiệm chia sẻ, các bạn sẽ có chuyến đi tuyệt vời thưởng thức trọn vẹn ẩm thực tại Thành phố hoa Đà Lạt nhé ;)
+Hi vọng với một ít "thưc" nghiệm chia sẻ, các bạn sẽ có chuyến đi tuyệt vời thưởng thức trọn vẹn ẩm thực tại Thành phố hoa Đà Lạt nhé ;)
