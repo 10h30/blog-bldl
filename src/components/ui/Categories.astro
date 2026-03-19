@@ -1,10 +1,13 @@
 ---
+import { getTaxonomyMap, getTaxonomyPath } from "@/utils/taxonomy";
+
 export interface Props {
   categories: string[];
   class?: string;
 }
 
 const { categories, class: className = "text-sm" } = Astro.props;
+const categoryMap = getTaxonomyMap("category");
 ---
 
 {
@@ -13,10 +16,10 @@ const { categories, class: className = "text-sm" } = Astro.props;
       {categories.map((category) => (
         <li class="inline-block relative">
           <a
-            href={`/category/${category}`}
+            href={`/category/${getTaxonomyPath("category", category)}`}
             class="inline-block bg-primary/10 hover:bg-primary/20 text-primary hover:text-primary px-3 py-1 rounded-full border border-primary/20 transition-colors duration-200"
           >
-            {category}
+            {categoryMap.get(category)?.name ?? category}
           </a>
         </li>
       ))}

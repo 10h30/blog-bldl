@@ -1,12 +1,24 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
+import type { CollectionEntry } from "astro:content";
 import Headline from "@/components/ui/Headline.astro";
 import PostItem from "@/components/blog/PostItem.astro";
 import Pagination from "@/components/ui/Pagination.astro";
-import type { GetStaticPathsOptions } from "astro";
+import { getTaxonomyMap } from "@/utils/taxonomy";
+import { buildPaginatedPaths } from "@/utils/paginate";
 
-export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+interface Props {
+  page: {
+    data: CollectionEntry<"blog">[];
+    total: number;
+    currentPage: number;
+    lastPage: number;
+    url: { prev?: string; next?: string };
+  };
+}
+
+export async function getStaticPaths() {
   const allPosts = await getCollection("blog");
   const posts = allPosts.filter((post) => post.data && post.data.pubDate);
 
@@ -20,19 +32,25 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
       .filter((post) => post.data.tags?.includes(tag))
       .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-    return paginate(tagPosts, {
-      params: { tag },
-      pageSize: 6,
-    });
+    return buildPaginatedPaths(tagPosts, `/tag/${tag}`).map(
+      ({ pageParam, page }) => ({
+        params: { tag, page: pageParam },
+        props: { page },
+      }),
+    );
   });
 }
 
-const { page } = Astro.props;
+const { page } = Astro.props as Props;
 const { tag } = Astro.params;
 
+const tagInfo = getTaxonomyMap("tag").get(tag!);
+const displayName = tagInfo?.name ?? tag!;
+const description = tagInfo?.description;
+
 const metadata = {
-  title: `Posts tagged with '${tag}'`,
-  description: `Explore our articles about ${tag}.`,
+  title: displayName,
+  description: description ?? `Các bài viết được gắn thẻ ${displayName}.`,
 };
 ---
 
@@ -41,8 +59,8 @@ const metadata = {
     <div class="relative mx-auto max-w-5xl">
       <Headline
         tagline="Tag"
-        title={`#${tag}`}
-        subtitle={`Showing ${page.total} article${page.total === 1 ? "" : "s"}.`}
+        title={`#${displayName}`}
+        subtitle={description ?? `Hiển thị ${page.total} bài viết.`}
         classes={{
           container: "mb-12 text-center",
           title:

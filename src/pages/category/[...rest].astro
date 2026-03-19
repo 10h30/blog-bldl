@@ -1,0 +1,101 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import type { CollectionEntry } from "astro:content";
+import Headline from "@/components/ui/Headline.astro";
+import PostItem from "@/components/blog/PostItem.astro";
+import Pagination from "@/components/ui/Pagination.astro";
+import {
+  getTaxonomyMap,
+  getTaxonomyPath,
+  type TaxonomyItem,
+} from "@/utils/taxonomy";
+import { buildPaginatedPaths } from "@/utils/paginate";
+
+interface Props {
+  cat: TaxonomyItem;
+  posts: CollectionEntry<"blog">[];
+  currentPage: number;
+  lastPage: number;
+  total: number;
+  prevUrl?: string;
+  nextUrl?: string;
+}
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection("blog");
+  const posts = allPosts.filter((post) => post.data && post.data.pubDate);
+
+  const catSlugs = new Set<string>();
+  posts.forEach((post) =>
+    post.data.categories?.forEach((c) => catSlugs.add(c)),
+  );
+
+  return Array.from(catSlugs).flatMap((slug) => {
+    const catPosts = posts
+      .filter((post) => post.data.categories?.includes(slug))
+      .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+    const fullPath = getTaxonomyPath("category", slug);
+    const cat =
+      getTaxonomyMap("category").get(slug) ??
+      ({ slug, name: slug } as TaxonomyItem);
+
+    return buildPaginatedPaths(catPosts, `/category/${fullPath}`).map(
+      ({ pageParam, page }) => ({
+        params: { rest: pageParam ? `${fullPath}/${pageParam}` : fullPath },
+        props: {
+          cat,
+          posts: page.data,
+          currentPage: page.currentPage,
+          lastPage: page.lastPage,
+          total: page.total,
+          prevUrl: page.url.prev,
+          nextUrl: page.url.next,
+        },
+      }),
+    );
+  });
+}
+
+const { cat, posts, currentPage, lastPage, total, prevUrl, nextUrl } =
+  Astro.props as Props;
+
+const page = {
+  currentPage,
+  lastPage,
+  url: { prev: prevUrl, next: nextUrl },
+};
+
+const metadata = {
+  title: cat.name,
+  description: cat.description ?? `Các bài viết trong danh mục ${cat.name}.`,
+};
+---
+
+<BaseLayout metadata={metadata}>
+  <section class="relative px-4 py-8 sm:px-6 lg:px-8 md:py-12">
+    <div class="relative mx-auto max-w-5xl">
+      <Headline
+        tagline="Category"
+        title={cat.name}
+        subtitle={cat.description ?? `Hiển thị ${total} bài viết.`}
+        classes={{
+          container: "mb-12 text-center",
+          title:
+            "font-heading mb-4 text-4xl font-bold tracking-tight text-foreground md:text-6xl capitalized",
+          subtitle: "mx-auto max-w-3xl text-xl text-muted-foreground",
+        }}
+      />
+
+      <div class="mb-8 text-center">
+        <a href="/blog" class="text-primary hover:underline">← Quay lại blog</a>
+      </div>
+
+      <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+        {posts.map((post) => <PostItem post={post} />)}
+      </div>
+      <Pagination page={page} />
+    </div>
+  </section>
+</BaseLayout>

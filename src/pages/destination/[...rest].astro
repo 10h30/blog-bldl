@@ -1,0 +1,101 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import type { CollectionEntry } from "astro:content";
+import Headline from "@/components/ui/Headline.astro";
+import PostItem from "@/components/blog/PostItem.astro";
+import Pagination from "@/components/ui/Pagination.astro";
+import {
+  getTaxonomyMap,
+  getTaxonomyPath,
+  type TaxonomyItem,
+} from "@/utils/taxonomy";
+import { buildPaginatedPaths } from "@/utils/paginate";
+
+interface Props {
+  dest: TaxonomyItem;
+  posts: CollectionEntry<"blog">[];
+  currentPage: number;
+  lastPage: number;
+  total: number;
+  prevUrl?: string;
+  nextUrl?: string;
+}
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection("blog");
+  const posts = allPosts.filter((post) => post.data && post.data.pubDate);
+
+  const destSlugs = new Set<string>();
+  posts.forEach((post) =>
+    post.data.destination?.forEach((d) => destSlugs.add(d)),
+  );
+
+  return Array.from(destSlugs).flatMap((slug) => {
+    const destPosts = posts
+      .filter((post) => post.data.destination?.includes(slug))
+      .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+    const fullPath = getTaxonomyPath("destination", slug);
+    const dest =
+      getTaxonomyMap("destination").get(slug) ??
+      ({ slug, name: slug } as TaxonomyItem);
+
+    return buildPaginatedPaths(destPosts, `/destination/${fullPath}`).map(
+      ({ pageParam, page }) => ({
+        params: { rest: pageParam ? `${fullPath}/${pageParam}` : fullPath },
+        props: {
+          dest,
+          posts: page.data,
+          currentPage: page.currentPage,
+          lastPage: page.lastPage,
+          total: page.total,
+          prevUrl: page.url.prev,
+          nextUrl: page.url.next,
+        },
+      }),
+    );
+  });
+}
+
+const { dest, posts, currentPage, lastPage, total, prevUrl, nextUrl } =
+  Astro.props as Props;
+
+const page = {
+  currentPage,
+  lastPage,
+  url: { prev: prevUrl, next: nextUrl },
+};
+
+const metadata = {
+  title: dest.name,
+  description: dest.description ?? `Khám phá các bài viết về ${dest.name}.`,
+};
+---
+
+<BaseLayout metadata={metadata}>
+  <section class="relative px-4 py-8 sm:px-6 lg:px-8 md:py-12">
+    <div class="relative mx-auto max-w-5xl">
+      <Headline
+        tagline="Destination"
+        title={dest.name}
+        subtitle={dest.description ?? `Hiển thị ${total} bài viết.`}
+        classes={{
+          container: "mb-12 text-center",
+          title:
+            "font-heading mb-4 text-4xl font-bold tracking-tight text-foreground md:text-6xl capitalized",
+          subtitle: "mx-auto max-w-3xl text-xl text-muted-foreground",
+        }}
+      />
+
+      <div class="mb-8 text-center">
+        <a href="/blog" class="text-primary hover:underline">← Quay lại blog</a>
+      </div>
+
+      <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+        {posts.map((post) => <PostItem post={post} />)}
+      </div>
+      <Pagination page={page} />
+    </div>
+  </section>
+</BaseLayout>
