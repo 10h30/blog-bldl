@@ -1,0 +1,254 @@
+[
+  {
+    "slug": "dai-loan",
+    "name": "Đài Loan"
+  },
+  {
+    "slug": "dai-nam",
+    "name": "Đài Nam",
+    "parent": "dai-loan"
+  },
+  {
+    "slug": "dai-trung",
+    "name": "Đài Trung",
+    "parent": "dai-loan"
+  },
+  {
+    "slug": "han-quoc",
+    "name": "Hàn Quốc"
+  },
+  {
+    "slug": "indonesia",
+    "name": "Indonesia"
+  },
+  {
+    "slug": "malaysia",
+    "name": "Malaysia"
+  },
+  {
+    "slug": "nam-dau",
+    "name": "Nam Đầu",
+    "parent": "dai-loan"
+  },
+  {
+    "slug": "nhat-ban",
+    "name": "Nhật Bản",
+    "description": "[show-map id=\"2\"]"
+  },
+  {
+    "slug": "osaka",
+    "name": "Osaka",
+    "parent": "nhat-ban"
+  },
+  {
+    "slug": "penang",
+    "name": "Penang",
+    "parent": "malaysia"
+  },
+  {
+    "slug": "philippines",
+    "name": "Philippines",
+    "description": "Tổng hợp kinh nghiệm du lịch bụi, các địa điểm ăn uống, các điểm tham quan hấp dẫn ở Philippins"
+  },
+  {
+    "slug": "sapporo",
+    "name": "Sapporo",
+    "parent": "nhat-ban"
+  },
+  {
+    "slug": "shirakawago",
+    "name": "Shirakawago",
+    "parent": "nhat-ban"
+  },
+  {
+    "slug": "singapore",
+    "name": "Singapore"
+  },
+  {
+    "slug": "takayama",
+    "name": "Takayama",
+    "parent": "nhat-ban"
+  },
+  {
+    "slug": "thailand",
+    "name": "Thái Lan",
+    "description": "Tổng hợp kinh nghiệm du lịch, khám phá Thái Lan"
+  },
+  {
+    "slug": "tokyo",
+    "name": "Tokyo",
+    "parent": "nhat-ban"
+  },
+  {
+    "slug": "toyama",
+    "name": "Toyama",
+    "parent": "nhat-ban"
+  },
+  {
+    "slug": "viet-nam",
+    "name": "Việt Nam"
+  },
+  {
+    "slug": "bali",
+    "name": "Bali",
+    "parent": "indonesia"
+  },
+  {
+    "slug": "bangkok",
+    "name": "Bangkok",
+    "parent": "thailand"
+  },
+  {
+    "slug": "boracay",
+    "name": "Boracay",
+    "parent": "philippines"
+  },
+  {
+    "slug": "busan",
+    "name": "Busan",
+    "parent": "han-quoc"
+  },
+  {
+    "slug": "cao-hung",
+    "name": "Cao Hùng",
+    "parent": "dai-loan"
+  },
+  {
+    "slug": "chiang-mai",
+    "name": "Chiang Mai",
+    "parent": "thailand"
+  },
+  {
+    "slug": "da-lat",
+    "name": "Đà Lạt",
+    "parent": "viet-nam"
+  },
+  {
+    "slug": "da-nang",
+    "name": "Đà Nẵng",
+    "parent": "viet-nam"
+  },
+  {
+    "slug": "dai-bac",
+    "name": "Đài Bắc",
+    "parent": "dai-loan"
+  },
+  {
+    "slug": "dong-nai",
+    "name": "Đồng Nai",
+    "parent": "viet-nam"
+  },
+  {
+    "slug": "himeiji",
+    "name": "Himeiji",
+    "parent": "nhat-ban"
+  },
+  {
+    "slug": "hiroshima",
+    "name": "Hiroshima",
+    "parent": "nhat-ban"
+  },
+  {
+    "slug": "hoi-an",
+    "name": "Hội An",
+    "parent": "viet-nam"
+  },
+  {
+    "slug": "hokkaido",
+    "name": "Hokkaido",
+    "parent": "nhat-ban"
+  },
+  {
+    "slug": "hokuryu",
+    "name": "Hokuryu",
+    "parent": "hokkaido"
+  },
+  {
+    "slug": "kawasaki",
+    "name": "Kawasaki",
+    "parent": "nhat-ban"
+  },
+  {
+    "slug": "kuala-lumpur",
+    "name": "Kuala Lumpur",
+    "parent": "malaysia"
+  },
+  {
+    "slug": "kyoto",
+    "name": "Kyoto",
+    "parent": "nhat-ban",
+    "description": "Kinh nghiệm du lịch Kyoto, Nhật Bản"
+  },
+  {
+    "slug": "lagi",
+    "name": "Lagi",
+    "parent": "viet-nam"
+  },
+  {
+    "slug": "manila",
+    "name": "Manila",
+    "parent": "philippines"
+  },
+  {
+    "slug": "mui-ne",
+    "name": "Mũi Né",
+    "parent": "viet-nam",
+    "description": "Kinh nghiệm khám phá, ăn chơi, tắm biển Mũi Né. \r\nTổng hợp đánh giá các resort, nhà hàng ở Mũi Né"
+  },
+  {
+    "slug": "nara",
+    "name": "Nara",
+    "parent": "nhat-ban",
+    "description": "Chia sẻ kinh nghiệm du lịch Nara, Nhật Bản"
+  },
+  {
+    "slug": "nha-trang",
+    "name": "Nha Trang",
+    "parent": "viet-nam"
+  },
+  {
+    "slug": "noboribetsu",
+    "name": "Noboribetsu",
+    "parent": "hokkaido"
+  },
+  {
+    "slug": "otaru",
+    "name": "Otaru",
+    "parent": "hokkaido"
+  },
+  {
+    "slug": "phu-quoc",
+    "name": "Phú Quốc",
+    "parent": "viet-nam"
+  },
+  {
+    "slug": "phu-yen",
+    "name": "Phú Yên",
+    "parent": "viet-nam"
+  },
+  {
+    "slug": "quy-nhon",
+    "name": "Quy Nhơn",
+    "parent": "viet-nam"
+  },
+  {
+    "slug": "sa-pa",
+    "name": "Sa Pa",
+    "parent": "viet-nam"
+  },
+  {
+    "slug": "toyako",
+    "name": "Toyako",
+    "parent": "hokkaido"
+  },
+  {
+    "slug": "biei",
+    "name": "Biei",
+    "parent": "hokkaido"
+  },
+  {
+    "slug": "furano",
+    "name": "Furano",
+    "parent": "hokkaido"
+  }
+]
