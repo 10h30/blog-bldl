@@ -11,18 +11,48 @@ export type TaxonomyItem = {
 
 export type TaxonomyMap = Map<string, TaxonomyItem>;
 
-function buildMap(data: unknown[]): TaxonomyMap {
-  return new Map((data as TaxonomyItem[]).map((item) => [item.slug, item]));
+export type TaxonomyType = "category" | "destination" | "tag";
+
+function isTaxonomyItem(value: unknown): value is TaxonomyItem {
+  if (typeof value !== "object" || value === null) return false;
+  const v = value as Record<string, unknown>;
+  return (
+    typeof v.slug === "string" &&
+    typeof v.name === "string" &&
+    (v.parent === undefined || typeof v.parent === "string") &&
+    (v.description === undefined || typeof v.description === "string")
+  );
 }
 
-const taxonomies: Record<string, TaxonomyMap> = {
-  category: buildMap(categoryData),
-  destination: buildMap(destinationData),
-  tag: buildMap(tagData),
+function buildMap(data: TaxonomyItem[]): TaxonomyMap {
+  if (!Array.isArray(data)) {
+    throw new Error(`[taxonomy] expected an array but received ${typeof data}`);
+  }
+  return new Map(
+    data.map((item, i) => {
+      if (!isTaxonomyItem(item)) {
+        throw new Error(
+          `[taxonomy] invalid item at index ${i}: ${JSON.stringify(item)}`,
+        );
+      }
+      return [item.slug, item];
+    }),
+  );
+}
+
+const taxonomies: Record<TaxonomyType, TaxonomyMap> = {
+  category: buildMap(categoryData as TaxonomyItem[]),
+  destination: buildMap(destinationData as TaxonomyItem[]),
+  tag: buildMap(tagData as TaxonomyItem[]),
 };
 
-export function getTaxonomyMap(type: string): TaxonomyMap {
-  return taxonomies[type] ?? new Map();
+export function getTaxonomyMap(type: TaxonomyType): TaxonomyMap {
+  if (!(type in taxonomies)) {
+    throw new Error(
+      `[taxonomy] unknown taxonomy type "${type}". Expected one of: ${Object.keys(taxonomies).join(", ")}`,
+    );
+  }
+  return taxonomies[type];
 }
 
 function buildHierarchicalPath(
@@ -37,12 +67,12 @@ function buildHierarchicalPath(
   return `${buildHierarchicalPath(item.parent, map, visited)}/${slug}`;
 }
 
-export function getTaxonomyPath(type: string, slug: string): string {
+export function getTaxonomyPath(type: TaxonomyType, slug: string): string {
   return buildHierarchicalPath(slug, getTaxonomyMap(type));
 }
 
 export function getTaxonomyItem(
-  type: string,
+  type: TaxonomyType,
   slug: string,
 ): TaxonomyItem | undefined {
   return getTaxonomyMap(type).get(slug);
