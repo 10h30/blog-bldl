@@ -35,7 +35,6 @@ export async function getStaticPaths() {
         params: { rest: pageParam ? `${fullPath}/${pageParam}` : fullPath },
         props: {
           dest,
-          fullPath,
           posts: page.data,
           currentPage: page.currentPage,
           lastPage: page.lastPage,

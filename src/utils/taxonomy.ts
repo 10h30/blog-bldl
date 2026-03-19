@@ -34,7 +34,7 @@ function buildHierarchicalPath(
   visited.add(slug);
   const item = map.get(slug);
   if (!item?.parent) return slug;
-  return `${buildHierarchicalPath(item.parent, map, new Set(visited))}/${slug}`;
+  return `${buildHierarchicalPath(item.parent, map, visited)}/${slug}`;
 }
 
 export function getTaxonomyPath(type: string, slug: string): string {

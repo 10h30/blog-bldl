@@ -14,7 +14,9 @@ export interface PageMeta {
  * @param items    Full sorted list of items to paginate.
  * @param basePath Base URL without trailing slash, e.g. "/blog" or "/category/travel".
  * @param pageSize Number of items per page (default: DEFAULT_PAGE_SIZE).
- * @returns        Array of { params: { page }, props: { page: PageMeta } }.
+ * @returns        Array of { pageParam, page } objects where pageParam is the route segment
+ *                 (undefined for page 1, "page/N" for N≥2) and page is a PageMeta object.
+ *                 Callers should map these into Astro's { params, props } format.
  */
 export function buildPaginatedPaths<T>(
   items: T[],
