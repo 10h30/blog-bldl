@@ -51,14 +51,3 @@ export function getTaxonomyItem(
 ): TaxonomyItem | undefined {
   return getTaxonomyMap(type).get(slug);
 }
-
-// Convenience aliases kept for backward compatibility
-export const categoryMap = getTaxonomyMap("category");
-export const destinationMap = getTaxonomyMap("destination");
-export const tagMap = getTaxonomyMap("tag");
-
-export const getCategoryPath = (slug: string) =>
-  getTaxonomyPath("category", slug);
-export const getDestinationPath = (slug: string) =>
-  getTaxonomyPath("destination", slug);
-export const getTagPath = (slug: string) => getTaxonomyPath("tag", slug);

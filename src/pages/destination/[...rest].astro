@@ -7,8 +7,8 @@ import Pagination from "@/components/ui/Pagination.astro";
 import type { Page } from "astro";
 import type { CollectionEntry } from "astro:content";
 import {
-  destinationMap,
-  getDestinationPath,
+  getTaxonomyMap,
+  getTaxonomyPath,
   type TaxonomyItem,
 } from "@/utils/taxonomy";
 
@@ -27,9 +27,10 @@ export async function getStaticPaths() {
       .filter((post) => post.data.destination?.includes(slug))
       .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-    const fullPath = getDestinationPath(slug);
+    const fullPath = getTaxonomyPath("destination", slug);
     const dest =
-      destinationMap.get(slug) ?? ({ slug, name: slug } as TaxonomyItem);
+      getTaxonomyMap("destination").get(slug) ??
+      ({ slug, name: slug } as TaxonomyItem);
     const totalPages = Math.max(1, Math.ceil(destPosts.length / PAGE_SIZE));
 
     return Array.from({ length: totalPages }, (_, i) => {
@@ -66,7 +67,7 @@ const page = {
   currentPage,
   lastPage,
   url: { prev: prevUrl, next: nextUrl },
-} as unknown as Page<CollectionEntry<"blog">>;
+};
 
 const metadata = {
   title: dest.name,

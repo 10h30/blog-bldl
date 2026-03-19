@@ -5,7 +5,7 @@ import Headline from "@/components/ui/Headline.astro";
 import PostItem from "@/components/blog/PostItem.astro";
 import Pagination from "@/components/ui/Pagination.astro";
 import type { GetStaticPathsOptions } from "astro";
-import { categoryMap } from "@/utils/taxonomy";
+import { getTaxonomyMap } from "@/utils/taxonomy";
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const allPosts = await getCollection("blog");
@@ -31,7 +31,7 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 const { page } = Astro.props;
 const { category } = Astro.params;
 
-const categoryInfo = categoryMap.get(category!);
+const categoryInfo = getTaxonomyMap("category").get(category!);
 const displayName = categoryInfo?.name ?? category!;
 const description = categoryInfo?.description;
 
