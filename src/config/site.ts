@@ -10,8 +10,8 @@ export const siteConfig = {
   twitter: "@10h30",
   ogImage: ogImage,
   socialLinks: {
-    instagram: "https://instagram.com/",
-    facebook: "https://facebook.com/",
+    instagram: "https://instagram.com/balodeplao",
+    facebook: "https://facebook.com/balodeplao",
   },
   navLinks: [
     { text: "Home", href: "/" },
