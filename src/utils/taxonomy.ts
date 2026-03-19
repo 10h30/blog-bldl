@@ -25,10 +25,6 @@ export function getTaxonomyMap(type: string): TaxonomyMap {
   return taxonomies[type] ?? new Map();
 }
 
-export function registerTaxonomy(type: string, data: TaxonomyItem[]): void {
-  taxonomies[type] = buildMap(data);
-}
-
 function buildHierarchicalPath(
   slug: string,
   map: TaxonomyMap,
