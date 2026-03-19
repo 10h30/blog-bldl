@@ -1,4 +1,6 @@
 ---
+import { destinationMap, getDestinationPath } from "@/utils/taxonomy";
+
 export interface Props {
   destinations: string[];
   class?: string;
@@ -13,7 +15,7 @@ const { destinations, class: className = "text-sm" } = Astro.props;
       {destinations.map((destination) => (
         <li class="inline-block relative">
           <a
-            href={`/destination/${destination}`}
+            href={`/destination/${getDestinationPath(destination)}`}
             class="inline-flex items-center gap-1 bg-emerald-500/10 hover:bg-emerald-500/20 text-emerald-700 dark:text-emerald-400 hover:text-emerald-800 dark:hover:text-emerald-300 px-3 py-1 rounded-full border border-emerald-500/20 transition-colors duration-200"
           >
             <svg
@@ -30,7 +32,7 @@ const { destinations, class: className = "text-sm" } = Astro.props;
               <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z" />
               <circle cx="12" cy="10" r="3" />
             </svg>
-            {destination}
+            {destinationMap.get(destination)?.name ?? destination}
           </a>
         </li>
       ))}

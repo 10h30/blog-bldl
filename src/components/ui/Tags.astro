@@ -1,4 +1,6 @@
 ---
+import { tagMap } from "@/utils/taxonomy";
+
 export interface Props {
   tags: string[];
   class?: string;
@@ -16,7 +18,7 @@ const { tags, class: className = "text-sm" } = Astro.props;
             href={`/tag/${tag}`}
             class="inline-block bg-muted/50 hover:bg-muted text-muted-foreground hover:text-foreground px-3 py-1 rounded-full border border-border transition-colors duration-200"
           >
-            #{tag}
+            #{tagMap.get(tag)?.name ?? tag}
           </a>
         </li>
       ))}

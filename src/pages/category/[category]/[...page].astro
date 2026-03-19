@@ -5,6 +5,7 @@ import Headline from "@/components/ui/Headline.astro";
 import PostItem from "@/components/blog/PostItem.astro";
 import Pagination from "@/components/ui/Pagination.astro";
 import type { GetStaticPathsOptions } from "astro";
+import { categoryMap } from "@/utils/taxonomy";
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const allPosts = await getCollection("blog");
@@ -30,9 +31,13 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 const { page } = Astro.props;
 const { category } = Astro.params;
 
+const categoryInfo = categoryMap.get(category!);
+const displayName = categoryInfo?.name ?? category!;
+const description = categoryInfo?.description;
+
 const metadata = {
-  title: `Category: ${category}`,
-  description: `Articles in the ${category} category.`,
+  title: displayName,
+  description: description ?? `Các bài viết trong danh mục ${displayName}.`,
 };
 ---
 
@@ -41,8 +46,8 @@ const metadata = {
     <div class="relative mx-auto max-w-5xl">
       <Headline
         tagline="Category"
-        title={category}
-        subtitle={`Showing ${page.total} article${page.total === 1 ? "" : "s"}.`}
+        title={displayName}
+        subtitle={description ?? `Hiển thị ${page.total} bài viết.`}
         classes={{
           container: "mb-12 text-center",
           title:

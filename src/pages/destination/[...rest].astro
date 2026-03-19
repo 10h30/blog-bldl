@@ -1,0 +1,102 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import Headline from "@/components/ui/Headline.astro";
+import PostItem from "@/components/blog/PostItem.astro";
+import Pagination from "@/components/ui/Pagination.astro";
+import type { Page } from "astro";
+import type { CollectionEntry } from "astro:content";
+import {
+  destinationMap,
+  getDestinationPath,
+  type TaxonomyItem,
+} from "@/utils/taxonomy";
+
+export async function getStaticPaths() {
+  const PAGE_SIZE = 6;
+  const allPosts = await getCollection("blog");
+  const posts = allPosts.filter((post) => post.data && post.data.pubDate);
+
+  const destSlugs = new Set<string>();
+  posts.forEach((post) =>
+    post.data.destination?.forEach((d) => destSlugs.add(d)),
+  );
+
+  return Array.from(destSlugs).flatMap((slug) => {
+    const destPosts = posts
+      .filter((post) => post.data.destination?.includes(slug))
+      .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+    const fullPath = getDestinationPath(slug);
+    const dest =
+      destinationMap.get(slug) ?? ({ slug, name: slug } as TaxonomyItem);
+    const totalPages = Math.max(1, Math.ceil(destPosts.length / PAGE_SIZE));
+
+    return Array.from({ length: totalPages }, (_, i) => {
+      const pageNum = i + 1;
+      return {
+        params: { rest: pageNum === 1 ? fullPath : `${fullPath}/${pageNum}` },
+        props: {
+          dest,
+          fullPath,
+          posts: destPosts.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE),
+          currentPage: pageNum,
+          lastPage: totalPages,
+          total: destPosts.length,
+          prevUrl:
+            pageNum === 1
+              ? undefined
+              : pageNum === 2
+                ? `/destination/${fullPath}`
+                : `/destination/${fullPath}/${pageNum - 1}`,
+          nextUrl:
+            pageNum === totalPages
+              ? undefined
+              : `/destination/${fullPath}/${pageNum + 1}`,
+        },
+      };
+    });
+  });
+}
+
+const { dest, posts, currentPage, lastPage, total, prevUrl, nextUrl } =
+  Astro.props;
+
+const page = {
+  currentPage,
+  lastPage,
+  url: { prev: prevUrl, next: nextUrl },
+} as unknown as Page<CollectionEntry<"blog">>;
+
+const metadata = {
+  title: dest.name,
+  description: dest.description ?? `Khám phá các bài viết về ${dest.name}.`,
+};
+---
+
+<BaseLayout metadata={metadata}>
+  <section class="relative px-4 py-8 sm:px-6 lg:px-8 md:py-12">
+    <div class="relative mx-auto max-w-5xl">
+      <Headline
+        tagline="Destination"
+        title={dest.name}
+        subtitle={dest.description ?? `Hiển thị ${total} bài viết.`}
+        classes={{
+          container: "mb-12 text-center",
+          title:
+            "font-heading mb-4 text-4xl font-bold tracking-tight text-foreground md:text-6xl capitalized",
+          subtitle: "mx-auto max-w-3xl text-xl text-muted-foreground",
+        }}
+      />
+
+      <div class="mb-8 text-center">
+        <a href="/blog" class="text-primary hover:underline">← Quay lại blog</a>
+      </div>
+
+      <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+        {posts.map((post) => <PostItem post={post} />)}
+      </div>
+      <Pagination page={page} />
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "an-uong",
+    "name": "Ẩm Thực",
+    "description": "Cẩm nang trải nghiệm ẩm thực, giới thiệu các quán ăn ngon của Ba Lô Dép Lào"
+  },
+  {
+    "slug": "cong-viec",
+    "name": "Công Việc"
+  },
+  {
+    "slug": "du-lich",
+    "name": "Du Lịch",
+    "description": "Chia sẻ trải nghiệm, kinh nghiệm du lịch khám phá thế giới của Ba Lô &amp; Dép Lào"
+  },
+  {
+    "slug": "gia-dinh",
+    "name": "Gia Đình"
+  },
+  {
+    "slug": "kham-pha-cuoi-tuan",
+    "name": "Khám Phá Cuối Tuần"
+  },
+  {
+    "slug": "khuyen-mai",
+    "name": "Khuyến Mãi",
+    "description": "Tổng hợp các thông tin khuyến mãi khách sạn, vé máy bay, ăn uống,..."
+  },
+  {
+    "slug": "lam-dep",
+    "name": "Làm Đẹp",
+    "description": "Chia sẻ kinh nghiệm làm đẹp từ các nguyên liệu tự nhiên :)"
+  },
+  {
+    "slug": "me-con",
+    "name": "Mẹ và Con",
+    "description": "Các bài viết chia sẻ kinh nghiệm làm mẹ và nuôi con"
+  },
+  {
+    "slug": "meo-hay",
+    "name": "Mẹo Hay"
+  },
+  {
+    "slug": "qua-tang",
+    "name": "Quà Tặng"
+  },
+  {
+    "slug": "tam-su",
+    "name": "Tâm Sự"
+  },
+  {
+    "slug": "thu-cung",
+    "name": "Thú Cưng",
+    "description": "Các bài viết về cách huấn luyện, nuôi dưỡng và vui chơi cùng thú cưng"
+  },
+  {
+    "slug": "tin-tuc",
+    "name": "Tin Tức"
+  },
+  {
+    "slug": "yoga",
+    "name": "Yoga",
+    "description": "Chia sẻ kinh nghiệm tập Yoga."
+  }
+]

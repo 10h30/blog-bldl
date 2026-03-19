@@ -5,6 +5,7 @@ import Headline from "@/components/ui/Headline.astro";
 import PostItem from "@/components/blog/PostItem.astro";
 import Pagination from "@/components/ui/Pagination.astro";
 import type { GetStaticPathsOptions } from "astro";
+import { tagMap } from "@/utils/taxonomy";
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const allPosts = await getCollection("blog");
@@ -30,9 +31,13 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 const { page } = Astro.props;
 const { tag } = Astro.params;
 
+const tagInfo = tagMap.get(tag!);
+const displayName = tagInfo?.name ?? tag!;
+const description = tagInfo?.description;
+
 const metadata = {
-  title: `Posts tagged with '${tag}'`,
-  description: `Explore our articles about ${tag}.`,
+  title: displayName,
+  description: description ?? `Các bài viết được gắn thẻ ${displayName}.`,
 };
 ---
 
@@ -41,8 +46,8 @@ const metadata = {
     <div class="relative mx-auto max-w-5xl">
       <Headline
         tagline="Tag"
-        title={`#${tag}`}
-        subtitle={`Showing ${page.total} article${page.total === 1 ? "" : "s"}.`}
+        title={`#${displayName}`}
+        subtitle={description ?? `Hiển thị ${page.total} bài viết.`}
         classes={{
           container: "mb-12 text-center",
           title:
