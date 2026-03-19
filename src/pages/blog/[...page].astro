@@ -4,15 +4,20 @@ import { getCollection } from "astro:content";
 import Headline from "@/components/ui/Headline.astro";
 import Pagination from "@/components/ui/Pagination.astro";
 import PostItem from "@/components/blog/PostItem.astro";
-import type { GetStaticPathsOptions } from "astro";
+import { buildPaginatedPaths } from "@/utils/paginate";
 
-export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+export async function getStaticPaths() {
   const blogEntries = await getCollection("blog");
   const sortedPosts = blogEntries
     .filter((post) => post.data && post.data.pubDate)
     .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-  return paginate(sortedPosts, { pageSize: 6 });
+  return buildPaginatedPaths(sortedPosts, "/blog").map(
+    ({ pageParam, page }) => ({
+      params: { page: pageParam },
+      props: { page },
+    }),
+  );
 }
 
 const { page } = Astro.props;

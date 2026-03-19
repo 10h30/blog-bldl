@@ -4,16 +4,14 @@ import { getCollection } from "astro:content";
 import Headline from "@/components/ui/Headline.astro";
 import PostItem from "@/components/blog/PostItem.astro";
 import Pagination from "@/components/ui/Pagination.astro";
-import type { Page } from "astro";
-import type { CollectionEntry } from "astro:content";
 import {
   getTaxonomyMap,
   getTaxonomyPath,
   type TaxonomyItem,
 } from "@/utils/taxonomy";
+import { buildPaginatedPaths } from "@/utils/paginate";
 
 export async function getStaticPaths() {
-  const PAGE_SIZE = 6;
   const allPosts = await getCollection("blog");
   const posts = allPosts.filter((post) => post.data && post.data.pubDate);
 
@@ -31,32 +29,22 @@ export async function getStaticPaths() {
     const cat =
       getTaxonomyMap("category").get(slug) ??
       ({ slug, name: slug } as TaxonomyItem);
-    const totalPages = Math.max(1, Math.ceil(catPosts.length / PAGE_SIZE));
 
-    return Array.from({ length: totalPages }, (_, i) => {
-      const pageNum = i + 1;
-      return {
-        params: { rest: pageNum === 1 ? fullPath : `${fullPath}/${pageNum}` },
+    return buildPaginatedPaths(catPosts, `/category/${fullPath}`).map(
+      ({ pageParam, page }) => ({
+        params: { rest: pageParam ? `${fullPath}/${pageParam}` : fullPath },
         props: {
           cat,
           fullPath,
-          posts: catPosts.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE),
-          currentPage: pageNum,
-          lastPage: totalPages,
-          total: catPosts.length,
-          prevUrl:
-            pageNum === 1
-              ? undefined
-              : pageNum === 2
-                ? `/category/${fullPath}`
-                : `/category/${fullPath}/${pageNum - 1}`,
-          nextUrl:
-            pageNum === totalPages
-              ? undefined
-              : `/category/${fullPath}/${pageNum + 1}`,
+          posts: page.data,
+          currentPage: page.currentPage,
+          lastPage: page.lastPage,
+          total: page.total,
+          prevUrl: page.url.prev,
+          nextUrl: page.url.next,
         },
-      };
-    });
+      }),
+    );
   });
 }
 

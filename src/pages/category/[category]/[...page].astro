@@ -4,10 +4,10 @@ import { getCollection } from "astro:content";
 import Headline from "@/components/ui/Headline.astro";
 import PostItem from "@/components/blog/PostItem.astro";
 import Pagination from "@/components/ui/Pagination.astro";
-import type { GetStaticPathsOptions } from "astro";
 import { getTaxonomyMap } from "@/utils/taxonomy";
+import { buildPaginatedPaths } from "@/utils/paginate";
 
-export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+export async function getStaticPaths() {
   const allPosts = await getCollection("blog");
   const posts = allPosts.filter((post) => post.data && post.data.pubDate);
 
@@ -21,10 +21,12 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
       .filter((post) => post.data.categories?.includes(category))
       .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-    return paginate(categoryPosts, {
-      params: { category },
-      pageSize: 6,
-    });
+    return buildPaginatedPaths(categoryPosts, `/category/${category}`).map(
+      ({ pageParam, page }) => ({
+        params: { category, page: pageParam },
+        props: { page },
+      }),
+    );
   });
 }
 
