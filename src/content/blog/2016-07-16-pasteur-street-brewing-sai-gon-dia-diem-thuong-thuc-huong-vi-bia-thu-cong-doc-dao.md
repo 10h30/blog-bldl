@@ -19,11 +19,11 @@ Khác với những beer club khác, **Pasteur Street Brewing** ẩn mình tro
 
 Thật độc đáo với lối dẫn lên quán là một cầu thang nhỏ xinh xinh. Trái ngược với không gian yên tĩnh bên ngoài, bên trong quán ngộp khách đứng ngồi thưởng thức bia. Không gian cực kì nhỏ nhưng được sắp xếp thông minh, tạo cảm giác ấm cúng thân thiện cho thực khách.
 
-![](/images/pasteur-street-brewing-bldl01-1.jpg)
+![](/images/pasteur-street-brewing-bldl01.jpg)
 
 ![Khách của quán đa phần là khách Tây](/images/pasteur-street-brewing-bldl03-1.jpg)
 
-![](/images/pasteur-street-brewing-bldl04-1.jpg)
+![](/images/pasteur-street-brewing-bldl04.jpg)
 
 Không nhạc xập xình, không sàn nhảy, không mấy "em" tiếp thị bia. Chỉ có những người bạn cùng chung niềm đam mê thưởng thức bia, những đoạn đối thoại rôm rả, những tiếng cười...vậy là đủ!
 
@@ -37,13 +37,16 @@ Bia tự nấu không chứa chất bảo quản và luôn đòi hỏi phải đ
 
 Menu bia cực kì hấp dẫn với rất nhiều vị bia khác nhau, nồng độ bia nặng nhẹ ghi rõ ràng. Cái hay của Pasteur Street Brewing là bia được chế biến bằng các nguyên liệu thân quen của Việt Nam như chanh dây, chôm chôm, sầu riêng, tiêu đen, dừa, hạt cacao hay hoa nhài. Chỉ nhìn menu thôi mà cũng thấy hấp dẫn !
 
-![](/images/pasteur-street-brewing-bldl07-1.jpg)
+![](/images/pasteur-street-brewing-bldl02.jpg)
 
-![](/images/pasteur-street-brewing-bldl07-1.jpg)
+![](/images/pasteur-street-brewing-bldl07.jpg)
+
+![](/images/pasteur-street-brewing-bldl10.jpg)
 
 Vợ chồng mình thử ngay set bia mini gồm 6 hương vị khác nhau để sau này biết mình thích loai nào. Mình để ý những ly bia có màu nhạt nồng độ bia  thấp hơn, dành cho những bạn nữ không quen uống bia. Những ly màu sậm hơn dĩ nhiên là nặng hơn rồi, cẩn thận coi chừng xỉn nhe !
 
-![](/images/pasteur-street-brewing-bldl06-1.jpg)
+![](/images/pasteur-street-brewing-bldl06.jpg)
+![](/images/pasteur-street-brewing-bldl11.jpg)
 
 Mình thích vị chanh dây ("passion fruitwheat ale"), chua chua, ngọt ngọt lại nồng độ nhẹ nhất nên rất dễ uống. Chồng mình thì cực kì tâm đắc với hương dừa ("coconut") và PSBC Double IPA - bia được bình chọn một trong những best seller của quán.
 
@@ -55,7 +58,7 @@ Nữ hoàng đêm đó là ly bia hương chocolate (**"Cyclo Imperial Chocolate
 
 Ngoài bia ngon, thức ăn tại Pasteur Street Brewing ngon tuyệt vời. Sloppy Chip tại đây ngon không tưởng, khoai tây lát được chiên giòn rụm, chấm chung với sốt kem hấp dẫn.
 
-![](/images/pasteur-street-brewing-bldl08-1.jpg)
+![](/images/pasteur-street-brewing-bldl08.jpg)
 
 Burger cũng là món khiến mình ấn tượng, được nêm nếm rất vừa ăn, miếng bò mềm thơm lừng đậm đà gia vị. Uống bia tươi mà có thức ăn ngon thì còn gì bằng !
 
