@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
+import type { CollectionEntry } from "astro:content";
 import Headline from "@/components/ui/Headline.astro";
 import PostItem from "@/components/blog/PostItem.astro";
 import Pagination from "@/components/ui/Pagination.astro";
@@ -10,6 +11,16 @@ import {
   type TaxonomyItem,
 } from "@/utils/taxonomy";
 import { buildPaginatedPaths } from "@/utils/paginate";
+
+interface Props {
+  dest: TaxonomyItem;
+  posts: CollectionEntry<"blog">[];
+  currentPage: number;
+  lastPage: number;
+  total: number;
+  prevUrl?: string;
+  nextUrl?: string;
+}
 
 export async function getStaticPaths() {
   const allPosts = await getCollection("blog");
@@ -48,7 +59,7 @@ export async function getStaticPaths() {
 }
 
 const { dest, posts, currentPage, lastPage, total, prevUrl, nextUrl } =
-  Astro.props;
+  Astro.props as Props;
 
 const page = {
   currentPage,
