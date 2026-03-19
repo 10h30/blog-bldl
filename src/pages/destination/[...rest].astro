@@ -69,7 +69,7 @@ const page = {
 
 const metadata = {
   title: dest.name,
-  description: dest.description ?? `Khám phá các bài viết về ${dest.name}.`,
+  description: dest.description ?? `Tổng hợp kinh nghiệm du lịch ${dest.name}.`,
 };
 ---
 
@@ -79,7 +79,8 @@ const metadata = {
       <Headline
         tagline="Destination"
         title={dest.name}
-        subtitle={dest.description ?? `Hiển thị ${total} bài viết.`}
+        subtitle={dest.description ??
+          `Tổng hợp kinh nghiệm du lịch, khám phá ${dest.name}.`}
         classes={{
           container: "mb-12 text-center",
           title:
