@@ -1,6 +1,6 @@
 ---
 title: "J&T Express lừa dối, chậm chạp, vô trách nhiệm. Tránh xa bằng mọi giá!"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2020-02-01
 tags:
   - "trai-nghiem-toi-te"

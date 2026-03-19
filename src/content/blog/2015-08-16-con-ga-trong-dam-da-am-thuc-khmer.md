@@ -1,6 +1,6 @@
 ---
 title: "Con gà trống - Đậm đà ẩm thực Khmer"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-08-16
 categories:
   - "an-uong"

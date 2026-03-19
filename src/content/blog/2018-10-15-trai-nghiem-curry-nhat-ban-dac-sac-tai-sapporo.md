@@ -1,6 +1,6 @@
 ---
 title: "Trải nghiệm curry Nhật Bản đặc sắc tại Sapporo"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-10-15
 categories:
   - "an-uong"

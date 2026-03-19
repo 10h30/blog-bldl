@@ -1,6 +1,6 @@
 ---
 title: "Naturie Hatomugi Skin Conditioner - Lotion mask dưỡng ẩm thế hệ mới"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-12-09
 categories:
   - "lam-dep"

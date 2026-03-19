@@ -1,6 +1,6 @@
 ---
 title: "Bạn không cần cảm xúc tích cực để hạnh phúc"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-01-08
 categories:
   - "tam-su"

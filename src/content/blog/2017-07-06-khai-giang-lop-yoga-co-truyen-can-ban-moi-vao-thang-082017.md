@@ -1,6 +1,6 @@
 ---
 title: "Khai giảng lớp yoga cổ truyền căn bản mới vào tháng 08/2017"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-07-06
 categories:
   - "yoga"

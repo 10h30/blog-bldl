@@ -1,6 +1,6 @@
 ---
 title: "[Nhật ký du lịch Nhật Bản tự túc] Ngày 6: Tham quan công viên quốc gia Mino nổi tiếng nhất Osaka"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-12-21
 categories:
   - "an-uong"

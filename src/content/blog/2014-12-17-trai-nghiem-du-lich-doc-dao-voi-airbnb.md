@@ -1,6 +1,6 @@
 ---
 title: "Trải nghiệm du lịch độc đáo với AirBnB"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2014-12-17
 categories:
   - "meo-hay"

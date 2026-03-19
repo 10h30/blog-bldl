@@ -1,6 +1,6 @@
 ---
 title: "Thông tin Khoá học Sivananda Yoga chính thức khai giảng vào tháng 05/2017"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-05-13
 categories:
   - "yoga"

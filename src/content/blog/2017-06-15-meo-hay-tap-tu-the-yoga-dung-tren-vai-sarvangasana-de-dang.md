@@ -1,6 +1,6 @@
 ---
 title: "Mẹo hay tập tư thế yoga Đứng trên vai [Sarvangasana] dễ dàng"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-06-15
 categories:
   - "yoga"

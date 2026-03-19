@@ -1,6 +1,6 @@
 ---
 title: "Bãi biển Kuta - Bãi biển đáng thất vọng nhất ở Bali"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-12-18
 categories:
   - "du-lich"

@@ -1,6 +1,6 @@
 ---
 title: "Ẩm thực Bali - Thiên đường ẩm thực đầy sắc màu"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-09-11
 categories:
   - "an-uong"

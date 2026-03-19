@@ -1,6 +1,6 @@
 ---
 title: "Ụt Ụt Quán - No nê thơm ngon đến miếng thịt cuối cùng"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-10-19
 categories:
   - "an-uong"
@@ -37,7 +37,7 @@ Trái ngược với ngoại hình "thô kệch", hương vị bên trong quả 
 
 ![](/images/ututquan-bldl04.jpg)
 
-![Ba loại nước sốt dùng kèm của Ụt Ụt](/images/ututquan-bldl05.jpg)
+![Ba Lôại nước sốt dùng kèm của Ụt Ụt](/images/ututquan-bldl05.jpg)
 
 Đa phần các phần ăn ở đây đều rất lớn nên các bạn cần cân nhắc bao tử chính mình và số lượng người ăn mà gọi món nhé.
 

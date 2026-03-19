@@ -1,6 +1,6 @@
 ---
 title: "Chia sẻ kinh nghiệm đi du lịch Mũi Né - Phan Thiết bằng tàu lửa"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2016-07-03
 categories:
   - "du-lich"

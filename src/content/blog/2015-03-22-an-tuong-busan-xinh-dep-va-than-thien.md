@@ -1,6 +1,6 @@
 ---
 title: "Ấn tượng Busan xinh đẹp và thân thiện"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-03-22
 categories:
   - "du-lich"

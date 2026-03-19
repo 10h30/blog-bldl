@@ -1,6 +1,6 @@
 ---
 title: "Lên kế hoạch và làm chủ cuộc đời mỗi ngày"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2021-03-30
 categories:
   - "tam-su"

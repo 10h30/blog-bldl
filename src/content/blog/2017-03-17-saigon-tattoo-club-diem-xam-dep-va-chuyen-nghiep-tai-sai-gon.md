@@ -1,6 +1,6 @@
 ---
 title: "Saigon Tattoo Club - điểm xăm đẹp và chuyên nghiệp tại Sài Gòn"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-03-17
 categories:
   - "lam-dep"

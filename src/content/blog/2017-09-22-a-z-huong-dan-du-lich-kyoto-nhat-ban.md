@@ -1,6 +1,6 @@
 ---
 title: "Từ A đến Z hướng dẫn kinh nghiệm du lịch Kyoto - Nhật Bản"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-09-22
 categories:
   - "du-lich"

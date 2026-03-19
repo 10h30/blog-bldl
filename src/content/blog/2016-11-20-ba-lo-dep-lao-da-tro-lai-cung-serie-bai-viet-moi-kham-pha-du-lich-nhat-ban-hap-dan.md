@@ -1,6 +1,6 @@
 ---
 title: 'Ba Lô & Dép Lào đã trở lại cùng serie bài viết mới "Khám phá du lịch Nhật Bản" hấp dẫn'
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-11-20
 categories:
   - "du-lich"

@@ -1,6 +1,6 @@
 ---
 title: "Kinh nghiệm đi xe taxi ở Manila"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2014-12-05
 categories:
   - "meo-hay"

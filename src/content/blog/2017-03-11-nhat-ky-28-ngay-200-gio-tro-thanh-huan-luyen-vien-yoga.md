@@ -1,6 +1,6 @@
 ---
 title: "[Nhật ký]: 28 ngày - 200 giờ trở thành huấn luyện viên Yoga"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-03-11
 categories:
   - "yoga"

@@ -1,6 +1,6 @@
 ---
 title: "Làm gì khi thẻ tín dụng của bạn bị hack?"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-07-10
 categories:
   - "meo-hay"

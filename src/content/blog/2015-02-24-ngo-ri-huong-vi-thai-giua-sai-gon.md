@@ -1,6 +1,6 @@
 ---
 title: "Ngò Rí - Hương vị Thái giữa Sài Gòn"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-02-24
 categories:
   - "an-uong"

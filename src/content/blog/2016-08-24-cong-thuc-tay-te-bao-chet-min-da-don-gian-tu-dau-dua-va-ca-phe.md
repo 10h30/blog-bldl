@@ -1,6 +1,6 @@
 ---
 title: "Công thức tẩy tế bào chết mịn da đơn giản từ dầu dừa và cà phê"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-08-24
 categories:
   - "lam-dep"

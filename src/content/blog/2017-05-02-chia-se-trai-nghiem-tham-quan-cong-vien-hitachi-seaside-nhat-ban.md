@@ -1,6 +1,6 @@
 ---
 title: "Chia sẻ trải nghiệm tham quan Công viên Hitachi Seaside Nhật Bản"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-05-02
 categories:
   - "du-lich"

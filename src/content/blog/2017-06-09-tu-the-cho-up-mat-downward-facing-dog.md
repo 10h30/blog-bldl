@@ -1,6 +1,6 @@
 ---
 title: "Hướng dẫn tư thế Yoga Chó úp mặt - Downward Facing Dog"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-06-09
 categories:
   - "yoga"

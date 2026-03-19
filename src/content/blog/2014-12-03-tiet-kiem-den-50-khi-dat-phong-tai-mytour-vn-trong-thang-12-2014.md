@@ -1,6 +1,6 @@
 ---
 title: "Tiết kiệm đến 50% khi đặt phòng tại Mytour.vn trong tháng 12/2014"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2014-12-03
 categories:
   - "khuyen-mai"

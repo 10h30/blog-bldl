@@ -1,6 +1,6 @@
 ---
 title: "Đang có vé máy bay giá rẻ của Air Asia đi chơi Kuala Lumpur dịp 30/4 - 1/5"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-03-02
 categories:
   - "khuyen-mai"

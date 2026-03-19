@@ -1,6 +1,6 @@
 ---
 title: "Đa dạng cảm xúc cùng À Ố Show"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-02-11
 categories:
   - "kham-pha-cuoi-tuan"

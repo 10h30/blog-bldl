@@ -1,6 +1,6 @@
 ---
 title: "Kinh nghiệm du lịch Đài Loan - Tìm hiểu 2 hệ thống xe lửa TRA và HSR ở Đài Loan, nên chọn cái nào?"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2017-04-12
 categories:
   - "du-lich"

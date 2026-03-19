@@ -1,6 +1,6 @@
 ---
 title: "Movenpick Cam Ranh Resort - Điểm vui chơi lý tưởng cho du lịch gia đình"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2019-12-20
 categories:
   - "du-lich"

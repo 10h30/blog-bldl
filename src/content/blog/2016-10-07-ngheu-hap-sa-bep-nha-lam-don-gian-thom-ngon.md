@@ -1,6 +1,6 @@
 ---
 title: "Nghêu hấp sả bếp nhà làm đơn giản thơm ngon"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-10-07
 categories:
   - "an-uong"

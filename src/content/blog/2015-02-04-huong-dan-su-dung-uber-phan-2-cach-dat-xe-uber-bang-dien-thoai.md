@@ -1,6 +1,6 @@
 ---
 title: "Hướng dẫn sử dụng UBER [Phần 2] - Cách đặt xe UBER bằng điện thoại"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-02-04
 categories:
   - "meo-hay"

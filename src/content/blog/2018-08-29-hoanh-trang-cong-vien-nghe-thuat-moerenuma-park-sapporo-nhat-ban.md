@@ -1,6 +1,6 @@
 ---
 title: "Hoành tráng công viên nghệ thuật Moerenuma Park - Sapporo Nhật Bản"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-08-29
 categories:
   - "du-lich"

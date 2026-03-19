@@ -1,6 +1,6 @@
 ---
 title: "[Nhật ký du lịch Nhật Bản tự túc] Ngày 7: Tham quan Viện hải dương Kaiyukan hoành tráng nhất Osaka"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-12-28
 categories:
   - "du-lich"

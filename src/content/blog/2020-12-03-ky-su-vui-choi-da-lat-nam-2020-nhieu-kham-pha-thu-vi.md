@@ -1,6 +1,6 @@
 ---
 title: "Ký sự vui chơi Đà Lạt năm 2020 - Nhiều khám phá thú vị"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2020-12-03
 categories:
   - "du-lich"

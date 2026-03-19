@@ -1,6 +1,6 @@
 ---
 title: "[Ẩm thực Hiroshima] Bánh xèo Okonomiyaki phong cách Anime nổi tiếng nhất Hiroshima"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-05-09
 categories:
   - "an-uong"

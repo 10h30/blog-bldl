@@ -1,6 +1,6 @@
 ---
 title: "Du lịch Nhật Bản tự túc 2023 [Phần 2] Mua vé máy bay, lên kế hoạch, mua JR Pass,..."
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2023-01-15
 categories:
   - "du-lich"

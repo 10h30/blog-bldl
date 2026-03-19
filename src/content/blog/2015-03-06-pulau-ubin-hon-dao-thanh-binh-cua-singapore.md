@@ -1,6 +1,6 @@
 ---
 title: "Pulau Ubin - Hòn đảo thanh bình của Singapore"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-03-06
 categories:
   - "du-lich"

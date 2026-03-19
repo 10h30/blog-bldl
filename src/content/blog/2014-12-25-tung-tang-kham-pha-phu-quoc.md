@@ -1,6 +1,6 @@
 ---
 title: "Tung tăng khám phá Phú Quốc"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2014-12-25
 categories:
   - "du-lich"

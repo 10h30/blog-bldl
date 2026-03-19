@@ -1,6 +1,6 @@
 ---
 title: "Ngất ngây với lễ hội thả đèn trời Loy Krathong tại Chiang Mai"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-11-06
 categories:
   - "du-lich"

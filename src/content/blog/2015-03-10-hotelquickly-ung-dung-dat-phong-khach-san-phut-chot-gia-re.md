@@ -1,6 +1,6 @@
 ---
 title: "HotelQuickly - Ứng dụng đặt phòng khách sạn phút chót giá rẻ"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-03-10
 categories:
   - "meo-hay"

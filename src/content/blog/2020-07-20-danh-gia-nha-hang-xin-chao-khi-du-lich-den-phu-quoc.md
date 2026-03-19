@@ -1,6 +1,6 @@
 ---
 title: 'Đánh giá nhà hàng "Xin Chào" khi du lịch đến Phú Quốc'
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2020-07-20
 categories:
   - "an-uong"

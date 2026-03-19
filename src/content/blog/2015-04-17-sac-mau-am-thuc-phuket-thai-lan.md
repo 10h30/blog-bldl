@@ -1,6 +1,6 @@
 ---
 title: "Sắc màu ẩm thực Phuket - Thái Lan"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-04-17
 categories:
   - "an-uong"

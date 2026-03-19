@@ -1,6 +1,6 @@
 ---
 title: "[Thông báo] Mục Mẹ & Con của BLDL chính thức được dời sang trang Blog mới - SuperSilk"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-02-18
 image: "/images/supersilk-avatar01-1.jpg"
 slug: "thong-bao-muc-me-con-cua-bldl-chinh-thuc-duoc-doi-sang-trang-blog-moi-supersilk"

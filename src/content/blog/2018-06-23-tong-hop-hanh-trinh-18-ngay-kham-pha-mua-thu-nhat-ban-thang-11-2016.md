@@ -1,6 +1,6 @@
 ---
 title: "Tổng hợp hành trình 18 ngày khám phá mùa thu Nhật Bản (tháng 11/2016)"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2018-06-23
 categories:
   - "du-lich"

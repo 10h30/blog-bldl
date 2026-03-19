@@ -1,6 +1,6 @@
 ---
 title: "Khuôn mặt đầy đặn da mịn màng với nước ép cà rốt táo"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-05-01
 categories:
   - "an-uong"

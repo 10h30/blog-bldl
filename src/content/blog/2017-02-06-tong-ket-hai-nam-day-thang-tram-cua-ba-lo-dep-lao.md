@@ -1,6 +1,6 @@
 ---
 title: "Tổng kết hai năm đầy thăng trầm của Ba Lô & Dép Lào"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-02-06
 image: "/images/shirakawago-bldl03.jpg"
 slug: "tong-ket-hai-nam-day-thang-tram-cua-ba-lo-dep-lao"

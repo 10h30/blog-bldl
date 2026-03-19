@@ -1,6 +1,6 @@
 ---
 title: "Azabu Sabo - Thiên đường kem Nhật thần thánh mới của Sài Gòn"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-08-31
 categories:
   - "an-uong"

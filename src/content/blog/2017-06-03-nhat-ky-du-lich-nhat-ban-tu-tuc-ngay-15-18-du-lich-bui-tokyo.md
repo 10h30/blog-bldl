@@ -1,6 +1,6 @@
 ---
 title: "[Nhật ký du lịch Nhật Bản tự túc] Ngày 15-18: Du lịch bụi Tokyo - Thành phố đa sắc màu"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-06-03
 categories:
   - "du-lich"

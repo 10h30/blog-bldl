@@ -1,6 +1,6 @@
 ---
 title: "Tìm được đam mê đâu quá khó!"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-08-26
 categories:
   - "tam-su"

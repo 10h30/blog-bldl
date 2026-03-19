@@ -1,6 +1,6 @@
 ---
 title: "Trải nghiệm căn hộ cao cấp ở Singapore với AirBnB"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2016-09-04
 categories:
   - "du-lich"

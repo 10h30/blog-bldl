@@ -1,6 +1,6 @@
 ---
 title: "Hibiki Sushi - Trải nghiệm ẩm thực Nhật Bản độc đáo ở Đài Trung"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2016-05-15
 categories:
   - "an-uong"

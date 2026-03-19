@@ -1,6 +1,6 @@
 ---
 title: "[Serie Sáng nay chồng ăn gì] Tập 1 - Cơm Sashimi cá hồi"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-09-20
 categories:
   - "an-uong"

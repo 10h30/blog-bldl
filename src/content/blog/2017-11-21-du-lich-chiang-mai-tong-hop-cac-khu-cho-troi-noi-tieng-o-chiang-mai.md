@@ -1,6 +1,6 @@
 ---
 title: "[Du lịch Chiang Mai]: Tổng hợp các khu chợ trời nổi tiếng ở Chiang Mai"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-11-21
 categories:
   - "du-lich"

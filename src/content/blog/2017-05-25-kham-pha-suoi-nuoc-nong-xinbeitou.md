@@ -1,6 +1,6 @@
 ---
 title: "[Du lịch Đài Bắc] Một ngày khám phá suối nước nóng Xinbeitou"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-05-25
 categories:
   - "du-lich"

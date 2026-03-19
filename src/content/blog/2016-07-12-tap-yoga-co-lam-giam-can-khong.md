@@ -1,6 +1,6 @@
 ---
 title: "Tập yoga có làm giảm cân không?"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-07-12
 categories:
   - "yoga"

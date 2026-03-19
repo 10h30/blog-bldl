@@ -1,6 +1,6 @@
 ---
 title: "Góc tâm sự Valentine mùa cúm Corona của BLDL."
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2020-02-16
 categories:
   - "tam-su"

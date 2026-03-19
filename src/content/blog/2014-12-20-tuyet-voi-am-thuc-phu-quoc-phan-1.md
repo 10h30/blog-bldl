@@ -1,6 +1,6 @@
 ---
 title: "Tuyệt vời ẩm thực Phú Quốc [Phần 1]"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2014-12-20
 categories:
   - "an-uong"

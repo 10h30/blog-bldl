@@ -1,6 +1,6 @@
 ---
 title: "Pasteur Street Brewing Sài Gòn - Địa điểm thưởng thức hương vị bia thủ công độc đáo"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-07-16
 categories:
   - "an-uong"

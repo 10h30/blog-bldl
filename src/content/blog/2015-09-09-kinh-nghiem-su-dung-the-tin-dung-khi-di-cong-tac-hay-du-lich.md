@@ -1,6 +1,6 @@
 ---
 title: "Kinh nghiệm sử dụng thẻ tín dụng khi đi công tác hay du lịch"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-09-09
 categories:
   - "meo-hay"

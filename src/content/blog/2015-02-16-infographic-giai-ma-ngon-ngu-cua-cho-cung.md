@@ -1,6 +1,6 @@
 ---
 title: "[Infographic] Giải mã ngôn ngữ của chó cưng"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-02-16
 categories:
   - "thu-cung"

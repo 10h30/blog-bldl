@@ -1,6 +1,6 @@
 ---
 title: "[Serie Sáng nay chồng ăn gì] Tập 2 - Pasta Ý sốt cà chua truyền thống"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-09-22
 categories:
   - "an-uong"

@@ -1,6 +1,6 @@
 ---
 title: "Một vòng ẩm thực Penang - Ấn tượng khó phai"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-06-09
 categories:
   - "an-uong"

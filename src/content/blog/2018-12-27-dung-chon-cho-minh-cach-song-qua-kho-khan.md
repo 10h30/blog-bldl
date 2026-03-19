@@ -1,6 +1,6 @@
 ---
 title: "Đừng chọn cho mình cách sống quá khó khăn"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-12-27
 categories:
   - "tam-su"

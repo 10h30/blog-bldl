@@ -1,6 +1,6 @@
 ---
 title: "Phải chăng khi càng lớn khôn, chúng ta càng thích sống chậm hơn?!"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-06-18
 categories:
   - "du-lich"

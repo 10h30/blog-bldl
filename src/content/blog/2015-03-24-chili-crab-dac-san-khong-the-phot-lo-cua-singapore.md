@@ -1,6 +1,6 @@
 ---
 title: "Chili Crab - Đặc sản không thể phớt lờ của Singapore"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-03-24
 categories:
   - "an-uong"

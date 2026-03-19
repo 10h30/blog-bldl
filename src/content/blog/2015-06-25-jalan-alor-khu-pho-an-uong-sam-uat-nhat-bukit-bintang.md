@@ -1,6 +1,6 @@
 ---
 title: "Jalan Alor - Khu phố ăn uống sầm uất nhất Bukit Bintang"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-06-25
 categories:
   - "an-uong"

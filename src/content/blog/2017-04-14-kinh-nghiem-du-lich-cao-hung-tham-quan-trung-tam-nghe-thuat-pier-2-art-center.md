@@ -1,6 +1,6 @@
 ---
 title: "Kinh nghiệm du lịch Cao Hùng: Tham quan trung tâm nghệ thuật Pier-2 Art Center"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-04-14
 categories:
   - "du-lich"

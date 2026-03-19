@@ -1,6 +1,6 @@
 ---
 title: "Một ngày dạo chơi thỏa thích tại thành phố cảng Otaru xinh đẹp"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-09-25
 categories:
   - "an-uong"

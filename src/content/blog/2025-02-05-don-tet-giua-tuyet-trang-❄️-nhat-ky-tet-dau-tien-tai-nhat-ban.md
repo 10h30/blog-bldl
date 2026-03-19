@@ -1,6 +1,6 @@
 ---
 title: "[Cuộc sống ở Nhật] Đón Tết Giữa Tuyết Trắng ❄️ | Nhật Ký Tết Đầu Tiên Tại Nhật Bản"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2025-02-05
 categories:
   - "gia-dinh"

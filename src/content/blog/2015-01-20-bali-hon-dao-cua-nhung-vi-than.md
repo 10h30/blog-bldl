@@ -1,6 +1,6 @@
 ---
 title: "Bali - Hòn đảo của những vị thần"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-01-20
 categories:
   - "an-uong"

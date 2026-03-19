@@ -1,6 +1,6 @@
 ---
 title: "Giao Hàng Tiết Kiệm (GHTK) lừa đảo: làm mất hàng, giở trò lừa lọc, quỵt tiền của shop"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2021-09-24
 categories:
   - "tin-tuc"

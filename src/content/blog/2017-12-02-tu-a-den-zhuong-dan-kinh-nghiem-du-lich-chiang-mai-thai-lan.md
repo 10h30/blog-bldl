@@ -1,6 +1,6 @@
 ---
 title: "Từ A đến Z hướng dẫn kinh nghiệm du lịch Chiang Mai - Thái Lan"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-12-02
 categories:
   - "an-uong"

@@ -1,6 +1,6 @@
 ---
 title: "6 mẹo đơn giản giúp bạn phòng bệnh khi đi du lịch"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-06-13
 categories:
   - "du-lich"

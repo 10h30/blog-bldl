@@ -1,6 +1,6 @@
 ---
 title: "Chuẩn bị gì cho chuyến đi Sapa thêm hoàn hảo?"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-03-28
 categories:
   - "du-lich"

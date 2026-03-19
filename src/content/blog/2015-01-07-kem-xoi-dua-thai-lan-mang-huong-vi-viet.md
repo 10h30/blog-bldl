@@ -1,6 +1,6 @@
 ---
 title: "Kem xôi dừa Thái Lan mang hương vị Việt"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-01-07
 categories:
   - "an-uong"

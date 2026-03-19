@@ -1,6 +1,6 @@
 ---
 title: "Du lịch bụi Bali - [Phần 2] Kinh nghiệm chọn khách sạn"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-01-16
 categories:
   - "du-lich"

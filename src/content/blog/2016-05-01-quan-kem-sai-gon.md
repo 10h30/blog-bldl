@@ -1,6 +1,6 @@
 ---
 title: "Tổng hợp những quán kem yêu thích của Ba Lô Dép Lào tại Sài Gòn"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-05-01
 categories:
   - "an-uong"

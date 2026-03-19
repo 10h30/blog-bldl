@@ -1,6 +1,6 @@
 ---
 title: "Có UBER không ngại trời mưa"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-09-23
 categories:
   - "khuyen-mai"

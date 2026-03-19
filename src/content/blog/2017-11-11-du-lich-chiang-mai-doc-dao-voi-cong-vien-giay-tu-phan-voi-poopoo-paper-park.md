@@ -1,6 +1,6 @@
 ---
 title: "Du lịch Chiang Mai - Độc đáo với công viên giấy từ phân voi POOPOO Paper Park"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-11-11
 categories:
   - "du-lich"

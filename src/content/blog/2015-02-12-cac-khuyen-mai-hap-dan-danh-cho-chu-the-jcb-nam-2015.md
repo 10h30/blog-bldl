@@ -1,6 +1,6 @@
 ---
 title: "Các khuyến mãi hấp dẫn dành cho chủ thẻ JCB năm 2015"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-02-12
 categories:
   - "khuyen-mai"

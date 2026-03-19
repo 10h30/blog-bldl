@@ -1,6 +1,6 @@
 ---
 title: "Dịch vụ giữ hành lý miễn phí ở Mall Of Asia, Manila"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2014-12-10
 categories:
   - "meo-hay"

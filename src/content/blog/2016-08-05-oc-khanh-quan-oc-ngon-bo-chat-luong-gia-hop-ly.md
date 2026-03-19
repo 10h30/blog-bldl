@@ -1,6 +1,6 @@
 ---
 title: "Ốc Khánh - Quán ốc ngon - bổ - chất lượng - giá hợp lý"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-08-05
 categories:
   - "an-uong"

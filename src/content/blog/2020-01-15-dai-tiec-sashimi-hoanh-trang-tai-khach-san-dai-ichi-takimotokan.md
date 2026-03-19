@@ -1,6 +1,6 @@
 ---
 title: "Đại tiệc sashimi hoành tráng tại khách sạn Dai-ichi Takimotokan"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2020-01-15
 categories:
   - "an-uong"

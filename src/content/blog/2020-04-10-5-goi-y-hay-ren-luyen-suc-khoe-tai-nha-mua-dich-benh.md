@@ -1,6 +1,6 @@
 ---
 title: "5 gợi ý hay rèn luyện sức khoẻ tại nhà mùa dịch bệnh"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2020-04-10
 categories:
   - "meo-hay"

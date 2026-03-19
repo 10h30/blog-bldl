@@ -1,6 +1,6 @@
 ---
 title: "[Du lịch Đài Bắc] Một ngày tham quan thú vị tại Sở Thú Đài Bắc"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-04-18
 categories:
   - "du-lich"

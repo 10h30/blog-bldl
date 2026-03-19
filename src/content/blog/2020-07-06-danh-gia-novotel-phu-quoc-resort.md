@@ -1,6 +1,6 @@
 ---
 title: "Đánh giá Novotel Phú Quốc Resort - kì nghỉ dưỡng 4N3Đ"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2020-07-06
 categories:
   - "du-lich"

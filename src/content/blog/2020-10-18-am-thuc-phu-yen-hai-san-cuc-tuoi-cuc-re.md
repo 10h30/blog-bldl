@@ -1,6 +1,6 @@
 ---
 title: "[Ẩm thực Phú Yên]: Hải sản cực tươi - cực rẻ"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2020-10-18
 categories:
   - "an-uong"

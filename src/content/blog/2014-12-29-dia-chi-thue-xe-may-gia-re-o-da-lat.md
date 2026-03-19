@@ -1,6 +1,6 @@
 ---
 title: "Địa chỉ thuê xe máy giá rẻ ở Đà Lạt"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2014-12-29
 categories:
   - "meo-hay"

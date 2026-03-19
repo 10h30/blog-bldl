@@ -1,6 +1,6 @@
 ---
 title: "Racha Room - Nhà hàng Thái đa phong cách"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-06-20
 categories:
   - "an-uong"

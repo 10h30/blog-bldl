@@ -1,6 +1,6 @@
 ---
 title: "Thiên đường ẩm thực Manila"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2014-12-09
 categories:
   - "an-uong"

@@ -1,6 +1,6 @@
 ---
 title: "Sansai-ryori - Đặc sản bò nổi tiếng của Thành phố Takayama"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-04-12
 categories:
   - "an-uong"

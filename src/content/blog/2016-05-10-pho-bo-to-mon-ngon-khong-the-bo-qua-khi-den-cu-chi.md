@@ -1,6 +1,6 @@
 ---
 title: "Phở bò tơ - món ngon không thể bỏ qua khi đến Củ Chi"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-05-10
 categories:
   - "an-uong"

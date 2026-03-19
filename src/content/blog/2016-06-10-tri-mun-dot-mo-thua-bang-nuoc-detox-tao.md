@@ -1,6 +1,6 @@
 ---
 title: "Trị mụn đốt mỡ thừa bằng nước detox táo"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-06-10
 categories:
   - "lam-dep"

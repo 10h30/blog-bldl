@@ -1,6 +1,6 @@
 ---
 title: "Chatuchak - Lạc lối giữa chợ trời cuối tuần Bangkok"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-02-05
 categories:
   - "an-uong"

@@ -1,6 +1,6 @@
 ---
 title: "Chia sẻ kinh nghiệm tự tập Yoga tại nhà khi bạn không thể tham gia các lớp học Yoga"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-08-13
 categories:
   - "yoga"

@@ -1,6 +1,6 @@
 ---
 title: "Những địa điểm du lịch được Google bình chọn HOT nhất năm 2018"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-03-12
 categories:
   - "du-lich"

@@ -1,6 +1,6 @@
 ---
 title: "[Du lịch Đài Trung] Thất vọng về Rainbow Village - Làng Cầu Vồng"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-06-01
 categories:
   - "du-lich"

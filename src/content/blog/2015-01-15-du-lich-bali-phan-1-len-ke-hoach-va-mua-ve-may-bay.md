@@ -1,6 +1,6 @@
 ---
 title: "Du lịch Bali - [Phần 1] Lên kế hoạch và mua vé máy bay"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-01-15
 categories:
   - "du-lich"

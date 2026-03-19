@@ -1,6 +1,6 @@
 ---
 title: "Mẹo hay giúp bạn tiết kiệm tiền khi du lịch Singapore"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-12-03
 categories:
   - "du-lich"

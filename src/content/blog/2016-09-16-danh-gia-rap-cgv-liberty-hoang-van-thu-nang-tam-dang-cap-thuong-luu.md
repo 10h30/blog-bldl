@@ -1,6 +1,6 @@
 ---
 title: "[Đánh giá] Rạp CGV Liberty Hoàng Văn Thụ - Nâng tầm đẳng cấp thượng lưu"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-09-16
 categories:
   - "kham-pha-cuoi-tuan"

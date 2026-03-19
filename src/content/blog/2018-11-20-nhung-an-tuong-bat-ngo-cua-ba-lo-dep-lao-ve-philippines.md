@@ -1,6 +1,6 @@
 ---
 title: "Những ấn tượng bất ngờ của Ba Lô Dép Lào về Philippines"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-11-20
 categories:
   - "an-uong"

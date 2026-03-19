@@ -1,6 +1,6 @@
 ---
 title: "Citibank lừa đảo, chiếm đoạt tiền thưởng của khách hàng"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-10-29
 tags:
   - "citibank"

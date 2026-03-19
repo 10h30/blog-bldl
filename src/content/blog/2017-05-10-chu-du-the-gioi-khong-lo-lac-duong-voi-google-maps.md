@@ -1,6 +1,6 @@
 ---
 title: "Chu du thế giới không lo lạc đường với Google Maps"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2017-05-10
 categories:
   - "du-lich"

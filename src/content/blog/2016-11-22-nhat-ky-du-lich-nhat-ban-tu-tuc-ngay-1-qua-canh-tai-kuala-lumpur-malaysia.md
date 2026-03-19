@@ -1,6 +1,6 @@
 ---
 title: "[Nhật ký du lịch Nhật Bản tự túc] Ngày 1 - Quá cảnh tại Kuala Lumpur Malaysia"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-11-22
 categories:
   - "du-lich"

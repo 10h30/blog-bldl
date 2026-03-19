@@ -1,6 +1,6 @@
 ---
 title: "5 cách giúp bạn có thêm động lực đi du lịch"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2019-07-06
 categories:
   - "du-lich"

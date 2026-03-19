@@ -1,6 +1,6 @@
 ---
 title: "Manila - Nơi hội tụ mọi đối lập [Phần 2]"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2014-12-15
 categories:
   - "an-uong"

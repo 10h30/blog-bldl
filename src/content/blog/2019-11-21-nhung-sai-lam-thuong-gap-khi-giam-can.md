@@ -1,6 +1,6 @@
 ---
 title: "Những sai lầm thường gặp khi giảm cân"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2019-11-21
 categories:
   - "meo-hay"

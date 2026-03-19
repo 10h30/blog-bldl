@@ -1,6 +1,6 @@
 ---
 title: "Chia sẻ kinh nghiệm lựa chọn thảm tập Yoga tốt"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-07-28
 categories:
   - "yoga"

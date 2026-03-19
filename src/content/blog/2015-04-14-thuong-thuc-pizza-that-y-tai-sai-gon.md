@@ -1,6 +1,6 @@
 ---
 title: 'Thưởng thức Pizza thật "Ý" tại Sài Gòn'
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-04-14
 categories:
   - "an-uong"

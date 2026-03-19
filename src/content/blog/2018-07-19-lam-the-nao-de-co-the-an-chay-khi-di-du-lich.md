@@ -1,6 +1,6 @@
 ---
 title: "Làm thế nào để có thể ăn chay khi đi du lịch"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-07-19
 categories:
   - "an-uong"

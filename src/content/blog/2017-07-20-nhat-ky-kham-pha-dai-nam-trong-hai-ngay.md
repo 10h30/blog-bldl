@@ -1,6 +1,6 @@
 ---
 title: "Nhật ký khám phá Đài Nam trong hai ngày"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-07-20
 categories:
   - "du-lich"

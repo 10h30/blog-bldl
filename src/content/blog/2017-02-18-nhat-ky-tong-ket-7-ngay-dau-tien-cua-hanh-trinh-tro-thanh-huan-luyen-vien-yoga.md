@@ -1,6 +1,6 @@
 ---
 title: "[Nhật ký]: Tổng kết 7 ngày đầu tiên của hành trình trở thành huấn luyện viên Yoga"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-02-18
 categories:
   - "yoga"

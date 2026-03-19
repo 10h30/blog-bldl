@@ -1,6 +1,6 @@
 ---
 title: "[Quà tặng] Dầu dừa nguyên chất Phú Yên (120ml)"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-08-23
 categories:
   - "lam-dep"

@@ -1,6 +1,6 @@
 ---
 title: "Giảm giá 25% khi đặt Domino's Pizza online và thanh toán bằng thẻ VISA"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-06-20
 categories:
   - "an-uong"

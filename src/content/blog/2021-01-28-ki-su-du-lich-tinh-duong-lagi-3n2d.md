@@ -1,6 +1,6 @@
 ---
 title: "Kí sự du lịch tịnh dưỡng Lagi 3N2Đ"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2021-01-28
 categories:
   - "du-lich"

@@ -1,6 +1,6 @@
 ---
 title: "[Nhật ký]: Một ngày cuối tuần của huấn luyện viên Yoga tương lai"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-03-03
 categories:
   - "yoga"

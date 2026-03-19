@@ -1,6 +1,6 @@
 ---
 title: "Golden Lotus Spa - Thế giới xông hơi phong cách Hàn"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-08-11
 categories:
   - "kham-pha-cuoi-tuan"

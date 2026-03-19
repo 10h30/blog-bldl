@@ -1,6 +1,6 @@
 ---
 title: "Đánh giá quán cafe Wood Stock - Đà Lạt"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2019-11-14
 categories:
   - "an-uong"

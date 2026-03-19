@@ -1,6 +1,6 @@
 ---
 title: "[Kinh nghiệm du lịch Đài Loan] Hướng dẫn chi tiết thủ tục xin visa du lịch Đài Loan"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2017-04-26
 categories:
   - "du-lich"

@@ -1,6 +1,6 @@
 ---
 title: "BLDL làm gì khi không đi du lịch?!"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-11-06
 categories:
   - "tam-su"

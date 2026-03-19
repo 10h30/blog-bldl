@@ -1,6 +1,6 @@
 ---
 title: "[Du lịch Chiang Mai]: Lịch trình một ngày trọn vẹn khám phá Chiang Mai"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-11-26
 categories:
   - "du-lich"

@@ -1,6 +1,6 @@
 ---
 title: "Những món ăn không nên bỏ qua khi đến Boracay"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2014-12-01
 categories:
   - "an-uong"

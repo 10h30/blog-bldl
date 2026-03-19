@@ -1,6 +1,6 @@
 ---
 title: "AEON Mall Bình Tân - Siêu thị Nhật khiến khách hàng khó nhất cũng phải hài lòng"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-08-15
 categories:
   - "kham-pha-cuoi-tuan"

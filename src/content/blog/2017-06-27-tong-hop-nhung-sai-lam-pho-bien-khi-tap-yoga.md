@@ -1,6 +1,6 @@
 ---
 title: "Tổng hợp những sai lầm phổ biến khi tập Yoga"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-06-27
 categories:
   - "yoga"

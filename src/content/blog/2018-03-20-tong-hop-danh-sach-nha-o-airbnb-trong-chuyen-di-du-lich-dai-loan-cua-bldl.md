@@ -1,6 +1,6 @@
 ---
 title: "Tổng hợp danh sách nhà ở AirBnB trong chuyến đi du lịch Đài Loan của BLDL"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-03-20
 categories:
   - "du-lich"

@@ -1,6 +1,6 @@
 ---
 title: "Chúc mừng năm mới 2020 - Tổng kết 2019 Một năm đời thường đáng nhớ của BLDL"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2020-01-16
 image: "/images/happy-new-year.jpg"
 slug: "chuc-mung-nam-moi-2020-tong-ket-2019-mot-nam-doi-thuong-dang-nho-cua-bldl"

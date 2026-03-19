@@ -1,6 +1,6 @@
 ---
 title: "Ẩm thực Phú Quốc [Phần 2] - Đậm đà bánh canh Phú Quốc"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2014-12-22
 categories:
   - "an-uong"

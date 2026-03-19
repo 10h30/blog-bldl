@@ -1,6 +1,6 @@
 ---
 title: "Hướng dẫn sử dụng UBER - [Phần 1] Đăng ký tài khoản và nhận khuyến mãi 50.000"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-01-29
 categories:
   - "meo-hay"

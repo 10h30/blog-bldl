@@ -1,6 +1,6 @@
 ---
 title: "Tẩy trang với DHC Deep Cleansing Oil hiệu quả tuyệt vời"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-01-10
 categories:
   - "lam-dep"

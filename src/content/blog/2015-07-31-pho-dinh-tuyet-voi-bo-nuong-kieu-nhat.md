@@ -1,6 +1,6 @@
 ---
 title: "Phổ Đình - Tuyệt vời bò nướng kiểu Nhật"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-07-31
 categories:
   - "an-uong"

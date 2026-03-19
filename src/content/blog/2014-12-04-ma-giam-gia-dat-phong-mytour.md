@@ -1,6 +1,6 @@
 ---
 title: "Tổng hợp các mã giảm giá đặt phòng Mytour"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2014-12-04
 categories:
   - "khuyen-mai"

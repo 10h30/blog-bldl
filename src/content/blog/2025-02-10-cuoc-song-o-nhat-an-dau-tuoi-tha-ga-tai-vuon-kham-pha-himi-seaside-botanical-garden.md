@@ -1,6 +1,6 @@
 ---
 title: "[Cuộc sống ở Nhật] Ăn dâu tươi thả ga tại vườn, khám phá Himi Seaside Botanical Garden"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2025-02-10
 categories:
   - "gia-dinh"

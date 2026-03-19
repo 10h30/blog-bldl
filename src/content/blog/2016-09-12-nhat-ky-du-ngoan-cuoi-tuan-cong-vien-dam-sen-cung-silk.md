@@ -1,6 +1,6 @@
 ---
 title: "Nhật ký: Du ngoạn cuối tuần Công Viên Đầm Sen cùng Silk"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-09-12
 categories:
   - "kham-pha-cuoi-tuan"

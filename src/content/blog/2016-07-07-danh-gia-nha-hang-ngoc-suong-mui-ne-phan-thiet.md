@@ -1,6 +1,6 @@
 ---
 title: "Đánh giá Nhà Hàng Ngọc Sương - Mũi Né Phan Thiết"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-07-07
 categories:
   - "an-uong"

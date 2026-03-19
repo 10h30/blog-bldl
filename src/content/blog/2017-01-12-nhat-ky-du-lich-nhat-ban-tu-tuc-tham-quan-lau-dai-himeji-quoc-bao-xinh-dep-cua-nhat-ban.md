@@ -1,6 +1,6 @@
 ---
 title: "[Nhật ký du lịch Nhật Bản tự túc] Ngày 8: Tham quan Lâu đài Himeji - Quốc bảo xinh đẹp của Nhật Bản"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-01-12
 categories:
   - "du-lich"

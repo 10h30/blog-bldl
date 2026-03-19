@@ -1,6 +1,6 @@
 ---
 title: "Từ A-Z hướng dẫn kinh nghiệm du lịch Bali - Indonesia"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-09-29
 categories:
   - "du-lich"

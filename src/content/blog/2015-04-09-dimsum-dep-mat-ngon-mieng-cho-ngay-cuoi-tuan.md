@@ -1,6 +1,6 @@
 ---
 title: "Dimsum - Đẹp mắt ngon miệng cho ngày cuối tuần"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-04-09
 categories:
   - "an-uong"

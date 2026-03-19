@@ -1,6 +1,6 @@
 ---
 title: "[Nhật ký du lịch Nhật Bản tự túc] Ngày 11-14: Khám phá Thung Lũng Kurobe - Thành phố núi biển Toyama"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-03-22
 categories:
   - "du-lich"

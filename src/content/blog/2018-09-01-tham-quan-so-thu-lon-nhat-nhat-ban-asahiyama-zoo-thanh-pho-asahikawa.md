@@ -1,6 +1,6 @@
 ---
 title: "Tham quan sở thú lớn nhất Nhật Bản Asahiyama Zoo - Thành phố Asahikawa"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-09-01
 categories:
   - "du-lich"

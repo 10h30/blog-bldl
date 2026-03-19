@@ -1,6 +1,6 @@
 ---
 title: "Điều gì khiến bạn trở thành người giáo viên Yoga giỏi?"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-05-28
 categories:
   - "yoga"

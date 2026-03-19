@@ -1,6 +1,6 @@
 ---
 title: "Chia sẻ kinh nghiệm làm đẹp cho những người bận rộn"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-05-18
 categories:
   - "lam-dep"

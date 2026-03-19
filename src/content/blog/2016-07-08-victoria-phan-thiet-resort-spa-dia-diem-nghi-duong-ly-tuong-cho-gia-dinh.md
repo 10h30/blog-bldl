@@ -1,6 +1,6 @@
 ---
 title: "Victoria Phan Thiết Resort & Spa - Địa điểm nghỉ dưỡng lý tưởng cho gia đình"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-07-08
 categories:
   - "du-lich"

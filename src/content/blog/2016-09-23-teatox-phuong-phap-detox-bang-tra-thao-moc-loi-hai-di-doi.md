@@ -1,6 +1,6 @@
 ---
 title: "Teatox - Phương pháp detox bằng trà thảo mộc - Lợi hại đi đôi"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-09-23
 categories:
   - "lam-dep"

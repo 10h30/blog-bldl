@@ -1,6 +1,6 @@
 ---
 title: "Khi suy nghĩ tích cực, cuộc sống tốt đẹp hơn"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2020-02-23
 categories:
   - "tam-su"

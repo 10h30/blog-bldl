@@ -1,6 +1,6 @@
 ---
 title: "Chia sẻ kinh nghiệm làm đẹp từ đầu đến chân bằng dầu dừa (Phần 1)"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-05-02
 categories:
   - "lam-dep"

@@ -1,6 +1,6 @@
 ---
 title: "Ấm cúng và thân thiện với homestay 3rd Street ở Georgetown, Penang"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-05-30
 categories:
   - "du-lich"

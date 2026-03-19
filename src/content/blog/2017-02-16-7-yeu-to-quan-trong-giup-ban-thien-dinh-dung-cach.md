@@ -1,6 +1,6 @@
 ---
 title: "7 yếu tố quan trọng giúp bạn thiền định đúng cách"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-02-16
 categories:
   - "yoga"

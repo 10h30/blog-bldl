@@ -1,6 +1,6 @@
 ---
 title: "Những điều bạn cần biết trước khi du lịch Nhật Bản"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-08-02
 categories:
   - "du-lich"

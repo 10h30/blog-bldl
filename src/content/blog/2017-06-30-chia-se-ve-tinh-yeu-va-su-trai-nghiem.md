@@ -1,6 +1,6 @@
 ---
 title: "Chia sẻ về tình yêu và sự trải nghiệm"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-06-30
 categories:
   - "cong-viec"

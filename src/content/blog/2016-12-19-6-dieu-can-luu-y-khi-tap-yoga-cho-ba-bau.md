@@ -1,6 +1,6 @@
 ---
 title: "6 điều cần lưu ý khi tập Yoga cho bà bầu"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-12-19
 categories:
   - "yoga"

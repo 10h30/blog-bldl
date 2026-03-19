@@ -1,6 +1,6 @@
 ---
 title: "Sống trọn vẹn cho hiện tại - Không hối tiếc"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-04-30
 categories:
   - "tam-su"

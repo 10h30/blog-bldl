@@ -1,6 +1,6 @@
 ---
 title: "Tập Yoga giúp bạn hạnh phúc hơn"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-02-22
 categories:
   - "yoga"

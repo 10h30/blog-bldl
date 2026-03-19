@@ -1,6 +1,6 @@
 ---
 title: 'BiaCraft - Bia tươi thủ công thơm ngon với tên gọi "khủng"'
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-09-28
 categories:
   - "kham-pha-cuoi-tuan"

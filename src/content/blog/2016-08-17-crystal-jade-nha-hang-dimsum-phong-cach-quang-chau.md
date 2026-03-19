@@ -1,6 +1,6 @@
 ---
 title: "Crystal Jade - Nhà hàng Dimsum phong cách Quảng Châu"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-08-17
 categories:
   - "an-uong"

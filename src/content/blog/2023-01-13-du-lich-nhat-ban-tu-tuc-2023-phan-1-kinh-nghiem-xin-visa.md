@@ -1,6 +1,6 @@
 ---
 title: "Du lịch Nhật Bản tự túc 2023 [Phần 1] Kinh nghiệm xin visa"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2023-01-13
 categories:
   - "du-lich"

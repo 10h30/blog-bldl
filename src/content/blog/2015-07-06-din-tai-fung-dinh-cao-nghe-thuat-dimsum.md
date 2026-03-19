@@ -1,6 +1,6 @@
 ---
 title: "Din Tai Fung - Đỉnh cao nghệ thuật Dimsum"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-07-06
 categories:
   - "an-uong"

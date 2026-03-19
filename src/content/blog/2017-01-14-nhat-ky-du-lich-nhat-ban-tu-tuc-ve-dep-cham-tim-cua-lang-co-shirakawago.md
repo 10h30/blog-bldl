@@ -1,6 +1,6 @@
 ---
 title: "[Nhật ký du lịch Nhật Bản tự túc] Ngày 9-10: Vẻ đẹp chạm tim của Làng cổ Shirakawago"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-01-14
 categories:
   - "du-lich"

@@ -1,6 +1,6 @@
 ---
 title: "Lợi ích vàng đến từ việc kết hợp Yoga với Chạy bộ"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-10-24
 categories:
   - "lam-dep"

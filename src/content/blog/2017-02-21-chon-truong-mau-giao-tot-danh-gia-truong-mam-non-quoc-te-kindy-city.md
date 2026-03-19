@@ -1,6 +1,6 @@
 ---
 title: "Chọn trường mẫu giáo tốt: Đánh giá trường mầm non quốc tế Kindy City"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-02-21
 categories:
   - "me-con"

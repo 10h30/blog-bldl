@@ -1,6 +1,6 @@
 ---
 title: "Malaysia Airlines - Dịch vụ tuyệt vời, sao mà phải sợ"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-01-28
 categories:
   - "du-lich"

@@ -1,6 +1,6 @@
 ---
 title: "5 đặc sản độc đáo khó chối từ của Cố đô Kyoto"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-01-13
 categories:
   - "an-uong"

@@ -1,6 +1,6 @@
 ---
 title: "Những món ngon không thể bỏ qua của ẩm thực Quy Nhơn"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-04-14
 categories:
   - "an-uong"

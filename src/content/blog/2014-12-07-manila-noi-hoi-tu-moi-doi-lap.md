@@ -1,6 +1,6 @@
 ---
 title: "Manila - Nơi hội tụ mọi đối lập [Phần 1]"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2014-12-07
 categories:
   - "du-lich"
@@ -24,7 +24,7 @@ Mình bắt đầu ngày đầu tiên ở Manila bằng bữa sáng nhẹ ngon l
 
 ![Nhà thờ San Jose rất đẹp nằm trong Intramurous](/images/MNL_Las_Pinas_San_Jose_Church_b.jpg)
 
-![Dep Lao in Instramurous](/images/Dep-Lao-in-Instramurous.jpg)
+![Dép Lào in Instramurous](/images/Dep-Lao-in-Instramurous.jpg)
 
 ![Intramurous Balodeplao](/images/Intramurous-Balodeplao.jpg)
 

@@ -1,6 +1,6 @@
 ---
 title: "Khi dân phượt ăn chay!"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2019-08-22
 categories:
   - "an-uong"

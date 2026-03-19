@@ -1,6 +1,6 @@
 ---
 title: "Chạm tim với vẻ đẹp của Làng nghệ thuật Baan Kang Wat - Chiang Mai"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-12-10
 categories:
   - "du-lich"

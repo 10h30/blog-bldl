@@ -1,6 +1,6 @@
 ---
 title: "Đánh giá nhà hàng Sushi Ko 3 Lê Thánh Tôn - Chất lượng Nhật giá Việt"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-07-12
 categories:
   - "an-uong"

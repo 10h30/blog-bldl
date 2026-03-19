@@ -1,6 +1,6 @@
 ---
 title: "Tổng kết năm 2017 - Một năm đầy yêu thương"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-01-01
 categories:
   - "tam-su"

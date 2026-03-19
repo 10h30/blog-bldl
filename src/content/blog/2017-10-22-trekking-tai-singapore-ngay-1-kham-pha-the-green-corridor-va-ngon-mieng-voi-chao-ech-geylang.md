@@ -1,6 +1,6 @@
 ---
 title: "Trekking tại Singapore - ngày 1: Khám phá The Green Corridor và Ngon miệng với cháo ếch Geylang"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-10-22
 categories:
   - "an-uong"

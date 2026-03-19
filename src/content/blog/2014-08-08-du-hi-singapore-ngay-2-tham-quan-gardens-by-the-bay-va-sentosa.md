@@ -1,6 +1,6 @@
 ---
 title: "Du hí Singapore - Ngày 2: Tham quan Gardens By The Bay và Sentosa"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2014-08-08
 categories:
   - "du-lich"

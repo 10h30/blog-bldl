@@ -1,6 +1,6 @@
 ---
 title: "Wifi miễn phí ở sân bay Tân Sơn Nhất - Cũng tạm ổn"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-03-02
 image: "/images/toc-do-wifi-mien-phi-tan-son-nhat.png"
 slug: "wifi-mien-phi-o-san-bay-tan-son-nhat-cung-tam-on"

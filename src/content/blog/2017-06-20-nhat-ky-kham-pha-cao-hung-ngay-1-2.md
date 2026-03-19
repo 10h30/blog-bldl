@@ -1,6 +1,6 @@
 ---
 title: "Nhật ký khám phá Cao Hùng (ngày 1-2)"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-06-20
 categories:
   - "an-uong"

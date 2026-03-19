@@ -1,6 +1,6 @@
 ---
 title: "Nhật ký một ngày sống lành mạnh mùa dịch Corona"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2020-03-17
 categories:
   - "tam-su"

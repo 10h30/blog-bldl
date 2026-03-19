@@ -1,6 +1,6 @@
 ---
 title: '"Gõ" - Nhà hàng Thái nhỏ nhắn đáng yêu'
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2019-03-11
 categories:
   - "an-uong"

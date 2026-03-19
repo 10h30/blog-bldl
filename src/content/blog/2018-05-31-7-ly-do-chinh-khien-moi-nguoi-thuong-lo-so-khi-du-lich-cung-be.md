@@ -1,6 +1,6 @@
 ---
 title: "7 lý do chính khiến mọi người thường lo sợ khi du lịch cùng bé"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-05-31
 categories:
   - "du-lich"

@@ -1,6 +1,6 @@
 ---
 title: "Cua sốt ớt Singapore giữa lòng Sài Gòn"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-03-30
 categories:
   - "an-uong"

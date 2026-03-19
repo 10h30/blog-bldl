@@ -1,6 +1,6 @@
 ---
 title: "NOIR - Trải nghiệm ẩm thực độc đáo trong bóng tối"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-04-18
 categories:
   - "an-uong"

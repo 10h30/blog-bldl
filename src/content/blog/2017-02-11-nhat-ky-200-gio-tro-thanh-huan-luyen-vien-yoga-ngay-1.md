@@ -1,6 +1,6 @@
 ---
 title: "[Nhật ký] 200 giờ trở thành huấn luyện viên Yoga - Ngày 1"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-02-11
 categories:
   - "yoga"

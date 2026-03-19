@@ -1,6 +1,6 @@
 ---
 title: "Ngon - bổ - rẻ ẩm thực Đà Nẵng"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2019-05-16
 categories:
   - "an-uong"
@@ -70,7 +70,7 @@ Một tô bún chả cá gồm có chả cá, su hào, bí đỏ, măng tươi, 
 
 ![](/images/img_1795.jpg)
 
-Điểm nhấn của "Bà Hoa" là chỗ nước lèo thanh ngọt, chả cá dai dai bao gồm ba loại: chiên, viên, luộc; thêm khúc cá ngừ hay cá thu tươi, dùng chung với rau sống và mắm nêm miền Trung khá bắt luôn. Tô thường có giá 40k, thêm cá thu hay ngừ là 50-60k bạn nhé. Ai đến Đà Nẵng nhất định phải thử qua món này nhé. Ăn để nhớ luôn nè :)
+Điểm nhấn của "Bà Hoa" là chỗ nước lèo thanh ngọt, chả cá dai dai bao gồm Ba Lôại: chiên, viên, luộc; thêm khúc cá ngừ hay cá thu tươi, dùng chung với rau sống và mắm nêm miền Trung khá bắt luôn. Tô thường có giá 40k, thêm cá thu hay ngừ là 50-60k bạn nhé. Ai đến Đà Nẵng nhất định phải thử qua món này nhé. Ăn để nhớ luôn nè :)
 
 ## Mì quảng 1A
 

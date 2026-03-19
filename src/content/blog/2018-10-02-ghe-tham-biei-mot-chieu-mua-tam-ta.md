@@ -1,6 +1,6 @@
 ---
 title: "Ghé thăm Biei một chiều mưa tầm tã"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-10-02
 categories:
   - "du-lich"

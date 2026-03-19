@@ -1,6 +1,6 @@
 ---
 title: "Cách đơn giản để giảm bớt căng thẳng trong cuộc sống"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2019-10-06
 categories:
   - "meo-hay"

@@ -1,6 +1,6 @@
 ---
 title: "[Nhật ký du lịch Nhật Bản tự túc] Ngày 5: Tham quan di tích lịch sử Hiroshima"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-12-10
 categories:
   - "du-lich"

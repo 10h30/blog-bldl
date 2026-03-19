@@ -1,6 +1,6 @@
 ---
 title: "Chia sẻ về ngôi nhà màu xanh của gia đình Ba Lô Dép Lào"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-02-28
 categories:
   - "tam-su"

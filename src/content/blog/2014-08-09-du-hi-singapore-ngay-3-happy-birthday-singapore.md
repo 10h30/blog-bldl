@@ -1,6 +1,6 @@
 ---
 title: "Du hí Singapore - Ngày 3: Happy Birthday Singapore"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2014-08-09
 categories:
   - "du-lich"

@@ -1,6 +1,6 @@
 ---
 title: "Kinh nghiệm du lịch Đài Loan - Hướng dẫn đặt vé xe điện TRA"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2017-04-13
 categories:
   - "du-lich"

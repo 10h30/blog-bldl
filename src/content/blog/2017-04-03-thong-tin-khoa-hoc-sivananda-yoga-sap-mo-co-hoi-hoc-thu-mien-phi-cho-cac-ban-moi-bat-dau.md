@@ -1,6 +1,6 @@
 ---
 title: "Thông tin khóa học Sivananda Yoga sắp mở - Cơ hội học thử miễn phí cho các bạn mới bắt đầu"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-04-03
 categories:
   - "yoga"

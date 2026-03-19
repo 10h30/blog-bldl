@@ -1,6 +1,6 @@
 ---
 title: "Hành trình trekking khám phá Sapa - Trải nghiệm khó quên"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-03-15
 categories:
   - "an-uong"

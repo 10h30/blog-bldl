@@ -1,6 +1,6 @@
 ---
 title: "Tặng 2 nước và 1 bắp khi mua 2 vé xem phim CGV bằng thẻ tín dụng Citibank"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-09-02
 categories:
   - "khuyen-mai"

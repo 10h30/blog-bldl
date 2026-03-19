@@ -1,6 +1,6 @@
 ---
 title: "5 lợi ích thần kì không ngờ đến từ Yoga"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-07-09
 categories:
   - "yoga"

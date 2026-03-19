@@ -1,6 +1,6 @@
 ---
 title: "UberX - Lựa chọn đi lại giá rẻ dành cho tất cả mọi người"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-04-07
 categories:
   - "meo-hay"

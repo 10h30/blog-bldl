@@ -1,6 +1,6 @@
 ---
 title: "4 loại hình Yoga truyền thống phổ biến nhất hiện nay"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-08-03
 categories:
   - "yoga"

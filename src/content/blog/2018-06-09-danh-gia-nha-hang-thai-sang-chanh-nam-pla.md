@@ -1,6 +1,6 @@
 ---
 title: "Đánh giá nhà hàng Thái sang chảnh Nạm Plà"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-06-09
 categories:
   - "an-uong"

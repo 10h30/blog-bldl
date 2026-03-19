@@ -1,6 +1,6 @@
 ---
 title: "Lần đầu trải nghiệm dịch vụ thuê xe UBER - Đơn giản và chuyên nghiệp"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-01-13
 categories:
   - "meo-hay"

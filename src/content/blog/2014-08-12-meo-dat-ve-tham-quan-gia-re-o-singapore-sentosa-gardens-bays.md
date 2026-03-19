@@ -1,6 +1,6 @@
 ---
 title: "Mẹo đặt vé tham quan giá rẻ ở Singapore: Sentosa, Gardens by the Bays,..."
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2014-08-12
 categories:
   - "du-lich"

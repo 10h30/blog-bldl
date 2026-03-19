@@ -1,6 +1,6 @@
 ---
 title: "Penang - Thành phố của quá khứ, hiện tại và tương lai"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-05-19
 categories:
   - "du-lich"

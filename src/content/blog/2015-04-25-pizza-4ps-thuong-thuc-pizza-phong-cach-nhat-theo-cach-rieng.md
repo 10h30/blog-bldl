@@ -1,6 +1,6 @@
 ---
 title: "Pizza 4P's - Thưởng thức Pizza phong cách Nhật theo cách riêng"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-04-25
 categories:
   - "an-uong"

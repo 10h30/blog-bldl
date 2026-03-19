@@ -1,6 +1,6 @@
 ---
 title: "Chia sẻ kinh nghiệm khởi nghiệp cho người trẻ (Start up)"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2020-09-26
 categories:
   - "meo-hay"

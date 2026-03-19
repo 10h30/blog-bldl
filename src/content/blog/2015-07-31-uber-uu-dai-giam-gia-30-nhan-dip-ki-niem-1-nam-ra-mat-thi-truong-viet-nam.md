@@ -1,6 +1,6 @@
 ---
 title: "UBER ưu đãi giảm giá 30% nhân dịp kỉ niệm 1 năm ra mắt thị trường Việt Nam"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-07-31
 categories:
   - "khuyen-mai"

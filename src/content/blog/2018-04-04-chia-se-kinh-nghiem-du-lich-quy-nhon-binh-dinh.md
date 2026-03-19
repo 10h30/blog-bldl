@@ -1,6 +1,6 @@
 ---
 title: "Chia sẻ kinh nghiệm du lịch Quy Nhơn - Bình Định"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-04-04
 categories:
   - "du-lich"

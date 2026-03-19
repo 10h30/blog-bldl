@@ -1,6 +1,6 @@
 ---
 title: "Hụt hẫng về cánh đồng hoa lavender Furano - Hokkaido Nhật Bản"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-09-12
 categories:
   - "du-lich"

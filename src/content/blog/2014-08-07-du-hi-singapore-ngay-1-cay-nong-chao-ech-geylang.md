@@ -1,6 +1,6 @@
 ---
 title: "Du hí Singapore - Ngày 1: Cay nồng cháo ếch Geylang"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2014-08-07
 categories:
   - "du-lich"

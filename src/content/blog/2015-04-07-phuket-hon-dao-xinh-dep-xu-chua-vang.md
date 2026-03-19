@@ -1,6 +1,6 @@
 ---
 title: "Phuket - Hòn đảo xinh đẹp xứ chùa vàng"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2015-04-07
 categories:
   - "du-lich"

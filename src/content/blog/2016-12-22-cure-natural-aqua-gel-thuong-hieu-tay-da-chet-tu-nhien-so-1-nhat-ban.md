@@ -1,6 +1,6 @@
 ---
 title: "Cure Natural Aqua Gel – Thương hiệu tẩy da chết tự nhiên số 1 Nhật Bản"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-12-22
 categories:
   - "lam-dep"

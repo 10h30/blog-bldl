@@ -1,6 +1,6 @@
 ---
 title: "[Nhật ký du lịch Nhật Bản tự túc] Ngày 4: Lạ lẫm đáng yêu với Thành phố Nara"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-11-30
 categories:
   - "du-lich"

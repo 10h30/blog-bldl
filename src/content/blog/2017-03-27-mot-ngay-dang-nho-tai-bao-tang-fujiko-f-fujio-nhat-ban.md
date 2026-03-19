@@ -1,6 +1,6 @@
 ---
 title: "Một ngày đáng nhớ tại Bảo tàng Fujiko F. Fujio Nhật Bản"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-03-27
 categories:
   - "du-lich"

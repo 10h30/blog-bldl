@@ -1,6 +1,6 @@
 ---
 title: "Mặt nạ tinh bột nghệ sữa tươi - Phương thức làm sáng da an toàn hiệu quả"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-08-07
 categories:
   - "lam-dep"

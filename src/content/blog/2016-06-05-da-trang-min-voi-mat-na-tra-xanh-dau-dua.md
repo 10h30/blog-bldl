@@ -1,6 +1,6 @@
 ---
 title: "Da trắng mịn với mặt nạ trà xanh dầu dừa"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-06-05
 categories:
   - "lam-dep"

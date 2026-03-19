@@ -1,6 +1,6 @@
 ---
 title: "Boracay đẹp từng centimet"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2014-12-27
 categories:
   - "an-uong"

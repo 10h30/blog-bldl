@@ -1,6 +1,6 @@
 ---
 title: "12 lí do bạn nên du lịch đến Nhật Bản"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-02-10
 categories:
   - "an-uong"

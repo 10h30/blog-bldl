@@ -1,6 +1,6 @@
 ---
 title: "Tìm lại tuổi thơ với phim Thế Giới Khủng Long ở rạp BHD Phạm Hùng"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2015-06-12
 categories:
   - "kham-pha-cuoi-tuan"

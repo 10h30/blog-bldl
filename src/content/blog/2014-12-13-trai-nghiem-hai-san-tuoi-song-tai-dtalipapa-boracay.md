@@ -1,6 +1,6 @@
 ---
 title: "Trải nghiệm hải sản tươi sống tại D'Talipapa, Boracay"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2014-12-13
 categories:
   - "an-uong"

@@ -1,6 +1,6 @@
 ---
 title: "Gogi House - Tuyệt vời thịt nướng Hàn Quốc"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-10-01
 categories:
   - "an-uong"

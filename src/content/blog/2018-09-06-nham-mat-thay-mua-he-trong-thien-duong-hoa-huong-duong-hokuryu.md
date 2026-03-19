@@ -1,6 +1,6 @@
 ---
 title: "Nhắm mắt thấy mùa hè trong thiên đường hoa hướng dương Hokuryu"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-09-06
 categories:
   - "du-lich"

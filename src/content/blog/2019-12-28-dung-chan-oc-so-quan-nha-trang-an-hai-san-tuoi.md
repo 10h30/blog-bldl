@@ -1,6 +1,6 @@
 ---
 title: "Dừng chân Ốc Sò Quán - Nha Trang ăn hải sản tươi"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2019-12-28
 categories:
   - "an-uong"

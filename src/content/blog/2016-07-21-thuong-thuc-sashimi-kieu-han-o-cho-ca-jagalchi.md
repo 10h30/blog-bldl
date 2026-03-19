@@ -1,6 +1,6 @@
 ---
 title: "Thưởng thức Sashimi ở chợ cá Jagalchi, Busan"
-author: "thuanbui"
+author: "Ba Lô"
 pubDate: 2016-07-21
 categories:
   - "an-uong"

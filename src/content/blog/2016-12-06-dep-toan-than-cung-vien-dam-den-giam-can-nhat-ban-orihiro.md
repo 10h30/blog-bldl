@@ -1,6 +1,6 @@
 ---
 title: "Đẹp toàn thân cùng viên dấm đen giảm cân Nhật Bản Orihiro"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-12-06
 categories:
   - "lam-dep"

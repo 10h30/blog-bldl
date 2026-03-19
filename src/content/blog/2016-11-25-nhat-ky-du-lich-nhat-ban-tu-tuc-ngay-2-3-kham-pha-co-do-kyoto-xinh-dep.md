@@ -1,6 +1,6 @@
 ---
 title: "[Nhật ký du lịch Nhật Bản tự túc] Ngày 2-3 : Khám phá Cố đô Kyoto xinh đẹp"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2016-11-25
 categories:
   - "du-lich"

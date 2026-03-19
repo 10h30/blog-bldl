@@ -1,6 +1,6 @@
 ---
 title: "Trải nghiệm Khu bùn khoáng I-Resort - Địa điểm tắm bùn lý tưởng tại Nha Trang"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-09-09
 categories:
   - "du-lich"

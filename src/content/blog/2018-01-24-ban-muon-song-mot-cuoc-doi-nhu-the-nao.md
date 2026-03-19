@@ -1,6 +1,6 @@
 ---
 title: "Bạn muốn sống một cuộc đời như thế nào?!"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2018-01-24
 categories:
   - "du-lich"

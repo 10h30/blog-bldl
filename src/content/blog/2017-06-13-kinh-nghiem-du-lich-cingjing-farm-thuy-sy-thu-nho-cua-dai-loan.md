@@ -1,6 +1,6 @@
 ---
 title: "Kinh nghiệm du lịch Cingjing Farm - Thuỵ Sỹ thu nhỏ của Đài Loan"
-author: "thaonguyen"
+author: "Dép Lào"
 pubDate: 2017-06-13
 categories:
   - "du-lich"
