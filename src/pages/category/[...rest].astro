@@ -8,6 +8,7 @@ import Pagination from "@/components/ui/Pagination.astro";
 import {
   getTaxonomyMap,
   getTaxonomyPath,
+  getDescendantSlugs,
   type TaxonomyItem,
 } from "@/utils/taxonomy";
 import { buildPaginatedPaths } from "@/utils/paginate";
@@ -32,8 +33,11 @@ export async function getStaticPaths() {
   );
 
   return Array.from(catSlugs).flatMap((slug) => {
+    const descendants = getDescendantSlugs("category", slug);
+    const allSlugs = [slug, ...descendants];
+
     const catPosts = posts
-      .filter((post) => post.data.categories?.includes(slug))
+      .filter((post) => post.data.categories?.some((d) => allSlugs.includes(d)))
       .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
     const fullPath = getTaxonomyPath("category", slug);

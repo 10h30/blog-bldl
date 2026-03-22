@@ -77,3 +77,26 @@ export function getTaxonomyItem(
 ): TaxonomyItem | undefined {
   return getTaxonomyMap(type).get(slug);
 }
+
+export function getDescendantSlugs(
+  taxonomyType: string,
+  slug: string,
+): string[] {
+  const map = getTaxonomyMap(taxonomyType);
+  const result: string[] = [];
+
+  for (const [key, item] of map.entries()) {
+    if (key === slug) continue;
+    // Đi ngược từ node này lên root, kiểm tra xem có qua slug không
+    let current: TaxonomyItem | undefined = item;
+    while (current?.parent) {
+      if (current.parent === slug) {
+        result.push(key);
+        break;
+      }
+      current = map.get(current.parent);
+    }
+  }
+
+  return result;
+}

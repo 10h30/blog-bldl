@@ -8,6 +8,7 @@ import Pagination from "@/components/ui/Pagination.astro";
 import {
   getTaxonomyMap,
   getTaxonomyPath,
+  getDescendantSlugs,
   type TaxonomyItem,
 } from "@/utils/taxonomy";
 import { buildPaginatedPaths } from "@/utils/paginate";
@@ -32,8 +33,13 @@ export async function getStaticPaths() {
   );
 
   return Array.from(destSlugs).flatMap((slug) => {
+    const descendants = getDescendantSlugs("destination", slug);
+    const allSlugs = [slug, ...descendants];
+
     const destPosts = posts
-      .filter((post) => post.data.destination?.includes(slug))
+      .filter((post) =>
+        post.data.destination?.some((d) => allSlugs.includes(d)),
+      )
       .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
     const fullPath = getTaxonomyPath("destination", slug);
@@ -88,11 +94,9 @@ const metadata = {
           subtitle: "mx-auto max-w-3xl text-xl text-muted-foreground",
         }}
       />
-
       <div class="mb-8 text-center">
         <a href="/blog" class="text-primary hover:underline">← Quay lại blog</a>
       </div>
-
       <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
         {posts.map((post) => <PostItem post={post} />)}
       </div>
