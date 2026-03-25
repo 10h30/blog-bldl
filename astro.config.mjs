@@ -8,6 +8,7 @@ import remarkUnwrapImages from "remark-unwrap-images";
 import { remarkR2Images } from "./src/plugins/remark-r2-images.mjs";
 import { rehypePictureWebp } from "./src/plugins/rehype-picture-webp.mjs";
 import { remarkYouTube } from "./src/plugins/remark-youtube.mjs";
+import { remarkInstagram } from "./src/plugins/remark-instagram.mjs";
 
 export default defineConfig({
   site: "https://balodeplao.com/",
@@ -24,6 +25,7 @@ export default defineConfig({
       remarkR2Images,
       remarkUnwrapImages,
       remarkYouTube,
+      remarkInstagram,
     ],
     rehypePlugins: [rehypePictureWebp],
   },
