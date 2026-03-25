@@ -6,6 +6,7 @@ import Categories from "@/components/ui/Categories.astro";
 import Destinations from "@/components/ui/Destinations.astro";
 import { toR2Url } from "@/utils/r2";
 import Picture from "@/components/ui/Picture.astro";
+import "lite-youtube-embed/src/lite-yt-embed.css";
 
 import { getCollection, render, type CollectionEntry } from "astro:content";
 
@@ -119,4 +120,7 @@ const metadata = {
       }
     </div>
   </section>
+  <script>
+    import "lite-youtube-embed/src/lite-yt-embed.js";
+  </script>
 </BaseLayout>

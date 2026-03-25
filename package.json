@@ -27,6 +27,7 @@
     "@tailwindcss/vite": "^4.1.18",
     "astro": "^6.0.4",
     "astro-icon": "^1.1.5",
+    "lite-youtube-embed": "^0.3.4",
     "remark-reading-time": "^2.0.2",
     "remark-unwrap-images": "^4.0.1",
     "tailwindcss": "^4.1.18",
