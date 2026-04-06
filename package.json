@@ -30,6 +30,7 @@
     "lite-youtube-embed": "^0.3.4",
     "rehype-unwrap-images": "^1.0.0",
     "remark-reading-time": "^2.0.2",
+    "sharp": "^0.34.5",
     "tailwindcss": "^4.1.18",
     "typescript": "^5.9.3",
     "unist-util-visit": "^5.1.0"
